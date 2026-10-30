@@ -176,5 +176,16 @@
     "transcribed_at": "2026-10-30T13:30:39",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1vdTWxdyEiHl_NcAf4pPkmFJwW_7nfupD": {
+    "status": "transcribed",
+    "source": "Ses 261023_100256 - Türkre Parametrik Ön Konuşma.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261023_100256 - Türkre Parametrik Ön Konuşma.txt",
+    "duration": "0:27:24",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T13:35:19",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

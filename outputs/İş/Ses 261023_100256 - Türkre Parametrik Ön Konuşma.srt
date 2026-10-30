@@ -1,0 +1,836 @@
+1
+00:00:00,000 --> 00:00:01,219
+Zaten hâliye hazırdı.
+
+2
+00:00:03,649 --> 00:00:08,330
+Aynı değerleri kullanarak bize TCLP için bir dörün önerilir.
+
+3
+00:00:09,089 --> 00:00:12,609
+Marsh'ın da yorumları olmuş zaten bunlar Marsh'ın gözetimde yaptı.
+
+4
+00:00:12,910 --> 00:00:20,469
+Hani o çalışmada bir bazı fight unitlerin yapılması iyi olur diye şey yapmışlardır, noktu, jürgüsler varmış.
+
+5
+00:00:20,550 --> 00:00:25,969
+Fakat dedeki çalışma uzun sürecek 3-4 haftanın 1.000'ün üstünden geçmeleri gerekecek.
+
+6
+00:00:26,269 --> 00:00:27,890
+Bir de hakîn elemeye bırakalım dedik.
+
+7
+00:00:27,890 --> 00:00:31,609
+Yani hem sizlerle de de fikir alışverişini de bulanalım.
+
+8
+00:00:32,109 --> 00:00:36,289
+Gelecek yılı çünkü Cat Bonk çalışması da yapacağız biz Özgür Bey onay verdikten sonra.
+
+9
+00:00:37,530 --> 00:00:42,810
+Sonra işte CDLK'nın olayı çıktı. Biliyorsunuz oradaki adanlarına İngilizce biliyor, Nerya Surans biliyor.
+
+10
+00:00:42,950 --> 00:00:47,189
+Konuştuk, anlattık. Sonra Ege tekrar gidip anlattı. Özgür Bey'i anlattı.
+
+11
+00:00:47,689 --> 00:00:52,170
+1.27'ini ertelendi. Şimdi bizim amacımız sizin sorularınıza bakalım.
+
+12
+00:00:52,170 --> 00:00:59,770
+Önünün nereli diyecek? Eğer trigger'da çalışmıyorsa büyük fiyat sürecek ama belki de anlaşılmayan bir şey var diye düşündük.
+
+13
+00:01:00,170 --> 00:01:05,609
+Hani özellikle 10 buçukta başlayacak konuda toplandı da her şey soru sattığımız diye.
+
+14
+00:01:05,989 --> 00:01:07,989
+10 buçuk, 11 mi acaba?
+
+15
+00:01:08,489 --> 00:01:09,269
+Bir daha söyleyeyim.
+
+16
+00:01:10,030 --> 00:01:13,969
+10 buçuk, 11 mi? Çünkü bir 11'de taktığımda bir görüşme gözüküyor.
+
+17
+00:01:14,329 --> 00:01:14,829
+Bir bakayım.
+
+18
+00:01:15,049 --> 00:01:16,549
+10 bir de, 10 saniye.
+
+19
+00:01:16,549 --> 00:01:18,870
+Tamam, 11 mi? Tamam, ben yalnız söyledim. 10 buçuk diye.
+
+20
+00:01:19,390 --> 00:01:22,849
+Şimdi izlemelisiniz şu topla. Şimdi ben bir açayım, bir...
+
+21
+00:01:22,849 --> 00:01:24,189
+Ben okey dedim ama.
+
+22
+00:01:24,189 --> 00:01:25,689
+Tamam, görmek geldim.
+
+23
+00:01:26,069 --> 00:01:26,569
+Tamam.
+
+24
+00:01:27,090 --> 00:01:33,269
+Tamam, şimdi şunun üstünden çok hızlıca bir gidelim. Sonuçta şu kısımlar çok çok önemli değil.
+
+25
+00:01:33,269 --> 00:01:42,269
+Yani baktığınızda biz yalnızca burada hani bu şeyleri okuduğumuzu ve anlaşma yapılarını iyi kötü anladığımızı mesajını veriyoruz.
+
+26
+00:01:42,269 --> 00:01:48,769
+Ama esas bir mola burada şu parametri kapasiteye bağlı 300 milyon üstünde
+
+27
+00:01:48,870 --> 00:01:54,030
+100 milyon artı eğer o yetmezse aynı iben için olduğunu düşünüyoruz.
+
+28
+00:01:54,030 --> 00:01:59,689
+400 milyon üstünde bir 100 milyon daha şey alınıyor kapasite alınıyor.
+
+29
+00:01:59,689 --> 00:02:05,329
+Bunlarla ilgili ayrı ayrı iki tane prim var. Bunların ödemeleri var vesaire vesaire.
+
+30
+00:02:05,329 --> 00:02:11,090
+Bunlar tamamıyla anlaşmayla ilgili özel koşmular bu konular bizi ilgilendirmiyor.
+
+31
+00:02:11,090 --> 00:02:19,500
+Daha çok bizi ilgilendiren şurada önerilen parametrik yapının pardon payout yapının parametrik ödemeler sırasında
+
+32
+00:02:20,689 --> 00:02:31,169
+kullanılarak seçmiş olduğumuz senaryolar da nasıl tetiklendiği ve bu tetiklenmenin sonucunda nasıl ödemeler yapıldı.
+
+33
+00:02:31,169 --> 00:02:35,229
+Yani bize işin bu kısmı şey yapıyor ilgilendiriyor.
+
+34
+00:02:35,229 --> 00:02:44,009
+Bunu da yaparken yöntemi biraz sonra o toplantıda da açıklayacağım ama şurada tekrardan size aktarmak istiyorum.
+
+35
+00:02:44,129 --> 00:02:51,330
+İlk önce deprem senaryolarımızı seçtik. Bu deprem senaryolarımızı seçerken bir sistematik gelip geliştirdik.
+
+36
+00:02:51,330 --> 00:03:05,599
+O da şu. Yerleşim bilimlerine yakın olan fakat orta büyüklük edepremler var yani hakikaten yaşanmış son en azından 3-5 yıl içerisinde.
+
+37
+00:03:05,599 --> 00:03:18,240
+Mesela işte 2025'teki 23 nisan depremi buna bir örnek yani yaklaşık 6 küsür büyüklüğünde buna mukabil silivri açıklarında denizde ondan sonra.
+
+38
+00:03:18,240 --> 00:03:23,650
+Yerleşim bölgelerine bir netedaki olsa yakın ve orta büyüklükte.
+
+39
+00:03:23,810 --> 00:03:29,409
+Veya da Karıma Maraş depremleri şu bir defa yanlış arkadaşlar.
+
+40
+00:03:29,409 --> 00:03:40,969
+Şimdi onu bu şeyleri Vaktuna veya mülikdeki çok teknik olmayan arkadaşlar bu şekilde size atardır şekilde söylemek istemiyorum.
+
+41
+00:03:40,969 --> 00:03:43,770
+Ama sizin bilmenizde fayda var.
+
+42
+00:03:44,729 --> 00:03:54,849
+Yani bu pazarcık ve elbistan depremleri değil, bunların sonuçlarını ayrı ayrı bulup da ondan sonra bunları toplamak yanlış bir yaklaşık.
+
+43
+00:03:54,849 --> 00:04:09,009
+O yüzden biz pazarcık ve elbistan depremlerini bu anlamda onların istediği gibi böyle bir satırda göstermiyorsak da aslında ayrı ayrı ila aldık.
+
+44
+00:04:09,009 --> 00:04:31,060
+Bunları ayrı ayrı depremler meşcisinde günlük olayda orada şey yapacak büyük artış okların olması ve bunun sonucunda hasarın katlanaraklık nesi.
+
+45
+00:04:31,060 --> 00:04:37,060
+Bunu daha ayrı bir şekilde dikkate almak gerekir ama bu şekilde toplayarak dik, isim toplayarak dik.
+
+46
+00:04:37,060 --> 00:04:51,220
+Neyse bu yerleşim bölgelerinin oldukça yakın yani neredeyse artık şey fayhattı o bölgelerin prosya şey yapıyor, geçiyor.
+
+47
+00:04:51,420 --> 00:04:55,259
+Ve aynı zamanda çok büyük depremler. Bunları dikkate aldık.
+
+48
+00:04:55,259 --> 00:05:06,699
+Veya hatta Samus İzmir Seferisar depremi gibi gene büyüyecek depremler fakat büyük metropoliten bölge, uzak depremler.
+
+49
+00:05:06,699 --> 00:05:13,860
+Bir de aynı zamanda bizim dört tane Marmara Deniz'indeki ses testlerini kullandığımız senaryolar.
+
+50
+00:05:13,860 --> 00:05:19,889
+Şimdi burada şey yaparken bunlar bizim seçmiş olduğumuz deprem senaryoları.
+
+51
+00:05:20,050 --> 00:05:31,939
+Gran Motion Field'ı yani bu depremlerin şey yaptığı etkidiği, bu Gran Motion Field'ı hesaplarken yer sarsıntısı şiddetini.
+
+52
+00:05:31,939 --> 00:05:41,550
+Median Pj'leri, bu London'ın daha önce yapmış olduğu beş kilometrelik yerleşim bölgelerinde kümülün sıp olduğu yerde
+
+53
+00:05:41,550 --> 00:05:47,350
+ve on kilometrelik yerleşim bölgelerinin daha seyrekleştiği, kümülün daha seyrek olduğu yerlerdeki.
+
+54
+00:05:47,470 --> 00:05:55,870
+Birebir o noktalardaki grid noktaları, hücrelerin merkezinde hesapladık.
+
+55
+00:05:55,870 --> 00:06:00,829
+Ki bu aslında bakarsanız dünkü yazışmalardan da takip etmiş olabilirsiniz kristiyanlar.
+
+56
+00:06:00,829 --> 00:06:10,139
+USGS bir deprem olduğu vakit bu şekmep adı verdiği şeylerdeki, onu tekrar tekrar norullanla da tehdit etmesini rica ettim.
+
+57
+00:06:10,259 --> 00:06:20,459
+Median yani ortanca geraket alanı da kendi Gran Motion modellerine göre sonuçlar üretiyor.
+
+58
+00:06:20,459 --> 00:06:29,129
+Bu sonuçları ürettikten sonra bu haritaları hazırlıyor, şekmep değil yani haritaları hazırlıyor.
+
+59
+00:06:29,129 --> 00:06:35,850
+Ve şekmep haritalarıyla beraber işte MMA haritalarını hazırlıyor ve şey fabrike açıyor.
+
+60
+00:06:35,850 --> 00:06:50,290
+Ve sizlerin anlaşkılarında USGS şekmeplerin kullanılacağını yani trigger seviyeler için biliyoruz.
+
+61
+00:06:50,290 --> 00:06:57,250
+Ha şöyle bir şey var tamam, USGS şekmeplerin hazırlandığı bu ordinatlar,
+
+62
+00:06:57,250 --> 00:07:05,329
+anlaşmaya konu olan koordinatlarla, hücre koordinatlarla haliyle bir edip örtüşmeyecek.
+
+63
+00:07:05,329 --> 00:07:14,829
+Bu arada tabi ki de o alaşmaya konu olan her bir hücrenin orta koordinatına
+
+64
+00:07:14,829 --> 00:07:22,819
+USGS şekmepdeki en yakın koordinatı kendilerine şey dikkat alacaklarını veriyorlar.
+
+65
+00:07:22,819 --> 00:07:40,860
+Bu tamam, onu ama ederken biz sanki anlaşmaya koordinatlar neyse bu koordinatlardaki medyan pj'leri almak durmuyor.
+
+66
+00:07:40,860 --> 00:07:51,060
+USGS'in sonuç bir depremseler, Hüseyin'i bileceğini ve altı nasıl bir şey yapacağını bilemeyiz.
+
+67
+00:07:51,060 --> 00:07:56,379
+Kendi Grand Ocean modelimiz tabi ki de USGS'in Grand Ocean modelinde farklı.
+
+68
+00:07:56,379 --> 00:08:06,379
+Bu anlamda bu tip bir çalışmayı kim yaparsın, ister ARMS modeli, ister AR modeli yapsın.
+
+69
+00:08:06,379 --> 00:08:10,459
+USGS değil aynı sonuçları elde edemeyecektir.
+
+70
+00:08:10,459 --> 00:08:22,029
+Burada modellemeden farkarttışan bir şey modellemeden kaynaklı yer hareketi modelleri yaklaşma zaten doğal, Hüseyin doğal.
+
+71
+00:08:22,029 --> 00:08:33,500
+Ama medyan pk'ları et sadarayı işledi, simüleyi bulduk, hesapladık.
+
+72
+00:08:33,500 --> 00:08:41,019
+Daha sonra da OPR yapısını çalıştırdık. OPR yapısını çalıştırdık da burada bir örnek verdik.
+
+73
+00:08:41,019 --> 00:08:49,970
+Mesela bu 99.5, 7 nokta asasında 4 piyatta aldık. Neyse önemli değil.
+
+74
+00:08:50,129 --> 00:09:01,730
+Ama medyan pj değerlerinde bu şekilde Lacta'nın sizlerle paylaştığı koordinatlardaki medyan pj değerlerin haritasıdır bu.
+
+75
+00:09:01,730 --> 00:09:26,860
+Piyat sızakçırını şey yapan, tetikleyen minimumunumun pj değerine 0.35G ve üst herhangi bir medyan pga olduğunda ilgili ücrede eğer kümül varsa bu da olsası ekspojü.
+
+76
+00:09:26,860 --> 00:09:51,899
+Medyan pj'ye var, pya sızakçırı var, o faktörlük. Bu arada da hani hem aslında bakarsanız şöyle bir bilgi de vermek istedik sizlere.
+
+77
+00:09:51,899 --> 00:10:06,350
+Bizim CAD mod, hesap motorumuz hesaplamış olduğu gene birdeki pya yani parametrik olsun olmasın bu genel bir şey.
+
+78
+00:10:06,350 --> 00:10:35,789
+O senaryonun sonucundaki ortalama dedeki didaktibu düşürdükten sonraki, dedel didaktibu düşürmese grand apos, ortalama grand apos eğer aynı senaryoları, arames veya eyer de bir şekilde hesaplamışsa onların gross dostları elimizde yok.
+
+79
+00:10:35,789 --> 00:11:02,539
+Elim çek, aramesi min grand apos'unu ve eyer min grand apos'unu buradan da şunu şey yapmayacağız yani hani şurada CAD mod min grand apos da arames ve eyer'in min grand apos'larını karşılaştırırsanız bir şekilde bir mertebe olarak bir benzerlik var, yakınlık var.
+
+80
+00:11:02,700 --> 00:11:46,029
+Onu ifade etmek istedik yani esas göstermek istediğimiz bizim arames veya mertebe olarak o kadar da farklı değil. Bunları her bir senaryonun için bu şekilde, bana kadarısa burada 23. slite yani bu slite ben şey yapıyorum.
+
+81
+00:11:46,029 --> 00:12:28,830
+Yani beraber konuşmak için hemen öne aldım. Dediğim gibi Dr. Elvis'den bir defa anlayan daha sonra tetiklenecek 300 üstünde 400 milyon ödede bir çalışan aynı deprem için 4 şeyi hasar devam ediyorsa 100 milyon daha o parametrik anlaşmak.
+
+82
+00:12:28,830 --> 00:12:54,460
+Şimdi burada gördüğünüz gibi mesela Kocaylı depremi deplike edildiği hatta rahat canıyor. 100 milyon daha önce 500 milyonluk barem de geçiyor.
+
+83
+00:12:55,710 --> 00:13:00,029
+Mantıklı zaten yani büyük bir deprem illaki bizim restorans kulesi çalışacaktı.
+
+84
+00:13:00,029 --> 00:13:17,250
+Evet yani burada çalışacak ve burada kapasite olarak da ilk etapta ödemeye yönelik böyle bir deprem, erleşim bölgeleri çok çok bizim şu anda almak için görüşmeler yapmış oldum.
+
+85
+00:13:17,250 --> 00:13:21,980
+Parametrik kapasite, ek kapasite çalışacak, 300'üne çalışacak.
+
+86
+00:13:22,460 --> 00:13:35,309
+Bu bakın şu 2023 biraz önce ifade etmeye çalıştım. Pazarcık artık Hepistan'ın toplanarak gittiği şey bu gösterimi yaptık ama rengini değiştirdik.
+
+87
+00:13:35,309 --> 00:13:51,379
+Bu bu şekilde dikkate almaması yani anlatabildim mi yani pazarcık depre mi büyük bir deprem bu arkasından bu deprem yine büyük bir deprem başka bir depremi tetikledi.
+
+88
+00:13:51,379 --> 00:13:56,460
+Yani bir 9-10 saat ya da 1 saat arkasından tetikledi.
+
+89
+00:13:56,460 --> 00:14:05,419
+Burada paramet yani parametik ile çalışacaktır ama böyle ikisini ayrı ayrı hesaplayıp toplayarak olmaz yani.
+
+90
+00:14:05,419 --> 00:14:15,419
+Bunu o yüzden rengini biz şey yaptık ama hani konu olduğu için dikkate almadığımızı gözünüzü kapatmadığımızı da söylemiyoruz ama bu şekilde olmaz.
+
+91
+00:14:15,419 --> 00:14:30,539
+Şimdi pazarcıkta mesela ilk büyük deprem olduğu zaman 7.8 büyüklüğünde en azından kahraman maraş merkeze ve gaziantepin bir takım ilçilerine oldukça yakın yani fayın geçtiği şeyde bakın 300 milyon seviyesine geliyor.
+
+92
+00:14:30,539 --> 00:14:42,879
+Böyle bir deprem olursa 7.8 büyüklüğünde yerleşim bölgelerine oldukça yakın bir deprem ilk 100 milyonluk baremde kalıyor.
+
+93
+00:14:42,960 --> 00:14:50,000
+Yani 72 milyonluk baremde 72 milyonluğu orada kapasit olarak kullanıyor 2.100 milyona geçmiyor.
+
+94
+00:14:50,000 --> 00:15:10,259
+Elbistan teklif tek başına olsa yani adı yaman ve yani gene böyle şehir dilerden geçiyor Malatya oralara yakın çardak fayı oralara yakın fakat oradaki kümül yani İstanbul'daki kümüle nazaran çok çok daha şey.
+
+95
+00:15:10,259 --> 00:15:31,570
+Orada 300 milyon altında kalıyor parametrik kapasitet ettiktenmiyor keza aynı şekilde marmara veya marmara şunlar 4 tane marmara deniz denizinde bizim öngördüğümüz ses testleri orada da tamam kümül çok büyük orada buna mukabi.
+
+96
+00:15:33,169 --> 00:16:02,100
+Deniz yani denizin içindeki fare kırıldığı vakit bir buffer var orada 12 yani karada binaların bulunduğu yere bir uzaklık var o anlamda dostlar büyük olmasına rağmen şey parametrik şu an kapasiteyi trigüret o ek düşündüğünüz kapasiteyi bunlar trigüretmiyor.
+
+97
+00:16:02,820 --> 00:16:31,549
+Buradaki ana çıkarında şu eğer ümlü olan bir şeyreni çok yakından geçerse o zaman ciddi anlamda bir şey hasar oluşacak ve bu hasarlı tabi her şekilde oluşacak ve o parametrik kapasite trigüredecek yani çirpecek yoksa değil.
+
+98
+00:16:31,870 --> 00:16:39,539
+Buradaki iki faktör çok çok önemli onu tekrar etiketinize sunmak isterim bunlar senaryo çalışmalarıdır.
+
+99
+00:16:39,539 --> 00:17:03,740
+Bu da biz kendi gran motion modelimizi kullanıyoruz ve aynı USGS şekmette olduğu gibi her bir önceden belirlenmiş ücrenin orta noktasındaki medyan peak run acceleration estimation'ımızı kullanarak o şeyin.
+
+100
+00:17:03,740 --> 00:17:14,700
+Şu anda minihli veya laktan reynin sizlere vermiş olduğu peyat yapısını doğru çalıştırıyoruz.
+
+101
+00:17:14,700 --> 00:17:28,579
+Bizim catnode modeliyle, aliyle, USGS, gran motion modeli veya aramesi gran motion modeli farklı farklar farzadır.
+
+102
+00:17:29,059 --> 00:17:48,750
+Bu anlamda bir model farklılığı vardır ama şurada en azından aramesle veya eğerle yapmış olduğumuz gran daplos karşı karşılaştırmasından da şunu görebiliyoruz.
+
+103
+00:17:49,069 --> 00:18:07,730
+Belki bizim şu anda göstermiş olduğumuz sonuçlardan yani arames veya eğerle de bunun egzersi tekrar etseniz şey olarak farklı farklar elde edeceksin.
+
+104
+00:18:07,730 --> 00:18:28,910
+Bir tanesi yerin dibinde, diğeri dört yüzünde özet yani modelleme kapsamında bu aramesi eğer veya bizim üstünde ortak bir şekilde çalıştığımız şeylerde,
+
+105
+00:18:28,910 --> 00:18:34,910
+case'lerdeki gran daplos arasındaların farklılıklarını şey yapıp gösteriyoruz burada.
+
+106
+00:18:35,069 --> 00:18:49,890
+Bir tek yakın olmayan aslında bakarsanız Sivri C 2020 devremi var fakat burada zaten merkebi olarak zaten her bir şekilde parametreki peyat yapısını hangi şeye koyarsanız kovin tetiklemeyecektir.
+
+107
+00:18:49,890 --> 00:19:02,299
+Daha önce sizinle yapmış olduğun 11'de yapacak toplamda da vermek istediğimiz ana mesaj bu olacak.
+
+108
+00:19:02,299 --> 00:19:08,460
+Esas burada bu konuya ilgili bu arada vurulduğunda beraber bir sürü çalışma gerçekleştiriyor.
+
+109
+00:19:08,460 --> 00:19:22,240
+Esas burada bundan sonraki süreçte dikkate alınması gereken nokta şu peyav yapısını bakarsanız daha gerçekçi bir şekilde fasarlanması dizayn edilmesi.
+
+110
+00:19:22,240 --> 00:19:26,400
+Bunu da sebebine kol kasanı daha önce açıklamaya çalışmıştım.
+
+111
+00:19:26,400 --> 00:19:33,220
+Şu anda sizin yürümekte olan laktın veya munihliği ile beraber bir iki tane anlaşmanız var.
+
+112
+00:19:33,220 --> 00:19:40,660
+Bunların içerisinde enjistüryer yapılar olsun veya rezidenç yapılar olsun hep aynı peya alışacak şekilde kullanıyor.
+
+113
+00:19:41,519 --> 00:19:49,950
+Bunu sen zaten aramesin, munihliğinin ilgili departmanına soru olarak da yöneltmişsin.
+
+114
+00:19:49,950 --> 00:19:57,740
+Benimle aynı şeyi söylüyorlar. Buna mukabi aynı şeyi söylemelerine rağmen peyav yapılarında bir değişiklik yapıyorlar.
+
+115
+00:19:57,740 --> 00:20:10,619
+Bundan sonraki süreçte anlaşmayı yenilemeye, yüzyillemeye düşündüğünde buna dikkat edilmesinin faydalı olacağını en azından biz düşünüyoruz.
+
+116
+00:20:10,619 --> 00:20:20,269
+Bu anlamda da içerisinde sizlerle bu konuyu ek olarak kendi grup içerisinde çalışmayı istiyoruz.
+
+117
+00:20:20,269 --> 00:20:23,680
+Bu yapabiliriz.
+
+118
+00:20:23,680 --> 00:20:30,819
+Şimdi simülasyonları veya bu peya altyapılarını biz kendi içimizde çalışıyoruz.
+
+119
+00:20:30,819 --> 00:20:43,099
+Oradaki belesizlikleri veya belesizlikleri neden kaynaklandığını sizlere aktarırsak çok daha toplantılarınızda kritik noktaları
+
+120
+00:20:43,420 --> 00:20:48,059
+Döner'e temas edeceğinizi düşünüyoruz deyip ben susayım, danslar buluruz.
+
+121
+00:20:48,059 --> 00:20:50,650
+Çok sağ olun, çok değerli yorumlarınız için.
+
+122
+00:20:50,650 --> 00:20:55,910
+Bizler de tabi yılbaşından sonra bu konuyu içine girip sizlerden fikir almak yok.
+
+123
+00:20:55,910 --> 00:20:59,670
+Şimdi şöyle bir durum var, biz bu işi tabi sırf müniyee vermedik.
+
+124
+00:20:59,670 --> 00:21:03,829
+Sivizri'ye de verdik. Sivizri iki katı fiyat verdi.
+
+125
+00:21:03,829 --> 00:21:07,990
+Biz de şaşırdık kardeşim yani münihliği bu kadar nasıl düşük veriyor?
+
+126
+00:21:07,990 --> 00:21:11,029
+Onların modeline göre çalışıyormuş sözde.
+
+127
+00:21:11,029 --> 00:21:13,740
+Yani şu an fiyat üzerinden yorum yapıyorum.
+
+128
+00:21:13,740 --> 00:21:15,579
+Halere bu işe girmek istemediler.
+
+129
+00:21:15,579 --> 00:21:21,210
+Bir de yanından iki dilim alıyoruz diye, birinci dilim münihliği de ikincisi Liberti'de.
+
+130
+00:21:21,210 --> 00:21:23,450
+Liberti'de alt dilimi girmek istemedik.
+
+131
+00:21:23,450 --> 00:21:27,859
+Çünkü çalışmaların çok yüksekli de benim vereceğin fiyat fazla olurdu.
+
+132
+00:21:27,859 --> 00:21:33,670
+Ama dediğinizi anlıyorum hani fiyat yapısına göre bu trigger değerleri mantıksız diyorsunuz.
+
+133
+00:21:33,670 --> 00:21:35,109
+Bakalım da münihliği ne diyecek?
+
+134
+00:21:35,109 --> 00:21:36,390
+Biz de çok büyük şaşırdık.
+
+135
+00:21:36,390 --> 00:21:45,349
+Eğer böyle bir farklılık olacaksa büyük fiyat sürenin peki için belki verdiğimiz para çok fazla ve gereksiz büyüdür.
+
+136
+00:21:45,349 --> 00:21:48,309
+Ama bunu çalışırken bizim mantığımı suydu.
+
+137
+00:21:48,309 --> 00:21:51,750
+Büyük bir asara olduğunda hani ben parametrik eksperi değilim.
+
+138
+00:21:51,750 --> 00:21:54,549
+Yedi buçuk oğlu diyelim, yerle bir oldu İstanbul.
+
+139
+00:21:54,549 --> 00:21:56,150
+Bizim sıkıntımız ne olacak?
+
+140
+00:21:56,150 --> 00:22:02,650
+Birinci sıkıntı şu normal traditional resulansı alacağınız bakalım kapasite yeterli olacak mı?
+
+141
+00:22:02,809 --> 00:22:05,210
+Azine geçecek bir böyle bir konusörümüz var.
+
+142
+00:22:05,210 --> 00:22:08,170
+Diyelim ki yeterli seviyede aldık.
+
+143
+00:22:08,170 --> 00:22:09,450
+Traditional'dan aldık.
+
+144
+00:22:09,450 --> 00:22:11,289
+Aslında büyük ihtiyacın ne olacak?
+
+145
+00:22:11,289 --> 00:22:17,210
+Paranın onlara ulaşması yani hani geçmişte bile başlamadık.
+
+146
+00:22:17,210 --> 00:22:18,329
+Evet.
+
+147
+00:22:18,329 --> 00:22:23,769
+Marş iyi parayı topladı ama diyelim ki İstanbul diğerliği kulu tabi para besin acil bir mevzu.
+
+148
+00:22:23,769 --> 00:22:31,769
+Parametrik bizim neredeyse herhalde de büyük depremde kendi didaktımız için biz bankalardan spet basalıyorsa
+
+149
+00:22:31,930 --> 00:22:38,089
+çok pahalı bir aslında bir ürün normalde hasar oluncaya kadar para ödemediğimiz için mantıklı geliyor.
+
+150
+00:22:38,089 --> 00:22:40,039
+Tabi Sddk bunu anlattık.
+
+151
+00:22:40,039 --> 00:22:44,539
+Abi dedik hasar olduğu zaman o günkü pay zoranın en %40 mı?
+
+152
+00:22:44,539 --> 00:22:46,140
+Benimki oleyre yaktın.
+
+153
+00:22:46,140 --> 00:22:48,380
+Şu anki %40 senin bir maliyetin olacak.
+
+154
+00:22:48,380 --> 00:22:54,740
+Yani aslında hasara derken inanılmaz bir zarar oluşacak bize dedik.
+
+155
+00:22:54,740 --> 00:23:02,759
+Bununla birlikte eğer bu parametri bunun içine koyarsak bir çok ucuza cash flow'umuza ızlandıracak bir ürün var.
+
+156
+00:23:02,759 --> 00:23:11,559
+Çünkü asla iki kaskö gibi hem spretlosta para alacağız hem de de parametrikten hiçbir şey kanıtlamadan hasarı cebimize para giriyor.
+
+157
+00:23:11,559 --> 00:23:12,700
+Para giriyor.
+
+158
+00:23:12,700 --> 00:23:15,660
+Yani bizim mantığımız buydu zaten daha büyüğüne alamıyoruz.
+
+159
+00:23:15,660 --> 00:23:20,859
+Hani şu an piyasa o parametrik için daha fazla büyük bir kapasite verinliği anladığımız kadarıyla.
+
+160
+00:23:20,859 --> 00:23:26,700
+Amacımız hem test etmek hem de ileride Allah bu bir şey patlarsa daska para getirmek.
+
+161
+00:23:26,700 --> 00:23:28,700
+Şimdi bu dediğiniz otoratörü çok değerli.
+
+162
+00:23:28,700 --> 00:23:31,019
+Hani payat yapısını değişmesi lazım diyorsunuz.
+
+163
+00:23:31,019 --> 00:23:34,859
+Bakalım 11'de münihri in edicek dinleyelim, dinleyelim.
+
+164
+00:23:34,859 --> 00:23:40,220
+Sonra sonrasında konuşuruz çünkü pazartesi bizden hasta sunum yapmamız beklemiyormuş.
+
+165
+00:23:40,220 --> 00:23:44,920
+Özgür Bey dedi ki çocuklar dedi ki sinanın öncelikle girin bu toplantıya bakalım ne çıkacak?
+
+166
+00:23:44,920 --> 00:23:49,960
+En kötü pazartesi et beraber bir araya gelip bir metin yağdanız gerekecek.
+
+167
+00:23:50,039 --> 00:23:54,519
+Ya almayacağız ya da belki bir saniye farklı bakışıcısıyla bakıyoruz.
+
+168
+00:23:54,519 --> 00:24:01,559
+Bu payout yapısı yeterledir diye bir karar verip adamlara yazılı bir metin göndermemiz lazım dedi.
+
+169
+00:24:01,559 --> 00:24:05,079
+Yani bir sunun yok bakalım bir adamları dinleyelim ne çıkacak?
+
+170
+00:24:05,079 --> 00:24:07,079
+Ona göre değerlendireceğiz.
+
+171
+00:24:07,079 --> 00:24:09,079
+O zaman şöyle bir şey anlıyorum.
+
+172
+00:24:09,079 --> 00:24:16,519
+Şu an saat 11'de yapılacak toplantıya doğru anlamdığımı test etmek amaçta bir sunun yapmayacağız.
+
+173
+00:24:16,519 --> 00:24:19,000
+Hayır onlar bize anlatacak.
+
+174
+00:24:19,079 --> 00:24:23,960
+Biz de bunu neden çalışıp çalışmayacağını, sizin sorularınızı tekrarca anlatmayacağız.
+
+175
+00:24:23,960 --> 00:24:26,680
+Bakalım bir farklılık var mı aramızda?
+
+176
+00:24:26,680 --> 00:24:28,680
+Vakti ki işimize geliyor da gelmiyor.
+
+177
+00:24:28,680 --> 00:24:32,200
+Ona göre onlara diyeceğiz ki yani bu galiba bizim işimize gelmiyor.
+
+178
+00:24:32,200 --> 00:24:34,200
+Anlayacağız diye haber vereceğiz.
+
+179
+00:24:34,200 --> 00:24:39,000
+Sonrasında aramızda konuşup yani bugün olur ya da pazartı sabattın olur.
+
+180
+00:24:39,000 --> 00:24:41,720
+Bir değerlendirme yazacağız CDK'ye.
+
+181
+00:24:41,720 --> 00:24:44,599
+Hani bu alınır mı alınmaz mı çalışır mı çalışmaz mı?
+
+182
+00:24:44,839 --> 00:24:46,839
+Çok riyasurans kullanıyor.
+
+183
+00:24:46,839 --> 00:24:52,279
+İşte piyasada biz utkulardan öğren galiba Anadolu, Türkiye sigara da dalıyormuş bir ürünü.
+
+184
+00:24:52,279 --> 00:24:55,160
+Biz zaten bunlar bilgin otu yollamıştık daha evvelinde.
+
+185
+00:24:55,160 --> 00:24:59,160
+Neden biz genel eksel kapasitemizi artırdık?
+
+186
+00:24:59,160 --> 00:25:01,160
+Niye parametriye almaması lazım?
+
+187
+00:25:01,160 --> 00:25:02,359
+Yara bir yaramaz mı diye.
+
+188
+00:25:02,359 --> 00:25:05,160
+Ama tabii en son sizin görüşleriniz tabii çok değerli.
+
+189
+00:25:05,160 --> 00:25:07,960
+Ona göre bir cevap yazacağız CDK'ye.
+
+190
+00:25:07,960 --> 00:25:09,960
+Peki yani çok teşekkürler.
+
+191
+00:25:09,960 --> 00:25:13,000
+Yani bunu öğrendiğim benim yani iyi oldu.
+
+192
+00:25:13,000 --> 00:25:16,519
+Daha doğrusu kurulağla beraber biz bir suum yapacağımızı düşünüyoruz.
+
+193
+00:25:16,519 --> 00:25:19,160
+Yok yok onların işi bizi ikna etmek aslında.
+
+194
+00:25:19,160 --> 00:25:23,160
+Buyurun çalışmıyor mu çalışmıyor mu çünkü diyeceğiz ki bak Sinan Hoca'da böyle diyor.
+
+195
+00:25:23,160 --> 00:25:27,720
+CDK'da hani onlar hiç bilmiyor ayrı meselede böyle bir yorum yaptı.
+
+196
+00:25:27,720 --> 00:25:31,960
+Sen bu işi bakalım nasıl iza edeceksin bize diye soracağız.
+
+197
+00:25:31,960 --> 00:25:34,839
+Hani biraz onlara sıkıştıracağız bakalım belki ne diyecekler.
+
+198
+00:25:34,839 --> 00:25:39,319
+Şimdi ben de şüphe ediyorum hani Sivisri'yi bu kadar yüksek bir tiyat verirken
+
+199
+00:25:39,480 --> 00:25:46,920
+bunların daha uygun vermesi Liberty'nin abi bu layer çalışır ben girmen deyip kaçması da bize şey yapıyor.
+
+200
+00:25:46,920 --> 00:25:50,200
+Çelişkiye sokuyor şimdi bakalım ne çıkacak toplantıda.
+
+201
+00:25:50,200 --> 00:25:54,359
+O zaman bu toplantıya onların deprem uzmanları da katılacaktır.
+
+202
+00:25:54,359 --> 00:25:55,400
+Ben bir düşünüyorum.
+
+203
+00:25:55,400 --> 00:26:01,349
+Dün yöntemi bu kristiyanla tehdit ettik.
+
+204
+00:26:01,349 --> 00:26:06,630
+Ama bir de o deprem uzmanları üstünden bu konuyu dinleyelim.
+
+205
+00:26:06,630 --> 00:26:08,630
+Sorularımızı sorarız.
+
+206
+00:26:08,630 --> 00:26:13,750
+Arkasında tekrar bir araya geliriz ve müzakere edip konuşuruz.
+
+207
+00:26:13,750 --> 00:26:14,789
+Tamamdır hocam.
+
+208
+00:26:14,789 --> 00:26:17,589
+Tamam peki çok teşekkürler.
+
+209
+00:26:17,589 --> 00:26:20,150
+Kolay gelsin.
+
