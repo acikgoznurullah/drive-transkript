@@ -1,0 +1,3148 @@
+1
+00:00:02,580 --> 00:00:15,769
+Okay, can you see this open? Yes we see, yeah. So we can start with the van earthquake. So these are all files that you have I believe now.
+
+2
+00:00:15,769 --> 00:00:26,769
+And so, you know, I think that probably the question that you were asking here, maybe I'm wrong, that this is a fairly large magnitude earthquake,
+
+3
+00:00:26,769 --> 00:00:36,990
+but with a fairly low payout on our PGA function, all the details of that are here.
+
+4
+00:00:36,990 --> 00:00:48,990
+I think that the main thing to cover off really is the PGA values that have paid and the PGA values that have not paid.
+
+5
+00:00:49,990 --> 00:01:01,710
+Okay, so as you can sort of see here, the payout function through the program.
+
+6
+00:01:01,710 --> 00:01:13,709
+So when it falls into the trigger point between 35 and 40 grams, you know, it pays out 20% of the sublimit for the cell.
+
+7
+00:01:14,709 --> 00:01:21,709
+And the actual velocity on the ground of this earthquake was not particularly high.
+
+8
+00:01:21,709 --> 00:01:27,709
+So that's why we're sort of seeing a payout that's fairly low.
+
+9
+00:01:27,709 --> 00:01:38,780
+What you don't have is a lot of cells here below that didn't quite meet the observed PGA value of 35 grams.
+
+10
+00:01:38,780 --> 00:01:44,780
+Okay, and we think that whilst there was a lot of casualties and whilst there was a lot of damage,
+
+11
+00:01:44,780 --> 00:01:52,780
+we believe that this is largely driven actually by the building codes that perhaps are evident in that part of Turkey.
+
+12
+00:01:52,780 --> 00:01:56,780
+Obviously, it's a fairly poor part of Turkey.
+
+13
+00:01:56,780 --> 00:02:05,780
+And so we think that, you know, some of these cells with experienced damage, despite the fact that the PGAs were fairly low,
+
+14
+00:02:05,780 --> 00:02:10,780
+and we believe that to be driven by some of the building codes.
+
+15
+00:02:10,780 --> 00:02:17,900
+We don't believe also that this event, I have asked Marthery that they don't have the details,
+
+16
+00:02:17,900 --> 00:02:22,900
+but they believe that this wouldn't have triggered the traditional program either.
+
+17
+00:02:23,900 --> 00:02:28,900
+And therefore, you know, whilst it would have paid out nearly 12 million euros,
+
+18
+00:02:28,900 --> 00:02:35,900
+that would have only contributed to the aggregate productables that we have on the program of 300 million and 400 million,
+
+19
+00:02:35,900 --> 00:02:40,900
+depending on which layer you are, you know, involved in.
+
+20
+00:02:40,900 --> 00:02:45,900
+When we looked at the RMS, I'm not sure if it's in here, but I did put it in my email.
+
+21
+00:02:45,900 --> 00:02:56,639
+When we looked at the RMS data, I think that the model lost for this type of event was 136 million.
+
+22
+00:02:56,639 --> 00:03:01,740
+So again, there we go, 134 million.
+
+23
+00:03:01,740 --> 00:03:08,659
+So again, it wouldn't have perhaps got near the layer.
+
+24
+00:03:08,659 --> 00:03:12,659
+And again, it wouldn't have triggered the main program.
+
+25
+00:03:12,659 --> 00:03:29,659
+So we've explained that in the email cover here of the rationale for that and why here that is the situation.
+
+26
+00:03:29,659 --> 00:03:33,659
+So are there any questions on the Van Earthquake?
+
+27
+00:03:33,659 --> 00:03:36,620
+A few ones, if you don't mind.
+
+28
+00:03:36,620 --> 00:03:45,620
+So firstly, the entire ground motion field is determined from the USGS ShakeMaps.
+
+29
+00:03:45,620 --> 00:03:51,879
+This is just to confirm my understanding.
+
+30
+00:03:51,879 --> 00:03:56,439
+Yes.
+
+31
+00:03:56,439 --> 00:04:04,439
+Okay, so the results are from the USGS Medium Ground Motion ShakeMaps.
+
+32
+00:04:04,439 --> 00:04:20,600
+And as Christian indicated in his previous email yesterday, whenever there is a multiple medium PGA reported for the same cell,
+
+33
+00:04:20,600 --> 00:04:28,110
+then you're picking the one closest to the centroid of that cell, right?
+
+34
+00:04:28,110 --> 00:04:29,110
+That's correct, yeah.
+
+35
+00:04:29,110 --> 00:04:30,110
+Okay.
+
+36
+00:04:30,110 --> 00:04:31,110
+Okay.
+
+37
+00:04:31,110 --> 00:04:32,110
+Okay.
+
+38
+00:04:32,110 --> 00:04:49,819
+And then as, I mean, I know that earthquake and I know that region and most of the if such an earthquake occurs in the eastern part of earthquake,
+
+39
+00:04:49,819 --> 00:04:59,819
+in the eastern part of Turkey, essentially the poor construction there and the lower construction quality,
+
+40
+00:04:59,819 --> 00:05:14,850
+still sort of you can observe in those regions would trigger higher loss values as you pointed out in your explanations.
+
+41
+00:05:14,850 --> 00:05:33,230
+But in that sense, the trigger level for such regions of the payout structure is about what you actually could face as damage, as property loss.
+
+42
+00:05:33,230 --> 00:05:34,459
+Sure.
+
+43
+00:05:34,459 --> 00:05:38,579
+Yeah, no, that's absolutely right.
+
+44
+00:05:38,579 --> 00:05:44,579
+It's really a function of price and cover.
+
+45
+00:05:44,579 --> 00:06:02,949
+So we can, for example, it's a bit late now for this particular year, but you could, for example, separate the country into different regions.
+
+46
+00:06:02,949 --> 00:06:06,949
+You could have different payouts and different attachments by region.
+
+47
+00:06:06,949 --> 00:06:08,949
+We can do all of that.
+
+48
+00:06:08,949 --> 00:06:13,949
+It takes more time, but we of course can do it.
+
+49
+00:06:13,949 --> 00:06:19,949
+So we've gone with 35 grams, which is still a fairly low attachment.
+
+50
+00:06:19,949 --> 00:06:23,949
+If we were to reduce that, then of course the price would increase.
+
+51
+00:06:23,949 --> 00:06:33,949
+So we have to kind of find a balance between what a really good structure looks like and also getting the price at a competitive level.
+
+52
+00:06:33,949 --> 00:06:37,949
+So yeah, but that is an accurate situation.
+
+53
+00:06:37,949 --> 00:06:41,949
+But this is sort of how we then, just quickly, this is how we determine the sales.
+
+54
+00:06:41,949 --> 00:06:45,949
+So you can sort of see here the payout function by cell.
+
+55
+00:06:45,949 --> 00:06:52,949
+And I've shared this with you, but where the ground acceleration is lower, of course, there's no payout.
+
+56
+00:06:52,949 --> 00:06:53,949
+Okay.
+
+57
+00:06:53,949 --> 00:07:00,949
+And the other thing is that now the USGS ShakeMaps, do you know the extent of the ShakeMaps, the USGS ShakeMaps?
+
+58
+00:07:00,949 --> 00:07:08,949
+Do they generally cover a region of say, for example, 300 by 300 kilometers or 100 by 100 kilometers?
+
+59
+00:07:08,949 --> 00:07:12,949
+Or does it depend on the magnitude of the earthquake?
+
+60
+00:07:12,949 --> 00:07:15,879
+Do you have any idea on that?
+
+61
+00:07:15,879 --> 00:07:18,879
+I don't believe it depends on the magnitude of the earthquake.
+
+62
+00:07:18,879 --> 00:07:26,879
+The USGS report ShakeMaps on earthquakes in excess of five magnitude.
+
+63
+00:07:26,879 --> 00:07:37,879
+But they report them in one kilometer or five kilometers cells, depending on how that earthquake behaves.
+
+64
+00:07:37,879 --> 00:07:42,879
+So in Istanbul, for example, it would be based on a one kilometer square.
+
+65
+00:07:42,879 --> 00:07:45,879
+I believe that these are five kilometers.
+
+66
+00:07:45,879 --> 00:07:50,259
+So did you have a question?
+
+67
+00:07:50,259 --> 00:08:13,410
+No, no, I mean, but essentially there should be a sort of uniform area that they consider in their ShakeMaps calculation by 300 by 300 kilometers or 100 by 100 kilometers.
+
+68
+00:08:13,410 --> 00:08:19,949
+Is there a standard, because this is quite a bit of, I mean, small area, you're showing.
+
+69
+00:08:19,949 --> 00:08:48,120
+Yeah. So what I'll do maybe just to answer that visually is let me come back in here.
+
+70
+00:08:48,120 --> 00:08:50,120
+This is the 2023 event.
+
+71
+00:08:50,120 --> 00:08:56,120
+So the ShakeMap is the ShakeMap, basically.
+
+72
+00:08:56,120 --> 00:09:03,120
+And you can see that this is a more sort of with a more resolute view.
+
+73
+00:09:03,120 --> 00:09:06,539
+And again, the different boxes.
+
+74
+00:09:06,539 --> 00:09:17,820
+I don't know if you're aware, Sinan, but where the values are lower or there's less concentrated exposure, they're 10 kilometers.
+
+75
+00:09:17,820 --> 00:09:20,820
+Yeah, that's right.
+
+76
+00:09:20,820 --> 00:09:26,820
+So this is an example of the major event, the 7.8 event.
+
+77
+00:09:26,820 --> 00:09:32,950
+But there obviously was a number of sequences and these are all the sequences.
+
+78
+00:09:32,950 --> 00:09:36,950
+So we could say maybe look at a lower magnitude one at 5.7.
+
+79
+00:09:36,950 --> 00:09:43,870
+But the resolution is still very good in one kilometer, okay?
+
+80
+00:09:43,870 --> 00:09:48,850
+Okay, all right.
+
+81
+00:09:48,850 --> 00:10:04,929
+But also if the USGS doesn't have a ShakeMap for whatever reason, then we have our factors, the backup reporting agency for these events.
+
+82
+00:10:04,929 --> 00:10:14,929
+But I'm sure that at least your models would know it.
+
+83
+00:10:14,929 --> 00:10:23,929
+Essentially, AFAD provides the ground motion, measured ground motion values.
+
+84
+00:10:23,929 --> 00:10:34,299
+But I don't know if they have the same standard as USGS for deriving the ShakeMaps.
+
+85
+00:10:34,299 --> 00:10:44,940
+So ShakeMaps conditioned on the computed, measured ground motion intensities, recorded ground motion intensities.
+
+86
+00:10:44,940 --> 00:10:52,980
+So there is that kind of difference between USGS and AFAD.
+
+87
+00:10:52,980 --> 00:10:54,980
+Yeah, indeed.
+
+88
+00:10:54,980 --> 00:10:57,980
+So they're just the backup reporting agency.
+
+89
+00:10:57,980 --> 00:11:08,980
+And usually there's no issue with USGS, but in the event of needing a whole view of Turkey, then the only other option behind that really is AFAD.
+
+90
+00:11:08,980 --> 00:11:14,980
+Yeah, but essentially that should be clarified maybe in the next agreements.
+
+91
+00:11:14,980 --> 00:11:16,980
+It's in the wording.
+
+92
+00:11:16,980 --> 00:11:18,980
+It should be in the wording.
+
+93
+00:11:18,980 --> 00:11:36,070
+Because you see, for example, when there is an event in Turkey, what we do as the modeling team, we are downloading the recorded ground motions from AFAD.
+
+94
+00:11:36,070 --> 00:11:51,070
+And then they're using our own ground motion models to produce the median intensity ShakeMaps conditioned on the recorded ground motion values.
+
+95
+00:11:51,070 --> 00:12:07,070
+So I'm not sure if AFAD is doing, which is the same way as USGS is doing actually, except the fact that they have their own ground motion model and we have our own ground motion model for Turkey.
+
+96
+00:12:07,070 --> 00:12:13,070
+And essentially I'm not sure if AFAD in that sense has the same standard.
+
+97
+00:12:13,070 --> 00:12:17,070
+So this is just a notice.
+
+98
+00:12:17,070 --> 00:12:25,070
+I think it's a very good point. And from my memory already last year, Professor Szilan, do you know Marco Stupansini from Munich?
+
+99
+00:12:25,070 --> 00:12:26,070
+Exactly.
+
+100
+00:12:26,070 --> 00:12:31,070
+Yes, so he ran a sensitivity analysis between AFAD and USGS.
+
+101
+00:12:31,070 --> 00:12:38,070
+And I think on all the reportings, I can't remember how many years back, but I think at least for the last larger events.
+
+102
+00:12:38,070 --> 00:12:48,070
+And what he noticed was that basically smaller events, there may be small differences, but anything above magnitude 5 or so is very, very similar.
+
+103
+00:12:48,070 --> 00:13:01,700
+That's why I think he was also confident on using AFAD as a backup data source in any case, because the sensitivity was very, very limited.
+
+104
+00:13:01,700 --> 00:13:04,759
+So also the sensitivity is very limited.
+
+105
+00:13:04,759 --> 00:13:05,759
+Yes.
+
+106
+00:13:05,759 --> 00:13:07,759
+There is sort of no difference.
+
+107
+00:13:07,759 --> 00:13:13,759
+Only on very small, smaller magnitude events, differences could be observed.
+
+108
+00:13:13,759 --> 00:13:16,759
+On larger events, there was basically no difference.
+
+109
+00:13:16,759 --> 00:13:21,620
+Okay. This is something good to know actually.
+
+110
+00:13:21,620 --> 00:13:32,620
+Yes. And I don't know if I can share the result of that analysis or if he, I can't remember if he did it and that just showed me the results or if he actually put it into a report.
+
+111
+00:13:32,620 --> 00:13:50,620
+I have to double check, but I'm confident that this was his conclusion because it came up again during this year's discussions on our side with what confidence we can look at fallback methodologies and what we do in case of any potentially missing data.
+
+112
+00:13:50,620 --> 00:13:55,620
+Maybe one important point is also, we don't really see this as a big challenge.
+
+113
+00:13:55,620 --> 00:14:03,620
+And I think in your previous questions, you also asked about data sources or interpretation of data sources.
+
+114
+00:14:03,620 --> 00:14:08,620
+And ultimately, we will look at the exact same data sources.
+
+115
+00:14:08,620 --> 00:14:14,620
+So I don't think that there could be any discrepancies in the understanding of that data.
+
+116
+00:14:14,620 --> 00:14:15,620
+Okay.
+
+117
+00:14:15,620 --> 00:14:27,620
+So I think no matter whether it's USGS or AFAD, we will look at the same data source and compare that to the payout structure or the payout mechanism for each grid cell.
+
+118
+00:14:27,620 --> 00:14:33,620
+And with that, I see very limited possibility of any misunderstanding on that.
+
+119
+00:14:33,620 --> 00:14:54,620
+All right. In that sense, we would actually appreciate it very much if right after this period, if we could have a meeting with Marco and maybe to talk about this issue,
+
+120
+00:14:54,620 --> 00:15:17,620
+I also would like to know how they are considering the bias for while establishing the payout structure between what is already measured or what is already disseminated by USGS and then what they are using in their ground
+
+121
+00:15:17,620 --> 00:15:24,330
+motion modeling as median, intense, symmetric values.
+
+122
+00:15:24,330 --> 00:15:42,330
+So probably they are sort of considering that kind of bias between what the USGS provides and what they estimate in their model to close that gap in the payout structure.
+
+123
+00:15:42,330 --> 00:15:48,000
+What they are doing, I really would like to see it in the next phases.
+
+124
+00:15:48,000 --> 00:15:56,000
+I think we are absolutely open to have that conversation. I already tried to reach Marco. He's not in the office yesterday and today.
+
+125
+00:15:56,000 --> 00:16:07,000
+I did. That's why my answer to your email yesterday was also saying, it really depends. We cannot comment on your comparison if you use the median or quantile.
+
+126
+00:16:07,000 --> 00:16:09,000
+The median, yeah.
+
+127
+00:16:09,000 --> 00:16:24,000
+I think that's really, yeah, but I'm not 100% certain on and I don't want to say anything which is not 100% accurate how we use it or which one we use or sometimes even a combination thereof or we stress test one with another.
+
+128
+00:16:24,000 --> 00:16:34,000
+So I think we do run several analysis when we test an all ground motion model against the USGS model.
+
+129
+00:16:34,000 --> 00:16:43,000
+Maybe one general comment at this point, the question came up a PGA and I think this has reoccurred in different conversations.
+
+130
+00:16:43,000 --> 00:16:55,129
+So if that can give you any confidence as Munich, we have currently more than 10 parametric insurance contracts based on PGA.
+
+131
+00:16:55,129 --> 00:17:08,130
+Obviously, depending on different geographical areas, they have different payout structures and the appropriateness of the payout structure really depends as we also see in the one example on the underlying exposure and exactly where it is.
+
+132
+00:17:08,130 --> 00:17:17,130
+But we have at least 10 policies which are based on PGA and also to give you confidence maybe around the magnitude of these policies.
+
+133
+00:17:17,130 --> 00:17:26,130
+The largest policy is up to 250 million USD capacity and it is also covering a large portfolio across a larger region.
+
+134
+00:17:26,130 --> 00:17:36,130
+And also there we have very small differences in the PGA payout structure, but basically it's uniform across the portfolio.
+
+135
+00:17:36,130 --> 00:17:51,259
+So what I'm trying to say is we have experience with that also both in larger portfolios and also across different constellations and underlying policies and also magnitude of policies.
+
+136
+00:17:51,259 --> 00:18:21,059
+So just to make myself clear about if I understood you correctly, so essentially you say through that PGA intensity metric you have done different contracts, parametric contracts and in all cases essentially you are confident that the PGA payout structure implemented provides reliable estimates of loss and more corresponding payout.
+
+137
+00:18:21,059 --> 00:18:31,059
+Correct. This I can confirm with confidence when we proactively as Munich we propose parametric shake intensity structure.
+
+138
+00:18:31,059 --> 00:18:43,059
+So if it's not a magnitude based cat in a box type parametric structure, we would most often propose PGA. I think in the market you simply observe different preferences of different markets.
+
+139
+00:18:43,059 --> 00:18:53,059
+Some propose PSA 0.3, PSA 1.0. I think the question there very much comes down to what is the underlying building type that you're trying to capture.
+
+140
+00:18:53,059 --> 00:19:01,059
+And I think when we were in Istanbul a few weeks ago we also discussed this topic of enhancing these methodologies with sensors even.
+
+141
+00:19:01,059 --> 00:19:07,059
+So I think as Munich we are open to any kind of solution, but we are very confident with PGA.
+
+142
+00:19:07,059 --> 00:19:16,059
+In Japan you are most likely aware it's Shindo is the market standard. So there we provide contracts in Shindo, both insurance and also derivatives.
+
+143
+00:19:16,059 --> 00:19:24,059
+In Japan alone we have more than 10 or 15 contracts based on Shindo so again a slightly different measurement.
+
+144
+00:19:24,059 --> 00:19:31,059
+But just to say that as long as the data consistency is given and the underlying methodology is given.
+
+145
+00:19:31,059 --> 00:19:37,059
+I don't think that we have any certain preference as to which trigger we use exactly.
+
+146
+00:19:37,059 --> 00:19:48,700
+The second question is how the client thinks about the appropriateness of the trigger with the portfolio or the covered location.
+
+147
+00:19:48,700 --> 00:19:53,700
+And I think in this case specifically PGA seems very appropriate.
+
+148
+00:19:53,700 --> 00:20:06,750
+In my opinion a period dependent intense metric for large portfolios it has its pros and cons.
+
+149
+00:20:06,750 --> 00:20:20,750
+The disadvantage is that when you have a large portfolio you have different types of buildings under the influence of different earthquake response.
+
+150
+00:20:20,750 --> 00:20:31,750
+So essentially to bring them all together under the same framework given a specific spectral acceleration value.
+
+151
+00:20:31,750 --> 00:20:41,750
+It would be difficult that you have to do various spectral acceleration values like 0.3, 0.6, 1 second.
+
+152
+00:20:41,750 --> 00:20:47,750
+So PGA or PGV which we use in that sense is robots.
+
+153
+00:20:47,750 --> 00:21:00,750
+And I know from experience that PGV is sort of a better indicator for structural systems responding beyond the linear range.
+
+154
+00:21:00,750 --> 00:21:11,750
+Which means if they start having more and more damage then PGV will show it better in a sense.
+
+155
+00:21:12,750 --> 00:21:21,750
+So we also prefer using a non-period or period insensitive intense metric.
+
+156
+00:21:21,750 --> 00:21:29,750
+One thing that again we would like to discuss with your team, the modeling team is that.
+
+157
+00:21:29,750 --> 00:21:42,750
+Now I've seen that you have similar agreements with Tukri for different say regions covering different exposure.
+
+158
+00:21:42,750 --> 00:21:58,450
+So my understanding is that the payoff structure you are using is the same for all types of exposure that is considered in the agreement.
+
+159
+00:21:58,450 --> 00:22:12,450
+So the industrial facilities or the residential say buildings as in the case of TCIP you are using the same specific payoff structure.
+
+160
+00:22:12,450 --> 00:22:16,450
+Is there a particular reason for that?
+
+161
+00:22:16,450 --> 00:22:29,450
+So we did an analysis, Henry I don't know if you can share it but we also did an analysis using multi-reporting thresholds with different and multiple PGA tables.
+
+162
+00:22:29,450 --> 00:22:34,450
+So multiple tables of payoff in our RFP response.
+
+163
+00:22:34,450 --> 00:22:42,539
+So included spectral acceleration options and it also included 0.3 and 0.1.
+
+164
+00:22:42,539 --> 00:23:00,539
+And so we would segment PGA, PSA and I can't remember the other one Henry that we looked at into different payoff structures and payoff tables depending on the asset type.
+
+165
+00:23:00,539 --> 00:23:06,539
+It's more difficult I think with TCIP because we only get data at a regional level.
+
+166
+00:23:06,539 --> 00:23:18,609
+So the assumption is that everything is residential and this seemed like the most appropriate index for that.
+
+167
+00:23:18,609 --> 00:23:20,609
+I think Henry is going to share now.
+
+168
+00:23:20,609 --> 00:23:23,990
+Henry do you want to talk through this?
+
+169
+00:23:25,660 --> 00:23:37,660
+Yes this is quite outdated for old exposures right at the beginning of this whole process but we looked at a number of different regimes based on the exposure information we were given.
+
+170
+00:23:37,660 --> 00:23:50,730
+And this is just an example of something that was in the original tender when we first put this together which is using different spectral acceleration regimes to model different exposures.
+
+171
+00:23:51,730 --> 00:23:55,730
+So either using the 0.3 second or 1.0 second.
+
+172
+00:23:55,730 --> 00:23:58,730
+So this is only considered at the time.
+
+173
+00:23:58,730 --> 00:24:07,730
+I think what's important to note is that the payout table that is chosen is not specifically just the one that fits bets to the underlying exposures.
+
+174
+00:24:07,730 --> 00:24:19,730
+But it also is chosen for reasons of balancing price, balancing that guaranteed 100% payouts at relatively no PGA values.
+
+175
+00:24:19,730 --> 00:24:32,819
+So it's indexed much more for those larger scale events where anything north of 0.75% or 75% G will trigger 100% of the sell value.
+
+176
+00:24:32,819 --> 00:24:45,819
+The table is a result not only of kind of exercise like this where we kind of modeled everything but we specifically chose that we did not want to overfit to any given disaster catastrophe model.
+
+177
+00:24:45,819 --> 00:24:54,180
+Given that we didn't want to present too much faith in the underlying loss of course that's what's on.
+
+178
+00:24:54,180 --> 00:24:59,180
+So there's lots of decisions that have gone into the payout table that has been chosen.
+
+179
+00:24:59,180 --> 00:25:02,180
+I suppose it's been a course of months.
+
+180
+00:25:02,180 --> 00:25:14,269
+We felt that the PGA table that has been chosen it cross-correlates very well with very well-known intensity regimes like Modified Macaulay Intensity Scale.
+
+181
+00:25:14,269 --> 00:25:27,269
+It is designed to tap out at relatively low PGA's and it's also designed to balance costs by attaching at 0.35 which is perhaps slightly higher than when the first damages occur.
+
+182
+00:25:27,269 --> 00:25:34,269
+We felt that it was likely that there would be significant cracks or damaging concrete buildings so that's essentially the rationale.
+
+183
+00:25:34,269 --> 00:25:41,269
+We deliberately chose not to overfit some modelled curves like this but this was something that was presented to Terry and presented months and months ago.
+
+184
+00:25:41,269 --> 00:25:54,400
+I don't want to speak for people on this call but the consensus that this was a bit too complicated a bit too much too soon and maybe this can be revisited in later years.
+
+185
+00:25:55,400 --> 00:26:00,400
+That was many months ago now but is that what you had in mind at all?
+
+186
+00:26:00,400 --> 00:26:06,400
+Thank you. There are several things after your explanations.
+
+187
+00:26:06,400 --> 00:26:15,400
+Firstly, when you compare MMI with PGA and you see that there is a good correlation of MMI and PGA for small MMI values
+
+188
+00:26:15,400 --> 00:26:29,400
+and then when you increase the value of MMI then PGA starts becoming a poorer correlation between MMI and PGA.
+
+189
+00:26:29,400 --> 00:26:46,400
+I'm not really the fan of using MMI as the ground motion testimetric because it is very much sort of dependent of the observations
+
+190
+00:26:46,400 --> 00:26:55,400
+so in that sense an observed ground motion metric is much better in structuring the payouts.
+
+191
+00:26:55,400 --> 00:27:06,400
+The other thing is when we consider T-CIP it is only the structural damage.
+
+192
+00:27:06,400 --> 00:27:20,529
+So the payouts are based on the observed structural damage or non-structural damage depending on the level of damage observed in the dwelling.
+
+193
+00:27:20,529 --> 00:27:31,660
+Whereas for industrial buildings for example the coverage could be BI, content and structural and non-structural damage.
+
+194
+00:27:31,660 --> 00:27:42,660
+Have you considered that kind of distinction in your payout structure when you are providing this payout structure for industrial buildings
+
+195
+00:27:42,660 --> 00:27:47,660
+and say residential buildings which we are now talking about?
+
+196
+00:27:50,029 --> 00:27:59,029
+Yes to a point when we have received exposures that are broken down into different loss components or coverage components
+
+197
+00:27:59,029 --> 00:28:06,029
+that we have considered that but in the case of T-CIP it was moved because we didn't need to consider that.
+
+198
+00:28:06,029 --> 00:28:12,029
+With regards to MMI I do agree with you that we wouldn't want to use MMI as the trigger for this
+
+199
+00:28:12,029 --> 00:28:17,029
+but I think it's useful reference for structural damage at least
+
+200
+00:28:17,029 --> 00:28:28,609
+and I think something also to consider is that with USGS based shape maps there is an additional feature
+
+201
+00:28:28,609 --> 00:28:35,609
+which in my view is a feature that is included to the benefit of the client which is DigiFelix scores
+
+202
+00:28:35,609 --> 00:28:45,609
+so not purely ground motion measurements. The DigiFelix scores are largely used using MMI and PGA
+
+203
+00:28:45,609 --> 00:28:51,609
+to cross reference using building damage observations as well as physical shaking observations.
+
+204
+00:28:51,609 --> 00:28:56,609
+We felt that given that these DigiFelix are much likely to cause spikes in PGA
+
+205
+00:28:56,609 --> 00:29:01,609
+and therefore a higher probability of payouts in the areas where they occur
+
+206
+00:29:01,609 --> 00:29:05,609
+that we felt it was still a useful metric to base the structure around
+
+207
+00:29:05,609 --> 00:29:11,609
+in terms of that relationship between the DigiFelix and PGA or MMI or whatever other metric
+
+208
+00:29:11,609 --> 00:29:14,609
+and that was a harder comparison to do with spectral acceleration.
+
+209
+00:29:14,609 --> 00:29:21,700
+So I completely agree with you that the MMI is not the most useful metric here
+
+210
+00:29:21,700 --> 00:29:26,700
+but it is something that I think adds credence to the structure that we've chosen
+
+211
+00:29:26,700 --> 00:29:33,700
+in regards to different payouts, people's industrials versus buildings versus structural damage versus contents.
+
+212
+00:29:33,700 --> 00:29:39,700
+I think the structure is in our view sitting well above all of these curves.
+
+213
+00:29:39,700 --> 00:29:46,769
+The payout table is designed to pay out, maybe it sits over the kind of the model damage curves
+
+214
+00:29:46,769 --> 00:29:49,769
+that you would model out using PGA or spectral acceleration
+
+215
+00:29:49,769 --> 00:29:58,759
+so it's designed to pay out in the client's favor rather than fit to a modeled curve.
+
+216
+00:29:58,759 --> 00:30:03,789
+So we felt that rather than fitting it exactly to one of these damage curves
+
+217
+00:30:03,789 --> 00:30:08,789
+for the exact type of buildings that we have that this would still be a suitable structure
+
+218
+00:30:08,789 --> 00:30:14,789
+because you're much more likely to receive a payout in the favor of the client
+
+219
+00:30:14,789 --> 00:30:16,789
+than you are to have a shortfall.
+
+220
+00:30:16,789 --> 00:30:23,890
+Okay, so just to rephrase what you have said to confirm if I understood it correctly
+
+221
+00:30:23,890 --> 00:30:28,890
+so you say, okay, aside from MMI versus PGA or whatever
+
+222
+00:30:28,890 --> 00:30:38,670
+so you say the payout structure doesn't change for the previous take this one
+
+223
+00:30:38,670 --> 00:30:46,670
+because you assume or you have seen that structural damage controls the payouts.
+
+224
+00:30:46,670 --> 00:30:50,670
+Is it what you're saying regardless the type of structural system?
+
+225
+00:30:50,670 --> 00:30:55,670
+Yeah, I think it's important that this is not the only structure that we modeled and priced.
+
+226
+00:30:55,670 --> 00:30:57,670
+This is not the only structure that...
+
+227
+00:30:57,670 --> 00:31:02,670
+So it's not that we just copy and pasted the last structure fixed necessarily.
+
+228
+00:31:02,670 --> 00:31:07,670
+It's really, this was the one chosen after months of working with Turquiri
+
+229
+00:31:07,670 --> 00:31:15,670
+and we think it's an appropriate structure because it pays out sooner than the model predicts it will too.
+
+230
+00:31:15,670 --> 00:31:22,829
+Part of the exercise we performed both for Turquiri's portfolio and in this case
+
+231
+00:31:22,829 --> 00:31:28,829
+and other client portfolios that we run is we've run dozens for hundreds or thousands of structures
+
+232
+00:31:28,829 --> 00:31:36,859
+and see what prices we think each structure would correspond to what historical payouts
+
+233
+00:31:36,859 --> 00:31:42,859
+what kind of probabilistic payouts we that these are things that we've considered
+
+234
+00:31:42,859 --> 00:31:45,859
+so while the structures that the underlying payout tables are the same
+
+235
+00:31:45,859 --> 00:31:52,859
+I think that's largely because this one performs quite well in that comparison exercise that we've performed in the past.
+
+236
+00:31:52,859 --> 00:32:03,279
+So can I just add to that, what we didn't though we share I think it was over 500 structures
+
+237
+00:32:03,279 --> 00:32:07,279
+what we did was we narrowed it down to I think around three or four
+
+238
+00:32:07,279 --> 00:32:11,279
+that we thought were good candidate structures as part of the RFP
+
+239
+00:32:11,279 --> 00:32:15,279
+this is the one we got to a point of
+
+240
+00:32:15,279 --> 00:32:23,180
+and also not only considering the best fit for the client
+
+241
+00:32:23,180 --> 00:32:27,180
+but we also have to consider where can we make sure we get the risk capital
+
+242
+00:32:27,180 --> 00:32:34,180
+what structure will help us best to get Munich, Switzerland, whoever to be involved in the programme
+
+243
+00:32:34,180 --> 00:32:38,180
+and so it's a combination of multiple factors as well.
+
+244
+00:32:38,180 --> 00:32:42,180
+Christian, I raised my hand just to comment on that
+
+245
+00:32:42,180 --> 00:32:46,180
+and maybe if I put it in a different way the way we think about it
+
+246
+00:32:46,180 --> 00:32:56,180
+we don't necessarily look at the vulnerability curve of the buildings
+
+247
+00:32:56,180 --> 00:33:01,180
+ideally the parametric structure matches the vulnerability curve
+
+248
+00:33:01,180 --> 00:33:04,180
+but of course there is no one-to-one match between those
+
+249
+00:33:04,180 --> 00:33:11,180
+we try to capture the vulnerability curve with any parametric structure not just this one
+
+250
+00:33:11,180 --> 00:33:17,180
+and of course when you have this large portfolio you have thousands of vulnerability curves
+
+251
+00:33:17,180 --> 00:33:21,180
+so of course you cannot match that 100%
+
+252
+00:33:21,180 --> 00:33:26,940
+I think also what we have seen is this type of structure
+
+253
+00:33:26,940 --> 00:33:29,940
+the attachment point the only comment we would have
+
+254
+00:33:29,940 --> 00:33:32,099
+and we have not developed this with lockdown
+
+255
+00:33:32,099 --> 00:33:34,099
+but the only comment we would have
+
+256
+00:33:34,099 --> 00:33:37,099
+the attachment point we think is appropriate
+
+257
+00:33:37,099 --> 00:33:44,099
+that should capture any mid to large size earthquake that occurs and causes damages
+
+258
+00:33:44,099 --> 00:33:46,099
+I think that's the important point
+
+259
+00:33:46,099 --> 00:33:51,099
+it should pay out 100% when we have severe earthquakes and severe damages
+
+260
+00:33:51,099 --> 00:33:55,099
+anything in between there can be smaller mismatches
+
+261
+00:33:55,099 --> 00:33:58,099
+depending on where you are and what exactly happens
+
+262
+00:33:58,099 --> 00:34:03,099
+but starting and ending point should be very well designed
+
+263
+00:34:03,099 --> 00:34:08,099
+and then the question is we would maybe not put the steps as linear
+
+264
+00:34:08,099 --> 00:34:11,099
+if we would design something from ground up
+
+265
+00:34:11,099 --> 00:34:14,099
+but more exponentially increasing
+
+266
+00:34:14,099 --> 00:34:17,099
+that's I think also how the earthquake usually behaves
+
+267
+00:34:17,099 --> 00:34:19,099
+but other than that and I think
+
+268
+00:34:19,099 --> 00:34:21,300
+but as Henry put it very well
+
+269
+00:34:21,300 --> 00:34:26,300
+when you put everything into the perspective of finding an ideal structure
+
+270
+00:34:26,300 --> 00:34:29,300
+finding risk appetite and balancing the price
+
+271
+00:34:29,300 --> 00:34:32,300
+and if I may just comment on the price
+
+272
+00:34:32,300 --> 00:34:35,300
+and Ege US is about max PGA in a cent for it
+
+273
+00:34:35,300 --> 00:34:39,300
+or in a grid versus closest PGA values
+
+274
+00:34:39,300 --> 00:34:41,300
+and I think those are very valid questions
+
+275
+00:34:41,300 --> 00:34:44,300
+what we can see is clearly there is an exponential increase
+
+276
+00:34:44,300 --> 00:34:48,300
+so if we would attach at 0.25G
+
+277
+00:34:48,300 --> 00:34:51,300
+we may see the price jumping by a lot
+
+278
+00:34:51,300 --> 00:34:53,300
+compared to where we are now
+
+279
+00:34:53,300 --> 00:34:55,300
+so I think what we balance is
+
+280
+00:34:55,300 --> 00:34:57,300
+capturing events that cause damage
+
+281
+00:34:57,300 --> 00:35:02,679
+while also capturing or finding a point
+
+282
+00:35:02,679 --> 00:35:04,679
+where our expected model expected loss
+
+283
+00:35:04,679 --> 00:35:07,679
+is not going through the roof
+
+284
+00:35:07,679 --> 00:35:10,679
+and I think those all have to be seen in combination
+
+285
+00:35:10,679 --> 00:35:13,679
+and last point the way I look at it
+
+286
+00:35:13,679 --> 00:35:15,679
+when we look at these grids
+
+287
+00:35:15,679 --> 00:35:19,679
+and I think it's appropriate to have 5 km and 10 km
+
+288
+00:35:19,679 --> 00:35:23,969
+within that grid we should see the damages
+
+289
+00:35:23,969 --> 00:35:26,969
+so if you would go down on building level
+
+290
+00:35:26,969 --> 00:35:28,969
+the discrepancy becomes bigger and bigger
+
+291
+00:35:28,969 --> 00:35:31,969
+but as we move away from a single building
+
+292
+00:35:31,969 --> 00:35:34,969
+to the grid level I think we are becoming more and more precise
+
+293
+00:35:34,969 --> 00:35:36,969
+so when I look at some of the grid cells
+
+294
+00:35:36,969 --> 00:35:38,969
+and what we looked more into in detail
+
+295
+00:35:38,969 --> 00:35:41,969
+were the very high total insurance value
+
+296
+00:35:41,969 --> 00:35:43,969
+so the high TIV grid cells
+
+297
+00:35:43,969 --> 00:35:45,969
+and I think our modeling shows very clearly
+
+298
+00:35:45,969 --> 00:35:48,969
+in any large event those pay 100%
+
+299
+00:35:48,969 --> 00:35:52,969
+so there is no question that where we have large exposure
+
+300
+00:35:52,969 --> 00:35:55,969
+and a mid to large size earthquake event
+
+301
+00:35:55,969 --> 00:35:58,969
+they would trigger to pay out 100%
+
+302
+00:35:58,969 --> 00:36:01,639
+Essentially you are just telling that
+
+303
+00:36:01,639 --> 00:36:03,639
+you are really looking at the basis risk
+
+304
+00:36:03,639 --> 00:36:04,639
+minimizing the basis risk
+
+305
+00:36:04,639 --> 00:36:06,639
+that's what you are telling isn't it Christian?
+
+306
+00:36:06,639 --> 00:36:08,639
+In short, yeah
+
+307
+00:36:08,639 --> 00:36:10,639
+Thank you Christian
+
+308
+00:36:10,639 --> 00:36:12,639
+I just want to add one more thing
+
+309
+00:36:12,639 --> 00:36:14,639
+which is that I think it's important tonight
+
+310
+00:36:14,639 --> 00:36:17,639
+that the ground up payouts
+
+311
+00:36:17,639 --> 00:36:19,639
+is just one metric that we looked at
+
+312
+00:36:19,639 --> 00:36:21,639
+to ensure the basis risk was minimized
+
+313
+00:36:21,639 --> 00:36:25,639
+however we are not offering a ground up policy
+
+314
+00:36:25,639 --> 00:36:28,639
+we are offering two fairly low down layers
+
+315
+00:36:28,639 --> 00:36:30,639
+and the optimization out of the result
+
+316
+00:36:30,639 --> 00:36:32,639
+in terms of the expected payouts
+
+317
+00:36:32,639 --> 00:36:34,639
+at the gross perspective
+
+318
+00:36:34,639 --> 00:36:37,739
+are far too much better than that
+
+319
+00:36:37,739 --> 00:36:39,829
+trying to fit a ground up parameter payout
+
+320
+00:36:39,829 --> 00:36:41,829
+to a ground up loss is almost fraught
+
+321
+00:36:41,829 --> 00:36:43,829
+with so much uncertainty that it's almost impossible
+
+322
+00:36:43,829 --> 00:36:47,829
+whereas ensuring that there are adequate payouts
+
+323
+00:36:47,829 --> 00:36:49,829
+in the mid to size to large size
+
+324
+00:36:49,829 --> 00:36:52,829
+earthquakes for those 100 x s 300
+
+325
+00:36:52,829 --> 00:36:55,829
+and 100 x s 400 layers is really the goal
+
+326
+00:36:55,829 --> 00:36:57,829
+and I think this structure performs
+
+327
+00:36:57,829 --> 00:37:00,829
+very very well at that exercise
+
+328
+00:37:00,829 --> 00:37:03,829
+so rather than ensuring that
+
+329
+00:37:03,829 --> 00:37:05,989
+obviously we want to minimize
+
+330
+00:37:05,989 --> 00:37:07,989
+basis risk as much as possible
+
+331
+00:37:07,989 --> 00:37:10,989
+and ensure that those ground up payouts
+
+332
+00:37:10,989 --> 00:37:13,989
+at least the very same magnitude
+
+333
+00:37:13,989 --> 00:37:16,989
+at best kind of within a certain range
+
+334
+00:37:16,989 --> 00:37:19,989
+of the actual value
+
+335
+00:37:19,989 --> 00:37:21,989
+the reality is that
+
+336
+00:37:21,989 --> 00:37:23,989
+I think we'd be placing too much trust
+
+337
+00:37:23,989 --> 00:37:25,989
+in the underlying vulnerability curse
+
+338
+00:37:25,989 --> 00:37:27,989
+in the models in order to
+
+339
+00:37:27,989 --> 00:37:29,989
+try and get that closer and in my view
+
+340
+00:37:29,989 --> 00:37:31,989
+would be addressed overfitting to a model
+
+341
+00:37:31,989 --> 00:37:33,989
+and placing kind of too much credence
+
+342
+00:37:33,989 --> 00:37:35,989
+in the underlying relationships
+
+343
+00:37:35,989 --> 00:37:38,989
+between a centroid PGA
+
+344
+00:37:38,989 --> 00:37:41,989
+and maybe up to 20,000 buildings
+
+345
+00:37:41,989 --> 00:37:43,989
+individual PGA's individual damage curves
+
+346
+00:37:43,989 --> 00:37:45,989
+and so that again
+
+347
+00:37:45,989 --> 00:37:47,989
+that just add to what Christian said
+
+348
+00:37:47,989 --> 00:37:49,989
+that was an additional cover
+
+349
+00:37:49,989 --> 00:37:52,659
+Thank you
+
+350
+00:37:52,659 --> 00:37:54,659
+I mean
+
+351
+00:37:54,659 --> 00:37:57,659
+I'm getting your viewpoints here by the way
+
+352
+00:37:57,659 --> 00:37:59,659
+I'm just trying to
+
+353
+00:37:59,659 --> 00:38:02,659
+I mean learn more how you are looking at
+
+354
+00:38:02,659 --> 00:38:05,760
+the problem in your own perspective
+
+355
+00:38:05,760 --> 00:38:07,889
+That's fine
+
+356
+00:38:07,889 --> 00:38:09,889
+I mean in my
+
+357
+00:38:09,889 --> 00:38:11,889
+I will say agree that
+
+358
+00:38:11,889 --> 00:38:13,889
+any payout structure
+
+359
+00:38:13,889 --> 00:38:15,889
+should consider the
+
+360
+00:38:15,889 --> 00:38:17,889
+to minimize the basis risk
+
+361
+00:38:17,889 --> 00:38:19,889
+as Christian says
+
+362
+00:38:19,889 --> 00:38:21,889
+if there is a large damage
+
+363
+00:38:21,889 --> 00:38:23,889
+then there should be a full payout
+
+364
+00:38:23,889 --> 00:38:25,889
+and if there is a small amount
+
+365
+00:38:25,889 --> 00:38:27,889
+of damage then
+
+366
+00:38:27,889 --> 00:38:29,889
+the bias should be as minimum
+
+367
+00:38:29,889 --> 00:38:31,889
+as possible
+
+368
+00:38:31,889 --> 00:38:33,889
+and I also agree that
+
+369
+00:38:33,889 --> 00:38:34,889
+the
+
+370
+00:38:34,889 --> 00:38:36,889
+trying to fit
+
+371
+00:38:36,889 --> 00:38:38,889
+a payout structure
+
+372
+00:38:38,889 --> 00:38:40,889
+to a vulnerability
+
+373
+00:38:40,889 --> 00:38:43,889
+say or a suite of vulnerability models
+
+374
+00:38:43,889 --> 00:38:45,889
+it is not that much
+
+375
+00:38:45,889 --> 00:38:47,889
+say
+
+376
+00:38:47,889 --> 00:38:49,889
+it may not yield you the real
+
+377
+00:38:49,889 --> 00:38:51,889
+actual perspective
+
+378
+00:38:51,889 --> 00:38:53,889
+actual picture
+
+379
+00:38:53,889 --> 00:38:55,889
+but there should be essentially
+
+380
+00:38:55,889 --> 00:38:57,889
+one way of delineating
+
+381
+00:38:57,889 --> 00:38:59,889
+the type of coverage
+
+382
+00:38:59,889 --> 00:39:03,460
+you are considering in the payout structure
+
+383
+00:39:03,460 --> 00:39:05,460
+and then the
+
+384
+00:39:05,460 --> 00:39:07,460
+essentially how
+
+385
+00:39:07,460 --> 00:39:09,460
+the portfolio
+
+386
+00:39:09,460 --> 00:39:11,460
+is composed of
+
+387
+00:39:11,460 --> 00:39:13,460
+in terms of different structural
+
+388
+00:39:13,460 --> 00:39:15,460
+systems and so forth
+
+389
+00:39:15,460 --> 00:39:17,460
+so in that sense
+
+390
+00:39:17,460 --> 00:39:19,460
+vulnerabilities do play a role
+
+391
+00:39:19,460 --> 00:39:21,460
+to give you a perspective
+
+392
+00:39:21,460 --> 00:39:23,460
+about the likely damage
+
+393
+00:39:23,460 --> 00:39:25,460
+and the damage distribution
+
+394
+00:39:25,460 --> 00:39:27,460
+but they
+
+395
+00:39:27,460 --> 00:39:29,460
+I mean essentially there is a lot of
+
+396
+00:39:29,460 --> 00:39:31,460
+uncertainties aside from
+
+397
+00:39:31,460 --> 00:39:33,460
+those vulnerability models
+
+398
+00:39:33,460 --> 00:39:35,460
+that you should be handling
+
+399
+00:39:35,460 --> 00:39:37,460
+during the
+
+400
+00:39:37,460 --> 00:39:39,460
+payout while developing
+
+401
+00:39:39,460 --> 00:39:41,460
+your own payout structure
+
+402
+00:39:41,460 --> 00:39:43,460
+so it should be
+
+403
+00:39:43,460 --> 00:39:45,460
+I mean you have to consider
+
+404
+00:39:45,460 --> 00:39:47,460
+many other aspects of the problem
+
+405
+00:39:47,460 --> 00:39:49,460
+anyway
+
+406
+00:39:49,460 --> 00:39:51,460
+okay so
+
+407
+00:39:51,460 --> 00:39:53,460
+my understanding
+
+408
+00:39:53,460 --> 00:39:55,460
+from your explanations again
+
+409
+00:39:55,460 --> 00:39:57,460
+in order not to make
+
+410
+00:39:57,460 --> 00:40:00,710
+any
+
+411
+00:40:00,710 --> 00:40:02,710
+sort of
+
+412
+00:40:02,710 --> 00:40:04,710
+bad command
+
+413
+00:40:04,710 --> 00:40:06,710
+you have understood me
+
+414
+00:40:06,710 --> 00:40:08,710
+anyway so you say
+
+415
+00:40:08,710 --> 00:40:10,710
+this payout structure has been
+
+416
+00:40:10,710 --> 00:40:12,710
+discussed
+
+417
+00:40:12,710 --> 00:40:15,059
+with the Turkey group
+
+418
+00:40:15,059 --> 00:40:17,059
+for and you say
+
+419
+00:40:17,059 --> 00:40:19,059
+your findings
+
+420
+00:40:19,059 --> 00:40:21,059
+indicated that
+
+421
+00:40:21,059 --> 00:40:23,059
+it is the most suitable
+
+422
+00:40:23,059 --> 00:40:25,320
+payout structure
+
+423
+00:40:25,320 --> 00:40:27,320
+for the
+
+424
+00:40:27,320 --> 00:40:29,320
+Turkey portfolio including
+
+425
+00:40:29,320 --> 00:40:31,320
+the industrial
+
+426
+00:40:31,320 --> 00:40:33,320
+risks
+
+427
+00:40:33,320 --> 00:40:35,320
+in the Marmara region
+
+428
+00:40:35,320 --> 00:40:37,320
+or including the residential
+
+429
+00:40:37,320 --> 00:40:39,320
+portfolio
+
+430
+00:40:39,320 --> 00:40:41,320
+being operated
+
+431
+00:40:41,320 --> 00:40:43,320
+by TCIP
+
+432
+00:40:43,320 --> 00:40:45,320
+so that's my understanding
+
+433
+00:40:45,320 --> 00:40:47,320
+yeah and maybe just to add to that as well
+
+434
+00:40:47,320 --> 00:40:49,320
+so basically the reason being
+
+435
+00:40:49,320 --> 00:40:51,320
+the curves are so similar
+
+436
+00:40:51,320 --> 00:40:53,320
+so it doesn't make any sense to
+
+437
+00:40:53,320 --> 00:40:55,320
+change whether it's household
+
+438
+00:40:55,320 --> 00:41:01,800
+or industry
+
+439
+00:41:01,800 --> 00:41:06,389
+we can't change them
+
+440
+00:41:06,389 --> 00:41:13,579
+we can change them
+
+441
+00:41:13,579 --> 00:41:15,579
+around business interruption
+
+442
+00:41:15,579 --> 00:41:17,579
+things like that in an industrial portfolio
+
+443
+00:41:17,579 --> 00:41:19,579
+in the Turkey program
+
+444
+00:41:19,579 --> 00:41:21,579
+all of those values
+
+445
+00:41:21,579 --> 00:41:23,579
+are added into the grid cell
+
+446
+00:41:23,579 --> 00:41:25,579
+so those are not excluded in terms of the
+
+447
+00:41:25,579 --> 00:41:27,579
+values
+
+448
+00:41:27,579 --> 00:41:29,579
+so that still will be picked up in claim
+
+449
+00:41:29,579 --> 00:41:31,579
+for that like total insured loss
+
+450
+00:41:31,579 --> 00:41:33,579
+rather than in the
+
+451
+00:41:33,579 --> 00:41:35,579
+home owners portfolio where the focus
+
+452
+00:41:35,579 --> 00:41:37,579
+really is damaged
+
+453
+00:41:37,579 --> 00:41:39,579
+so we're managing that by a function
+
+454
+00:41:39,579 --> 00:41:41,579
+of values rather than
+
+455
+00:41:41,579 --> 00:41:43,579
+loss curves but of course
+
+456
+00:41:43,579 --> 00:41:45,579
+sorry model curves
+
+457
+00:41:45,579 --> 00:41:47,579
+but we can't
+
+458
+00:41:47,579 --> 00:41:49,579
+sorry but we can adjust that
+
+459
+00:41:49,579 --> 00:41:51,579
+to say fit an industrial
+
+460
+00:41:51,579 --> 00:41:53,579
+building
+
+461
+00:41:53,579 --> 00:41:55,579
+but again what we're looking at is that
+
+462
+00:41:55,579 --> 00:41:57,579
+aggregate exposure in the cell
+
+463
+00:41:57,579 --> 00:41:59,579
+and finding the best fit to multiple assets
+
+464
+00:41:59,579 --> 00:42:01,579
+not only
+
+465
+00:42:01,579 --> 00:42:03,579
+residential or industrial
+
+466
+00:42:03,579 --> 00:42:05,579
+I agree and I think it's just
+
+467
+00:42:05,579 --> 00:42:07,579
+if I may make a comment on the motivation
+
+468
+00:42:07,579 --> 00:42:09,579
+and I just wanted to say
+
+469
+00:42:09,579 --> 00:42:11,579
+from my memory on Turkey
+
+470
+00:42:11,579 --> 00:42:13,579
+the cover is rather
+
+471
+00:42:13,579 --> 00:42:15,579
+considered a parallel tower
+
+472
+00:42:15,579 --> 00:42:17,579
+so if you look at it from an insurance perspective
+
+473
+00:42:17,579 --> 00:42:19,579
+a parallel tower to also capture
+
+474
+00:42:19,579 --> 00:42:21,579
+business interruption
+
+475
+00:42:21,579 --> 00:42:23,579
+and so we are really targeting
+
+476
+00:42:23,579 --> 00:42:25,579
+to make sure that business interruption
+
+477
+00:42:25,579 --> 00:42:27,579
+in any case is covered
+
+478
+00:42:27,579 --> 00:42:29,579
+under the parametric
+
+479
+00:42:29,579 --> 00:42:31,579
+policy
+
+480
+00:42:31,579 --> 00:42:33,579
+so I think it's more
+
+481
+00:42:33,579 --> 00:42:35,579
+parallel tower with the motivation
+
+482
+00:42:35,579 --> 00:42:37,579
+of capturing business interruption
+
+483
+00:42:37,579 --> 00:42:39,579
+so it's not the damaged industrial
+
+484
+00:42:39,579 --> 00:42:41,579
+building alone that is covered
+
+485
+00:42:41,579 --> 00:42:43,579
+under that policy. TCIP
+
+486
+00:42:43,579 --> 00:42:45,579
+one
+
+487
+00:42:45,579 --> 00:42:47,579
+there it's not a parallel tower
+
+488
+00:42:47,579 --> 00:42:49,579
+it's a layer in the existing insurance
+
+489
+00:42:49,579 --> 00:42:51,579
+tower so what you
+
+490
+00:42:51,579 --> 00:42:53,579
+want to make sure
+
+491
+00:42:53,579 --> 00:42:55,579
+that the parametric policy
+
+492
+00:42:55,579 --> 00:42:57,579
+is also in a certain
+
+493
+00:42:57,579 --> 00:43:00,539
+layer where in terms of
+
+494
+00:43:00,539 --> 00:43:02,539
+it corresponds to the damage
+
+495
+00:43:02,539 --> 00:43:04,539
+which causes a certain amount of damage
+
+496
+00:43:04,539 --> 00:43:06,539
+so it's this
+
+497
+00:43:06,539 --> 00:43:08,539
+excess of 300 million
+
+498
+00:43:08,539 --> 00:43:10,539
+you want to capture as well
+
+499
+00:43:10,539 --> 00:43:12,599
+and it is in the retention
+
+500
+00:43:12,599 --> 00:43:14,599
+if you would want to model it
+
+501
+00:43:14,599 --> 00:43:17,300
+in the excess
+
+502
+00:43:17,300 --> 00:43:19,300
+you could either move the PGA
+
+503
+00:43:19,300 --> 00:43:21,300
+values to attach much much higher
+
+504
+00:43:21,300 --> 00:43:23,300
+or you say that you
+
+505
+00:43:23,300 --> 00:43:25,300
+accumulate up to a
+
+506
+00:43:25,300 --> 00:43:27,300
+billion two billion and then you attach
+
+507
+00:43:27,300 --> 00:43:29,300
+above that with the parametric layer
+
+508
+00:43:29,300 --> 00:43:31,300
+so I think also considering
+
+509
+00:43:31,300 --> 00:43:33,300
+where it should sit and that's why
+
+510
+00:43:33,300 --> 00:43:35,300
+your conclusion of comparing
+
+511
+00:43:35,300 --> 00:43:37,300
+residential housing vulnerability
+
+512
+00:43:37,300 --> 00:43:39,300
+to industrial building vulnerability
+
+513
+00:43:39,300 --> 00:43:41,300
+is not 100%
+
+514
+00:43:41,300 --> 00:43:43,300
+equal because we are
+
+515
+00:43:43,300 --> 00:43:45,300
+targeting two different elements in the different
+
+516
+00:43:45,300 --> 00:43:47,300
+policies. Exactly.
+
+517
+00:43:47,300 --> 00:43:49,300
+You are talking about from the reinsurance
+
+518
+00:43:49,300 --> 00:43:51,300
+perspective right? Reinsurance perspective
+
+519
+00:43:51,300 --> 00:43:53,460
+yes. And
+
+520
+00:43:53,460 --> 00:43:55,460
+no exactly that I decade that
+
+521
+00:43:55,460 --> 00:43:57,460
+I think it's important to remember
+
+522
+00:43:57,460 --> 00:43:59,460
+the underlying payout table
+
+523
+00:43:59,460 --> 00:44:01,460
+can't be separated
+
+524
+00:44:01,460 --> 00:44:03,460
+from the aggregate
+
+525
+00:44:03,460 --> 00:44:05,460
+structure we are applying over the top
+
+526
+00:44:05,460 --> 00:44:07,460
+through the course of this process we've considered
+
+527
+00:44:07,460 --> 00:44:09,460
+many payout
+
+528
+00:44:09,460 --> 00:44:11,460
+tables but also many layers
+
+529
+00:44:11,460 --> 00:44:13,460
+even up to maybe two or three weeks
+
+530
+00:44:13,460 --> 00:44:15,460
+ago we were deciding
+
+531
+00:44:15,460 --> 00:44:17,460
+with our colleagues at Turquery which
+
+532
+00:44:17,460 --> 00:44:19,460
+layers were the best
+
+533
+00:44:19,460 --> 00:44:21,460
+fit for the client
+
+534
+00:44:21,460 --> 00:44:23,460
+based on the historical performance or based on
+
+535
+00:44:23,460 --> 00:44:25,460
+the model performance of the payouts
+
+536
+00:44:25,460 --> 00:44:27,460
+and so though
+
+537
+00:44:27,460 --> 00:44:29,460
+you can change one or you can change the other
+
+538
+00:44:29,460 --> 00:44:31,460
+or you can change both
+
+539
+00:44:31,460 --> 00:44:33,460
+and I think
+
+540
+00:44:33,460 --> 00:44:35,460
+the layers we've wound up
+
+541
+00:44:35,460 --> 00:44:37,460
+choosing perform
+
+542
+00:44:37,460 --> 00:44:39,460
+well across several metrics I think
+
+543
+00:44:39,460 --> 00:44:41,460
+that our colleagues at Turquery could attest
+
+544
+00:44:41,460 --> 00:44:43,460
+to maybe the reasons that they
+
+545
+00:44:43,460 --> 00:44:45,500
+have chosen
+
+546
+00:44:45,500 --> 00:44:47,500
+or are suggesting the layers that they're suggesting
+
+547
+00:44:47,500 --> 00:44:49,500
+but the relative prices
+
+548
+00:44:49,500 --> 00:44:51,500
+of these and the relative performance both historically
+
+549
+00:44:51,500 --> 00:44:53,500
+and probabilistically I think
+
+550
+00:44:53,500 --> 00:44:55,500
+it can't necessarily be separated from the
+
+551
+00:44:55,500 --> 00:44:57,500
+underlying payout table in a way
+
+552
+00:44:57,500 --> 00:44:59,500
+and we can
+
+553
+00:44:59,500 --> 00:45:01,500
+again all of these things can be changed as Paul
+
+554
+00:45:01,500 --> 00:45:03,500
+Christian have said that
+
+555
+00:45:03,500 --> 00:45:05,530
+that's it's a journey
+
+556
+00:45:05,530 --> 00:45:07,530
+as to how we landed at these layers
+
+557
+00:45:07,530 --> 00:45:09,530
+as opposed to a prescription
+
+558
+00:45:09,530 --> 00:45:11,530
+Christian
+
+559
+00:45:11,530 --> 00:45:13,530
+so essentially Christian
+
+560
+00:45:13,530 --> 00:45:15,530
+you said that the modeling
+
+561
+00:45:15,530 --> 00:45:17,530
+team has
+
+562
+00:45:17,530 --> 00:45:19,530
+while developing your product
+
+563
+00:45:19,530 --> 00:45:21,530
+the modeling team has already
+
+564
+00:45:21,530 --> 00:45:23,530
+considered the bias
+
+565
+00:45:23,530 --> 00:45:25,530
+between
+
+566
+00:45:25,530 --> 00:45:27,530
+AFAD and
+
+567
+00:45:27,530 --> 00:45:29,530
+the
+
+568
+00:45:29,530 --> 00:45:31,530
+USGS in terms of
+
+569
+00:45:31,530 --> 00:45:33,530
+ground motion estimations
+
+570
+00:45:33,530 --> 00:45:35,530
+and also you have indicated that
+
+571
+00:45:35,530 --> 00:45:37,530
+the modeling team in Munich
+
+572
+00:45:37,530 --> 00:45:39,530
+they also
+
+573
+00:45:39,530 --> 00:45:41,530
+considered
+
+574
+00:45:41,530 --> 00:45:43,619
+the bias
+
+575
+00:45:43,619 --> 00:45:45,619
+between their ground motion
+
+576
+00:45:45,619 --> 00:45:47,619
+model and what
+
+577
+00:45:47,619 --> 00:45:49,619
+USGS reported
+
+578
+00:45:49,619 --> 00:45:51,619
+right after the
+
+579
+00:45:51,619 --> 00:45:53,619
+moderate to large events in Turquery
+
+580
+00:45:53,619 --> 00:45:55,619
+so they did those
+
+581
+00:45:55,619 --> 00:45:57,619
+and they included it in their
+
+582
+00:45:57,619 --> 00:45:59,659
+consideration
+
+583
+00:45:59,659 --> 00:46:02,230
+of the appropriateness
+
+584
+00:46:02,230 --> 00:46:04,230
+of this payout structure
+
+585
+00:46:04,230 --> 00:46:06,230
+we are quite confident
+
+586
+00:46:06,230 --> 00:46:08,230
+with this and I think it also
+
+587
+00:46:08,230 --> 00:46:10,230
+shows in the support
+
+588
+00:46:10,230 --> 00:46:12,230
+we are showing towards the program
+
+589
+00:46:12,230 --> 00:46:14,230
+when we think about
+
+590
+00:46:14,230 --> 00:46:16,230
+the worst thing that could happen
+
+591
+00:46:16,230 --> 00:46:18,230
+from a Munich perspective
+
+592
+00:46:18,230 --> 00:46:20,489
+is that there is a large event
+
+593
+00:46:20,489 --> 00:46:22,489
+that causes big damages
+
+594
+00:46:22,489 --> 00:46:24,489
+and people's
+
+595
+00:46:24,489 --> 00:46:26,489
+livelihoods
+
+596
+00:46:26,489 --> 00:46:28,969
+are under danger
+
+597
+00:46:28,969 --> 00:46:30,969
+and the structure doesn't show any payout
+
+598
+00:46:30,969 --> 00:46:33,190
+so for us that
+
+599
+00:46:33,190 --> 00:46:35,190
+is the biggest challenge
+
+600
+00:46:35,190 --> 00:46:37,190
+believe it or not
+
+601
+00:46:37,190 --> 00:46:39,190
+that kind of reputational question
+
+602
+00:46:39,190 --> 00:46:41,190
+goes up to the board level at Munich
+
+603
+00:46:41,190 --> 00:46:43,190
+and is discussed what would happen if
+
+604
+00:46:43,190 --> 00:46:45,190
+and in that case we have to answer that
+
+605
+00:46:45,190 --> 00:46:47,190
+we really think that in case of
+
+606
+00:46:47,190 --> 00:46:49,190
+any mid to large size event
+
+607
+00:46:49,190 --> 00:46:51,190
+this structure should pay out appropriately
+
+608
+00:46:51,190 --> 00:46:53,190
+to reflect those damages
+
+609
+00:46:53,190 --> 00:46:55,190
+on the ground
+
+610
+00:46:55,190 --> 00:46:57,190
+we had to discuss this internally
+
+611
+00:46:57,190 --> 00:46:59,190
+and make sure that
+
+612
+00:46:59,190 --> 00:47:01,190
+we don't offer a product
+
+613
+00:47:01,190 --> 00:47:03,190
+or we don't support a product
+
+614
+00:47:03,190 --> 00:47:05,190
+that would on the circumstances not pay out
+
+615
+00:47:05,190 --> 00:47:07,190
+when there is a large event
+
+616
+00:47:07,190 --> 00:47:09,190
+again you are just talking about
+
+617
+00:47:09,190 --> 00:47:12,570
+you are emphasizing the basis risk
+
+618
+00:47:12,570 --> 00:47:14,570
+I can also
+
+619
+00:47:14,570 --> 00:47:16,570
+say that that would be
+
+620
+00:47:16,570 --> 00:47:18,570
+exactly what we don't want
+
+621
+00:47:18,570 --> 00:47:20,570
+when we are working on products like this
+
+622
+00:47:20,570 --> 00:47:22,570
+and also I can also
+
+623
+00:47:22,570 --> 00:47:24,570
+say for certainty with Munich
+
+624
+00:47:24,570 --> 00:47:27,139
+I have seen
+
+625
+00:47:27,139 --> 00:47:29,139
+products that do have
+
+626
+00:47:29,139 --> 00:47:31,139
+a large amount of basis risk
+
+627
+00:47:31,139 --> 00:47:33,659
+Munich really won't quote
+
+628
+00:47:33,659 --> 00:47:35,659
+because it is a reputational issue
+
+629
+00:47:35,659 --> 00:47:37,659
+and it's not something also that
+
+630
+00:47:37,659 --> 00:47:39,659
+often recommend when we are
+
+631
+00:47:39,659 --> 00:47:41,909
+structuring these solutions
+
+632
+00:47:41,909 --> 00:47:43,909
+we see clients that ask for
+
+633
+00:47:43,909 --> 00:47:45,909
+so on the private sector
+
+634
+00:47:45,909 --> 00:47:47,909
+not just in the public sector
+
+635
+00:47:47,909 --> 00:47:49,909
+the transactions that we work
+
+636
+00:47:49,909 --> 00:47:51,909
+we see clients asking for very very remote structures
+
+637
+00:47:51,909 --> 00:47:53,909
+attaching very very high
+
+638
+00:47:53,909 --> 00:47:55,909
+and they may have the
+
+639
+00:47:55,909 --> 00:47:57,909
+pure motivation
+
+640
+00:47:57,909 --> 00:47:59,909
+to take the box and say
+
+641
+00:47:59,909 --> 00:48:01,909
+yes we have insurance
+
+642
+00:48:01,909 --> 00:48:03,909
+maybe they need it for a mortgage
+
+643
+00:48:03,909 --> 00:48:05,909
+or a bank loan or some kind of
+
+644
+00:48:05,909 --> 00:48:07,909
+property cover
+
+645
+00:48:07,909 --> 00:48:09,909
+so there the motivation is to take the box
+
+646
+00:48:09,909 --> 00:48:11,909
+and very often we don't support
+
+647
+00:48:11,909 --> 00:48:13,909
+those type of covers because we exactly
+
+648
+00:48:13,909 --> 00:48:15,909
+don't match the motivation
+
+649
+00:48:15,909 --> 00:48:17,909
+and the underlying challenge
+
+650
+00:48:17,909 --> 00:48:19,909
+with the payout structure and I think those elements
+
+651
+00:48:19,909 --> 00:48:22,070
+are given here and we discussed
+
+652
+00:48:22,070 --> 00:48:24,070
+Christian I really
+
+653
+00:48:24,070 --> 00:48:26,070
+would appreciate if you could
+
+654
+00:48:26,070 --> 00:48:28,070
+set a meeting not necessarily
+
+655
+00:48:30,070 --> 00:48:32,070
+during this agreement phase
+
+656
+00:48:32,070 --> 00:48:34,070
+but just
+
+657
+00:48:34,070 --> 00:48:36,070
+to have a clip for the next
+
+658
+00:48:36,070 --> 00:48:38,070
+say years I would say
+
+659
+00:48:38,070 --> 00:48:40,070
+to set a meeting with
+
+660
+00:48:42,170 --> 00:48:45,900
+Marco to see for example
+
+661
+00:48:47,900 --> 00:48:49,900
+how they really consider
+
+662
+00:48:49,900 --> 00:48:51,900
+for example the
+
+663
+00:48:51,900 --> 00:48:54,820
+uncertainty
+
+664
+00:48:54,820 --> 00:48:57,110
+in the
+
+665
+00:48:57,110 --> 00:48:59,559
+parametric
+
+666
+00:48:59,559 --> 00:49:01,559
+payout structure
+
+667
+00:49:01,559 --> 00:49:03,559
+when you do
+
+668
+00:49:03,559 --> 00:49:05,559
+like for example the grids
+
+669
+00:49:05,559 --> 00:49:07,559
+with maximum PGA
+
+670
+00:49:07,559 --> 00:49:09,559
+and then whereas
+
+671
+00:49:11,559 --> 00:49:13,559
+the PGA value or
+
+672
+00:49:13,559 --> 00:49:15,619
+the ground motion testimetric
+
+673
+00:49:15,619 --> 00:49:17,619
+at the
+
+674
+00:49:17,619 --> 00:49:19,619
+location of the risk
+
+675
+00:49:19,619 --> 00:49:21,619
+you know
+
+676
+00:49:21,619 --> 00:49:23,619
+I hope myself
+
+677
+00:49:23,619 --> 00:49:25,619
+no it's very clear I just checked
+
+678
+00:49:25,619 --> 00:49:27,619
+he's available again from
+
+679
+00:49:27,619 --> 00:49:29,619
+Tuesday 27 so
+
+680
+00:49:29,619 --> 00:49:31,619
+in case you would want to speak to him
+
+681
+00:49:31,619 --> 00:49:33,619
+even in a smaller circle
+
+682
+00:49:33,619 --> 00:49:35,619
+just to open up my
+
+683
+00:49:35,619 --> 00:49:37,619
+or our vision
+
+684
+00:49:37,619 --> 00:49:39,619
+in terms of how you're
+
+685
+00:49:39,619 --> 00:49:41,619
+because essentially
+
+686
+00:49:41,619 --> 00:49:43,619
+as simple exercises
+
+687
+00:49:43,619 --> 00:49:45,619
+we're working on
+
+688
+00:49:45,619 --> 00:49:47,619
+those kinds of questions
+
+689
+00:49:47,619 --> 00:49:50,039
+in our minds
+
+690
+00:49:50,039 --> 00:49:52,039
+we have sort of different answers
+
+691
+00:49:52,039 --> 00:49:54,039
+to those questions
+
+692
+00:49:54,039 --> 00:49:56,039
+and I just wanted to know
+
+693
+00:49:56,039 --> 00:49:58,039
+I mean if it is
+
+694
+00:49:58,039 --> 00:50:00,039
+possible how your team
+
+695
+00:50:00,039 --> 00:50:02,230
+and if you remember
+
+696
+00:50:02,230 --> 00:50:04,230
+I think already this summer
+
+697
+00:50:04,230 --> 00:50:06,230
+you asked us in a
+
+698
+00:50:06,230 --> 00:50:08,230
+in a similar direction
+
+699
+00:50:08,230 --> 00:50:10,230
+and already they're also considering
+
+700
+00:50:10,230 --> 00:50:12,230
+the faculty placement
+
+701
+00:50:12,230 --> 00:50:14,230
+of Turkey if you look at this
+
+702
+00:50:14,230 --> 00:50:16,230
+this kind of portfolio ultimately
+
+703
+00:50:16,230 --> 00:50:18,230
+with PGA
+
+704
+00:50:18,230 --> 00:50:20,230
+we can go further down
+
+705
+00:50:20,230 --> 00:50:22,230
+and assign a different payout value
+
+706
+00:50:22,230 --> 00:50:24,230
+either to different grids
+
+707
+00:50:24,230 --> 00:50:26,230
+or even down if you would have the data
+
+708
+00:50:26,230 --> 00:50:28,360
+to the each building level
+
+709
+00:50:28,360 --> 00:50:30,360
+so technically this is
+
+710
+00:50:30,360 --> 00:50:32,360
+possible
+
+711
+00:50:32,360 --> 00:50:34,360
+we have to see how sensitive
+
+712
+00:50:34,360 --> 00:50:36,360
+our stochastic model is to that
+
+713
+00:50:36,360 --> 00:50:38,360
+because then it may assign
+
+714
+00:50:38,360 --> 00:50:40,360
+much much more risk
+
+715
+00:50:40,360 --> 00:50:42,360
+disproportionately and then the price goes up
+
+716
+00:50:42,360 --> 00:50:44,360
+and secondly we have to see
+
+717
+00:50:44,360 --> 00:50:46,360
+how much administrative burden
+
+718
+00:50:46,360 --> 00:50:48,360
+that ultimately means
+
+719
+00:50:48,360 --> 00:50:50,360
+in terms of capturing events
+
+720
+00:50:50,360 --> 00:50:52,360
+because now we have a
+
+721
+00:50:52,360 --> 00:50:54,360
+uniform payout table across
+
+722
+00:50:54,360 --> 00:50:56,360
+every single location
+
+723
+00:50:56,360 --> 00:50:58,360
+if we have 23,000 different payout tables
+
+724
+00:50:58,360 --> 00:51:00,360
+of course that would be
+
+725
+00:51:00,360 --> 00:51:02,360
+I'm not sure it would help
+
+726
+00:51:02,360 --> 00:51:04,360
+the clarity of the product
+
+727
+00:51:04,360 --> 00:51:06,360
+and what it's tried to achieve
+
+728
+00:51:06,360 --> 00:51:08,360
+the product should be as simple as possible
+
+729
+00:51:08,360 --> 00:51:10,360
+exactly
+
+730
+00:51:10,360 --> 00:51:12,360
+so that everybody can understand
+
+731
+00:51:12,360 --> 00:51:14,360
+that's correct
+
+732
+00:51:14,360 --> 00:51:16,360
+I'm sorry I have
+
+733
+00:51:16,360 --> 00:51:18,679
+spoken a lot
+
+734
+00:51:18,679 --> 00:51:20,679
+I don't have any other questions
+
+735
+00:51:20,679 --> 00:51:22,679
+I mean currently in my mind
+
+736
+00:51:22,679 --> 00:51:24,679
+maybe Tolga
+
+737
+00:51:24,679 --> 00:51:26,679
+you or your team or not a lot
+
+738
+00:51:26,679 --> 00:51:28,809
+so again some months first of all
+
+739
+00:51:28,809 --> 00:51:30,809
+thank you very much for our time
+
+740
+00:51:30,809 --> 00:51:32,809
+so I believe that we are on the same page
+
+741
+00:51:32,809 --> 00:51:35,579
+I mean the opening
+
+742
+00:51:35,579 --> 00:51:38,280
+questions has been tackled
+
+743
+00:51:38,280 --> 00:51:40,280
+Sinon Hoca, I understand your point
+
+744
+00:51:42,280 --> 00:51:44,280
+Yes, right now
+
+745
+00:51:44,280 --> 00:51:46,280
+as we are talking about
+
+746
+00:51:46,280 --> 00:51:48,280
+what kind of an idea
+
+747
+00:51:48,280 --> 00:51:50,280
+there is
+
+748
+00:51:50,280 --> 00:51:52,280
+Christian, Paul, Harry
+
+749
+00:51:52,280 --> 00:51:54,280
+they told us
+
+750
+00:51:54,280 --> 00:51:56,280
+and now
+
+751
+00:51:56,280 --> 00:51:58,280
+one more question
+
+752
+00:51:58,280 --> 00:52:00,440
+so gentlemen please
+
+753
+00:52:00,440 --> 00:52:02,440
+let us give us some time
+
+754
+00:52:02,440 --> 00:52:04,440
+because on Monday
+
+755
+00:52:04,440 --> 00:52:06,440
+we will be preparing the presentation
+
+756
+00:52:06,440 --> 00:52:08,440
+to say that there are people
+
+757
+00:52:08,440 --> 00:52:10,440
+and hopefully it will be finalized
+
+758
+00:52:10,440 --> 00:52:12,440
+next week before I believe
+
+759
+00:52:12,440 --> 00:52:14,440
+before 29
+
+760
+00:52:14,440 --> 00:52:16,440
+so that we will be
+
+761
+00:52:16,440 --> 00:52:18,440
+receiving a green light
+
+762
+00:52:18,440 --> 00:52:20,440
+after giving them a proper explanation
+
+763
+00:52:20,440 --> 00:52:22,440
+again and we will be in touch
+
+764
+00:52:22,440 --> 00:52:24,440
+with you, thanks for your time
+
+765
+00:52:24,440 --> 00:52:26,440
+and support, thank you very much
+
+766
+00:52:26,440 --> 00:52:28,440
+Thank you for your time and always enjoy
+
+767
+00:52:28,440 --> 00:52:30,440
+a conversation like this
+
+768
+00:52:30,440 --> 00:52:32,440
+Professor Sinon is challenging us
+
+769
+00:52:32,440 --> 00:52:34,440
+and more than happy I would really appreciate
+
+770
+00:52:34,440 --> 00:52:36,440
+to have this continuous dialogue
+
+771
+00:52:36,440 --> 00:52:38,440
+with our expert team
+
+772
+00:52:38,440 --> 00:52:40,440
+so that you can exchange with them
+
+773
+00:52:40,440 --> 00:52:42,440
+Christian, I will be very happy
+
+774
+00:52:42,440 --> 00:52:44,440
+in the next meeting if you just call me
+
+775
+00:52:44,440 --> 00:52:46,440
+Sinon, I don't feel like myself
+
+776
+00:52:46,440 --> 00:52:48,440
+like really a different guy
+
+777
+00:52:48,440 --> 00:52:50,440
+I mean just my name is Sinon
+
+778
+00:52:50,440 --> 00:52:52,440
+and I like my name very much
+
+779
+00:52:52,440 --> 00:52:54,440
+I think if I would
+
+780
+00:52:54,440 --> 00:52:56,440
+if I had published more than 100 papers
+
+781
+00:52:56,440 --> 00:52:58,440
+on a certain topic, I wouldn't be angry
+
+782
+00:52:58,440 --> 00:53:00,440
+if someone calls me Professor at that point
+
+783
+00:53:00,440 --> 00:53:02,440
+but thank you very much
+
+784
+00:53:02,440 --> 00:53:04,440
+Thank you
+
+785
+00:53:04,440 --> 00:53:06,440
+Thank you
+
+786
+00:53:06,440 --> 00:53:08,440
+Thank you very much
+
+787
+00:53:08,440 --> 00:53:10,440
+Thank you
+
