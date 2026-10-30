@@ -145,7 +145,7 @@
     "uploaded.srt": true
   },
   "1bFBtSLiKFPPnd3G3taANnvJaVqCqh9HV": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261023_135536 - NA-DSA-NMÇ-ME Hasargörebilirlik.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261023_135536 - NA-DSA-NMÇ-ME Hasargörebilirlik.txt",
@@ -153,7 +153,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-30T13:17:27",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261023_135536 - NA-DSA-NMÇ-ME Hasargörebilirlik_Rapor.docx",
+    "reported_at": "2026-10-30T13:43:33",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1DxAeLqcMJLTh4dvS0phY3u-hddoX6tas/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1SIrglln5GRAHk29xvSbzzEsWwwVabVPP": {
     "status": "reported",
