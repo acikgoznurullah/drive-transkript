@@ -226,5 +226,16 @@
     "reported_at": "2026-10-30T13:39:35",
     "uploaded.docx": true,
     "report_url": "https://docs.google.com/document/d/1UodlB0foE5pWD2C1CnxhUdVf1Yx4cAeu/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
+  },
+  "1RCg0L37EewgYFSXccQ_JgUXC_9aW4Rcf": {
+    "status": "transcribed",
+    "source": "Ses 260826_151158 - Çağrı Diner.m4a",
+    "category": "Doktora",
+    "txt": "outputs/Doktora/Ses 260826_151158 - Çağrı Diner.txt",
+    "duration": "0:48:23",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T17:45:27",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
