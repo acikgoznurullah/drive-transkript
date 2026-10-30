@@ -156,7 +156,7 @@
     "uploaded.srt": true
   },
   "1SIrglln5GRAHk29xvSbzzEsWwwVabVPP": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261023_120851 - Türkre Parametrik Munichre After.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261023_120851 - Türkre Parametrik Munichre After.txt",
@@ -164,7 +164,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-30T13:22:30",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261023_120851 - Türkre Parametrik Munichre After_Rapor.docx",
+    "reported_at": "2026-10-30T13:42:37",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1mX_9mlVOziQk_ue9PBb3fvMF1ZaA0tdc/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1RyRlvXJZJDZpBOJT5NB3S9rBLzg4vaBY": {
     "status": "reported",
