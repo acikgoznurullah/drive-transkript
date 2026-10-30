@@ -296,5 +296,16 @@
     "transcribed_at": "2026-10-31T02:53:13",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1tXK3Cw1NvoVNjD34YKrKZWknK-ecR06b": {
+    "status": "transcribed",
+    "source": "Ses 260806_151803 - DSA-NA Makaleler.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260806_151803 - DSA-NA Makaleler.txt",
+    "duration": "0:21:21",
+    "language": "tr",
+    "transcribed_at": "2026-10-31T02:57:48",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
