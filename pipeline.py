@@ -166,7 +166,8 @@ def sync_uploads(cfg, state) -> tuple[list, str | None]:
     """Yüklenmemiş txt/srt/docx dosyalarını ilgili kategorinin klasörlerine gönderir."""
     done, err = [], None
     for v in state.values():
-        if v.get("status") not in ("transcribed", "reported") or not v.get("category"):
+        # "txt" yoksa kayıt yerelden taşınmıştır, dosyaları Drive'da zaten var
+        if v.get("status") not in ("transcribed", "reported") or not v.get("category") or "txt" not in v:
             continue
         txt = HERE / v["txt"]
         jobs = [(ext, cfg.get("transcript_subfolder", "Transkriptler"), txt.with_suffix(ext))
@@ -195,6 +196,8 @@ def sync_uploads(cfg, state) -> tuple[list, str | None]:
 def pending_uploads(state):
     out = []
     for v in state.values():
+        if "txt" not in v:
+            continue
         if v.get("status") in ("transcribed", "reported"):
             out += [Path(v["txt"]).stem + e for e in (".txt", ".srt") if not v.get(f"uploaded{e}")]
         if v.get("status") == "reported" and not v.get("uploaded.docx"):
