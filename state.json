@@ -154,5 +154,16 @@
     "transcribed_at": "2026-10-30T13:17:27",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1SIrglln5GRAHk29xvSbzzEsWwwVabVPP": {
+    "status": "transcribed",
+    "source": "Ses 261023_120851 - Türkre Parametrik Munichre After.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261023_120851 - Türkre Parametrik Munichre After.txt",
+    "duration": "0:28:19",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T13:22:30",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
