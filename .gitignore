@@ -1,0 +1,6 @@
+work/
+tmp/
+__pycache__/
+*.tmp
+last_run.json
+claude_ozet.txt

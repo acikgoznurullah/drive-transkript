@@ -1,0 +1,122 @@
+Title | OASIS / Model Exchange – T-Rupt Meeting Minutes
+Normal | 14 October 2026  |  Detailed technical and commercial discussion
+Normal | Participants  |  OASIS / Model Exchange: James Lay, Francois Leroy  •  T-Rupt: Sinan Akkar, Müge Tavşanlı, Hasret Geyik
+Normal | Source: English meeting transcript, approximately 48 minutes. Names and technical terms are standardized where identifiable. Statements below are attributed to the discussion; proposals are not represented as binding commitments.
+Heading 1 | 1. Executive Summary
+List Bullet | James demonstrated Model Exchange (MODEX), a browser-based, AWS-hosted catastrophe modeling distribution platform that presents models from multiple vendors through a standardized client workflow built around OASIS data conventions.
+List Bullet | Two principal deployment routes were discussed: (A) package CatMod as an OASIS-compatible model and use the OASIS execution and financial framework; or (B) connect MODEX directly to T-Rupt’s existing CatMod platform through a bespoke backend integration, retaining CatMod’s own calculations and financial engine.
+List Bullet | For the direct CatMod integration, the principal interface requirements are OED exposure ingestion and ORD-compliant results. MODEX would handle the client-facing workflow and orchestrate requests; T-Rupt’s platform would process loss calculations. The integration is specific to MODEX, not automatically reusable on OASIS SaaS.
+List Bullet | A third technical variation was raised: an OASIS worker could call CatMod API endpoints to obtain ground-up results and then continue downstream computations within OASIS; implementation and the associated data-transfer risks would remain with T-Rupt.
+List Bullet | No final integration architecture or contract interpretation was formally approved. T-Rupt planned immediate internal commercial/technical discussions and anticipated reconnecting with James and Francois by early November at the latest, following meetings in Baden-Baden.
+Heading 1 | 2. Demonstration of Model Exchange
+Heading 2 | 2.1 Platform architecture, model access, and workspaces
+List Bullet | The live demonstration ran on AWS. A status indicator in the upper-right corner showed whether the browser interface was connected to the backend; a red indicator would mean that actions were not reliably connected.
+List Bullet | Users connect through a modern web browser and arrive at a central dashboard. Each client company has its own dedicated system, with additional workspaces inside that environment.
+List Bullet | Workspaces segregate access among internal teams according to user credentials, preventing users from seeing data outside their assigned workspace. User administration supports adding/removing users, setting permissions, and assigning workspaces.
+List Bullet | The “Models” catalog lists only models licensed to the current customer. The demonstration environment contained 67 models from multiple vendors on the same underlying platform.
+List Bullet | Each model has a vendor-configurable information page that can display scope, countries/perils covered, summary, model/methodology documentation, sample input files, and a support link. T-Rupt’s CatMod would have a corresponding page; T-Rupt sought suggested headings for this content.
+List Bullet | James described MODEX as a catastrophe-model execution and reporting environment, not a general hazard visualization or standalone vulnerability-analysis application. It currently focuses on probabilistic catastrophe-model workflows.
+Heading 2 | 2.2 OED input files and validation
+List Bullet | Exposure inputs use the OASIS Open Exposure Data (OED) conventions. James explained that historical hosted models can use different OED versions; new integrations should ideally concentrate on newer versions to avoid supporting many legacy schemas.
+List Bullet | In answer to T-Rupt’s version question, the latest OED version was identified in the meeting as version 5; the current OASIS Results Data (ORD) format was identified as version 1.
+List Bullet | The standard exposure package includes an account file, a location file, and two reinsurance files. The minimum for a portfolio is the account and location files; the reinsurance files become relevant for net-loss calculations.
+List Bullet | Users can upload files via drag-and-drop, file selection, or programmatic API workflow. CSV and Parquet formats are supported.
+List Bullet | Initial file validation checks format and completeness (e.g., numeric fields populated with text or required columns missing). A valid file receives a green check; otherwise, the user receives an actionable error report.
+List Bullet | Input files cannot be corrected interactively within MODEX: users correct files externally and upload revised copies. James emphasized immutability and auditability—uploaded data are not silently edited inside the platform.
+List Bullet | Uploaded files are initially independent. Portfolio Manager creates an explicit association between the selected account, location, and optional reinsurance files, after which a second validation assesses cross-file consistency.
+Heading 2 | 2.3 Portfolio Manager configuration
+List Bullet | Each portfolio is named and categorized as property catastrophe or cyber. Users select previously uploaded input files and save the portfolio.
+List Bullet | The default assumption is a single currency for all exposures. For multi-currency datasets, users must manually specify exchange rates in a currency-conversion table; rates are not dynamically obtained from OASIS.
+List Bullet | Optional free-form tags help brokers identify and search prior work, such as portfolios from different cedants. Tags are an organizational aid, not a required model input.
+List Bullet | Portfolio validation confirms integrity between the linked account/location/reinsurance files before the portfolio can be used for modeling.
+Heading 2 | 2.4 Analysis Manager and configuration controls
+List Bullet | Users create an analysis by choosing property/cyber, a validated portfolio, and a licensed model. An OASIS example model was selected in the demonstration.
+List Bullet | Event-set choices may include a probabilistic catalog or historical event catalog, depending on the model; users can select events when that option is available. A separate model configuration / occurrence set may allow alternatives such as long-term assumptions versus future climate scenarios.
+List Bullet | A pre-execution acceptance/coverage check can generate and inspect model input files without running a full loss calculation, helping determine what proportion of a portfolio can actually be modeled.
+List Bullet | An optional loss threshold discards very small simulated losses from the calculation. James noted that he knew of few users applying that option.
+List Bullet | Monte Carlo sample count is configurable in the OASIS financial workflow. James explained the computational trade-off: higher samples increase workload; portfolio size and spatial diversification may influence the sensible choice.
+List Bullet | Users can attach a custom return-period table to override a model’s default schedule, including nonstandard metrics requested by certain markets (e.g., 1-in-30-year).
+List Bullet | ORD results can be exported as CSV or Parquet. Analysis presets can prepopulate recurring run settings; reporting presets can similarly retain output-selection preferences, although some manual adjustments may be needed.
+Heading 2 | 2.5 Outputs, reporting, and platform limitations
+List Bullet | Reportable metrics include exceedance-probability (EP) curves, average annual loss (AAL), year loss tables, and other supported loss outputs. Views can be produced for full portfolio or grouped by account, location, country, construction code, state, and other attributes available in the OASIS financial model.
+List Bullet | Multiple output views and perspectives can be requested, including ground-up, gross, and net/reinsurance losses when the model and input data support them.
+List Bullet | Run status and progress are visible on the dashboard. Completed analyses provide high-level inputs and execution information, including total insured value (TIV), number of locations, and run time.
+List Bullet | Individual output files can be downloaded, or all requested output artifacts can be downloaded together.
+List Bullet | MODEX does not currently provide downstream analytics for merging loss outputs from different models. James indicated that cross-vendor aggregation capabilities are expected in ORD version 2 and reported an anticipated end-of-2026 release, but this was a forward-looking estimate, not an available feature.
+Heading 1 | 3. The Two Principal CatMod Integration Routes
+Heading 2 | 3.1 Option A: OASIS-native CatMod model
+List Bullet | T-Rupt would convert/package CatMod to the OASIS modeling framework and formats, and MODEX could host and distribute that same OASIS-compatible package without requiring a separately restructured MODEX model.
+List Bullet | Execution and financial calculations would use the OASIS framework. Model components are presented to clients as a single bundled catastrophe model; MODEX does not surface standalone ground-motion or vulnerability modules for independent mixing and matching.
+List Bullet | James specifically corrected the suggestion that the client could take CatMod ground motions and combine them with arbitrary MODEX vulnerability functions. Model vendors provide their own hazard/vulnerability package; MODEX does not supply separate vulnerability expertise or component-level interchange in this workflow.
+List Bullet | An OASIS-compatible package could be deployed on MODEX and technically on OASIS’s own platform, but the commercial agreements are distinct. The MODEX agreement does not automatically establish OASIS SaaS commercial rights. James suggested confirming any OASIS SaaS agreement with Dickie.
+List Bullet | T-Rupt had already been working toward OASIS requirements. Sinan expressed a preliminary preference for continuing this path to avoid disrupting existing development and to preserve wider OASIS distribution opportunities.
+List Bullet | For an OASIS-native conversion, MODEX would supply access to a test environment under the parties’ contractual arrangement. James also offered to arrange a test-system familiarization session.
+Heading 2 | 3.2 Option B: Direct MODEX-to-CatMod platform integration
+List Bullet | MODEX can act as a front end over a separately hosted modeling provider. Customers would still select CatMod, upload standardized inputs, choose reports, and track execution through MODEX, while the actual calculations run on T-Rupt infrastructure.
+List Bullet | MODEX would transmit input data to CatMod, trigger the relevant calculation workflow, query statuses during execution, retrieve finished outputs, and present those outputs to clients.
+List Bullet | CatMod must accept OED inputs and produce ORD output results. These are the principal format requirements for preserving the same user experience across backend providers.
+List Bullet | Francois explained that MODEX developers would perform the bulk of the connector/orchestration work. T-Rupt would supply platform integration/API and workflow documentation: how jobs are initiated, monitored, and results retrieved.
+List Bullet | MODEX does not require disclosure of the internal mathematical implementation of CatMod’s hazard, vulnerability, loss or financial calculations; the interface/workflow contract is what the integration team needs.
+List Bullet | Execution automation and queryable, sufficiently granular job statuses are desirable. Francois characterized many such integration guidelines as recommendations rather than absolute prerequisites; during integration, MODEX might suggest modest improvements to the existing API/status model.
+List Bullet | T-Rupt could retain its proprietary financial engine and Turkish insurance-policy/reinsurance loss processing, including gross and net loss generation, rather than reproducing that functionality in OASIS.
+List Bullet | This direct connector is bespoke to MODEX and cannot simply be reused on OASIS SaaS. That distribution limitation is a key trade-off versus an OASIS-native package.
+Heading 2 | 3.3 Comparative evaluation discussed
+Normal | James illustrated that a second financial framework could lead to loss differences (he cited 5%–10% as hypothetical examples, not measured CatMod discrepancies).
+Heading 1 | 4. Hybrid Technical Proposal: OASIS Worker Calling CatMod APIs
+List Bullet | Hasret explored whether an OASIS worker could call T-Rupt endpoints (IP address/API), submit parameters/exposure inputs, and retrieve CatMod-calculated ground-up/gross results for further processing.
+List Bullet | Francois confirmed the technical possibility: worker-side code developed by T-Rupt can invoke CatMod services, obtain ground-up results, and return them to the OASIS workflow so downstream calculations can proceed through OASIS.
+List Bullet | The custom call-out logic must be implemented and included by T-Rupt in the OASIS worker / model code. It was not described as an out-of-the-box MODEX feature that OASIS would build for T-Rupt.
+List Bullet | Whether a local worker performs calculations against local model data or calls CatMod APIs is an architectural choice for T-Rupt.
+List Bullet | Francois highlighted significant potential data movement: input portfolios may be extremely large and event-by-location and sample-level outputs may grow substantially with event counts and requested result detail. Network transfer volumes and performance could make the hybrid approach unsuitable in some cases.
+List Bullet | T-Rupt acknowledged familiarity with these scaling issues from CatMod’s production of large ground-up samples and downstream EP/AEP calculations. No transfer-volume benchmarks, API specification, or performance acceptance criteria were finalized.
+Heading 1 | 5. Technical Clarifications and Business Considerations
+List Bullet | Current standards, as stated by James/Francois during the session: OED v5 for the latest exposure schema; ORD v1 for currently supported results. ORD v2 enhancements remain prospective.
+List Bullet | Sample counts need not be exposed as customer-changeable settings. Sinan referred illustratively to CatMod run conventions of approximately 10,000 scenario samples and 2,000 stochastic samples; these values were examples in the discussion, not newly mandated integration defaults.
+List Bullet | For an OASIS run, MODEL Exchange can use configuration to force/cap samples based on portfolio characteristics (Francois distinguished total buildings/risks from merely counting locations). Alternatively, this can remain visible or configurable for users.
+List Bullet | For direct integration, T-Rupt decides which CatMod-specific parameters are exposed. Fixed parameters may be suppressed in the MODEX interface; their behavior is specified in the connector configuration.
+List Bullet | James explained that the existing commercial agreement concerns model distribution and he did not establish any exclusivity of OASIS or direct integration. A T-Rupt participant commented that the agreement appeared to cover both technical options; this is the participant’s reading and was not a legal determination.
+List Bullet | Sinan highlighted that maintaining an OASIS-compatible model may justify additional development costs if it enables access to several distribution platforms; conversely, direct MODEX integration is attractive when avoiding duplicate engines and cross-engine validation is the primary objective.
+Heading 1 | 6. Decisions, Agreements, and Confirmed Clarifications
+Normal | These are agreements/technical confirmations recorded in the conversation, not a final decision to implement a particular route.
+List Number | MODEX supports two core CatMod onboarding architectures: an OASIS-native model package or a MODEX-specific direct integration to CatMod’s existing platform.
+List Number | An OASIS-formatted CatMod package need not be rebuilt into a different structure to run via MODEX; a separate commercial arrangement may nevertheless be required for OASIS SaaS distribution.
+List Number | For a direct integration, OED input compatibility and ORD results compatibility are the primary shared interface requirements, while T-Rupt retains control of calculation logic.
+List Number | MODEX’s integration developers require technical/API and workflow documentation, not proprietary documentation of CatMod’s internal loss mathematics.
+List Number | The number of samples and other runtime settings may be fixed, constrained, or exposed according to the model-provider configuration rather than forced to be fully user-editable.
+List Number | An OASIS worker can technically call CatMod API endpoints, subject to T-Rupt implementing the worker-side logic and managing data-transfer/performance trade-offs.
+List Number | T-Rupt will discuss the distribution and integration business case internally before choosing an approach and communicating next steps.
+List Number | T-Rupt intends to re-engage James and Francois after the Baden-Baden discussions, with early November 2026 mentioned as the latest intended follow-up timeframe.
+Heading 1 | 7. Action Items and Follow-Up Plan
+List Number | T-Rupt – Sinan / team — Evaluate OASIS-native vs direct integration, considering work already invested in OASIS, preservation of CatMod financial logic, OASIS SaaS reach, duplicate development, and validation requirements.  Timing/status: Internal discussion immediately after meeting; no final choice recorded.
+List Number | T-Rupt – Commercial team / Müge — Review MODEX distribution agreement, clarify whether both integration architectures are commercially covered, and coordinate the broader collaboration plan.  Timing/status: Before next partner discussion.
+List Number | T-Rupt – Sinan / relevant contact — Clarify with Dickie/OASIS the separate commercial framework for placing an OASIS-compatible CatMod model on OASIS SaaS.  Timing/status: Not assigned a firm due date.
+List Number | MODEX – James — Share or propose headings/content structure for CatMod’s model-information and documentation page.  Timing/status: Requested, not dated.
+List Number | MODEX – James / T-Rupt — Arrange an exploratory/test-system access route for the T-Rupt team; for OASIS-format deployment a formal test environment was described as part of the contract.  Timing/status: On request / deployment-dependent.
+List Number | T-Rupt – Hasret / development team — Assess OED v5 ingestion and ORD v1 output capabilities, including CSV/Parquet and reporting perspectives applicable to CatMod.  Timing/status: Before technical integration.
+List Number | T-Rupt – Technical team — If direct integration is selected, provide API/workflow documentation for job submission, execution status retrieval, result retrieval, and authentication/network arrangements as applicable.  Timing/status: Conditional on architecture decision.
+List Number | MODEX – Francois / developers — If direct integration is selected, assess CatMod APIs, implement the MODEX connector, and communicate any useful API/status refinements.  Timing/status: Conditional on architecture decision.
+List Number | T-Rupt – Technical team — If hybrid OASIS-worker/API route is selected, design and implement custom worker code and evaluate exposure/results transfer volume and performance.  Timing/status: Conditional on architecture decision.
+List Number | T-Rupt – Müge / Sinan — Reconnect with James and Francois following Baden-Baden discussions with an architecture/commercial direction.  Timing/status: Target: by early November 2026 (stated intention).
+Heading 1 | 8. Open Questions / Items Requiring Resolution
+List Bullet | Which deployment architecture will T-Rupt adopt initially? Is a staged approach or dual deployment commercially and technically justified?
+List Bullet | What contract language governs licensing, distribution, responsibilities, hosting, costs, and support for each pathway? What separate arrangements apply to OASIS SaaS?
+List Bullet | What is the agreed CatMod OED schema mapping and ORD output coverage for ground-up, gross, and net perspectives? Which output summary levels and formats must be validated?
+List Bullet | Will CatMod use the OASIS financial model, its proprietary financial engine, or a hybrid arrangement, and how will differences be reconciled/tested?
+List Bullet | Which run configuration fields (sampling, model catalogs, return periods, thresholds) are fixed versus configurable by customers?
+List Bullet | For direct integration, what exact API endpoints, authentication, connectivity, status codes, run lifecycle, error reporting, and completion/download behavior are available?
+List Bullet | For OASIS worker API call-outs, how large are inputs and intermediate ground-up losses in representative portfolios? What network and compute constraints determine feasibility?
+List Bullet | When and how will the test environment be provisioned, and what will constitute satisfactory end-to-end acceptance tests?
+List Bullet | What content should appear on CatMod’s MODEX model page, and which documents/sample inputs will T-Rupt publish?
+Heading 1 | 9. Closing and Timeline
+List Bullet | T-Rupt thanked James and Francois for the platform walkthrough and clarifications. The discussion substantially expanded the team’s understanding of the differences between OASIS model conversion and MODEX integration.
+List Bullet | T-Rupt indicated it would hold its own commercial/planning discussion immediately after the meeting, speak with Lawrence and other colleagues during Baden-Baden the following week, and ideally initiate next steps with James and Francois no later than early November.
+List Bullet | James mentioned that Lawrence had been asking about readiness. The meeting ended without a confirmed implementation kickoff date, assigned delivery milestones, or final signed architectural choice.
+Normal | Editorial note: The transcript is machine-generated and contains occasional recognition errors (notably platform/product names and terms such as AEP/OEP). This report standardizes clear references while avoiding unsupported details.
+TABLO | Dimension ‖ OASIS-native ‖ Direct CatMod connector
+TABLO | Loss engine ‖ OASIS financial modeling framework ‖ T-Rupt/CatMod own loss and financial engine
+TABLO | Primary interface ‖ OASIS-compatible model package plus OED/ORD ‖ OED input + ORD output; API orchestration
+TABLO | MODEX access ‖ Yes, through OASIS format ‖ Yes, through bespoke MODEX backend connector
+TABLO | OASIS SaaS portability ‖ Technical potential; separate commercial arrangement may apply ‖ Not portable as-is
+TABLO | CatMod model duplication ‖ Potential separate OASIS implementation and validation burden ‖ Existing implementation retained
+TABLO | Calculation consistency ‖ OASIS versus CatMod financial results may differ ‖ CatMod methodology retained
+TABLO | Integration work ‖ T-Rupt packages/converts and validates model ‖ MODEX builds connector; T-Rupt provides APIs/docs and potential enhancements

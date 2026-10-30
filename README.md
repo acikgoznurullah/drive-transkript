@@ -4,7 +4,8 @@ Bu repo, herkese açık Google Drive klasöründeki kategori klasörlerine (İş
 alt klasörlerine yüklenen yeni ses kayıtlarını her gün **09:00 ve 22:00'de (Türkiye saati)** işler:
 
 1. Kaydı indirir, faster-whisper (small, CPU) ile Türkçe/İngilizce transkript eder (`.txt` + `.srt`).
-2. Raporu, örnek raporlara (`ornekler/`) ve `RAPOR_FORMATLARI.md` kurallarına göre Claude API ile yazar (`.docx`).
+2. Raporu, örnek raporlara (`ornekler/`) ve `RAPOR_FORMATLARI.md` kurallarına göre Claude Code ile yazar (`.docx`).
+   Claude Code, kullanıcının Claude aboneliğiyle çalışır, API ücreti yoktur.
 3. Çıktıları Apps Script web uygulaması üzerinden aynı kategorinin `Transkriptler/` ve `Raporlar/` klasörlerine yükler.
 
 Çalışma GitHub'ın sunucularında olur; kişisel bilgisayarın açık olması gerekmez.
@@ -14,11 +15,11 @@ alt klasörlerine yüklenen yeni ses kayıtlarını her gün **09:00 ve 22:00'de
 | Dosya | Görev |
 |---|---|
 | `.github/workflows/transkript.yml` | Zamanlama (cron) ve çalışma adımları |
-| `pipeline.py` | Drive tarama, indirme, transkript, rapor, yükleme; durum `state.json` |
+| `pipeline.py` | Drive tarama, indirme, transkript, yükleme; durum `state.json` |
 | `transcribe_fast.py` | faster-whisper transkripsiyonu, tr/en dil seçimi |
-| `report_ai.py` | Claude API ile rapor içeriği (JSON) üretimi |
+| `RAPOR_GOREVI.md` | Claude Code'a verilen rapor yazma görevi |
 | `report_builder.py` | JSON → Word, sabit tasarım |
-| `RAPOR_FORMATLARI.md`, `ornekler/` | Rapor türleri ve örnek raporlar |
+| `RAPOR_FORMATLARI.md`, `ornekler/` | Rapor türleri ve örnek raporlar (`.docx` + metin `.txt`) |
 | `config.json` | Drive klasörü, Apps Script adresi, kategoriler (gizli değer içermez) |
 | `state.json` | İşlenen kayıtlar (bot günceller, elle düzenlemeyin) |
 | `outputs/` | Üretilen txt/srt/docx kopyaları (bot günceller) |
@@ -28,7 +29,7 @@ alt klasörlerine yüklenen yeni ses kayıtlarını her gün **09:00 ve 22:00'de
 | Ad | Değer |
 |---|---|
 | `APPS_SCRIPT_TOKEN` | Apps Script kodundaki token |
-| `ANTHROPIC_API_KEY` | console.anthropic.com'dan alınan API anahtarı |
+| `CLAUDE_CODE_OAUTH_TOKEN` | `claude setup-token` komutunun verdiği abonelik token'ı |
 
 ## Elle çalıştırma
 

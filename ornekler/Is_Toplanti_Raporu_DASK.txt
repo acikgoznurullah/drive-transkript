@@ -1,0 +1,58 @@
+Title | Toplantı Raporu
+- | DASK için Sermaye (Solvency) Tabanlı Prim Metodolojisi Sunumu
+- | 23 Temmuz 2026  •  T-Rupt Technology → DASK / Türk Reasürans
+- | İsimler kayıttan aktarılmıştır; bazı isimlerde yazım farkı olabilir.
+Heading 1 | 1. Toplantının Amacı
+- | Türk Reasürans'ın 2020'den beri sürdürdüğü DASK teknik işletmeciliğinin arşiv verileri üzerinden hazırlanan bir analiz sunulmuş; mevcut prim yapısının katastrofik depremler karşısındaki yetersizliği gösterilerek, ödeme gücünü (solvency) esas alan alternatif bir prim metodolojisi önerilmiştir. Toplantı, yöntemin paydaşlarla müzakere edilmesi ve ileriye dönük bir çalışma planının belirlenmesi amacını taşımıştır.
+Heading 1 | 2. Portföy (Kümül) Analizi
+- | Marmara ve İstanbul özelinde, altı aylık dönemler halinde (2020–2026) DASK kümülünün bina yaşı ve kat adedine göre değişimi incelenmiştir. Öne çıkan bulgular:
+List Paragraph | Bina yaşı: 2000 ve sonrası yapıların payı hafifçe artmakta; 1980–1999 arası yapıların payı azalmakta; 1979 öncesi yapılar ise düşük seviyede ve büyük ölçüde sabit kalmaktadır (bu binaların yaşlı nüfus ve daha köhne semtlerde bulunmasıyla ilişkilendirilmiştir).
+List Paragraph | Kat adedi: Orta katlı (4–8 kat) yapılar kümülde baskın ve payı artan gruptur; düşük katlı (1–3) yapıların payı azalmaktadır. İstanbul'da nüfus baskısıyla yüksek katlı (8–19 ve 20+) yapıların payında da bir artış görülmektedir.
+List Paragraph | Genel sonuç: Kümül, 2000 sonrası yapılmış orta katlı binalar tarafından domine edilmektedir.
+Heading 1 | 3. Temel Bulgu: Ortalama Yıllık Hasar (AAL) ve Prim Katsayısı
+- | Beklenen yıllık ortalama hasar (average annual loss, AAL) ile mevcut prim katsayıları karşılaştırıldığında şu tespitler yapılmıştır:
+List Paragraph | Kümül ağırlıklı olarak orta katlı ve 2000 sonrası yapılardan oluştuğu için AAL, altı yıllık dönemde kayda değer bir değişim göstermemiştir.
+List Paragraph | Buna karşılık DASK prim katsayıları aynı dönemde yaklaşık %35 ilâ %90 oranında artmıştır.
+List Paragraph | İstanbul özelinde prim katsayısı, teknik AAL oranının yaklaşık iki katına ulaşmıştır; yani kat adedi/katsayı tarafında yapılabilecek fazla bir alan kalmamıştır.
+- | Sonuç: AAL, katastrofik bir depremi ödeme kapasitesi için iyi bir gösterge değildir; prim katsayısını yükseltmek de DASK'ın asıl ihtiyacına (katastrofi sonrası ödeme gücü) hizmet etmemektedir.
+Heading 1 | 4. Önerilen Metodoloji: Sermaye (Solvency) Tabanlı Prim
+- | Önerilen yöntem, DASK'ın katastrofik depremler sonrasında finansal sürdürülebilirliğini (solvency) korurken, zorunlu sigortanın primini ödenebilir/cazip tutmayı hedefler. Yaklaşımın temel unsurları:
+- | Gösterge olarak AAL yerine, kuyruk duyarlı ortalama kayıp (tail value at risk, TVaR) kullanılır. Belirli bir kritik dönüş periyodunun (örn. 100 yıl) ötesindeki kayıpların ortalaması alınarak, katastrofik olayın olası maliyeti dikkate alınır.
+List Paragraph | Her bina tipolojisi için, katastrofik bir depremde hasarı karşılamak üzere elde tutulması gereken sermaye hesaplanır (kapital tabanlı primlendirme).
+List Paragraph | Bu sermayenin maliyeti (örn. %8 komisyon — kurguda varsayım) prime yansıtılır.
+List Paragraph | Reasürans devri, elde tutulan net sermaye ve devlet desteği modele dahil edilerek nihai prim ve binde cinsinden prim katsayısı elde edilir.
+Heading 1 | 5. Örnek Uygulama (Kurgusal Değerler)
+- | Yöntem, İstanbul ve Ankara üzerinden — tamamı kurgusal (fiktif) rakamlarla — örneklenmiştir. İstanbul için 10 bina tipolojisi ve %2 muafiyet sonrası brüt stokastik hasar sonuçları esas alınmıştır.
+Heading 2 | İstanbul senaryosu
+- | Böylece reasürans ve devlet desteği ile, katastrofik bir olayın ödenebilirliği korunurken prim binde 7,88'den binde 2,3 seviyesine — cazip ve ödenebilir bir düzeye — inmektedir.
+Heading 2 | Ankara senaryosu
+- | Deprem tehlikesi düşük fakat kümülü büyük (≈ 1,2 trilyon TL) olan Ankara için, sembolik 500 milyon TL devlet desteği varsayımıyla, tüm il için bina tipinden bağımsız olarak yaklaşık binde 0,2–0,23 mertebesinde bir prim yeterli görünmektedir.
+Heading 1 | 6. Müzakere ve Değerlendirmeler
+List Paragraph | Reasürans payı tanımı üzerine: giriş/çıkış noktaları, rate online ve fonda birikmiş tutarın entry seviyesine etkisi netleştirildi; gerçek programda pay hesabının (limit × rate online) bu incelikleri yansıtacağı belirtildi.
+List Paragraph | Gider kalemlerine ek olarak fonun getirisinin de hesaba katılabileceği ifade edildi.
+List Paragraph | “Devlet desteği” hususu netleştirildi: hâlihazırda prim bazlı bir devlet sübvansiyonu yoktur; devlet, reasürans korumasının en üst katmanında blok koruma sağlamaktadır ve bu destek il bazında bölünememektedir. Modeldeki il bazlı devlet desteği bu yönüyle teoriktir, ancak perspektif olarak değerli bulundu.
+List Paragraph | Alternatif/hibrit model: Devletin en üst katmanda blok reasürans koruması vermesi yerine, doğrudan prim desteği vermesi tartışıldı. Bunun devletin risk maruziyetini azaltabileceği ve mevcut konjonktürde iyi zamanlanmış bir yaklaşım olabileceği belirtildi.
+List Paragraph | Dikkat çekilen risk: Doğrudan devlet–havuz ilişkisi, aradaki reasürans kurumunun (Türk Reasürans) rolünü sorgulatabilir; bu husus politik ve teknik işletmeci boyutuyla ayrıca değerlendirilmelidir.
+List Paragraph | Metodolojinin matematiksel/aktüeryal olarak sağlam bulunduğu; nihai olarak üst yönetime (Özgür Bey) ve gerekiyorsa ilgili otoriteye taşınıp taşınmayacağının ayrı bir karar olduğu ifade edildi.
+Heading 1 | 7. Kararlar ve Aksiyon Maddeleri
+- | Not: Bu rapor, toplantı ses kaydının dökümünden düzenlenmiştir. Sunumdaki tüm parasal değerler, aksi belirtilmedikçe kurgusal (fiktif) olup yöntemi örneklemek içindir. Aksiyon maddeleri toplantıda varılan mutabakatı yansıtır.
+TABLO | Alan ‖ Bilgi
+TABLO | Tarih / süre ‖ 23 Temmuz 2026, ~15:03 (yaklaşık 1 saat, birleşik kayıt)
+TABLO | Konu ‖ DASK için sermaye/solvency tabanlı prim metodolojisi önerisi ve müzakere
+TABLO | Sunan ‖ T-Rupt Technology (Türk Reasürans iştiraki)
+TABLO | Muhataplar ‖ DASK / Türk Reasürans yetkilileri
+TABLO | Katılımcılar ‖ Sunum: Bakır Bey; T-Rupt ekibi: Buğra, Sercan, Nurullah, Sinan Hoca; muhatap taraf: Müge/Müjgan Hanım (reasürans), Özgür Bey (kıdemli, karar mercii), Burak ve diğerleri
+TABLO | Adım / kalem ‖ Sonuç (kurgusal)
+TABLO | Reasürans öncesi gerekli prim ‖ ≈ 20,5 milyar TL → ≈ binde 7,88 (gerçekçi değil)
+TABLO | Reasürans devri (giriş 50 yıl / çıkış 250 yıl, %4 rate online) ‖ 250 yıllık hasar 194 mia → 21,28 mia TL'ye iner
+TABLO | Reasürans primi + net sermaye maliyeti ‖ ≈ 7,7 mia + ≈ 7 mia TL
+TABLO | Devlet desteği (varsayım) ‖ 10 milyar TL
+TABLO | Nihai gerekli prim (reasürans + devlet desteği ile) ‖ ≈ 6,1 milyar TL → ≈ binde 2,3
+TABLO | # ‖ Aksiyon ‖ Sorumlu
+TABLO | 1 ‖ Çalışmanın tüm Türkiye (81 il) için, kurgusal değil gerçek verilerle tekrarlanması ‖ T-Rupt: Bakır Bey, Buğra, Sercan, Nurullah
+TABLO | 2 ‖ Çıktının uzun rapor yerine kısa bir rapor + bir sunum olarak hazırlanması ‖ T-Rupt
+TABLO | 3 ‖ İki alternatifin (reasürans ağırlıklı vs. doğrudan devlet prim desteği) ve gerekirse hibrit modelin masaya konması ‖ T-Rupt
+TABLO | 4 ‖ Senaryo analizi (entry point ve devlet desteği seviyelerine göre A/B/C senaryoları) ‖ T-Rupt
+TABLO | 5 ‖ Gerçek verilerin sağlanması: mevcut fon büyüklüğü, program giriş seviyesi, kapasite, reasürör ve devlet limitleri, program rate online ve fon getiri oranları ‖ Türk Reasürans (Müge/Müjgan Hanım)
+TABLO | 6 ‖ Reasürans indikatör rate/koruma baremleriyle mukayese ‖ Türk Reasürans + T-Rupt
+TABLO | 7 ‖ Sonucun üst yönetime (Özgür Bey) taşınıp taşınmayacağına dair geri bildirim; gerekiyorsa gizlilik (NDA) imzaları ‖ DASK / Türk Reasürans

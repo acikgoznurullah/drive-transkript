@@ -1,0 +1,76 @@
+name: Drive transkript ve rapor
+
+on:
+  schedule:
+    - cron: "0 6,19 * * *"     # UTC → Türkiye saatiyle 09:00 ve 22:00
+  workflow_dispatch: {}        # Actions sekmesinden "Run workflow" ile elle başlatma
+
+permissions:
+  contents: write              # state.json ve outputs/ değişikliklerini repoya yazmak için
+
+concurrency:
+  group: transkript            # aynı anda tek çalışma; yenisi öncekinin bitmesini bekler
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Python paketleri
+        run: pip install -q -r requirements.txt
+
+      - name: Whisper modeli önbelleği
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+
+      - name: Git kimliği
+        run: |
+          git config user.name "transkript-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Kayıtları işle (transkript + txt/srt yükleme)
+        env:
+          APPS_SCRIPT_TOKEN: ${{ secrets.APPS_SCRIPT_TOKEN }}
+          GIT_PERSIST: "1"
+          TIME_BUDGET_HOURS: "4.5"
+        run: python pipeline.py run
+
+      - name: Bekleyen raporlar
+        id: pend
+        if: always()
+        run: echo "n=$(python pipeline.py pending | python -c 'import json,sys; print(len(json.load(sys.stdin)))')" >> "$GITHUB_OUTPUT"
+
+      - name: Raporları yaz (Claude Code, abonelik)
+        if: always() && steps.pend.outputs.n != '0'
+        timeout-minutes: 90
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          APPS_SCRIPT_TOKEN: ${{ secrets.APPS_SCRIPT_TOKEN }}
+          GIT_PERSIST: "1"
+        run: |
+          npm install -g --silent @anthropic-ai/claude-code
+          mkdir -p tmp
+          claude -p "$(cat RAPOR_GOREVI.md)" --max-turns 200 \
+            --allowedTools "Read,Write,Glob,Grep,Bash(python pipeline.py pending),Bash(python pipeline.py mark-reported:*),Bash(python report_builder.py:*),Bash(python -c:*),Bash(mkdir:*)" \
+            | tee claude_ozet.txt
+          { echo "### Rapor yazımı"; cat claude_ozet.txt; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Son durumu kaydet
+        if: always()
+        run: |
+          git add state.json outputs
+          git diff --cached --quiet || git commit -q -m "Son durum"
+          git pull -q --rebase && git push -q || true

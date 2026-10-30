@@ -1,15 +1,17 @@
 """
 pipeline.py – Bulut (GitHub Actions) sürümü. Herkese açık Google Drive klasöründeki yeni ses kayıtlarını
-indirir, transkript eder, Claude API ile Word raporunu yazar ve sonuçları Apps Script üzerinden Drive'a yükler.
+indirir, transkript eder ve sonuçları Apps Script üzerinden Drive'a yükler. Raporları iş akışının sonraki
+adımında Claude Code yazar (RAPOR_GOREVI.md) ve "mark-reported" ile yükler.
 
 Komutlar (python pipeline.py <komut>):
-    run        Yeni kayıtları işle: indir → transkript → yükle → rapor → yükle (kayıt kayıt)
-    status     Durumu, rapor ve yükleme bekleyenleri göster
-    sync       Sadece bekleyen yüklemeleri dene
+    run                         Yeni kayıtları indir + transkript et + txt/srt yükle (kayıt kayıt)
+    pending                     Raporu yazılacak kayıtları JSON olarak listele
+    mark-reported <key> <docx>  Raporu transkriptin yanına koy, Drive'a yükle, "rapor edildi" işaretle
+    status                      Durumu, rapor ve yükleme bekleyenleri göster
+    sync                        Sadece bekleyen yüklemeleri dene
 
 Gizli değerler ortam değişkenlerinden okunur (GitHub → Settings → Secrets → Actions):
     APPS_SCRIPT_TOKEN   Apps Script web uygulamasının token'ı
-    ANTHROPIC_API_KEY   Claude API anahtarı (rapor yazımı için)
     APPS_SCRIPT_URL     (isteğe bağlı) config.json'daki adresi geçersiz kılar
 
 Durum: state.json (anahtar = Drive dosya kimliği). Yollar repo köküne göre görelidir. GIT_PERSIST=1 iken
@@ -230,20 +232,19 @@ def transcribe_one(local: Path, out_dir: Path) -> dict:
                 pass
 
 
-def write_report(key: str, v: dict) -> str | None:
-    """Claude API ile raporu yazar; başarılıysa durumu 'reported' yapar. Hata metni ya da None döner."""
-    import report_ai
-    txt = HERE / v["txt"]
-    docx = txt.with_name(Path(v["source"]).stem + "_Rapor.docx")
-    try:
-        report_ai.make_report(txt, docx, source=v["source"], category=v.get("category"),
-                              language=v.get("language"), duration=v.get("duration"))
-    except Exception as e:  # noqa: BLE001 – rapor sonraki turda tekrar denenir
-        log(f"Rapor yazılamadı ({v['source']}): {e}")
-        return f"{v['source']}: {e}"
-    v.update(status="reported", report=rel(docx), reported_at=now().isoformat(timespec="seconds"))
-    log(f"Rapor yazıldı: {v.get('category')}/{docx.name}")
-    return None
+def pending_reports(state):
+    return [{"key": k, "source": v["source"], "category": v.get("category"), "txt": v["txt"],
+             "duration": v.get("duration"), "language": v.get("language"),
+             "suggested_docx": Path(v["txt"]).with_name(Path(v["source"]).stem + "_Rapor.docx").as_posix()}
+            for k, v in state.items() if v.get("status") == "transcribed"]
+
+
+def set_output(name: str, value):
+    """GitHub Actions adım çıktısı (sonraki adımlar steps.<id>.outputs.<name> ile okur)."""
+    path = os.environ.get("GITHUB_OUTPUT")
+    if path:
+        with open(path, "a", encoding="utf-8") as f:
+            f.write(f"{name}={value}\n")
 
 
 # ---------------------------------------------------------------- komutlar
@@ -252,20 +253,15 @@ def cmd_run():
     cfg, err = load_config()
     state = load_state()
     result = {"time": now().isoformat(timespec="seconds"), "error": err, "new_transcribed": [],
-              "reports": [], "report_errors": [], "failed": [], "uploaded": [], "upload_error": None,
-              "deferred": [], "pending_uploads": []}
+              "failed": [], "uploaded": [], "upload_error": None, "deferred": [],
+              "pending_uploads": [], "pending_reports": []}
     if err:
         log(err); emit(result); sys.exit(1)
 
-    # 1) Önceki turlardan raporu yazılamamış transkriptler
-    for k, v in state.items():
-        if v.get("status") == "transcribed":
-            e = write_report(k, v)
-            (result["report_errors"] if e else result["reports"]).append(e or v["source"])
-            save_state(state)
+    # 1) Önceki turlardan kalan yüklemeler
     up, result["upload_error"] = sync_uploads(cfg, state)
     result["uploaded"] += up
-    persist("Bekleyen raporlar ve yüklemeler")
+    persist("Bekleyen yüklemeler")
 
     # 2) Yeni kayıtlar
     try:
@@ -287,17 +283,13 @@ def cmd_run():
         except Exception as e:  # noqa: BLE001 – indirme hatası: geçici say
             r = {"ok": False, "retry": True, "error": f"İndirme hatası: {e}"}
         if r["ok"]:
-            v = state[f["id"]] = {"status": "transcribed", "source": f["name"], "category": f["category"],
-                                  "txt": r["txt"], "duration": r["duration"], "language": r["language"],
-                                  "transcribed_at": now().isoformat(timespec="seconds")}
+            state[f["id"]] = {"status": "transcribed", "source": f["name"], "category": f["category"],
+                              "txt": r["txt"], "duration": r["duration"], "language": r["language"],
+                              "transcribed_at": now().isoformat(timespec="seconds")}
             result["new_transcribed"].append({"source": f["name"], "category": f["category"],
                                               "duration": r["duration"], "language": r["language"],
                                               "seconds": r["seconds"]})
             log(f"Tamam: {f['name']} ({r['duration']}, {r['seconds']} sn)")
-            save_state(state)
-            persist(f"Transkript: {f['category']}/{f['name']}")
-            e = write_report(f["id"], v)
-            (result["report_errors"] if e else result["reports"]).append(e or v["source"])
         else:
             final = not r["retry"] or attempts >= MAX_ATTEMPTS
             state[f["id"]] = {"status": "failed" if final else "retry", "source": f["name"],
@@ -311,8 +303,10 @@ def cmd_run():
         persist(f"İşlendi: {f['category']}/{f['name']}")
 
     result["pending_uploads"] = pending_uploads(state)
+    result["pending_reports"] = [p["source"] for p in pending_reports(state)]
     result["finished"] = now().isoformat(timespec="seconds")
     LAST_RUN.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    set_output("pending_reports", len(result["pending_reports"]))
     emit(result)
     write_summary(result)
 
@@ -330,8 +324,8 @@ def write_summary(result):
     for f in result["failed"]:
         lines.append(f"- ❌ {f['category']}/{f['source']}: {f['error'][:300]}"
                      + (" (tekrar denenecek)" if f["will_retry"] else " (dosyayı kontrol edin)"))
-    for e in result["report_errors"]:
-        lines.append(f"- ⚠️ Rapor yazılamadı: {e[:300]}")
+    for p in result["pending_reports"]:
+        lines.append(f"- 📝 Raporu yazılacak: {p}")
     for d in result["deferred"]:
         lines.append(f"- ⏳ Süre doldu, sonraki tura kaldı: {d}")
     if result["error"]:
@@ -342,6 +336,33 @@ def write_summary(result):
         lines.append("Yeni kayıt yok.")
     with open(path, "a", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
+
+
+def cmd_pending():
+    emit(pending_reports(load_state()))
+
+
+def cmd_mark_reported(key: str, docx: str):
+    cfg, err = load_config()
+    state = load_state()
+    if key not in state:
+        sys.exit(f"Bilinmeyen anahtar: {key}")
+    src = (HERE / docx).resolve()
+    if not src.is_file():
+        sys.exit(f"Rapor dosyası yok: {docx}")
+    dest = (HERE / state[key]["txt"]).with_name(src.name)     # raporu transkriptin yanına koy
+    if src != dest.resolve():
+        shutil.copy2(src, dest)
+    state[key].update(status="reported", report=rel(dest), reported_at=now().isoformat(timespec="seconds"))
+    save_state(state)
+    uploaded, up_err = sync_uploads(cfg, state) if not err else ([], err)
+    persist(f"Rapor: {state[key].get('category')}/{dest.name}")
+    with open(os.environ.get("GITHUB_STEP_SUMMARY") or os.devnull, "a", encoding="utf-8") as f:
+        for u in uploaded:
+            f.write(f"- 📄 [{u['folder']}/{u['file']}]({u['url']})\n")
+        if up_err:
+            f.write(f"- ❗ {up_err}\n")
+    emit({"report": rel(dest), "uploaded": uploaded, "upload_error": up_err})
 
 
 def cmd_sync():
@@ -368,7 +389,7 @@ def cmd_status():
 
 
 if __name__ == "__main__":
-    cmds = {"run": cmd_run, "status": cmd_status, "sync": cmd_sync}
+    cmds = {"run": cmd_run, "status": cmd_status, "sync": cmd_sync, "pending": cmd_pending}
     args = sys.argv[1:]
     if len(args) == 1 and args[0] in cmds:
         try:
@@ -377,5 +398,7 @@ if __name__ == "__main__":
             log("BEKLENMEDİK HATA:\n" + traceback.format_exc())
             persist("Hata öncesi durum")
             raise
+    elif args[:1] == ["mark-reported"] and len(args) == 3:
+        cmd_mark_reported(args[1], args[2])
     else:
         sys.exit(__doc__)

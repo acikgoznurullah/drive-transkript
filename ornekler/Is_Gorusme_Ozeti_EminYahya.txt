@@ -1,0 +1,90 @@
+Title | GÖRÜŞME ÖZETİ
+Subtitle Custom | Emin Yahya ile gerçekleştirilen platform değerlendirme görüşmesi
+Heading 1 | 1. Görüşmenin Amacı ve Kapsamı
+Normal | Görüşmede, bina ve portföy ölçeğinde deprem, heyelan ve su baskını tehlikelerini değerlendiren web tabanlı platform tanıtılmış; sistemin metodolojisi, veri kaynakları, kullanıcı arayüzü, sonuçların sunumu ve olası kullanım alanları teknik açıdan değerlendirilmiştir. Platformun kesin mühendislik analizi yerine karar destek, ön tarama ve önceliklendirme amacı taşıdığı vurgulanmıştır.
+Heading 1 | 2. Platformun Yapısı ve Kullanım Alanları
+Normal | Platform iki temel analiz modülünden oluşmaktadır:
+List Bullet | Tekil yapı ön değerlendirmesi
+List Bullet | Bina portföyü analizi
+Normal | Hedeflenen başlıca kullanıcı grupları şunlardır:
+List Bullet | Ev satın almak veya kiralamak isteyen vatandaşlar
+List Bullet | Gayrimenkul değerleme şirketleri
+List Bullet | Banka ve şirketler gibi kurumsal portföy sahipleri
+List Bullet | Sigorta ve finans kuruluşları
+List Bullet | Çok sayıda bina arasından öncelikli inceleme yapılacak yapıları belirlemek isteyen kurumlar
+Normal | Ürünün en uygun konumlandırması, kesin risk analizi veya sigorta fiyatlama modeli olmaktan ziyade, yapıların göreli durumunu karşılaştıran ve daha ayrıntılı inceleme gerektiren noktaları belirleyen bir risk tarama ve önceliklendirme platformu olarak değerlendirilmiştir.
+Heading 1 | 3. Kullanılan Tehlike Verileri
+List Bullet | Deprem: EFEHR kaynaklı, yaklaşık 476 yıllık dönüş periyoduna karşılık gelen PGA değerleri kullanılmaktadır.
+List Bullet | Heyelan: Küresel heyelan duyarlılık verileri kullanılmaktadır.
+List Bullet | Su baskını: Belirli dönüş periyotlarına ait taşkın derinliği verileri kullanılmaktadır.
+Normal | Verilerin açık kaynaklardan alınarak Türkiye için düzenlendiği; ancak özellikle heyelan, su baskını ve jeoloji verilerinde çözünürlük ve belirsizliklerin bulunduğu belirtilmiştir. Bu nedenle platformda veri kaynakları, belirsizlikler ve kullanım sınırlarının açıkça dokümante edilmesi olumlu bulunmuştur.
+Heading 1 | 4. Tekil Yapı Ön Değerlendirmesi
+Normal | Kullanıcı, harita üzerinden bir nokta seçebilmekte veya koordinat girebilmektedir. Ardından bina özelliklerine ilişkin yaklaşık 20 parametre sisteme girilmektedir.
+Heading 2 | Kırılganlık modelinin seçilmesinde kullanılan temel parametreler
+List Bullet | Yapım yılı
+List Bullet | Taşıyıcı sistem veya yapı tipi
+List Bullet | Kat sayısı / yükseklik sınıfı
+Heading 2 | Kırılganlık veya risk skorunu değiştiren yardımcı parametreler
+List Bullet | Mühendislik hizmeti alıp almaması
+List Bullet | Yumuşak kat, çıkma ve geometrik düzensizlikler
+List Bullet | Ayrık veya bitişik nizam
+List Bullet | Bakım durumu
+List Bullet | Zemin veya jeoloji bilgisi
+List Bullet | Bodrum ve giriş kat kullanım durumu
+List Bullet | Eğimli arazi, istinat duvarı ve fore kazık gibi heyelanla ilişkili bilgiler
+List Bullet | Çatlak, oturma, çökme veya kayma gözlemleri
+Normal | Bazı bilgiler bilinmiyorsa kullanıcı “bilinmiyor” seçeneğini işaretleyebilmektedir. Bu durumda sistem daha temkinli bir yaklaşım benimsemekte ve sonuçla birlikte sunulan veri güven skoru düşmektedir.
+Heading 1 | 5. Sonuçların Hesaplanması ve Sunulması
+Normal | Deprem değerlendirmesinde farklı hasar durumlarının olasılıkları hesaplanmakta; özellikle orta ve üzeri hasar durumları ağırlıklandırılarak 0–100 arasında bir skor oluşturulmaktadır. Sonuçlar kullanıcıya hafif, orta, yüksek ve çok yüksek gibi kategorilerle sunulmaktadır.
+Normal | Platform ayrıca:
+List Bullet | Sonucun hangi bina özelliklerinden kaynaklandığını açıklar.
+List Bullet | Girilen temel bina bilgilerini özetler.
+List Bullet | Genel aksiyon önerileri üretir.
+List Bullet | Veri güvenini ve bilinmeyen parametre sayısını gösterir.
+List Bullet | Analizleri kullanıcı hesabında ve harita üzerinde saklar.
+List Bullet | Sonuçların PDF olarak indirilmesine imkân verir.
+Normal | Önerilen aksiyonlar arasında detaylı mühendislik incelemesi, yerinde kontrol, zemin etüdü, su baskınına karşı fiziksel tedbirler ve sigorta korumasının değerlendirilmesi bulunmaktadır.
+Heading 1 | 6. Portföy Analizi
+Normal | Portföy modülünde bina bilgileri CSV dosyası olarak sisteme yüklenmektedir. Analizlerde temel olarak konum, yapı tipi, yapım yılı, kat/yükseklik sınıfı, inşaat alanı ve yapı birim maliyeti kullanılmaktadır.
+Normal | Başlıca çıktılar:
+List Bullet | Toplam portföy değeri
+List Bullet | Beklenen fiziksel kayıp ve kayıp oranı
+List Bullet | En yüksek kayıp oranına sahip binalar
+List Bullet | Öncelikli incelenmesi gereken ilk beş bina
+List Bullet | Tehlike bazlı kayıp dağılımı
+List Bullet | Kırılganlık modeliyle eşleşen bina oranı ve veri güveni
+List Bullet | Harita üzerinde filtrelenebilir portföy görünümü
+List Bullet | Sonuçların CSV olarak dışa aktarılması
+Normal | Ekonomik kayıp, simülasyonlardan elde edilen yaklaşık hasar oranının inşaat alanı ve DASK yapı birim maliyetleriyle ilişkilendirilmesiyle hesaplanmaktadır. Bu yaklaşımın şu aşamada basitleştirilmiş olduğu ve daha ayrıntılı sonuç modelleriyle geliştirilebileceği ifade edilmiştir.
+Heading 1 | 7. Teknik Değerlendirmeler ve Geliştirme Önerileri
+Heading 2 | 7.1. Risk sınıflandırma eşikleri
+Normal | Orta ve üzeri hasar olasılığı görece yüksek olan bir yapının “hafif” veya “düşük” kategorisinde gösterilmesinin kullanıcı açısından yanıltıcı olabileceği belirtilmiştir. Mevcut sınıf eşikleri ve hasar durumlarına verilen ağırlıkların önemli ölçüde uzman görüşüne dayandığı anlaşılmıştır.
+List Bullet | Sınıf eşikleri yeniden gözden geçirilmeli ve mümkünse örnek veri veya uzman çalıştayıyla kalibre edilmelidir.
+List Bullet | Skor ile hasar olasılıkları arasındaki ilişki metodoloji dokümanında açıkça gösterilmelidir.
+List Bullet | “Düşük risk” gibi kesin ifadeler yerine “göreli olarak düşük öncelik” veya “ön değerlendirme seviyesi” gibi daha kontrollü ifadeler tercih edilebilir.
+Heading 2 | 7.2. Jeoloji yerine Vs30 kullanılması
+Normal | Mevcut sistemde zemin etkisi düşük çözünürlüklü jeolojik sınıflar üzerinden temsil edilmektedir. Bunun yerine mühendislik uygulamalarında doğrudan kullanılan Vs30 parametresinin değerlendirilmesi önerilmiştir.
+List Bullet | USGS veya EFEHR tarafından yayımlanan Vs30 modelleri haritaya entegre edilebilir.
+List Bullet | Vs30 verileri GeoTIFF formatında sisteme aktarılabilir.
+List Bullet | Türkiye Bina Deprem Yönetmeliği 2018’deki zemin sınıfları ve zemin büyütme katsayıları kullanılarak haritadan alınan PGA değeri düzenlenebilir.
+List Bullet | Kullanıcının elinde yerel ve daha güvenilir zemin bilgisi varsa harita verisini değiştirebilmesine izin verilebilir.
+Heading 2 | 7.3. Deprem tehlikesi ile kırılganlığın eşleştirilmesi
+Normal | 476 yıllık dönüş periyoduna karşılık gelen tek bir PGA değerinin kırılganlık eğrilerine doğrudan uygulanmasının tam anlamıyla olasılıksal sismik risk analizi olmadığı belirtilmiştir. Tam bir analizde olay tabanlı deprem kataloğu, her olay için yer hareketi hesabı, yer hareketi belirsizliği, hasar örneklemesi ve yıllık kayıp dağılımlarının birlikte değerlendirilmesi gerekir.
+Normal | Mevcut yaklaşım, bu kapsamlı sürecin yerine geçmemekle birlikte, aşağıdaki amaçlarla kullanılabilir:
+List Bullet | Binaların birbirleriyle göreli olarak karşılaştırılması
+List Bullet | Detaylı inceleme yapılacak yapıların önceliklendirilmesi
+List Bullet | Kullanıcıya genel bir tehlike ve etkilenebilirlik göstergesi sunulması
+Normal | Bu metodolojik sınırın platformun açıklama ve dokümantasyon bölümlerinde açık biçimde belirtilmesi önerilmiştir.
+Heading 2 | 7.4. Ürünün konumlandırılması
+Normal | Platformun kısa vadede profesyonel katastrofik risk modelleri veya sigorta fiyatlama sistemleriyle aynı kapsamda değerlendirilmemesi gerektiği ifade edilmiştir. Buna karşılık gayrimenkul ön değerlendirmesi, kurumsal tesislerin karşılaştırılması, banka şubelerinin önceliklendirilmesi ve vatandaş farkındalığı gibi alanlarda önemli bir kullanım potansiyeli bulunduğu değerlendirilmiştir.
+Heading 1 | 8. Kararlaştırılan Sonraki Adımlar
+List Bullet | Deprem skorlarının etiketleme sistemi ve sınıf eşikleri yeniden incelenecek.
+List Bullet | USGS ve EFEHR Vs30 veri setleri araştırılacak.
+List Bullet | TBDY 2018 zemin büyütme katsayılarının sisteme entegrasyon imkânı değerlendirilecek.
+List Bullet | Temel kırılganlık eğrilerinin ve ek bina parametrelerinin eğriler üzerindeki etkisini açıklayan teknik dokümantasyon hazırlanacak.
+List Bullet | Mevcut yöntemin tam olasılıksal risk analizi olmadığı daha açık ifade edilecek.
+List Bullet | Orta ve uzun vadede olay tabanlı ve Monte Carlo temelli risk hesaplamalarına geçiş seçeneği değerlendirilecek.
+List Bullet | Platformun teknik yöntemini açıklayan PDF doküman hazırlanarak paylaşılacak.
+List Bullet | CBS, harita geliştirme, yazılım ve risk modelleme alanlarında olası iş birliği imkânları açık tutulacak.
+Heading 1 | 9. Genel Değerlendirme
+Normal | Platformun kullanıcı arayüzü, çoklu tehlike yaklaşımı, sonuçların gerekçelendirilmesi ve kullanıcıya anlaşılır biçimde aktarılması güçlü yönler olarak değerlendirilmiştir. Öncelikli geliştirme alanları; deprem tehlikesinin kullanım biçimi, zemin etkisinin Vs30 ile temsil edilmesi, skor eşiklerinin kalibrasyonu, finansal kayıp hesabının geliştirilmesi ve metodolojik sınırların daha açık anlatılmasıdır.
