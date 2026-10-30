@@ -121,5 +121,16 @@
     "source": "Ses 261023_200809 - MC Tefsir.m4a",
     "category": "Özel",
     "note": "yerel bilgisayarda işlendi"
+  },
+  "1i-5vgXwzIijIeLXfMKoShzKbEyKFIOsL": {
+    "status": "transcribed",
+    "source": "Ses 261024_193038 - Yıldıray Oğur.m4a",
+    "category": "Özel",
+    "txt": "outputs/Özel/Ses 261024_193038 - Yıldıray Oğur.txt",
+    "duration": "1:30:23",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T13:00:27",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
