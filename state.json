@@ -285,5 +285,16 @@
     "transcribed_at": "2026-10-31T02:43:35",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1MOkE-YQWFbYGnJUZVbClxJiiHmqZ7cyC": {
+    "status": "transcribed",
+    "source": "Ses 261022_140641 - NA-HG Yeni Kod.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261022_140641 - NA-HG Yeni Kod.txt",
+    "duration": "0:41:19",
+    "language": "tr",
+    "transcribed_at": "2026-10-31T02:53:13",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
