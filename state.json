@@ -252,5 +252,16 @@
     "transcribed_at": "2026-10-31T02:01:05",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1O9GPOTFzs0jLcpcsw9YiHwyRqhh2_aic": {
+    "status": "transcribed",
+    "source": "Ses 260710_211620 - MC Tefsir.m4a",
+    "category": "Özel",
+    "txt": "outputs/Özel/Ses 260710_211620 - MC Tefsir.txt",
+    "duration": "0:17:39",
+    "language": "tr",
+    "transcribed_at": "2026-10-31T02:06:10",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
