@@ -123,7 +123,7 @@
     "note": "yerel bilgisayarda işlendi"
   },
   "1i-5vgXwzIijIeLXfMKoShzKbEyKFIOsL": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261024_193038 - Yıldıray Oğur.m4a",
     "category": "Özel",
     "txt": "outputs/Özel/Ses 261024_193038 - Yıldıray Oğur.txt",
@@ -131,7 +131,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-30T13:00:27",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/Özel/Ses 261024_193038 - Yıldıray Oğur_Rapor.docx",
+    "reported_at": "2026-10-30T13:46:29",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/10TPkqI9gzl89_t1J1PwWF4LruPXkAQt9/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1Wie-c0oQBNM09WwBPHpff4dXoLmysHHI": {
     "status": "reported",
