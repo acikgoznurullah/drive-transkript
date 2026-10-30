@@ -263,5 +263,16 @@
     "transcribed_at": "2026-10-31T02:06:10",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1upEuiAzmxqv-6oPU-ljqTLAtwkT6KbyD": {
+    "status": "transcribed",
+    "source": "Ses 260717_201356 - MC Tefsir.m4a",
+    "category": "Özel",
+    "txt": "outputs/Özel/Ses 260717_201356 - MC Tefsir.txt",
+    "duration": "0:57:09",
+    "language": "tr",
+    "transcribed_at": "2026-10-31T02:24:11",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
