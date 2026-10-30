@@ -178,7 +178,7 @@
     "uploaded.srt": true
   },
   "1vdTWxdyEiHl_NcAf4pPkmFJwW_7nfupD": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261023_100256 - Türkre Parametrik Ön Konuşma.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261023_100256 - Türkre Parametrik Ön Konuşma.txt",
@@ -186,7 +186,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-30T13:35:19",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261023_100256 - Türkre Parametrik Ön Konuşma_Rapor.docx",
+    "reported_at": "2026-10-30T13:40:43",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1nbAPR9paSLHjMkEDYbC1_ywBlK3KeXSV/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1NUbLlXpBeSfZl1LyporYUvPiwUyA4GZ2": {
     "status": "reported",
