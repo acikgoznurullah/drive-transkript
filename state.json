@@ -187,5 +187,16 @@
     "transcribed_at": "2026-10-30T13:35:19",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1NUbLlXpBeSfZl1LyporYUvPiwUyA4GZ2": {
+    "status": "transcribed",
+    "source": "Ses 261016_161901 - İlayda Balkan.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261016_161901 - İlayda Balkan.txt",
+    "duration": "0:22:45",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T13:38:30",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

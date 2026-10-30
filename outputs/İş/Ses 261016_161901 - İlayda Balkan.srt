@@ -1,0 +1,976 @@
+1
+00:00:00,000 --> 00:00:05,679
+bir kuyruk riski konusundan bahsediliyor. Ben bu hani sunumu
+
+2
+00:00:05,679 --> 00:00:10,320
+incelediğimde bazı şeyleri anladım. Ama yani çoğu şeyle
+
+3
+00:00:10,320 --> 00:00:14,240
+anlamadığımı düşünüyoruz. Dolayısıyla bir sizlere bu konuda
+
+4
+00:00:14,240 --> 00:00:18,600
+hani daha önce de hani iletişimde olmuştuk zaten. Nasıl bu
+
+5
+00:00:18,600 --> 00:00:24,480
+konuyu ııı anlayabilirim veya işte ve kuyruk riski
+
+6
+00:00:24,480 --> 00:00:27,600
+deneyince ben ne anlamalıyım? Bizim normal modellerimiz
+
+7
+00:00:27,600 --> 00:00:31,320
+sunuşlarımızın dışında kuyruk riski denen tanıma neden
+
+8
+00:00:31,320 --> 00:00:35,159
+dikkat etmeniyiz. Bana böyle hani kısaca bir aktarabilirsiniz.
+
+9
+00:00:35,159 --> 00:00:41,729
+Eee çok memnun olacağım. Tabii. Eee tamamdır. Eee şimdi
+
+10
+00:00:41,729 --> 00:00:45,649
+şey eee bir paylaşım izni gerekiyor herhalde sanırım.
+
+11
+00:00:45,649 --> 00:00:57,979
+Sen izin verir misin? Ben şuan ben izin verir miyim? Tamam.
+
+12
+00:00:57,979 --> 00:01:15,760
+Bir saniye. Şimdi şöyle hani aslında şeyden hani daha
+
+13
+00:01:15,760 --> 00:01:18,879
+alışkın olduğunuz şu şeyden başlayayım isterseniz çok
+
+14
+00:01:18,879 --> 00:01:25,840
+kısaca. Bizim bildiğimiz evet hani eee işte OIP değerleri eee
+
+15
+00:01:25,840 --> 00:01:30,159
+işte yıllara bağlı olarak biz işte Türkre'ye işte hem
+
+16
+00:01:30,159 --> 00:01:33,200
+ihtiyar hem Trieta'da bildiğiniz gibi raporlar veriyoruz
+
+17
+00:01:33,200 --> 00:01:37,280
+zaten. Eee bu şeyler işte ritem period bin yıla kadar
+
+18
+00:01:37,280 --> 00:01:41,120
+gidiyor. Şimdi bizim aslında burada verdiğimiz eee şeyler
+
+19
+00:01:41,280 --> 00:01:47,359
+yani OIP değerleri eee diyelim. Eee bunlar aslında eee
+
+20
+00:01:47,359 --> 00:01:52,480
+value at risk'i olarak geçiyor. Yani eee işte iki yüz
+
+21
+00:01:52,480 --> 00:01:57,200
+yıllık eee ritem perioduna tekabül eden eee los mesela
+
+22
+00:01:57,200 --> 00:02:02,480
+işte şurada eee gibi eee bu diğer söz konusu olan şeyse
+
+23
+00:02:02,480 --> 00:02:06,719
+tail value at risk aslında eee işte o da kuyruk eee
+
+24
+00:02:06,799 --> 00:02:11,439
+şeylerini ifade ediyor. Eee ben bunların çok daha önceden
+
+25
+00:02:11,439 --> 00:02:16,319
+zaten eee şey yaptığımız eee gösterilerden şöyle kısaca
+
+26
+00:02:16,319 --> 00:02:20,750
+bir size açıklamak istedim. Eee şimdi bizim aslında
+
+27
+00:02:20,750 --> 00:02:24,960
+mesela şöyle yani biz eee hani daha öncede konuştuk
+
+28
+00:02:24,960 --> 00:02:28,639
+umuz üzere aslında bir biz bir los dağılımı buluyoruz.
+
+29
+00:02:28,639 --> 00:02:32,800
+On bin yıllık bir eee deprem simülasyonu yapıp biz
+
+30
+00:02:32,879 --> 00:02:37,680
+los dağılımı elde ediyoruz. Sonra bunun eee işte
+
+31
+00:02:37,680 --> 00:02:41,439
+örneğin iki yüz yılda bir lik eee tekirrupe yoluna
+
+32
+00:02:41,439 --> 00:02:45,599
+karşılık gelen hasar işte iki yüz milyon TL olsun. Eee
+
+33
+00:02:45,599 --> 00:02:50,080
+aslında iki yüz yılda bir de her yıl yüzde eee sıfı nokta
+
+34
+00:02:50,080 --> 00:02:54,479
+beş olasılıkla aşılması beklenen hasar olmuş oluyor.
+
+35
+00:02:54,479 --> 00:02:59,199
+Eee şimdi eee bizim SDDK bildiğiniz gibi iki yüz elli
+
+36
+00:02:59,360 --> 00:03:04,960
+yıllık şeye bakıyor. Eee PML. Eee bu aslında iki yüz
+
+37
+00:03:04,960 --> 00:03:09,199
+elli yıllık buradaki los anlamına geliyor. Şurada
+
+38
+00:03:09,199 --> 00:03:12,960
+çizseydik işte şu iki yüz elli üç yüz. Soll Institute'a
+
+39
+00:03:12,960 --> 00:03:16,400
+şeyin eee Avrupa Birliği'nin dikkate aldığı da iki yüz
+
+40
+00:03:16,400 --> 00:03:20,719
+yıllı eee dikkat alıyor benzer olarak. Eee şimdi
+
+41
+00:03:20,719 --> 00:03:23,520
+burada aslında onların yaptıkları şey buradaki
+
+42
+00:03:23,520 --> 00:03:26,879
+olasılık dağılımın yani eee olasılık dağılımında
+
+43
+00:03:27,599 --> 00:03:30,960
+işte eee bu yüzde beş olasılıkla veya işte
+
+44
+00:03:30,960 --> 00:03:34,560
+SDDK'yı bakarsak da yüzde sıfı nokta dört olasılıkla
+
+45
+00:03:34,560 --> 00:03:37,520
+aşılması beklenen hasar. Yani SDDK
+
+46
+00:03:37,520 --> 00:03:41,199
+soluncaya göre biraz daha şey kalıyor. Eee korunam
+
+47
+00:03:41,199 --> 00:03:44,639
+koru eee daha muhafaza kar eee davranıyor.
+
+48
+00:03:44,639 --> 00:03:47,900
+Eee şimdi buraya buraya kadar zaten aslında sizin
+
+49
+00:03:47,900 --> 00:03:51,180
+eee şey olduğunuzda eee aşına oldunuz. Value
+
+50
+00:03:51,180 --> 00:03:54,539
+et riski olarak geçiyor burası. Şimdi bir de bunun
+
+51
+00:03:54,539 --> 00:03:57,580
+teal value et riski var. Şimdi burada gördüğünüz gibi
+
+52
+00:03:57,580 --> 00:04:01,340
+aslında şu iki yüzde karşılık gelen tam noktayı
+
+53
+00:04:01,340 --> 00:04:04,699
+görüyoruz ya. Ama bu buradan sonra nasıl gittiğiyle
+
+54
+00:04:04,699 --> 00:04:07,740
+alakalı hiçbir bilgi vermiyor bu. Yani bu buradan
+
+55
+00:04:07,740 --> 00:04:10,620
+sonra şöyle mausul görebiliyorsunuz değil mi?
+
+56
+00:04:10,620 --> 00:04:14,139
+Evet. Şöyle acaba hani yani iki yüz yılda bir şey
+
+57
+00:04:14,139 --> 00:04:17,500
+olacak ama sonrasında işte böyle çok satürü olan
+
+58
+00:04:17,500 --> 00:04:20,060
+düz bir şey mi gidecek? Yoksa sonrasında
+
+59
+00:04:20,060 --> 00:04:23,339
+çok dik, çok daha riskli eventlerde ben
+
+60
+00:04:23,339 --> 00:04:26,620
+bekliyor muyum? Bu bilgiyi asla vermiyor burası.
+
+61
+00:04:26,620 --> 00:04:29,899
+Burası tamamen iki yüz yılda bir başılma olasılığını
+
+62
+00:04:29,899 --> 00:04:34,220
+veriyor. Eee ve başka yani daha ötesini eee
+
+63
+00:04:34,220 --> 00:04:38,339
+kapsamış olmuyor. Tamam. Şimdi bunu daha iyi
+
+64
+00:04:38,339 --> 00:04:42,660
+eee göstermek için örneğin iki tane portboy olsun.
+
+65
+00:04:42,660 --> 00:04:47,220
+Eee ikisinin de iki yüz yılda bir eee
+
+66
+00:04:47,220 --> 00:04:50,500
+lik value et riski yani bizim size verdiğimiz
+
+67
+00:04:50,660 --> 00:04:55,540
+o ip iler örneğin aynı olabilir. Ama eee buna
+
+68
+00:04:55,540 --> 00:04:58,689
+mı kabil? Bundan sonra gittikleri yer çok
+
+69
+00:04:58,689 --> 00:05:03,089
+farklı olabilirler. Işte eee bu iki yüz yılda birilik
+
+70
+00:05:03,089 --> 00:05:06,449
+değer aslında baktığımız zaman ikisinde de aynı
+
+71
+00:05:06,449 --> 00:05:08,930
+olacak. Ama biz şu figürler şunu çok net
+
+72
+00:05:08,930 --> 00:05:11,730
+görebiliyoruz ki turuncu olan B portboyu
+
+73
+00:05:11,730 --> 00:05:14,689
+aslında çok daha riskli bir portboyu çünkü
+
+74
+00:05:14,689 --> 00:05:18,850
+daha yani bu iki yüzün ötesinde olan depremlerde
+
+75
+00:05:19,009 --> 00:05:22,689
+event yani simülasyonlarda bu çok daha büyük
+
+76
+00:05:22,689 --> 00:05:26,689
+loslar verme kapasitesine sahip bir eee portboyu
+
+77
+00:05:26,689 --> 00:05:31,649
+aslında. Eee burada ne yapılıyor? Yani eee
+
+78
+00:05:31,649 --> 00:05:34,769
+VR şu noktayı veriyor ya şuradaki işte iki yüz
+
+79
+00:05:34,769 --> 00:05:38,529
+veriyor. Tel value et risk ise iki yüzden
+
+80
+00:05:38,529 --> 00:05:41,250
+işte ne kadarlık simülasyon yaptık diyelim on
+
+81
+00:05:41,250 --> 00:05:44,449
+bin yıllık. Şurası on bin. Iki yüz yıldan on
+
+82
+00:05:44,449 --> 00:05:47,810
+bin yıla kadar olan tüm şu gri taralalan var
+
+83
+00:05:48,769 --> 00:05:53,250
+ya şu mavi eğri tamamının altındaki yani buradaki
+
+84
+00:05:53,250 --> 00:05:56,129
+ortalamayı aslında altındaki alanı buluyor. Bu
+
+85
+00:05:56,129 --> 00:05:59,329
+ortalama yani şu şey çizgisi yani şu kesik
+
+86
+00:05:59,329 --> 00:06:03,410
+çizgiyle gösterir miyiz? Hani diyoruz ki iki yüz
+
+87
+00:06:03,410 --> 00:06:07,490
+yıl tamam bir eşik iki yüzün üstünde pekine
+
+88
+00:06:07,490 --> 00:06:11,730
+kadar şey olur eee ortalama da bu da iki yüz altmış
+
+89
+00:06:11,730 --> 00:06:15,170
+yedi milyon mesela bununki. Ama diğerine baktığımız
+
+90
+00:06:15,170 --> 00:06:18,769
+zaman bu iki yüzde iki yüz ama işte atıyorum on
+
+91
+00:06:18,769 --> 00:06:22,050
+bin de ta sekiz yüz dokuz yüzlere çıkıyor. Bunun
+
+92
+00:06:22,050 --> 00:06:25,250
+ortalamasına baktığımız zamansa beş yüz otuz üç
+
+93
+00:06:25,250 --> 00:06:32,850
+milyon eee tel value et risk değeri ortaya çıkıyor. Bu
+
+94
+00:06:32,850 --> 00:06:35,649
+bu şekilde hesaplanıyor yani hesap mantığı bu
+
+95
+00:06:35,649 --> 00:06:40,050
+şekilde eee hani neden ihtiyaç duyuluyor noktası
+
+96
+00:06:40,050 --> 00:06:44,290
+da hani dediğim gibi burada herhangi bir value
+
+97
+00:06:44,290 --> 00:06:47,329
+et risk değeri yani sizi gördüğünüz işte
+
+98
+00:06:47,329 --> 00:06:50,529
+vendorların da verdiği bizim de verdiğimiz o IP
+
+99
+00:06:50,529 --> 00:06:54,850
+değerleri tamamen şu pointi gösteriyor. Bu dağılım
+
+100
+00:06:54,850 --> 00:06:59,410
+içerisinde şu noktayı çekip alıyor. Ama eee bu
+
+101
+00:06:59,410 --> 00:07:02,850
+noktanı nasıl gideceği hani bunun ötesinin hakkında
+
+102
+00:07:02,850 --> 00:07:07,009
+hiçbir bilgisi yok. Ama bu tel value et risk ise buradan
+
+103
+00:07:07,009 --> 00:07:09,490
+sonraki tüm hepsinin ortalamasını aldığı için
+
+104
+00:07:09,490 --> 00:07:12,610
+buradan sonrası hakkında da bir fikir veriyor
+
+105
+00:07:12,610 --> 00:07:16,930
+aslında. Yani ben bunun şey gibi anlamadım yani bu iki yüz
+
+106
+00:07:16,930 --> 00:07:21,810
+yıldan sonraki en büyük olayları dikkate alıyor gibi
+
+107
+00:07:21,810 --> 00:07:25,439
+anlamıştım ama siz ortalamasına alıyor diyorsunuz. Eee
+
+108
+00:07:25,439 --> 00:07:30,399
+şimdi şey yani olay aslında eee biraz daha yıldan
+
+109
+00:07:30,399 --> 00:07:34,639
+olasılığa eee olasılık tarafını düşünürsek daha
+
+110
+00:07:34,639 --> 00:07:38,240
+eee doğru olur. Yani şurada ifade etmeye çalıştım.
+
+111
+00:07:38,959 --> 00:07:43,279
+Eee aslında iki yüz yılda bir. Her yıl yüzde sıfır nokta beş
+
+112
+00:07:43,279 --> 00:07:47,300
+olasılıkla aşılması beklenen anlamına geliyor. Anladım.
+
+113
+00:07:47,300 --> 00:07:51,779
+Yani yüzde sıfır nokta dört olduğu zaman şu olasılık bu
+
+114
+00:07:51,779 --> 00:07:55,139
+iki yüz elli oluyor. İşte yüzde sıfır nokta eee sıfır
+
+115
+00:07:55,139 --> 00:07:58,180
+biri olduğu zaman bu on bin oluyor. Aslında tamamen
+
+116
+00:07:58,180 --> 00:08:01,860
+bir olasılık dağılımı var ve biz bunların şu o yani
+
+117
+00:08:01,860 --> 00:08:06,100
+şu yüzde sıfır nokta sıfır beş demek yerine buna
+
+118
+00:08:06,100 --> 00:08:09,540
+iki yüz yılda bir diyoruz. Çünkü neden? Önümüzdeki yıl
+
+119
+00:08:09,540 --> 00:08:13,939
+yüzde sıfır nokta beş olasılıkla aşılması beklendiği için
+
+120
+00:08:13,939 --> 00:08:19,779
+bunu yani birbölü yüz eee yüzde sıfır nokta eee beş
+
+121
+00:08:19,779 --> 00:08:23,459
+olarak yaptığımız zaman şey oluyor zaten. Iki yüz e tek
+
+122
+00:08:23,459 --> 00:08:26,420
+habile etmiş oluyor. Anlatabildim mi? Anladım. Anladım.
+
+123
+00:08:26,420 --> 00:08:30,420
+Anladım. Anladım. Bu aslında tamamen yıl hani yıl
+
+124
+00:08:30,420 --> 00:08:33,460
+üzerinden konuşunca sanki şeymiş gibi oluyor. Hani
+
+125
+00:08:33,460 --> 00:08:37,059
+iki yüz yılda bir yani daha doğrusu iki yüz yıl sonra bir
+
+126
+00:08:37,059 --> 00:08:41,220
+deprem olacak. Onun bir hasarı olacak. Bir de ondan sonra
+
+127
+00:08:41,220 --> 00:08:46,259
+olan. Aynen bu tamamen bir olasılık şey. Ha burada bu
+
+128
+00:08:46,259 --> 00:08:50,740
+yani yine bunun üzerine düşünürsek de eee iki yüz yılda
+
+129
+00:08:50,740 --> 00:08:54,419
+bir ve daha düşük olasılıklarla yani yüzde sıfır nokta
+
+130
+00:08:54,419 --> 00:08:57,700
+beş yüzde sıfır nokta sıfır dört vesaire tamamına
+
+131
+00:08:57,700 --> 00:09:00,740
+böyle gittiğimiz zaman bu eğri çıkıyor zaten ortaya.
+
+132
+00:09:01,299 --> 00:09:06,019
+Eee buranın da ortalaması. Hani burada iki yüz veya işte
+
+133
+00:09:06,019 --> 00:09:10,419
+tail value iki yüz tail value yüz vesaire bunlar da yine yani
+
+134
+00:09:10,419 --> 00:09:15,139
+yüz hesaplayacak olsak şuradan itibaren ortalaması vesaire
+
+135
+00:09:15,139 --> 00:09:18,820
+gibi eee bu şekilde yani genel mantığını umarım
+
+136
+00:09:18,820 --> 00:09:22,179
+anlatabildim. Anladım. Ben şu an çok net bir şekilde
+
+137
+00:09:22,179 --> 00:09:24,659
+anlamıyorum. Çok teşekkür ederim. Peki biz bu konuyu
+
+138
+00:09:24,659 --> 00:09:30,879
+nereden geldik? Biz bu konuyu nereden geldik? Eee yani
+
+139
+00:09:30,879 --> 00:09:35,120
+bizim hayatımızda hiç koyduk riskeliğe bir şey yokken eee
+
+140
+00:09:35,120 --> 00:09:41,649
+neden şu an biz bunu konuşur olduk? Evet eee güzel güzel bir
+
+141
+00:09:41,649 --> 00:09:45,889
+soru. Yani karar mekanizmalarında sadece
+
+142
+00:09:45,889 --> 00:09:49,330
+rütam, periyot, losunun değerlendirilmesinin
+
+143
+00:09:49,330 --> 00:09:54,129
+yeterli giyan neciyi olmayabileceğin tartışması.
+
+144
+00:09:54,129 --> 00:09:57,889
+Yani aslında evet hani burada bir şey daha sonra
+
+145
+00:09:57,970 --> 00:10:03,649
+bir bilin yiyin. Tabii. Eee solvnside bu kuyruk riski
+
+146
+00:10:03,649 --> 00:10:07,169
+dikkate alınıyormuş diye anladım ben Sinem Hoca'nın
+
+147
+00:10:07,169 --> 00:10:11,740
+çalışma sanatı öyle mi? Şimdi Solvnsi
+
+148
+00:10:11,740 --> 00:10:15,500
+iki de yapılan çalışmanın arpa da ki reserleri
+
+149
+00:10:15,500 --> 00:10:20,860
+yaptığı çalışmaların eee bir eee kapsayısını mı
+
+150
+00:10:20,860 --> 00:10:23,659
+dikkate almış oluyoruz biz bu kuyruk riskini
+
+151
+00:10:23,659 --> 00:10:27,019
+dikkate aldığınızda? Eee şöyle bildiğim kadarıyla
+
+152
+00:10:27,179 --> 00:10:31,779
+solvnside eee şey yapıyor. Eee termal yeterli
+
+153
+00:10:31,779 --> 00:10:35,379
+iki katlanıyor. 200 yıllık şeye göre koruma
+
+154
+00:10:35,379 --> 00:10:39,539
+eee aldırıyor bildiğim kadarıyla. Eee tail value
+
+155
+00:10:39,539 --> 00:10:43,820
+dikkate alıp almadığını açıkçası bilmiyorum. Eee
+
+156
+00:10:43,820 --> 00:10:46,700
+yani bizim gibi onlar da yani benim bildiğim
+
+157
+00:10:46,700 --> 00:10:50,139
+şu an eee konuşuyorum. Eee 200 yıllık
+
+158
+00:10:50,139 --> 00:10:53,580
+eee value et riske bakıyorlar. Yani biz nasıl
+
+159
+00:10:53,580 --> 00:10:56,700
+250 yıla bakıyoruz ya onlar 200'e bakıyorlar.
+
+160
+00:10:56,779 --> 00:11:00,539
+Tabii burada yani onların depremden ziyade böyle işte
+
+161
+00:11:00,539 --> 00:11:04,460
+daha kombine bir şeyleri var. Bizde deprem çok ağırlık
+
+162
+00:11:04,460 --> 00:11:08,220
+eee kazanıyor falan. Bunlar da ayrı konular ama
+
+163
+00:11:08,220 --> 00:11:11,980
+şey yani orada bir tail value et riske hesabı en azından
+
+164
+00:11:11,980 --> 00:11:17,179
+benim bildiğim kapsam da yok. Eee Sinem Hoca'nın
+
+165
+00:11:17,179 --> 00:11:21,419
+anlatmaya çalıştığı şey ama hani biz eee
+
+166
+00:11:21,419 --> 00:11:25,090
+aslında sadece bu olasılığı değil de bunun
+
+167
+00:11:25,169 --> 00:11:27,570
+ötesini de dikkate alarak bir
+
+168
+00:11:27,570 --> 00:11:30,850
+malıyız. Aynen koruma eee yapısı
+
+169
+00:11:30,850 --> 00:11:35,840
+oluşturulmalıyızı eee savunuyor. Peki biz
+
+170
+00:11:35,840 --> 00:11:38,480
+şu an eee bugün Elif Hanım'ın hayatlığımız
+
+171
+00:11:38,480 --> 00:11:40,879
+konuşma çok kısa telefonda konuştuk ama
+
+172
+00:11:40,879 --> 00:11:44,000
+şu an bizim modellemek dolu muza bu çalışma
+
+173
+00:11:44,000 --> 00:11:46,879
+eklendi mi diye anlamalıyım ben. Kuyruk
+
+174
+00:11:46,879 --> 00:11:50,320
+Riski. Eee biz şu anda yani ket mod örneğin
+
+175
+00:11:50,320 --> 00:11:53,919
+şöyle şimdi işte yani bunlar oran ama
+
+176
+00:11:54,080 --> 00:11:56,879
+o ipi değeri veriyoruz ya size her bir şeyde.
+
+177
+00:11:56,879 --> 00:12:00,000
+Evet. Bunun her birinde şu an ket mod tail value
+
+178
+00:12:00,000 --> 00:12:03,360
+et riske de verici hale aslında verebiliyor.
+
+179
+00:12:03,360 --> 00:12:07,360
+Ama şey TRT modellemesi için konuşuyordun değil mi?
+
+180
+00:12:07,360 --> 00:12:09,919
+İhtiyarın bunun içinden şey geçerli. Aynı şey
+
+181
+00:12:09,919 --> 00:12:13,120
+geçerli. Ha geçerli. Onda da verebiliyorum.
+
+182
+00:12:13,120 --> 00:12:16,080
+Ama şey single risk de yok anladım kadere şu an.
+
+183
+00:12:16,080 --> 00:12:19,919
+Hat yani şöyle aynen ya o single risk biz
+
+184
+00:12:19,919 --> 00:12:21,919
+ayrı hani önyüzü falan olan bir şey olduğu
+
+185
+00:12:21,919 --> 00:12:24,799
+için. Ket modun içinde hesaplanıyor. Orada
+
+186
+00:12:24,799 --> 00:12:28,240
+gösterilmiyor şu aşamada benim bildiğim. Doğruyum
+
+187
+00:12:28,240 --> 00:12:32,000
+değil mi Elif? Evet evet şu an doğru doğru risk
+
+188
+00:12:32,000 --> 00:12:35,279
+korlamada çıktı olarak gösterilmiyor ama en kısa
+
+189
+00:12:35,279 --> 00:12:39,919
+zamanda eee geliştirilmeler eee şey eklenecek.
+
+190
+00:12:39,919 --> 00:12:43,840
+İstinir sadece bir hani zaten hesaplanıyor
+
+191
+00:12:43,840 --> 00:12:46,799
+içeride. O hesaplama orada gösterilme de
+
+192
+00:12:46,799 --> 00:12:50,240
+yapılabilir. Anladım. Eee ben
+
+193
+00:12:50,240 --> 00:12:53,440
+gerçekten çok teşekkür ediyorum. Yani eee kafam
+
+194
+00:12:53,440 --> 00:12:55,759
+çok karışmış ama şu an çok net bir şekilde
+
+195
+00:12:55,759 --> 00:12:59,679
+anladım. Bu hazırladığınız iki slid da eee net
+
+196
+00:12:59,679 --> 00:13:02,639
+şekilde anlamamı çok faydalı oldu. Çok
+
+197
+00:13:02,639 --> 00:13:06,080
+teşekkür ederim. Çok sevindim. Eee ben bu anlızın
+
+198
+00:13:06,080 --> 00:13:08,720
+konuları Utku Bey'i de aktaracağım. Kendi üst
+
+199
+00:13:08,720 --> 00:13:10,399
+yönetiminizi de aktaracağım. Hani sizin
+
+200
+00:13:10,399 --> 00:13:13,679
+yaptığınız çalışmaları eee ilave olarak bize
+
+201
+00:13:13,679 --> 00:13:16,559
+nasıl bir eee veri sağlayabileceği
+
+202
+00:13:16,559 --> 00:13:19,840
+hususunda. Eee sonrasında tekrar da
+
+203
+00:13:19,840 --> 00:13:24,159
+haberleşiyoruz. O zaman biz şu anda eee retro
+
+204
+00:13:24,159 --> 00:13:27,840
+yenilmesi için yapılacak olan modellemede eee
+
+205
+00:13:27,840 --> 00:13:33,649
+bunu da görecek miyiz kuyruk riskini? Eee şey yani bu
+
+206
+00:13:33,649 --> 00:13:36,370
+şu an seriyi sağlayabiliyoruz. Eee ama
+
+207
+00:13:36,370 --> 00:13:41,009
+açıkçası hani eee o şekilde eee çift olarak
+
+208
+00:13:41,009 --> 00:13:44,049
+vereceğiz vermeyeceğiz. Konuşmadık. Eee ama
+
+209
+00:13:45,009 --> 00:13:48,210
+hani bir Sinan Hoca'yla görüşmek gerekir ama eee
+
+210
+00:13:48,210 --> 00:13:50,450
+çıktı'yı da sağlayabiliyoruz aslında yani öyle
+
+211
+00:13:50,450 --> 00:13:53,809
+söyleyeyim. Tamam şu anda eee problemliği ben
+
+212
+00:13:53,809 --> 00:13:56,370
+hadi şey pridin neresinde olduğumuzu
+
+213
+00:13:56,370 --> 00:13:58,610
+anlamak adına soruyorum. Evet. Tamam da çok
+
+214
+00:13:58,610 --> 00:14:00,769
+teşekkür ederim. Eee bir de şey ilayda hanım hani
+
+215
+00:14:00,769 --> 00:14:04,289
+burada bir işte teyil veliyeti diye bir
+
+216
+00:14:04,289 --> 00:14:08,210
+hesap yapılıyor ya burada. Evet. Bu hesabın
+
+217
+00:14:08,210 --> 00:14:10,850
+aslında hani orada bir değer olacak ama bu
+
+218
+00:14:10,850 --> 00:14:12,610
+değerin nasıl kullanılacağı aslında
+
+219
+00:14:12,610 --> 00:14:17,250
+önemli oluyor. Yani diyelim ki eee hani
+
+220
+00:14:17,250 --> 00:14:20,450
+iki yüz elli yıllık şey hani CDDK diyor
+
+221
+00:14:20,450 --> 00:14:23,570
+iki yüz elli yıllık PML'i işte eee aşamaz
+
+222
+00:14:23,570 --> 00:14:26,850
+vesaire. Hani bu burada direkt böyle bir şey
+
+223
+00:14:26,850 --> 00:14:30,129
+olmadığı için o değeri nasıl kullanılacağı
+
+224
+00:14:30,129 --> 00:14:33,809
+üzerine biraz daha eee zaten Sinan Hoca'nın
+
+225
+00:14:33,809 --> 00:14:37,169
+o diğer sunulmundaki hani siz görmüşsünüzdür
+
+226
+00:14:37,169 --> 00:14:40,929
+formüller vesaireler. Onlar o yani bu
+
+227
+00:14:40,929 --> 00:14:43,889
+değer aslında tüm şeyin bir bileşe ne
+
+228
+00:14:43,889 --> 00:14:47,009
+oluyor? Yani bu değer tek başına işte
+
+229
+00:14:47,009 --> 00:14:50,690
+korumayı belirleyen bir noktada olmuyor
+
+230
+00:14:50,690 --> 00:14:52,610
+yani anlatabiliyor mu? Ya bu değer bence
+
+231
+00:14:52,610 --> 00:14:54,850
+korumayı değil sermaye yeterliliğine
+
+232
+00:14:54,850 --> 00:14:59,149
+çekilir. Evet. Evet. Aynen. Yani daha
+
+233
+00:14:59,149 --> 00:15:02,830
+çok sermaye eee evet aynen yani o
+
+234
+00:15:02,830 --> 00:15:05,629
+sermaye ya tam hatırlamıyorum ama bu
+
+235
+00:15:05,629 --> 00:15:07,549
+yüzde onun aşamaz gibi bir şey miydi
+
+236
+00:15:07,549 --> 00:15:11,389
+şeyde? Doğru. Doğru değil. Evet.
+
+237
+00:15:11,389 --> 00:15:15,389
+Yani o tarz yani o tarz yönetmelikleri de
+
+238
+00:15:15,389 --> 00:15:19,789
+aslında etkileyebilecek bir eee şey noktasına
+
+239
+00:15:19,789 --> 00:15:25,330
+gidebilir. Çok teşekkür ediyorum. Ben sizinle
+
+240
+00:15:25,330 --> 00:15:27,490
+hani geçip vakitte daha fazla vaktinizi
+
+241
+00:15:27,490 --> 00:15:30,610
+almak istemiyorum. Eee bir daha farklı bir
+
+242
+00:15:30,610 --> 00:15:33,649
+konumuz olursa veya bilini farklı şore şartma
+
+243
+00:15:33,649 --> 00:15:36,669
+mutlaka sizinle iletişime geçelim. Peki
+
+244
+00:15:36,669 --> 00:15:40,590
+tamamdır. Kovayasız. İyi günler. Görüşürüz.
+
