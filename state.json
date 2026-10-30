@@ -134,7 +134,7 @@
     "uploaded.srt": true
   },
   "1Wie-c0oQBNM09WwBPHpff4dXoLmysHHI": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260907_140631 - SEDDK.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 260907_140631 - SEDDK.txt",
@@ -142,7 +142,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-30T13:08:17",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 260907_140631 - SEDDK_Rapor.docx",
+    "reported_at": "2026-10-30T13:44:21",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1vlTL-ZlioyEAOYQ9jrUqzufzY_8oWT5I/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1bFBtSLiKFPPnd3G3taANnvJaVqCqh9HV": {
     "status": "reported",
