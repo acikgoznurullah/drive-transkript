@@ -1,0 +1,3540 @@
+1
+00:00:00,000 --> 00:00:01,199
+Birimin yazdı.
+
+2
+00:00:01,199 --> 00:00:02,200
+Evet.
+
+3
+00:00:04,500 --> 00:00:05,500
+Yani...
+
+4
+00:00:05,500 --> 00:00:07,500
+İyi de takinler türlüseydi.
+
+5
+00:00:07,900 --> 00:00:09,500
+Evet. Doğru haklısınız.
+
+6
+00:00:09,900 --> 00:00:12,699
+Merve Hanım, iki talepte bulunuyorsunuz.
+
+7
+00:00:12,699 --> 00:00:14,300
+Bunlardan birincisi,
+
+8
+00:00:15,449 --> 00:00:18,449
+dört senaryoyu temsil eden beşinci senaryo.
+
+9
+00:00:19,050 --> 00:00:22,250
+Her bir senaryonun oluşma ihtimallerini dikkatli olarak.
+
+10
+00:00:23,640 --> 00:00:26,440
+Bunu gerçekleştirmemiz mümkün.
+
+11
+00:00:26,440 --> 00:00:29,839
+Kısa bir üre içerisinde tabi iş programımızı
+
+12
+00:00:30,839 --> 00:00:32,840
+dikkate almak durumundayız.
+
+13
+00:00:33,840 --> 00:00:35,840
+İkinci, ikinci talepiniz
+
+14
+00:00:35,840 --> 00:00:37,840
+her bir senaryo için
+
+15
+00:00:37,840 --> 00:00:42,060
+stokastik hesaplamalar yapsaydık
+
+16
+00:00:42,060 --> 00:00:46,289
+ritönperiyede olarak hangi ritönperiyede dekabir edecek?
+
+17
+00:00:47,509 --> 00:00:48,509
+Bunu istiyorsunuz.
+
+18
+00:00:49,509 --> 00:00:51,509
+Hocam aslında şöyle
+
+19
+00:00:52,509 --> 00:00:54,509
+bu bizim aklımıza gelen şeylerdi de
+
+20
+00:00:54,509 --> 00:00:57,509
+şimdi siz de biliyorsunuz bizim 2012 yılı Genelge'de
+
+21
+00:00:57,509 --> 00:01:00,509
+ya da 250 yılı bir ritönperiyoda göre
+
+22
+00:01:00,509 --> 00:01:03,509
+koruma alasın diyor ya katastrofiklerde.
+
+23
+00:01:03,509 --> 00:01:05,510
+Şimdi şöyle şey oldu.
+
+24
+00:01:05,510 --> 00:01:09,510
+Bu sonuçlar da paylaşıldıktan ve görüşüncükten sonra
+
+25
+00:01:09,510 --> 00:01:12,510
+aslında bizim mevzuat değişikliğine
+
+26
+00:01:13,510 --> 00:01:16,510
+gitmememiz gerektiği yolunda.
+
+27
+00:01:17,510 --> 00:01:20,510
+Orada bir beş yüz yıl, bin yıl ya da her neyse
+
+28
+00:01:20,510 --> 00:01:24,510
+senaryomu gitmeliyiz ya da senaryobazlık gidersek
+
+29
+00:01:24,510 --> 00:01:26,510
+aslında ne şekilde gidecek?
+
+30
+00:01:26,510 --> 00:01:28,510
+Senaryo vermek doğru mu oldu?
+
+31
+00:01:28,510 --> 00:01:31,510
+Aslında biz o Genelge'yi ya da mevzuatı
+
+32
+00:01:31,510 --> 00:01:34,670
+geliştirmeye geliştireceğiz
+
+33
+00:01:34,670 --> 00:01:38,670
+ve şirketlerin korumalarını
+
+34
+00:01:38,670 --> 00:01:42,670
+yani buna göre almaları şeklinde bir tarzda olacak.
+
+35
+00:01:42,670 --> 00:01:45,670
+Şu anki 250 yılı ritönperiyoda göre ya
+
+36
+00:01:45,670 --> 00:01:46,670
+onu geliştireceğiz.
+
+37
+00:01:46,670 --> 00:01:49,670
+Hani biz sadece onu öyle yazdık
+
+38
+00:01:49,670 --> 00:01:51,670
+belki farklı bakış açısı ve şey de olabilir.
+
+39
+00:01:51,670 --> 00:01:54,670
+Hani senaryo söyleyelim gibi de konuşuldu
+
+40
+00:01:54,670 --> 00:01:56,670
+ama tek bir senaryo
+
+41
+00:01:56,670 --> 00:01:58,670
+vermek doğru mudur bilmiyorum.
+
+42
+00:01:58,670 --> 00:02:01,670
+Aslında sizlerin görüntüleri de orada önemli.
+
+43
+00:02:01,670 --> 00:02:04,670
+Biz meyilliği o şekilde yazmış olduk ama
+
+44
+00:02:04,670 --> 00:02:07,670
+belki tartışıp aşağıya atılabilir.
+
+45
+00:02:07,670 --> 00:02:10,669
+Merve Hanım o zaman şöyle bir şey yapabiliriz.
+
+46
+00:02:10,669 --> 00:02:12,669
+Yani ister seçimin işini
+
+47
+00:02:12,669 --> 00:02:15,740
+bu şey çalışma
+
+48
+00:02:15,740 --> 00:02:19,120
+Marmara Denizli'ni
+
+49
+00:02:19,120 --> 00:02:21,120
+ya da Marmara bölgesini kapsıyor.
+
+50
+00:02:21,120 --> 00:02:22,120
+Evet.
+
+51
+00:02:22,120 --> 00:02:26,659
+Ali ile özellikle Marmara Denizli'de dediğiniz
+
+52
+00:02:26,659 --> 00:02:28,659
+yani Yunan gibi o şekilde
+
+53
+00:02:28,659 --> 00:02:30,659
+dendiği için Marmara Denizli'ndeki
+
+54
+00:02:30,659 --> 00:02:33,659
+ulusu deprem senaryoları
+
+55
+00:02:33,659 --> 00:02:37,659
+ve buradaki büyük deprem senaryolarından bahsediyoruz.
+
+56
+00:02:37,659 --> 00:02:39,699
+Bahsediyoruz.
+
+57
+00:02:39,699 --> 00:02:43,699
+Bu anlamda stokastik bir hesap yaptığımızda
+
+58
+00:02:43,699 --> 00:02:46,949
+siz kıyaslarınızı
+
+59
+00:02:46,949 --> 00:02:48,949
+çok büyük deprem senaryoları
+
+60
+00:02:48,949 --> 00:02:50,949
+üstümden gerçekleştireceksiniz.
+
+61
+00:02:50,949 --> 00:02:53,949
+Yani bir stokastik hesap yapacağız.
+
+62
+00:02:53,949 --> 00:02:56,949
+Marmara bölgesinin genel deprem seriliğini
+
+63
+00:02:56,949 --> 00:02:57,949
+dikkate alacağız.
+
+64
+00:02:57,949 --> 00:03:00,949
+Birlik deprem seriliğini dikkate alacağız.
+
+65
+00:03:00,949 --> 00:03:04,949
+Arkasından bu deprem senaryoları
+
+66
+00:03:04,949 --> 00:03:06,949
+4 tane deprem senaryosunu
+
+67
+00:03:06,949 --> 00:03:08,949
+bu stokastik deprem senaryoları
+
+68
+00:03:08,949 --> 00:03:11,949
+üstünden değerlendireceğiz.
+
+69
+00:03:11,949 --> 00:03:14,949
+Burada tam olarak
+
+70
+00:03:14,949 --> 00:03:18,949
+sizi doğru yönlendirecek neticeye gidemeyebiliriz.
+
+71
+00:03:18,949 --> 00:03:21,210
+Bir tanesi
+
+72
+00:03:21,210 --> 00:03:24,210
+olabilecek en kötü senaryolar
+
+73
+00:03:24,210 --> 00:03:28,210
+bir de bütün genel deprem
+
+74
+00:03:28,210 --> 00:03:31,210
+yani oradaki yıllık sismik aktiviteyi
+
+75
+00:03:31,210 --> 00:03:34,210
+dikkate aldığınızda elde ettiğiniz
+
+76
+00:03:34,210 --> 00:03:35,300
+sonuçlar.
+
+77
+00:03:35,300 --> 00:03:39,620
+Şimdi bu birinci şey
+
+78
+00:03:39,620 --> 00:03:41,620
+aklıma gelenleri size sayıyorum.
+
+79
+00:03:41,620 --> 00:03:43,780
+İkincisi
+
+80
+00:03:43,780 --> 00:03:45,780
+Türkiye'nin her tarafı
+
+81
+00:03:45,780 --> 00:03:48,069
+Marmara bölgesi kadar
+
+82
+00:03:48,069 --> 00:03:50,069
+veya Marmara denizindeki
+
+83
+00:03:50,069 --> 00:03:52,069
+deprem aktivitesi kadar
+
+84
+00:03:52,069 --> 00:03:55,069
+yüksek aktiviteye sahip olmayabilir.
+
+85
+00:03:55,069 --> 00:03:57,069
+Buna mukabe
+
+86
+00:03:57,069 --> 00:03:59,069
+kümül anlamında
+
+87
+00:03:59,069 --> 00:04:01,069
+oldukça gene
+
+88
+00:04:01,069 --> 00:04:04,169
+toplam sigorta beliricisinden
+
+89
+00:04:04,169 --> 00:04:06,169
+yüksek bölgeler var.
+
+90
+00:04:06,169 --> 00:04:09,169
+Bunlara en rahat verebileceğim cevap.
+
+91
+00:04:09,169 --> 00:04:11,169
+Türkiye
+
+92
+00:04:11,169 --> 00:04:14,169
+Ankara, Ankara ve civarı.
+
+93
+00:04:14,169 --> 00:04:16,170
+Ankara'da da
+
+94
+00:04:16,170 --> 00:04:18,170
+son zamanlarda
+
+95
+00:04:18,170 --> 00:04:20,170
+savunma sanayi ile alakalı
+
+96
+00:04:20,170 --> 00:04:22,170
+çok ciddi tesisler
+
+97
+00:04:22,170 --> 00:04:24,170
+oluşmaya başladı.
+
+98
+00:04:24,170 --> 00:04:25,170
+Aynı zamanda
+
+99
+00:04:25,170 --> 00:04:27,170
+Türkiye'nin ikinci büyük şehri
+
+100
+00:04:27,170 --> 00:04:31,170
+buradaki risk aslında bakarsanız
+
+101
+00:04:31,170 --> 00:04:33,170
+gene çok büyük.
+
+102
+00:04:33,170 --> 00:04:34,170
+Buna mukabe
+
+103
+00:04:34,170 --> 00:04:36,170
+oradaki tehlike
+
+104
+00:04:36,170 --> 00:04:39,199
+şimdi bütün bunların hepsini
+
+105
+00:04:39,199 --> 00:04:41,199
+birazcık daha sisti yani
+
+106
+00:04:41,199 --> 00:04:44,810
+ikinci söylediğiniz koyunla ilgili konuşuyorum ben bu aranı.
+
+107
+00:04:45,810 --> 00:04:50,810
+Yönergede
+
+108
+00:04:50,810 --> 00:04:52,810
+işte 250 yılı dikkate almışız.
+
+109
+00:04:52,810 --> 00:04:54,810
+Bunu 501 yıl mı yap
+
+110
+00:04:54,810 --> 00:04:56,810
+yoksa daha düşük bir rütör
+
+111
+00:04:56,810 --> 00:04:58,810
+peritme yapmalıyız gibilerinden
+
+112
+00:04:58,810 --> 00:05:01,379
+bir çalışmayı
+
+113
+00:05:01,379 --> 00:05:03,379
+yalnızca bence Marmara Denizi
+
+114
+00:05:03,379 --> 00:05:05,379
+kapsam ya da Marmara Denizi
+
+115
+00:05:05,379 --> 00:05:07,379
+sismiste
+
+116
+00:05:07,379 --> 00:05:09,379
+ya da Marmara Denizi
+
+117
+00:05:09,379 --> 00:05:11,379
+bölgesindeki kümüllere
+
+118
+00:05:11,379 --> 00:05:14,379
+çok önemlidir bu ayrı mesele
+
+119
+00:05:14,379 --> 00:05:17,379
+bağlamamak gerekir.
+
+120
+00:05:17,379 --> 00:05:19,379
+Çünkü yönergede
+
+121
+00:05:19,379 --> 00:05:22,930
+bu yönetmelik
+
+122
+00:05:22,930 --> 00:05:26,019
+Türkiye'nin geneli için geçerli olacak.
+
+123
+00:05:26,019 --> 00:05:28,019
+Burada Marmara bölgesinin
+
+124
+00:05:28,019 --> 00:05:32,300
+önemi bu pratikte
+
+125
+00:05:32,300 --> 00:05:34,300
+yani sigorta şirketlerinin
+
+126
+00:05:34,300 --> 00:05:36,300
+yıllık korumalarını alırken
+
+127
+00:05:36,300 --> 00:05:38,300
+dikkate aldıkları o pratikte
+
+128
+00:05:38,300 --> 00:05:40,300
+önemli bir nokta.
+
+129
+00:05:40,300 --> 00:05:42,300
+Buna mukabil dediğim gibi
+
+130
+00:05:42,300 --> 00:05:44,300
+genele bakarak oradan bir
+
+131
+00:05:44,300 --> 00:05:46,339
+tırma yapmak
+
+132
+00:05:46,339 --> 00:05:48,339
+çok daha önemli olur.
+
+133
+00:05:48,339 --> 00:05:50,339
+Ben şöyle bir şey size
+
+134
+00:05:50,339 --> 00:05:52,339
+sorabilir miyim izin verir misiniz?
+
+135
+00:05:52,339 --> 00:05:54,339
+Bizim bu yapma yani bizden
+
+136
+00:05:54,339 --> 00:05:56,339
+talep ettiğiniz bu çalışmaları
+
+137
+00:05:56,339 --> 00:05:58,339
+ikincisinde
+
+138
+00:05:58,339 --> 00:06:00,339
+daha çok vurgulamak istiyorum
+
+139
+00:06:00,339 --> 00:06:02,339
+ikincisinde
+
+140
+00:06:02,339 --> 00:06:04,339
+siz bu ne zaman
+
+141
+00:06:04,339 --> 00:06:06,339
+daire başkanlığın
+
+142
+00:06:06,339 --> 00:06:08,689
+veya da ilgili
+
+143
+00:06:08,689 --> 00:06:11,230
+yöneticilerle
+
+144
+00:06:11,230 --> 00:06:13,230
+bakanlık mensuplarıyla
+
+145
+00:06:13,230 --> 00:06:15,230
+görüşüldü aslında bakarsanız
+
+146
+00:06:15,230 --> 00:06:17,230
+o kurulda
+
+147
+00:06:17,230 --> 00:06:19,230
+kurula görüşüldü, sonuçlar paylaşıldı
+
+148
+00:06:19,230 --> 00:06:21,230
+onun sonunda
+
+149
+00:06:21,230 --> 00:06:23,230
+artık şu karar
+
+150
+00:06:23,230 --> 00:06:25,230
+çıktı
+
+151
+00:06:25,230 --> 00:06:27,230
+bu şirketler
+
+152
+00:06:27,230 --> 00:06:29,230
+korumalarını
+
+153
+00:06:29,230 --> 00:06:31,230
+şu an ki mevcut mevzu
+
+154
+00:06:31,230 --> 00:06:33,230
+da 250 yıla göre alıyor
+
+155
+00:06:33,230 --> 00:06:35,230
+bir senaryo bazı bunları çalıştığımızda
+
+156
+00:06:35,230 --> 00:06:37,230
+şirketlerin
+
+157
+00:06:37,230 --> 00:06:39,230
+çoğu sermayeyi tersizliğini
+
+158
+00:06:39,230 --> 00:06:41,230
+ya da koruma yetersizliğini
+
+159
+00:06:41,230 --> 00:06:43,230
+ve sonrasında sermayeyi sıkıntısını
+
+160
+00:06:43,230 --> 00:06:45,230
+düşüyorlar. Dolayısıyla artık
+
+161
+00:06:45,230 --> 00:06:47,230
+bu bizim
+
+162
+00:06:47,230 --> 00:06:49,230
+250 yıl dediğimiz şey
+
+163
+00:06:49,230 --> 00:06:51,230
+biz daha gerçekçi
+
+164
+00:06:51,230 --> 00:06:53,230
+hale getirmeliyiz
+
+165
+00:06:53,230 --> 00:06:55,230
+dolayısıyla bu
+
+166
+00:06:55,230 --> 00:06:57,230
+senaryo bazılımı
+
+167
+00:06:57,230 --> 00:06:59,230
+olmalı aslında bakarsanız senaryo üstünden mi
+
+168
+00:06:59,230 --> 00:07:01,230
+gitmiyor? Şu an çünkü 250 yıllık
+
+169
+00:07:01,230 --> 00:07:03,230
+bütün periode göre çalışıyor
+
+170
+00:07:03,230 --> 00:07:05,230
+ya da hani bunu çalışması
+
+171
+00:07:05,230 --> 00:07:07,230
+zorsa
+
+172
+00:07:07,230 --> 00:07:09,230
+bu senaryoların
+
+173
+00:07:09,230 --> 00:07:11,230
+kastık tarafta bir karşılığı var
+
+174
+00:07:11,230 --> 00:07:13,230
+ve bu 1000 yıla geliyorsa biz artık
+
+175
+00:07:13,230 --> 00:07:15,230
+bu genelde 1000 yı diyelim
+
+176
+00:07:15,230 --> 00:07:17,230
+hani burada biz bir değişiklik
+
+177
+00:07:17,230 --> 00:07:19,230
+yapacağız çünkü artık
+
+178
+00:07:19,230 --> 00:07:21,230
+belli ki korumalar yetersiz kalıyor
+
+179
+00:07:21,230 --> 00:07:23,230
+dolayısıyla
+
+180
+00:07:23,230 --> 00:07:25,230
+mevzuat değişikliğine
+
+181
+00:07:25,230 --> 00:07:27,230
+gitmemiz gerekiyor. Şu an
+
+182
+00:07:27,230 --> 00:07:29,230
+o noktada sonuçlar görüldü paylaşıldı
+
+183
+00:07:29,230 --> 00:07:31,230
+raporu yazıldı
+
+184
+00:07:31,230 --> 00:07:33,230
+eee
+
+185
+00:07:33,230 --> 00:07:35,709
+anladım. Şimdi
+
+186
+00:07:35,709 --> 00:07:37,709
+Merve'nin... Aksi olarak
+
+187
+00:07:37,709 --> 00:07:39,709
+şey şu oldu, bizim mevzuatımız
+
+188
+00:07:39,709 --> 00:07:41,709
+yetersiz kalıyor
+
+189
+00:07:41,709 --> 00:07:43,709
+olabilir bu sonuçlara göre
+
+190
+00:07:43,709 --> 00:07:45,709
+eee
+
+191
+00:07:45,709 --> 00:07:47,709
+kalıyor sonuçların doğru olduğu
+
+192
+00:07:47,709 --> 00:07:49,709
+düşündüğümüz durumda aslında bakarsanız
+
+193
+00:07:49,709 --> 00:07:51,709
+dolayısıyla biz bu tarafta
+
+194
+00:07:51,709 --> 00:07:54,100
+mevzuat değişikliğine gitmeyelim ve bu ne olmalı
+
+195
+00:07:54,100 --> 00:07:56,100
+şu an o noktada yesin
+
+196
+00:07:56,100 --> 00:07:58,100
+ya şöyle bir şey tekrarlayayım size
+
+197
+00:07:58,100 --> 00:08:00,100
+eee siz
+
+198
+00:08:00,100 --> 00:08:02,100
+Türkiye'nin genelini
+
+199
+00:08:02,100 --> 00:08:04,189
+etkilecek bir mevzuat değişikliğini
+
+200
+00:08:04,189 --> 00:08:06,189
+bana kalırsa yalnızca
+
+201
+00:08:06,189 --> 00:08:08,189
+bölgesi üstünden değerlendirdiğiniz zaman
+
+202
+00:08:08,189 --> 00:08:10,189
+ve bunu da senaryo tabağına
+
+203
+00:08:10,189 --> 00:08:12,189
+çok karak yani çok üdük ve
+
+204
+00:08:12,189 --> 00:08:14,189
+fremler üstünden değerlendirdiğiniz
+
+205
+00:08:14,189 --> 00:08:16,189
+vakit eee
+
+206
+00:08:16,189 --> 00:08:18,189
+oldukça
+
+207
+00:08:18,189 --> 00:08:20,189
+konservatif tarafta kalabilecek
+
+208
+00:08:20,189 --> 00:08:22,189
+kararlar alabilir. Evet bu da olabilir
+
+209
+00:08:22,189 --> 00:08:24,189
+evet bu
+
+210
+00:08:24,189 --> 00:08:26,189
+yani benim ellerim şöyle bunun
+
+211
+00:08:26,189 --> 00:08:28,189
+perspektifini bunun genelini
+
+212
+00:08:28,189 --> 00:08:30,930
+birazcık daha açarak
+
+213
+00:08:30,930 --> 00:08:32,929
+daha yani
+
+214
+00:08:32,929 --> 00:08:34,929
+eee sizi
+
+215
+00:08:34,929 --> 00:08:36,929
+sizin tarafınızdan
+
+216
+00:08:36,929 --> 00:08:38,929
+daha geniş düşünmeye
+
+217
+00:08:38,929 --> 00:08:40,929
+sevk edecek bir çalışma yapabiliriz
+
+218
+00:08:40,929 --> 00:08:44,269
+ben bunu söyleyeceğim. Yani yalnızca
+
+219
+00:08:44,269 --> 00:08:46,269
+bunu marmara bölgesi
+
+220
+00:08:46,269 --> 00:08:49,389
+olarak dikkate almayalım lütfen
+
+221
+00:08:49,389 --> 00:08:51,389
+ve hatta marmara bölgesinde
+
+222
+00:08:51,389 --> 00:08:53,389
+marmara denizi içerisinde
+
+223
+00:08:53,389 --> 00:08:55,389
+gerçekleşmesi beklenen
+
+224
+00:08:55,389 --> 00:08:57,620
+işte büyük devrem
+
+225
+00:08:57,620 --> 00:08:59,620
+senaryosu özelliğinde dikkate almayalım
+
+226
+00:08:59,620 --> 00:09:02,159
+bunu
+
+227
+00:09:02,159 --> 00:09:04,159
+daha gerçekçi
+
+228
+00:09:04,159 --> 00:09:06,259
+Türkiye'nin genelini yayarak
+
+229
+00:09:06,259 --> 00:09:08,259
+bir noktaya gelmekle
+
+230
+00:09:08,259 --> 00:09:10,610
+ben fayda görürüm.
+
+231
+00:09:10,610 --> 00:09:12,610
+sonuçta senaryolarım
+
+232
+00:09:12,610 --> 00:09:14,610
+daha stokastik bir model oldu.
+
+233
+00:09:14,610 --> 00:09:16,610
+senaryo
+
+234
+00:09:16,610 --> 00:09:18,610
+senaryo üstünden
+
+235
+00:09:18,610 --> 00:09:21,629
+bak senaryolar
+
+236
+00:09:21,629 --> 00:09:23,919
+üstünden
+
+237
+00:09:23,919 --> 00:09:26,529
+doğrudan
+
+238
+00:09:26,529 --> 00:09:28,529
+koruma limitlerine bağlı
+
+239
+00:09:28,529 --> 00:09:30,879
+bir karar vermek mi oldukça şey yok.
+
+240
+00:09:30,879 --> 00:09:36,299
+zor olur.
+
+241
+00:09:36,299 --> 00:09:38,299
+eğer bu şekilde marmara denizinde
+
+242
+00:09:38,299 --> 00:09:40,299
+ön gördüğünüz şekilde
+
+243
+00:09:40,299 --> 00:09:44,100
+konuşursanız
+
+244
+00:09:44,100 --> 00:09:46,100
+büyük senaryoların
+
+245
+00:09:46,100 --> 00:09:48,100
+yıllık oluşma ihtimallerinde
+
+246
+00:09:48,100 --> 00:09:51,059
+ve bunların
+
+247
+00:09:51,059 --> 00:09:53,059
+işte şeylerini de dikkate almak lazım.
+
+248
+00:09:55,500 --> 00:09:58,500
+farklı
+
+249
+00:09:58,500 --> 00:10:02,100
+bölgelerde benzer
+
+250
+00:10:02,100 --> 00:10:04,100
+karakter büyüklüklerini
+
+251
+00:10:04,100 --> 00:10:06,379
+vesaire oradaki tüm büyüklükleri
+
+252
+00:10:06,379 --> 00:10:08,379
+bütün bunları dikkate olarak bir
+
+253
+00:10:08,379 --> 00:10:10,639
+genel kanıya varmak
+
+254
+00:10:10,639 --> 00:10:12,639
+bence önemli.
+
+255
+00:10:12,639 --> 00:10:14,639
+senaryolar bir defa bana kalırsa
+
+256
+00:10:14,639 --> 00:10:16,639
+bu sigorta şirketlerinin
+
+257
+00:10:16,639 --> 00:10:18,639
+kendi brokerlarıyla yapmış oldukları
+
+258
+00:10:18,639 --> 00:10:20,639
+iletişimi de çok etkiler.
+
+259
+00:10:20,639 --> 00:10:22,639
+evet evet
+
+260
+00:10:22,639 --> 00:10:24,639
+bir anlamda etkiler.
+
+261
+00:10:24,639 --> 00:10:26,639
+bence stokastik olma
+
+262
+00:10:26,639 --> 00:10:28,860
+genel stokastik olmalı.
+
+263
+00:10:28,860 --> 00:10:30,860
+yani korumalar
+
+264
+00:10:30,860 --> 00:10:32,860
+bir return period
+
+265
+00:10:32,860 --> 00:10:35,059
+temelinde dikkate almalı.
+
+266
+00:10:35,059 --> 00:10:37,059
+ve bununla beraber
+
+267
+00:10:37,059 --> 00:10:39,120
+bunun bir return periodi
+
+268
+00:10:39,120 --> 00:10:41,149
+dikkate alırken
+
+269
+00:10:41,149 --> 00:10:43,149
+ve hatta bu return periodi
+
+270
+00:10:43,149 --> 00:10:45,179
+karakteristik tepremi
+
+271
+00:10:45,179 --> 00:10:47,179
+fakat bölgeden bölgeye değişen
+
+272
+00:10:47,179 --> 00:10:49,179
+karakteristik tepremler
+
+273
+00:10:49,179 --> 00:10:51,179
+bölgeden bölge
+
+274
+00:10:51,179 --> 00:10:53,600
+genel kömülün
+
+275
+00:10:53,600 --> 00:10:55,600
+bölgeden bölgeye değişen
+
+276
+00:10:55,600 --> 00:10:57,600
+kayıt miktarları
+
+277
+00:10:57,600 --> 00:10:59,600
+ve oradaki karakteristik tepremlerin
+
+278
+00:10:59,600 --> 00:11:01,600
+bu kömüllere vermiş olduğu asarlar
+
+279
+00:11:01,600 --> 00:11:03,600
+tüm bunlar bence bir
+
+280
+00:11:03,600 --> 00:11:05,600
+şekilde girdirenmeli
+
+281
+00:11:05,600 --> 00:11:07,600
+onun üstünden
+
+282
+00:11:07,600 --> 00:11:09,600
+kesin bir karara varılmalı.
+
+283
+00:11:09,600 --> 00:11:11,600
+öteki türlü yalnızca bir bölge
+
+284
+00:11:11,600 --> 00:11:18,179
+bir gündem gittiğiniz vakit
+
+285
+00:11:18,179 --> 00:11:20,179
+o şey
+
+286
+00:11:20,179 --> 00:11:22,179
+yani tam olarak
+
+287
+00:11:22,179 --> 00:11:25,970
+neticeye varmanız
+
+288
+00:11:25,970 --> 00:11:30,529
+doyurucak bir
+
+289
+00:11:30,529 --> 00:11:32,529
+neticeye varmanız
+
+290
+00:11:32,529 --> 00:11:34,750
+zor olabilir benim
+
+291
+00:11:34,750 --> 00:11:37,169
+bekliyorum şeyim
+
+292
+00:11:37,169 --> 00:11:39,169
+mesela stokastiklerde
+
+293
+00:11:39,169 --> 00:11:41,169
+şimdiki 250 yıllık
+
+294
+00:11:41,169 --> 00:11:43,169
+return periodta da şey
+
+295
+00:11:43,169 --> 00:11:45,169
+mesela hep marmara
+
+296
+00:11:45,169 --> 00:11:47,169
+tepremi ya da belki kömüllerden
+
+297
+00:11:47,169 --> 00:11:49,169
+meclisiklerden dolayı
+
+298
+00:11:49,169 --> 00:11:51,169
+belki de ona denk geliyor
+
+299
+00:11:51,169 --> 00:11:53,169
+hani orada çıkacak tutar
+
+300
+00:11:53,169 --> 00:11:55,169
+alınması gereken korunum tutarı
+
+301
+00:11:55,169 --> 00:11:57,169
+oradaki tetikleyici
+
+302
+00:11:57,169 --> 00:11:59,169
+yine marmara bölgesi
+
+303
+00:11:59,169 --> 00:12:01,169
+ben hani şey denetimlere
+
+304
+00:12:01,169 --> 00:12:03,169
+kenar denetimlere gittiğimizde
+
+305
+00:12:03,169 --> 00:12:05,360
+onu görüyorduk da
+
+306
+00:12:05,360 --> 00:12:08,740
+marmara bölgesi
+
+307
+00:12:08,740 --> 00:12:10,740
+mesela tüm Türkiye'yi
+
+308
+00:12:10,740 --> 00:12:12,740
+kapsayarak ile buluyor evet her yerde
+
+309
+00:12:12,740 --> 00:12:14,740
+herhangi bir teprem gerçekleşmiş olabilir
+
+310
+00:12:14,740 --> 00:12:16,740
+ama oradaki
+
+311
+00:12:16,740 --> 00:12:18,740
+250 yıllık return period
+
+312
+00:12:18,740 --> 00:12:20,740
+buradaki sıralamadaki
+
+313
+00:12:20,740 --> 00:12:22,740
+aslında belki de
+
+314
+00:12:22,740 --> 00:12:24,740
+marmara'yı kapsayan bir şey olmuyor mu
+
+315
+00:12:24,740 --> 00:12:26,740
+ya da marmara kümürünün
+
+316
+00:12:26,740 --> 00:12:28,740
+ortaya çıkarttığı ya da
+
+317
+00:12:28,740 --> 00:12:30,740
+riskin ortaya çıkarttığı
+
+318
+00:12:30,740 --> 00:12:32,740
+ben daha 250 yıla nasıl karar verildiğinin
+
+319
+00:12:32,740 --> 00:12:34,740
+tariçesini bilmediğim için size
+
+320
+00:12:34,740 --> 00:12:36,740
+ben de bu arada
+
+321
+00:12:36,740 --> 00:12:38,740
+halde şey olarak
+
+322
+00:12:38,740 --> 00:12:40,740
+şey olarak
+
+323
+00:12:40,740 --> 00:12:42,740
+orada tepremleri
+
+324
+00:12:42,740 --> 00:12:44,740
+gerçekleştirip aslında
+
+325
+00:12:44,740 --> 00:12:46,740
+büyükten küçüğe sıralayıp orada
+
+326
+00:12:46,740 --> 00:12:48,740
+250 bir böyle 250
+
+327
+00:12:48,740 --> 00:12:50,740
+%99'uncuya mı denk geliyorsa
+
+328
+00:12:50,740 --> 00:12:52,740
+oradaki koruma gibi
+
+329
+00:12:52,740 --> 00:12:54,740
+mesela benim gördüğüm
+
+330
+00:12:54,740 --> 00:12:56,740
+şeylerde, şirketlerde, denetimlerde
+
+331
+00:12:56,740 --> 00:12:58,740
+eee
+
+332
+00:12:58,740 --> 00:13:00,740
+o şekilde ama hani
+
+333
+00:13:00,740 --> 00:13:02,740
+2010 yılındaki o şey
+
+334
+00:13:02,740 --> 00:13:04,740
+neye görenleri hangi mantıkta nasıl yazıldı
+
+335
+00:13:04,740 --> 00:13:06,740
+ben bilmiyorum açıkçası
+
+336
+00:13:06,740 --> 00:13:08,740
+şimdi ben yani şöyle bir şey
+
+337
+00:13:08,740 --> 00:13:10,740
+ben de bilmediğim için
+
+338
+00:13:10,740 --> 00:13:12,740
+bu konuda ben şu anda size bir yorumda bulunamam
+
+339
+00:13:12,740 --> 00:13:14,740
+fakat ya 250 yıla nasıl karar verildiğinin
+
+340
+00:13:14,740 --> 00:13:16,740
+ben şu anda size
+
+341
+00:13:16,740 --> 00:13:18,740
+yorumunu yapamam
+
+342
+00:13:18,740 --> 00:13:20,740
+çünkü arka planını bilmiyorum
+
+343
+00:13:20,740 --> 00:13:22,740
+buna mukabi
+
+344
+00:13:22,740 --> 00:13:24,740
+bahsetmiş olduğum gibi
+
+345
+00:13:24,740 --> 00:13:26,740
+ister yani
+
+346
+00:13:26,740 --> 00:13:28,740
+bu konuyu birazcık daha
+
+347
+00:13:28,740 --> 00:13:30,740
+geniş çerçeveden ele alırsak
+
+348
+00:13:30,740 --> 00:13:32,740
+bu sefer
+
+349
+00:13:32,740 --> 00:13:34,740
+işin
+
+350
+00:13:34,740 --> 00:13:36,740
+işin bir teprem
+
+351
+00:13:36,740 --> 00:13:39,379
+tehlike ayağı var
+
+352
+00:13:39,379 --> 00:13:41,379
+bir de kümürlere
+
+353
+00:13:41,379 --> 00:13:43,379
+kümürlerin genelinde
+
+354
+00:13:43,379 --> 00:13:45,379
+ayağı var
+
+355
+00:13:45,379 --> 00:13:47,379
+tamam şimdi burada
+
+356
+00:13:47,379 --> 00:13:49,379
+yani şöyle bir durum
+
+357
+00:13:49,379 --> 00:13:51,379
+söz konusu
+
+358
+00:13:51,379 --> 00:13:53,600
+eğer ben
+
+359
+00:13:53,600 --> 00:13:55,600
+bu 250 yıla
+
+360
+00:13:55,600 --> 00:13:57,600
+veya 300 yıla neyse
+
+361
+00:13:57,600 --> 00:13:59,889
+veya 200
+
+362
+00:13:59,889 --> 00:14:02,590
+bir bölgeden
+
+363
+00:14:02,590 --> 00:14:04,590
+ve o bölgedeki
+
+364
+00:14:04,590 --> 00:14:06,590
+kümürlerden yola çıkarak
+
+365
+00:14:06,590 --> 00:14:09,169
+gidersem
+
+366
+00:14:09,169 --> 00:14:11,169
+belki genel resmi
+
+367
+00:14:11,169 --> 00:14:13,169
+değişti yani tam
+
+368
+00:14:13,169 --> 00:14:15,169
+doğru şekilde
+
+369
+00:14:15,169 --> 00:14:17,169
+gerçekçi olabilir
+
+370
+00:14:17,169 --> 00:14:19,169
+bunu söylemek istiyorum
+
+371
+00:14:19,169 --> 00:14:21,519
+yani o yüzden burada
+
+372
+00:14:21,519 --> 00:14:23,519
+bakın bizim
+
+373
+00:14:23,519 --> 00:14:25,519
+stres testi kapsamında yapmış olduğumuz
+
+374
+00:14:25,519 --> 00:14:27,519
+çalışmayı ben şu şekilde
+
+375
+00:14:27,519 --> 00:14:30,059
+anlıyorum
+
+376
+00:14:30,059 --> 00:14:32,059
+ülkede sigorta şirketleri
+
+377
+00:14:32,059 --> 00:14:34,059
+bir
+
+378
+00:14:34,059 --> 00:14:36,059
+koruma alıyorlar
+
+379
+00:14:36,059 --> 00:14:38,450
+her biri bir koruma alıyor
+
+380
+00:14:38,450 --> 00:14:40,450
+ve bunun sonucunda
+
+381
+00:14:40,450 --> 00:14:42,450
+marmara denizinde
+
+382
+00:14:42,450 --> 00:14:44,450
+çok büyük bir teprem olduğu vakit
+
+383
+00:14:44,450 --> 00:14:46,450
+bu koruma
+
+384
+00:14:46,450 --> 00:14:48,450
+çok özür dilerim
+
+385
+00:14:48,450 --> 00:14:50,450
+şu bir şey yapmam lazım
+
+386
+00:14:50,450 --> 00:14:59,580
+özür dili bu sizden
+
+387
+00:14:59,580 --> 00:15:01,580
+ülkede bir teprem olduğu vakit
+
+388
+00:15:01,580 --> 00:15:03,580
+bu marmara
+
+389
+00:15:03,580 --> 00:15:05,580
+bölgesinde
+
+390
+00:15:05,580 --> 00:15:07,580
+bu korumalar ne kadar
+
+391
+00:15:07,580 --> 00:15:09,620
+şey yapıyor
+
+392
+00:15:09,620 --> 00:15:11,620
+yetiyor yetiyor
+
+393
+00:15:11,620 --> 00:15:13,620
+sorgulamasını yapıyorsunuz
+
+394
+00:15:13,620 --> 00:15:15,620
+bu sorgulamaya gerçekleştirirken
+
+395
+00:15:15,620 --> 00:15:17,620
+aynı zamanda
+
+396
+00:15:17,620 --> 00:15:20,029
+çok vermek lazım
+
+397
+00:15:20,029 --> 00:15:22,029
+ve yani bana kalırsa
+
+398
+00:15:22,029 --> 00:15:24,700
+bu konuştuğumuz tepremlerin
+
+399
+00:15:24,700 --> 00:15:26,700
+yıllık oluşma ihtimallerine
+
+400
+00:15:26,700 --> 00:15:28,700
+bu yıllık oluşma
+
+401
+00:15:28,700 --> 00:15:30,700
+ihtimallerine göre
+
+402
+00:15:30,700 --> 00:15:32,700
+dikkate aldığımızda
+
+403
+00:15:32,700 --> 00:15:34,700
+şirketlerin koruma
+
+404
+00:15:34,700 --> 00:15:36,700
+politikaları
+
+405
+00:15:36,700 --> 00:15:38,700
+Türkiye'nin genelindeki kümüllere göre
+
+406
+00:15:38,700 --> 00:15:40,700
+doğru bir şekilde
+
+407
+00:15:40,700 --> 00:15:42,700
+şekilleniyor mu şekillenmiyor mu
+
+408
+00:15:42,700 --> 00:15:44,700
+burada hani milleri asuransında
+
+409
+00:15:44,700 --> 00:15:46,700
+bir şey var
+
+410
+00:15:46,700 --> 00:15:48,700
+iventlimitler anlamında
+
+411
+00:15:48,700 --> 00:15:50,700
+ondan sonra
+
+412
+00:15:50,700 --> 00:15:52,700
+şirketlerin brokerlarıyla
+
+413
+00:15:52,700 --> 00:15:54,700
+yapmış oldukları çalışmalar da var
+
+414
+00:15:54,700 --> 00:15:56,700
+ya tüm bunlara ben baktığım vakit
+
+415
+00:15:56,700 --> 00:15:58,700
+şöyle bir çalışmanın
+
+416
+00:15:58,700 --> 00:16:00,700
+size ışık açabileceğini düşünüyorum
+
+417
+00:16:00,700 --> 00:16:02,700
+isterseniz bunu da
+
+418
+00:16:02,700 --> 00:16:04,700
+çok daha genel şekilde
+
+419
+00:16:04,700 --> 00:16:06,700
+bir toplantıda
+
+420
+00:16:06,700 --> 00:16:08,700
+dile getirebilirim
+
+421
+00:16:08,700 --> 00:16:10,700
+Türkiye'deki genel
+
+422
+00:16:10,700 --> 00:16:14,370
+man life
+
+423
+00:16:14,370 --> 00:16:17,200
+sigorta şirketlerinin
+
+424
+00:16:17,200 --> 00:16:20,639
+anoniyos bir şey
+
+425
+00:16:20,639 --> 00:16:23,279
+dikkate aldığımızda
+
+426
+00:16:23,279 --> 00:16:25,279
+ve bunların
+
+427
+00:16:25,279 --> 00:16:27,279
+bölgesel
+
+428
+00:16:27,279 --> 00:16:29,279
+birikimlerini
+
+429
+00:16:29,279 --> 00:16:31,279
+kümülasyonuna göre
+
+430
+00:16:31,279 --> 00:16:33,279
+dos hesapları yaptığımızda
+
+431
+00:16:33,279 --> 00:16:35,279
+ve bu bölgelerdeki
+
+432
+00:16:35,279 --> 00:16:37,279
+kritik, yani büyük
+
+433
+00:16:37,279 --> 00:16:39,279
+karakteristik tepremlerle
+
+434
+00:16:39,279 --> 00:16:41,279
+senaryo çalışmaları yaptığımızda
+
+435
+00:16:41,279 --> 00:16:45,100
+burada
+
+436
+00:16:45,100 --> 00:16:47,100
+en makul
+
+437
+00:16:47,100 --> 00:16:49,299
+olması gereken
+
+438
+00:16:49,299 --> 00:16:51,549
+korumalara ölçütü
+
+439
+00:16:51,549 --> 00:16:53,549
+olabilecek return period asgari
+
+440
+00:16:53,549 --> 00:16:57,090
+ne olmalı
+
+441
+00:16:57,090 --> 00:16:59,090
+bu anlamda da
+
+442
+00:16:59,090 --> 00:17:02,690
+bu
+
+443
+00:17:02,690 --> 00:17:04,910
+bu anlamda da
+
+444
+00:17:04,910 --> 00:17:06,910
+hangi tepremler
+
+445
+00:17:06,910 --> 00:17:08,910
+karakteristik tepremler
+
+446
+00:17:08,910 --> 00:17:10,910
+test olarak
+
+447
+00:17:10,910 --> 00:17:12,910
+stress test olarak
+
+448
+00:17:12,910 --> 00:17:14,910
+bu çalışmalarda kullanılmamız
+
+449
+00:17:14,910 --> 00:17:16,910
+böyle bir şey yaptığınız vakit
+
+450
+00:17:16,910 --> 00:17:19,420
+emin olun
+
+451
+00:17:19,420 --> 00:17:21,420
+biraz önce konuştuk ya
+
+452
+00:17:21,420 --> 00:17:23,420
+nasıl çıkmış, nasıl çıkmış
+
+453
+00:17:23,420 --> 00:17:25,420
+vesaire vesaire
+
+454
+00:17:25,420 --> 00:17:27,420
+böyle bir tartışmaya da gerek kalmadan
+
+455
+00:17:27,420 --> 00:17:29,900
+en
+
+456
+00:17:29,900 --> 00:17:32,450
+makul
+
+457
+00:17:32,450 --> 00:17:34,450
+return periodi
+
+458
+00:17:34,450 --> 00:17:37,980
+ve bulabiliriz
+
+459
+00:17:37,980 --> 00:17:39,980
+o return periodi
+
+460
+00:17:39,980 --> 00:17:41,980
+dikkate aldığımızda
+
+461
+00:17:41,980 --> 00:17:43,980
+büyük tepremler
+
+462
+00:17:43,980 --> 00:17:45,980
+yani bir tek bu marmara
+
+463
+00:17:45,980 --> 00:17:47,980
+bölgesi için olmasına gerek yok
+
+464
+00:17:47,980 --> 00:17:50,849
+İzmir bölgesi de olabilir
+
+465
+00:17:50,849 --> 00:17:54,029
+güney bölgeler de olabilir
+
+466
+00:17:54,029 --> 00:17:56,380
+veya
+
+467
+00:17:56,380 --> 00:17:58,380
+ne bileyim
+
+468
+00:17:58,380 --> 00:18:00,380
+doğan dolu bölgesinde
+
+469
+00:18:00,380 --> 00:18:02,380
+daha hayal hazırda kırılma potansiyeli
+
+470
+00:18:02,380 --> 00:18:04,380
+yüksek
+
+471
+00:18:04,380 --> 00:18:06,380
+indüstriyel
+
+472
+00:18:06,380 --> 00:18:08,380
+ticari alanda
+
+473
+00:18:08,380 --> 00:18:10,380
+far
+
+474
+00:18:10,380 --> 00:18:12,380
+yeryerlerdeki
+
+475
+00:18:12,380 --> 00:18:14,380
+senaryo tepremler de olabilir
+
+476
+00:18:14,380 --> 00:18:16,380
+bütün bunların çerçevesinde
+
+477
+00:18:16,380 --> 00:18:18,380
+bütün bununla bilgilerin ışığı altında
+
+478
+00:18:18,380 --> 00:18:20,380
+bir çalışma gerçekleştiririz
+
+479
+00:18:20,380 --> 00:18:22,380
+o zaman size tam bir şey verir
+
+480
+00:18:22,380 --> 00:18:24,380
+tam bir sonuç verir
+
+481
+00:18:24,380 --> 00:18:26,380
+yani
+
+482
+00:18:26,380 --> 00:18:28,380
+hayırsına bunları boş ver
+
+483
+00:18:28,380 --> 00:18:30,380
+biz şu anda marmara bölgesi
+
+484
+00:18:30,380 --> 00:18:32,380
+ve marmara bölgesinde
+
+485
+00:18:32,380 --> 00:18:34,380
+sizin yapmış olduğunuz
+
+486
+00:18:34,380 --> 00:18:36,380
+4 teprem senaryosu
+
+487
+00:18:36,380 --> 00:18:38,380
+sonuçları üstünden
+
+488
+00:18:38,380 --> 00:18:40,380
+bir return periodi karar vereceğiz
+
+489
+00:18:40,380 --> 00:18:42,769
+derseniz
+
+490
+00:18:42,769 --> 00:18:44,769
+ben bana da bir şey denem
+
+491
+00:18:44,769 --> 00:18:46,799
+ben size takvime göre bir zaman veririm
+
+492
+00:18:46,799 --> 00:18:48,799
+biraz önce konuştuklarımın tamamı şeydir
+
+493
+00:18:48,799 --> 00:18:51,250
+yani kişisel düşüncelerimdir
+
+494
+00:18:51,250 --> 00:18:53,980
+köktü bir değişiklik
+
+495
+00:18:53,980 --> 00:18:55,980
+yapmak istiyorsanız
+
+496
+00:18:55,980 --> 00:18:57,980
+birazcık daha bunu
+
+497
+00:18:57,980 --> 00:18:59,980
+tüm türkiye geneline yayarak
+
+498
+00:18:59,980 --> 00:19:01,980
+marmara bölgesi unutalım demiyorum
+
+499
+00:19:01,980 --> 00:19:03,980
+bölgesi anlamda bazı incelemeler yaparak
+
+500
+00:19:03,980 --> 00:19:05,980
+çok daha sağlıklı kararlar vereceğimizi düşünüyorum
+
+501
+00:19:05,980 --> 00:19:08,500
+evet onun için
+
+502
+00:19:08,500 --> 00:19:10,500
+tekrardan veri toplanması
+
+503
+00:19:10,500 --> 00:19:12,500
+gerekecek şirketlerden
+
+504
+00:19:12,500 --> 00:19:14,500
+yani şöyle bir şey var
+
+505
+00:19:14,500 --> 00:19:16,500
+marmara bölgesi için
+
+506
+00:19:16,500 --> 00:19:18,500
+kümürlerimiz
+
+507
+00:19:18,500 --> 00:19:20,500
+yani kümür
+
+508
+00:19:20,500 --> 00:19:22,500
+ama sizin
+
+509
+00:19:22,500 --> 00:19:24,500
+şirketler üstünde
+
+510
+00:19:24,500 --> 00:19:26,500
+lütfen bunlar yalnız şu anda bir beyin fırtınası
+
+511
+00:19:26,500 --> 00:19:28,500
+yok evet zaten aynen öyle
+
+512
+00:19:28,500 --> 00:19:30,500
+torkantin olalım
+
+513
+00:19:30,500 --> 00:19:32,500
+yani buna benzer çalışmaları biz
+
+514
+00:19:32,500 --> 00:19:34,500
+türk resulansı için pek çok kez
+
+515
+00:19:34,500 --> 00:19:37,170
+yapıyorum
+
+516
+00:19:37,170 --> 00:19:39,170
+orada sadece şey olacaktır hocam
+
+517
+00:19:39,170 --> 00:19:41,170
+bu
+
+518
+00:19:41,170 --> 00:19:43,170
+bunu biz şeyde de
+
+519
+00:19:43,170 --> 00:19:45,170
+sollusu çalışmalarında da yine gündem oldu
+
+520
+00:19:45,170 --> 00:19:47,170
+böyle danışman firmaya da
+
+521
+00:19:47,170 --> 00:19:49,170
+bir firmayla çalışmak istediğinizde
+
+522
+00:19:49,170 --> 00:19:51,170
+yani o verilerin
+
+523
+00:19:51,170 --> 00:19:53,170
+alanı paylaşılması için
+
+524
+00:19:53,170 --> 00:19:55,170
+şimdi marmara bölgesinde
+
+525
+00:19:55,170 --> 00:19:57,170
+zaten şirketler
+
+526
+00:19:57,170 --> 00:19:59,170
+mevzusu olarak da sizde çalışmaları
+
+527
+00:19:59,170 --> 00:20:01,170
+gerekiyor ve
+
+528
+00:20:01,170 --> 00:20:03,170
+aranızdaki anlaşmalarla veriler
+
+529
+00:20:03,170 --> 00:20:05,230
+siz aktarılmış oluyor ya
+
+530
+00:20:05,230 --> 00:20:07,230
+şimdi
+
+531
+00:20:07,230 --> 00:20:09,230
+ülke geneline yaydığımızda ben bu arada
+
+532
+00:20:09,230 --> 00:20:11,230
+siz anladım kesinlikle de katılıyorum
+
+533
+00:20:11,230 --> 00:20:13,230
+sadece veri kısımında
+
+534
+00:20:13,230 --> 00:20:15,230
+biraz daha şeyimiz olur
+
+535
+00:20:15,230 --> 00:20:17,230
+yavaş bir süreç
+
+536
+00:20:17,230 --> 00:20:19,230
+olur diye tahmin ediyorum onun içinde
+
+537
+00:20:19,230 --> 00:20:21,230
+belki
+
+538
+00:20:21,230 --> 00:20:23,230
+bir yetkiler ve izin alılmaz ki
+
+539
+00:20:23,230 --> 00:20:25,230
+yoksa bizim
+
+540
+00:20:25,230 --> 00:20:27,230
+herhangi bir yerden
+
+541
+00:20:27,230 --> 00:20:29,230
+bilgama sıkıntı yok da
+
+542
+00:20:29,230 --> 00:20:31,230
+onu sizinle paylaşmamız
+
+543
+00:20:31,230 --> 00:20:33,230
+ve ne şekilde paylaşacağımız
+
+544
+00:20:33,230 --> 00:20:35,230
+konusu asla bakarsanız
+
+545
+00:20:35,230 --> 00:20:37,230
+sürecin bence engeci
+
+546
+00:20:37,230 --> 00:20:39,299
+tasma olur
+
+547
+00:20:39,299 --> 00:20:41,299
+evet anlıyorum sizi
+
+548
+00:20:41,299 --> 00:20:43,299
+verdiği anlıyorum fakat şöyle bir şey var
+
+549
+00:20:43,299 --> 00:20:45,299
+bakın şu anda siz
+
+550
+00:20:45,299 --> 00:20:47,299
+istesiniz
+
+551
+00:20:47,299 --> 00:20:49,579
+şu anda biz zaten
+
+552
+00:20:49,579 --> 00:20:51,579
+türklüya süransla
+
+553
+00:20:51,579 --> 00:20:53,579
+yani türklüya sürans
+
+554
+00:20:53,579 --> 00:20:55,579
+bizim ana şirketimiz
+
+555
+00:20:55,579 --> 00:20:57,579
+ama biz onlardan
+
+556
+00:20:57,579 --> 00:20:59,579
+zaten türklüya süranstan
+
+557
+00:20:59,579 --> 00:21:01,579
+biz engeyi imzaladığımız zaman
+
+558
+00:21:01,579 --> 00:21:03,579
+yani non-disclosure agreement
+
+559
+00:21:03,579 --> 00:21:05,579
+yaptığımız zaman
+
+560
+00:21:05,579 --> 00:21:07,579
+ben o agreement'a uymasam
+
+561
+00:21:07,579 --> 00:21:09,579
+şu anda öyle bir şeydi söyleyeyim size
+
+562
+00:21:09,579 --> 00:21:11,579
+şu anda zaten işte
+
+563
+00:21:11,579 --> 00:21:13,579
+yaklaşık heralde Krüfe'ye
+
+564
+00:21:13,579 --> 00:21:15,579
+şey var
+
+565
+00:21:15,579 --> 00:21:17,579
+non-life
+
+566
+00:21:17,579 --> 00:21:19,579
+insurance şey var
+
+567
+00:21:19,579 --> 00:21:21,579
+firma var
+
+568
+00:21:21,579 --> 00:21:23,579
+ben zaten bu 33-34'ün verisini saydım şu anda
+
+569
+00:21:23,579 --> 00:21:25,579
+evet evet
+
+570
+00:21:25,579 --> 00:21:27,579
+demek istediğim şey şu
+
+571
+00:21:27,579 --> 00:21:29,579
+bizim bu anlamda
+
+572
+00:21:29,579 --> 00:21:31,579
+hani
+
+573
+00:21:31,579 --> 00:21:34,000
+bu tip
+
+574
+00:21:34,000 --> 00:21:36,000
+kümürleri koşturabilecek potansiyelimiz
+
+575
+00:21:36,000 --> 00:21:38,480
+mevcut
+
+576
+00:21:38,480 --> 00:21:40,480
+bu anlamda
+
+577
+00:21:40,480 --> 00:21:42,480
+yani sizin
+
+578
+00:21:42,480 --> 00:21:44,480
+bir karar aşaması sonrası
+
+579
+00:21:44,480 --> 00:21:46,480
+kümürleri bize
+
+580
+00:21:46,480 --> 00:21:48,480
+vermeniz
+
+581
+00:21:48,480 --> 00:21:50,480
+ve arkasından bizim böyle bir çalışmak
+
+582
+00:21:50,480 --> 00:21:52,480
+bu çalışmanın kısıtları da şimdi
+
+583
+00:21:52,480 --> 00:21:54,579
+bu çalışma çok sistematik bir çalışma olacak
+
+584
+00:21:54,579 --> 00:21:56,579
+yani bu çalışmanın belli kısıtları olacak
+
+585
+00:21:56,579 --> 00:21:58,579
+belli limit şartları olacak
+
+586
+00:21:58,579 --> 00:22:00,579
+vesaire biz bunları da tabi size
+
+587
+00:22:00,579 --> 00:22:02,579
+böyle açık açık
+
+588
+00:22:02,579 --> 00:22:04,579
+birer birer söylediğimiz vakit
+
+589
+00:22:04,579 --> 00:22:07,059
+siz hakikaten
+
+590
+00:22:07,059 --> 00:22:09,059
+bu anlamda
+
+591
+00:22:09,059 --> 00:22:11,059
+daha geniş şartımeden bakarak
+
+592
+00:22:11,059 --> 00:22:13,059
+bir karar verebilir duruma gelip
+
+593
+00:22:13,059 --> 00:22:15,059
+gelirsiniz yani
+
+594
+00:22:15,059 --> 00:22:17,059
+biliyorsanız şöyle bir şey yapalım
+
+595
+00:22:17,059 --> 00:22:19,059
+merhaba bakın şey parantez içine alıyorum ben
+
+596
+00:22:19,059 --> 00:22:21,059
+yani şu iki tane madde
+
+597
+00:22:21,059 --> 00:22:23,150
+içerisinde
+
+598
+00:22:23,150 --> 00:22:25,150
+1. senaryo olarak
+
+599
+00:22:25,150 --> 00:22:27,150
+Marmara denizleri 5. senaryosu olarak
+
+600
+00:22:27,150 --> 00:22:29,150
+her bir
+
+601
+00:22:29,150 --> 00:22:31,150
+senaryonun oluşma ihtimalinin
+
+602
+00:22:31,150 --> 00:22:33,150
+dikkate olarak
+
+603
+00:22:33,150 --> 00:22:35,150
+bir 5. senaryo yaratma işini
+
+604
+00:22:35,150 --> 00:22:37,150
+bu mu yaparız sizlere
+
+605
+00:22:37,150 --> 00:22:39,150
+benim hatırladığım şey de yani
+
+606
+00:22:39,150 --> 00:22:41,150
+ilk yapılan çalışma ortak
+
+607
+00:22:41,150 --> 00:22:43,150
+senaryo vardı ağırlıklı senaryo vardı
+
+608
+00:22:43,150 --> 00:22:45,150
+senaryo vardı haklısınız
+
+609
+00:22:45,150 --> 00:22:47,150
+şu anda senaryolarımızın
+
+610
+00:22:47,150 --> 00:22:49,150
+o zamanlar biz çok daha fazla senaryo almıştık
+
+611
+00:22:49,150 --> 00:22:51,150
+evet dolu senaryoz
+
+612
+00:22:51,150 --> 00:22:53,150
+bir süre senaryo var
+
+613
+00:22:53,150 --> 00:22:55,150
+şimdi o senaryolar 4
+
+614
+00:22:55,150 --> 00:22:57,150
+4'den bir tane
+
+615
+00:22:57,150 --> 00:22:59,150
+onu yapabiliriz
+
+616
+00:22:59,150 --> 00:23:01,150
+iş gücümüzle dikkat alarak
+
+617
+00:23:01,150 --> 00:23:03,150
+ikincisinde yapabiliriz
+
+618
+00:23:03,150 --> 00:23:05,150
+ikincisi bir dert değil
+
+619
+00:23:05,150 --> 00:23:07,150
+dert değil fakat burada
+
+620
+00:23:07,150 --> 00:23:09,150
+biz tabi bir iş programımız var
+
+621
+00:23:09,150 --> 00:23:11,150
+o iş programımızı
+
+622
+00:23:11,150 --> 00:23:13,440
+şey yaparak
+
+623
+00:23:13,440 --> 00:23:15,440
+gözeterek size
+
+624
+00:23:15,440 --> 00:23:17,440
+hani bir tarih vereceğiz diyeceğiz ki
+
+625
+00:23:17,440 --> 00:23:19,440
+işte ne bileyim biz bunu ancak
+
+626
+00:23:19,440 --> 00:23:21,440
+ekimin 10'unda yapabiliriz 15'inde yapabiliriz
+
+627
+00:23:21,440 --> 00:23:23,440
+gibilerinden bir tarih veririz
+
+628
+00:23:23,440 --> 00:23:25,440
+bunda yaparız ama
+
+629
+00:23:25,440 --> 00:23:27,440
+benim çekincem
+
+630
+00:23:27,440 --> 00:23:29,440
+bunların her birisi birer efordur
+
+631
+00:23:29,440 --> 00:23:31,440
+bunların her birisi size giden bir bilgide
+
+632
+00:23:31,440 --> 00:23:33,440
+bu bilgide terliyorsunuz
+
+633
+00:23:33,440 --> 00:23:35,440
+Türk ademeninize sunuyorsunuz
+
+634
+00:23:35,440 --> 00:23:37,440
+benim buradaki tek
+
+635
+00:23:37,440 --> 00:23:39,440
+amacım yani bunu birazcık daha
+
+636
+00:23:39,440 --> 00:23:41,440
+böyle çöklü bir şekilde
+
+637
+00:23:41,440 --> 00:23:43,920
+halledebilmek için
+
+638
+00:23:43,920 --> 00:23:45,920
+madem mevzuatta böyle bir değişiklik
+
+639
+00:23:45,920 --> 00:23:47,920
+söz konusu
+
+640
+00:23:47,920 --> 00:23:49,920
+bunu çekilde halledebilmek için
+
+641
+00:23:49,920 --> 00:23:51,920
+bunu biraz marmara genelinden
+
+642
+00:23:51,920 --> 00:23:53,920
+Türkiye geneline
+
+643
+00:23:53,920 --> 00:23:56,400
+yayalım ki
+
+644
+00:23:56,400 --> 00:23:58,400
+yani buradan çok daha geniş ve size
+
+645
+00:23:58,400 --> 00:24:00,400
+doğru demeyelim ama
+
+646
+00:24:00,400 --> 00:24:02,400
+gerçekçi bilgiler verir
+
+647
+00:24:02,400 --> 00:24:04,400
+gerçekçi
+
+648
+00:24:04,400 --> 00:24:06,400
+yoksa yani
+
+649
+00:24:06,400 --> 00:24:08,400
+şöyle bir şey
+
+650
+00:24:08,400 --> 00:24:10,400
+attığımız taş
+
+651
+00:24:10,400 --> 00:24:12,400
+ürküttüğümüz kurbaya değmesin
+
+652
+00:24:12,400 --> 00:24:14,400
+ben derim ki tabi
+
+653
+00:24:14,400 --> 00:24:16,619
+ekim 15'i size hepsini verelim derim
+
+654
+00:24:16,619 --> 00:24:18,619
+bir tarih gider yani
+
+655
+00:24:18,619 --> 00:24:20,619
+ya hocam bence şey meyile
+
+656
+00:24:20,619 --> 00:24:22,619
+şeyde değil aslında
+
+657
+00:24:22,619 --> 00:24:24,619
+bugünkü toplantının biraz da şeyiydi
+
+658
+00:24:24,619 --> 00:24:26,619
+amac bu bu yönde
+
+659
+00:24:26,619 --> 00:24:28,619
+ne yapabiliriz
+
+660
+00:24:28,619 --> 00:24:30,619
+zaten şu anki mevcut
+
+661
+00:24:30,619 --> 00:24:32,619
+yanında çalışan bir şey
+
+662
+00:24:32,619 --> 00:24:34,619
+yani o meyil aslında
+
+663
+00:24:34,619 --> 00:24:36,619
+hem meşe
+
+664
+00:24:36,619 --> 00:24:38,619
+biraz toparmak biraz da
+
+665
+00:24:38,619 --> 00:24:40,619
+fikir oluşturma açısından
+
+666
+00:24:40,619 --> 00:24:42,619
+şeydi yoksa
+
+667
+00:24:42,619 --> 00:24:44,619
+Türkiye genelinde
+
+668
+00:24:44,619 --> 00:24:46,619
+bu çalışmayı yapıyor olmak
+
+669
+00:24:46,619 --> 00:24:48,619
+en doğrusu olacaktır kesinlikle öyle
+
+670
+00:24:48,619 --> 00:24:50,619
+zaten şu anki
+
+671
+00:24:50,619 --> 00:24:52,619
+ruhu da yani benim bildiğim
+
+672
+00:24:52,619 --> 00:24:54,619
+tüm
+
+673
+00:24:54,619 --> 00:24:56,619
+Türkiye çapındaki depremler
+
+674
+00:24:56,619 --> 00:24:58,619
+üzerinden zaten şey oluyor
+
+675
+00:24:58,619 --> 00:25:00,619
+o 250 yıllık
+
+676
+00:25:00,619 --> 00:25:02,619
+işliyor
+
+677
+00:25:02,619 --> 00:25:04,619
+şimdi Marmara Özelinde
+
+678
+00:25:04,619 --> 00:25:06,619
+konuşuyormuş ve Ozel'de
+
+679
+00:25:06,619 --> 00:25:08,619
+Meylakmış gibi olduk ama
+
+680
+00:25:08,619 --> 00:25:10,619
+mevcut mevcuttaki o
+
+681
+00:25:10,619 --> 00:25:12,619
+250 y 팔�im tüm Türkiye geneliği
+
+682
+00:25:12,619 --> 00:25:14,619
+İçin asla bakarsan dolayısıyla
+
+683
+00:25:14,619 --> 00:25:16,619
+o şekilde ilerliyor ama
+
+684
+00:25:16,619 --> 00:25:18,619
+daha doğru olacaktır
+
+685
+00:25:23,230 --> 00:25:25,230
+eğer uygun görürseniz
+
+686
+00:25:25,230 --> 00:25:27,230
+bence biz bu toplantı
+
+687
+00:25:27,230 --> 00:25:47,779
+birazcık daha belki yüz yüze ve yani bir şekilde ben bu düşüncelerimi birazcık daha böyle 1-2 slight'la işe yaparak destekler mahviyeti vererek sizlere açayım.
+
+688
+00:25:48,779 --> 00:25:50,779
+Olur. Biz şey de bakalım.
+
+689
+00:25:51,779 --> 00:25:56,779
+Daire başkanı hatta başkan yardımcısı katılımda da olur diye düşünüyorum.
+
+690
+00:25:57,779 --> 00:26:00,779
+O şekilde bir toplantı organiza ederiz.
+
+691
+00:26:01,779 --> 00:26:04,779
+Hatta şeyde o olda mı sonrası da konuşulmadı.
+
+692
+00:26:05,779 --> 00:26:07,779
+O gün biz bunu kurula sunduğumuzda.
+
+693
+00:26:09,779 --> 00:26:13,779
+Hani sizler tarafından da anlatılması yönünde.
+
+694
+00:26:13,779 --> 00:26:17,779
+Ama ondan sonra şey herhangi bir şey gelmedi o taraftan.
+
+695
+00:26:18,779 --> 00:26:34,779
+Belki biz hatırlatırız tekrardan kurul sizden de dinlemek isterse o tarafta olur ama orası daha böyle şey oraya çok teklik giremiyoruz ya daha böyle şey üstünden gitmek lazım.
+
+696
+00:26:35,779 --> 00:26:38,779
+Sürek alı rakamlar ve görseller üzerinden.
+
+697
+00:26:39,779 --> 00:26:41,779
+Gerçi bazı tekniği de merak ediyorlar.
+
+698
+00:26:42,779 --> 00:26:43,779
+Ben de olmuyor yani aslında bakarsanız.
+
+699
+00:26:44,779 --> 00:26:45,779
+O gün de öyle şeyler oldu.
+
+700
+00:26:46,779 --> 00:26:49,779
+Hatta hani sizlerden mi dinlense falan gibi de bir konuşurdu ama.
+
+701
+00:26:50,779 --> 00:26:55,779
+Sonra şeyden o kurul izmeklerinden öyle bir şey geri dönüş olmadı tekrardan.
+
+702
+00:26:56,779 --> 00:27:04,779
+Ama biz teknik taraftaki şeyi bizim daire ve başkan yardımcısı ile birlikte sizin taraftan da sizlerin de katılımıyla.
+
+703
+00:27:05,779 --> 00:27:06,779
+Burada şey yapalım.
+
+704
+00:27:07,779 --> 00:27:11,380
+O şekilde hem kararlar da alınmış olur.
+
+705
+00:27:12,380 --> 00:27:14,380
+Daha üst düzeyde netleşmiş de olur.
+
+706
+00:27:15,380 --> 00:27:20,380
+Hani o tarafta verile ilgili süreç ne olacaktır.
+
+707
+00:27:21,380 --> 00:27:22,380
+O da daha netleşir.
+
+708
+00:27:23,380 --> 00:27:26,420
+O zamana kadar biz de kendi aramızda da konuşmuş oluruz.
+
+709
+00:27:27,420 --> 00:27:29,420
+Bunu yaparız yani nisezinde.
+
+710
+00:27:30,420 --> 00:27:32,420
+Bunu da biz de bizim tarafa bakalım.
+
+711
+00:27:33,420 --> 00:27:37,480
+Yani Berman'ım bence bu çok daha şey olur diye düşünüyorum.
+
+712
+00:27:38,480 --> 00:27:40,480
+Ben sizler hepsinden faydalı olur diye düşünüyorum.
+
+713
+00:27:41,480 --> 00:27:52,789
+Yani bunun sormanda mahsur yoksa bu olası yönetmelik değişikliğinin tarih olarak bir şeyin var mı?
+
+714
+00:27:53,789 --> 00:27:59,789
+Siz de şu anda 2027 yılı pilot çalışmayılı olsun 2028'de.
+
+715
+00:28:00,789 --> 00:28:03,789
+Bunu artık finalizelerin filan gibilerinden bir şey düşünüyor musunuz?
+
+716
+00:28:04,789 --> 00:28:06,789
+Aslında o şekilde şey olmadı.
+
+717
+00:28:07,789 --> 00:28:08,789
+Bir ay oldu bu sunulalı.
+
+718
+00:28:09,789 --> 00:28:14,789
+Zaten sonra yaz tatilli falan da girince o tatlımlendirmesi henüz olmadı.
+
+719
+00:28:15,789 --> 00:28:20,789
+Biz sadece önce sizle de konuşup hani ne şekilde bir sürece ne kadar sürecek.
+
+720
+00:28:20,789 --> 00:28:26,789
+Ona göre de belki biz bir kez daha yukarıya bunu aktarıp tatlımlendirmesi yapılabilir.
+
+721
+00:28:27,789 --> 00:28:28,789
+Henüz tatlım konuşulmadı.
+
+722
+00:28:29,789 --> 00:28:31,789
+Ama tabii her zaman ki bize yukarıdan gelen şey şu.
+
+723
+00:28:32,789 --> 00:28:34,789
+Bunu bir an önce çalışın ve getirin şeklinde oluyor.
+
+724
+00:28:35,789 --> 00:28:38,789
+Hani ondan da ziyade sizin şey sorununuz.
+
+725
+00:28:39,789 --> 00:28:42,789
+Hani önce pilot çalışalım sonra bu hiç konuşulmadı.
+
+726
+00:28:43,789 --> 00:28:47,789
+Belki de bunu bir tane yukarıya bu şekilde arz edebiliriz.
+
+727
+00:28:47,789 --> 00:28:53,789
+İlk sene bir görelim sonra şey alalım aktif edelim falan.
+
+728
+00:28:54,789 --> 00:28:55,789
+Valla arz edilmesinde bence fayda var.
+
+729
+00:28:56,789 --> 00:29:00,789
+Yani bunlar biliyorsunuz bu değişiklikler bir anda oldu.
+
+730
+00:29:01,789 --> 00:29:02,789
+Hepsi benim kendi görüşüm bu değişiklikler.
+
+731
+00:29:03,789 --> 00:29:05,789
+Evet bu kelimeli politik arada karar da hani.
+
+732
+00:29:06,789 --> 00:29:09,789
+Sizin benim bir hürüşüm bu şekilde ama ben başka bir şekilde çıkartabilirim.
+
+733
+00:29:10,789 --> 00:29:11,789
+Ama yani sonuçta şöyle bir şey.
+
+734
+00:29:12,789 --> 00:29:14,789
+Bu değişiklikler bir anda olduğu zaman bir tepki de oluşabiliyor.
+
+735
+00:29:14,789 --> 00:29:19,789
+Fakat bu değişiklikleri iyi çalışıldığı zaman o tepkiler birinebze olsun yumuşayabiliyor.
+
+736
+00:29:20,789 --> 00:29:26,789
+Veya da görürmeyen, ilk kitapla görürmeyen şeyler daha sonra yani birazcık çalışıldığı zaman görürmeye başlıyor.
+
+737
+00:29:27,789 --> 00:29:34,789
+Bu anlamda yani eğer sizler de uygunsa biz ikmadeyi programımıza alalım.
+
+738
+00:29:35,789 --> 00:29:39,789
+4 senaryonun 5. senaryosu olarak bir utalamada kayıp ne olur.
+
+739
+00:29:40,789 --> 00:29:42,789
+Bunu size raporlayalım ama bunun haricinde.
+
+740
+00:29:42,789 --> 00:29:47,789
+Bu diğer 2. konuyla alakalı birazcık daha genelleştirmek amacıyla.
+
+741
+00:29:48,789 --> 00:29:57,789
+Eğer yani sonra yüz yüze teknik kişiler yani sizin daireiniz benim anladığım kadarıyla daha teknik bir daire.
+
+742
+00:29:58,789 --> 00:30:00,789
+Burada yani daire başkanı da olabilir.
+
+743
+00:30:01,789 --> 00:30:09,789
+Ben tabi tanımıyorum daire başkanını veya daire başkan yardımcısını fakat onlarla beraber bir yüze toplantı gerçekleştiririz.
+
+744
+00:30:09,789 --> 00:30:17,789
+Ve bu toplantıda alacağınız, alacağı kararlar doğrultusunda biz yine size hizmet vermekten memnuniyet veririz.
+
+745
+00:30:19,299 --> 00:30:20,299
+Ben de şöyle yapalım.
+
+746
+00:30:21,299 --> 00:30:24,299
+Sama 20'inden sonrası için ben onların taklimlerine bir bakalım.
+
+747
+00:30:25,299 --> 00:30:33,299
+Ama 5. senaryo kısmı için bence durduralım çünkü şey de zaten Türkiye genende çalışacağımız kezde
+
+748
+00:30:33,299 --> 00:30:40,299
+şu an çıkartacağımız 5. senaryo sonucu belki kullanmayı biliriz.
+
+749
+00:30:41,299 --> 00:30:42,299
+Ben şu olabilir.
+
+750
+00:30:43,299 --> 00:30:48,299
+Biz zaten stres testleri çalışıldığı devam ettik sürece biz bu şey genel dedi.
+
+751
+00:30:49,299 --> 00:30:53,299
+5. senaryo ortalama bir senaryoda çıkartılsın diye orada gelişeyi de yapabiliriz.
+
+752
+00:30:54,299 --> 00:30:55,299
+Tabii.
+
+753
+00:30:56,299 --> 00:31:00,299
+O yüzden hani bu 250'yili bir torun periyo 500 mu olacak, 1000 mu olacak her neyse.
+
+754
+00:31:00,299 --> 00:31:08,299
+Aslında tüm Türkiye genelinde çalışacağımız bir durumda o çok da şu an bizim şeyimize hizmet edecek durumda değil.
+
+755
+00:31:09,299 --> 00:31:15,299
+Bilmiyorum hani bize bir gösterge olur mu ya da işimize yarar mı bu Türkiye genelindeki çalışmalar?
+
+756
+00:31:16,299 --> 00:31:17,299
+Hayır.
+
+757
+00:31:19,039 --> 00:31:20,039
+Bence bir ortalama da bir şey verir.
+
+758
+00:31:21,039 --> 00:31:22,039
+Bence de biraz öyle.
+
+759
+00:31:23,039 --> 00:31:27,039
+O yüzden şimdilik bence siz herhangi bir çalışmaya oluşturmayın doktoruyla ilgili.
+
+760
+00:31:27,039 --> 00:31:33,039
+Biz 20'sinden sonraki o 20'si haftası için haberleşelim.
+
+761
+00:31:34,039 --> 00:31:38,039
+Orada daha hem üst düzeyde olur hem daha teknik düzeyde olur.
+
+762
+00:31:39,039 --> 00:31:40,039
+Şeyler daha netleşir.
+
+763
+00:31:41,039 --> 00:31:42,039
+Ne yapacağız?
+
+764
+00:31:43,039 --> 00:31:45,039
+Ondan sonrasında yol haritamızı oluştururuz.
+
+765
+00:31:46,039 --> 00:31:48,039
+Merve Hanım benim gördüğüm şöyle bir şey istiyorum.
+
+766
+00:31:49,039 --> 00:31:53,039
+Gerçekten birazcık da aperimi, kimliğime sağlık kalarak şey yapayım.
+
+767
+00:31:53,039 --> 00:31:59,039
+Tabi bu işin uygulama tarafından geçsin ben ama yani bütün Türkiye'yi bu yani tüm kümmülü,
+
+768
+00:32:00,039 --> 00:32:02,039
+sigorta şirketlerinin kümmünün dikkatı olarak gitti.
+
+769
+00:32:03,039 --> 00:32:06,039
+Biraz önce söyledim biz yani herhalde yüzde seksen beşiyle doksayla falan çalışıyoruz zaten.
+
+770
+00:32:07,039 --> 00:32:08,039
+Çalıştık yani.
+
+771
+00:32:09,039 --> 00:32:12,039
+Yani Türkiye Resulansı'nın şu aşamada anlaşma yapmadı.
+
+772
+00:32:13,039 --> 00:32:14,039
+İki veya üç tane şirket vardır.
+
+773
+00:32:15,039 --> 00:32:17,039
+Onun haricindeki tüm şirketlerle anlaşma yapmıştır.
+
+774
+00:32:18,039 --> 00:32:20,039
+Ve onlarla biz çalışıyoruz zaten.
+
+775
+00:32:20,039 --> 00:32:27,039
+Benim böyle gönlümden geçen, hayalimden geçen benzer Marmara bölgesindeki çalışmayı bölgesi olarak
+
+776
+00:32:28,039 --> 00:32:31,039
+bir büyük Ege bölgesi, Afganiz bölgesi, belki Çanadolu bölgesi.
+
+777
+00:32:32,039 --> 00:32:37,039
+Ondan sonra bir de Doğanlı bölgesi olarak bir ayrı ayrı bölgelerde yapmak,
+
+778
+00:32:38,039 --> 00:32:42,039
+arkasında bunu toplulaştırmak, yani tüm Türkiye için gerçekleştirmek,
+
+779
+00:32:43,039 --> 00:32:49,299
+kritik deprem sülaryolarını bütün bölgeler için vedilmemek ve arkasından da bunlar üstünden
+
+780
+00:32:50,299 --> 00:32:55,299
+bunların sonuçlarıyla beraber kümünlere normalize ederek burada hangi çömperiyatlar
+
+781
+00:32:56,299 --> 00:32:57,299
+çok daha kritik olmaya başlıyor.
+
+782
+00:32:58,299 --> 00:33:01,299
+Hangi çömperiyatlar bu anlamda uygulamaya daha uygun.
+
+783
+00:33:02,299 --> 00:33:08,299
+Çünkü bakın almış olduğumuz her karar sigorta şirketlerinin brokerleri ve yapmış olduğu çalışmalara da
+
+784
+00:33:09,299 --> 00:33:10,299
+bir şekilde yansıyacaktır yani.
+
+785
+00:33:11,299 --> 00:33:13,299
+Tüm bunları böyle bir azıcık daha ne bileyim.
+
+786
+00:33:13,299 --> 00:33:21,299
+3 aylık, 3, 3 aylık bir sözleşmesi, bir proje sürecinde biz ele alsak emin olun.
+
+787
+00:33:22,299 --> 00:33:28,390
+Hem sizler çok daha geniş açıdan bu olaya karar verebilme imkanınız olacak.
+
+788
+00:33:29,390 --> 00:33:34,390
+Hem de çalışma istasında aklınıza gelen pek çok soruyup bize yöneltebileceksiniz.
+
+789
+00:33:35,390 --> 00:33:41,650
+Bunların sonucunda da çok ayakları tutar, yere basar bir şeyi oluşturacağız der ki.
+
+790
+00:33:41,650 --> 00:33:48,650
+Yani ben okuyorum, mesela her bir şirketin veya her bir büyük bu anlamda şeyin
+
+791
+00:33:49,650 --> 00:33:51,650
+bir iç modelinin oluşması gerekiyor vesaire vesaire.
+
+792
+00:33:52,650 --> 00:33:58,869
+Belki bunları da yavaş yavaş şirketlere empoza etmeye de başlayabilirsiniz bu çalışmalarla beraber.
+
+793
+00:33:59,869 --> 00:34:07,869
+Yani 20'sinden sonra bizim bir takım seyahatlerimiz var bu ayın özellikle 20'sine 21'ine kadar.
+
+794
+00:34:07,869 --> 00:34:13,869
+Hatta şöyle size söyleyeyim, 22 ve 23 fakat son hafta biz burada olacağız.
+
+795
+00:34:14,869 --> 00:34:22,869
+O zamana kadar bu konuyla ilgili ve insanlara sıkmayacak bir ufak sunumda hazırlama durumumuz olur.
+
+796
+00:34:23,869 --> 00:34:26,869
+Bunu da yani daire başkanı, daire başkan yardımcınıza ve sizleri aktarırız.
+
+797
+00:34:27,869 --> 00:34:32,869
+Daha sonra da sizin kararınıza göre biz çalışmalarımızı yaparız, memnuniyetle.
+
+798
+00:34:32,869 --> 00:34:37,059
+Bence de bu şekilde ilerlememiz daha iyi olur.
+
+799
+00:34:38,059 --> 00:34:39,059
+Kesinlikle burada şey katılıyorum.
+
+800
+00:34:40,059 --> 00:34:47,059
+Hani 2 ayda bitirmektense 4 ayda bitirip ya da 1 ayda bitirmektense 4 ayda bitirip daha şey bir şekilde çalışmak,
+
+801
+00:34:48,059 --> 00:34:52,059
+detaylı ve geniş kapsamlı.
+
+802
+00:34:53,059 --> 00:34:56,059
+Ben hani zaten şöyle diye düşünüyorum hocam.
+
+803
+00:34:56,059 --> 00:35:01,190
+Bu şekilde şimdi bugün çalışıyoruz.
+
+804
+00:35:02,190 --> 00:35:10,190
+Hatta yıl sonunda ancak yetiştiği yetişemedi ve bunun hani gerçekten doğruluğunu test edebileceğimiz bir durum söz konusu olabilir mi?
+
+805
+00:35:11,190 --> 00:35:15,190
+Şirketlerin yıl sonunda yeni korumalarını aldığını düşündüğümüzde.
+
+806
+00:35:16,190 --> 00:35:24,190
+Dolayısıyla belki de hani Ocak Şubat gibi bu şeye kadar sonuçlandığınız şey gerçekten olmaz.
+
+807
+00:35:24,190 --> 00:35:29,190
+Ve şimdi Nisan'da bir sonraki SPS'e çalışmalarını yapacağız.
+
+808
+00:35:30,190 --> 00:35:31,190
+Hani sonucunu da görmemiz olur mu diye.
+
+809
+00:35:32,190 --> 00:35:37,190
+En kötü zaten 2028 korumalarını belki de bu şekilde şey yapın.
+
+810
+00:35:38,190 --> 00:35:47,610
+Şey süreç pilof süreci olur mu kestiremiyorum ama en şey yakın tarih bence şimdi 2027 diye gerçekçi olmaz.
+
+811
+00:35:47,610 --> 00:35:50,610
+2020'de gerçekçi olmaz.
+
+812
+00:35:51,610 --> 00:35:55,610
+2020 28 olabilir.
+
+813
+00:35:56,610 --> 00:35:58,610
+Bakın ki 2027 korumalarını pek çok şirket zaten.
+
+814
+00:35:59,610 --> 00:36:00,610
+Vatan belki başladığı yani.
+
+815
+00:36:01,610 --> 00:36:02,610
+Tabii tabii. Çoktan başladılar.
+
+816
+00:36:03,610 --> 00:36:10,829
+Yani büyük şirketlerin neredeyse tamamı şu anda 2027 korumaların bütün büyük buralar olsun.
+
+817
+00:36:11,929 --> 00:36:13,989
+Veya kendi içlerinde çok vardı.
+
+818
+00:36:14,989 --> 00:36:15,989
+Bunları konuşuyorlar artık.
+
+819
+00:36:15,989 --> 00:36:19,989
+Yani hani bunu en azından biz yakın yakında görebiliyoruz.
+
+820
+00:36:20,989 --> 00:36:24,989
+Şimdi bu çalışma her ne olursa olursun 2027 yılına etkilemeyecek.
+
+821
+00:36:25,989 --> 00:36:26,989
+Olmayacak doğrusu.
+
+822
+00:36:27,989 --> 00:36:28,989
+Yani bu imkansız.
+
+823
+00:36:29,989 --> 00:36:30,989
+50'ün ortasına geldiklerdi.
+
+824
+00:36:31,989 --> 00:36:35,989
+Yani 10 ay şu an pratik olarak bu hafta çarşamba günü falan.
+
+825
+00:36:36,989 --> 00:36:40,989
+Yani sonuçta bu 2027 yılına yetişmeyecektir.
+
+826
+00:36:40,989 --> 00:36:46,989
+Ama 2027'in onlara doğru başlamıyor.
+
+827
+00:36:47,989 --> 00:36:50,989
+2028'in başlarında değil.
+
+828
+00:36:51,989 --> 00:36:59,539
+Bu çalışmayı sonlandırıp sizler bu çalışmayı bir şekilde daha detaylı konuştuğunuz vakit.
+
+829
+00:37:00,539 --> 00:37:05,599
+Kendi aranızda şey yaptığınız zaman bunu üst kurula ki daha az teknik olan kurula
+
+830
+00:37:06,599 --> 00:37:08,599
+hem nasıl sunmanız gerektiğini de şey yapabilirsiniz.
+
+831
+00:37:08,599 --> 00:37:10,599
+Yani planlayabilirsiniz.
+
+832
+00:37:11,599 --> 00:37:14,599
+O anlamda 2028 korumaları için bu bir temel oluşturuyor.
+
+833
+00:37:15,599 --> 00:37:16,599
+Saha gerçekçi yani.
+
+834
+00:37:17,599 --> 00:37:18,599
+Temel oluşturur.
+
+835
+00:37:19,980 --> 00:37:20,980
+Tamam hocam.
+
+836
+00:37:21,980 --> 00:37:22,980
+O zaman.
+
+837
+00:37:24,139 --> 00:37:25,139
+Ya bana da öyle geliyor.
+
+838
+00:37:26,139 --> 00:37:30,340
+3 gün sonra buna şey 500 yakın dersler.
+
+839
+00:37:31,340 --> 00:37:33,340
+Ben bir şey diyemem tabii ki doğal bir konuda.
+
+840
+00:37:34,340 --> 00:37:38,340
+Ama gerçekçi şey bilimsel ve aktuali olarak konuştuğumuzda.
+
+841
+00:37:39,340 --> 00:37:40,340
+En yakın gelen tarih.
+
+842
+00:37:41,340 --> 00:37:42,340
+2028 bu arada.
+
+843
+00:37:43,340 --> 00:37:45,340
+Ben bu şekilde aktaracağım.
+
+844
+00:37:46,340 --> 00:37:50,340
+Zaten şeyde de son haftası diyelim.
+
+845
+00:37:51,340 --> 00:37:57,340
+O 28'in olduğu haftasında konuştuğumuz şey olduğunda da bu şekilde konuşmuş oluruz.
+
+846
+00:37:58,820 --> 00:38:00,820
+Öyle ilerler diye düşünüyorum.
+
+847
+00:38:01,820 --> 00:38:04,820
+Ama bunlar benim şahsi düşüncelerim.
+
+848
+00:38:05,820 --> 00:38:07,820
+Yani ne olacağını bilemiyorum.
+
+849
+00:38:08,820 --> 00:38:10,360
+Tamamdır hocam.
+
+850
+00:38:11,360 --> 00:38:12,360
+O zaman şey için.
+
+851
+00:38:13,420 --> 00:38:16,420
+Bu konuştuğumuz kapsamda ilerlemiş oluruz şeyde.
+
+852
+00:38:17,420 --> 00:38:19,420
+28'i o son haftası için.
+
+853
+00:38:20,420 --> 00:38:24,420
+Siz hani dilerseniz sunumda hazırlayabilirsiniz.
+
+854
+00:38:25,420 --> 00:38:29,420
+Bu çerçevede belki bir aktarım için bir şey gerekir mi?
+
+855
+00:38:31,420 --> 00:38:33,420
+Ona göre şey yaparız.
+
+856
+00:38:34,420 --> 00:38:35,420
+Toplantıya ayarlayarız.
+
+857
+00:38:35,420 --> 00:38:36,420
+Tamam.
+
+858
+00:38:37,420 --> 00:38:41,420
+Ben merhaba sizden o zaman haber bekleyeceğim bu durumda.
+
+859
+00:38:42,420 --> 00:38:43,420
+Aynen.
+
+860
+00:38:44,420 --> 00:38:48,420
+Biz de bizim taraftaki tarihleri göre siz de uygunun için mail atmış oluruz.
+
+861
+00:38:49,420 --> 00:38:50,420
+Tamam.
+
+862
+00:38:51,420 --> 00:38:52,420
+Ona göre şey yaparız.
+
+863
+00:38:53,420 --> 00:39:00,619
+Bu genel çerçeveyi birazcık daha maddeler halinde yazarak aktarabilirim.
+
+864
+00:39:00,619 --> 00:39:04,619
+Gerekli gerek görürseniz yoksa yine böyle bir konuşmayı açıkleştiririz fark etmez.
+
+865
+00:39:06,000 --> 00:39:07,000
+Vallahi bilmiyorum.
+
+866
+00:39:08,000 --> 00:39:13,000
+Ben her zaman kısmım biraz görseldiğin olmasının iyi olduğunu düşünüyorum yani.
+
+867
+00:39:14,000 --> 00:39:17,030
+Her zaman için içinde olmayanlar için.
+
+868
+00:39:18,030 --> 00:39:19,030
+Bence bittik olabilir.
+
+869
+00:39:20,030 --> 00:39:24,030
+Hani ne şekilde ilerlerini ne kapsamda bakmak lazım falan gibi.
+
+870
+00:39:25,030 --> 00:39:26,030
+Aktarımda.
+
+871
+00:39:26,030 --> 00:39:32,030
+Daire başkanın bence bir daire başkanın tarafında şey zaten birlikte götürüyorlarsa.
+
+872
+00:39:33,030 --> 00:39:38,030
+Toplantılarda çok adımı sağlayamamış olabilir ama arka tarafta birlikte bakıyoruz.
+
+873
+00:39:39,030 --> 00:39:42,030
+Ama başka yer bir tık o seviye arttıkça şey oluyor.
+
+874
+00:39:43,030 --> 00:39:47,030
+Teknik te buluşmak biraz daha zor oluyor.
+
+875
+00:39:48,030 --> 00:39:50,030
+O yüzden orada görsellik.
+
+876
+00:39:51,030 --> 00:39:53,250
+Tamam.
+
+877
+00:39:53,250 --> 00:39:55,250
+Bir zaten teknik bir sunum yapmaya hiç bir an düşünmedim.
+
+878
+00:39:56,250 --> 00:39:57,250
+Ya da kapsam mı olur gidersin?
+
+879
+00:39:58,250 --> 00:39:59,250
+Kapsam olarak.
+
+880
+00:40:01,250 --> 00:40:11,280
+Evet aynı zamanda işte yani bunun yanca Marmara bölgesini bir şey yaparsak tahvil edersek bu ne kadar bir öngörü verir.
+
+881
+00:40:12,280 --> 00:40:17,280
+Onları böyle sözler bir şekilde açıklayan bir sunumu gerçekleştirir.
+
+882
+00:40:18,280 --> 00:40:19,280
+Tamamdır. Sağ olun hocam.
+
+883
+00:40:20,280 --> 00:40:21,280
+Teşekkür ederim.
+
+884
+00:40:21,280 --> 00:40:23,280
+İyi çalışmalar diliyorum.
+
+885
+00:40:24,280 --> 00:40:25,280
+Teşekkürler.
+

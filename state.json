@@ -132,5 +132,16 @@
     "transcribed_at": "2026-10-30T13:00:27",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1Wie-c0oQBNM09WwBPHpff4dXoLmysHHI": {
+    "status": "transcribed",
+    "source": "Ses 260907_140631 - SEDDK.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260907_140631 - SEDDK.txt",
+    "duration": "0:40:30",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T13:08:17",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
