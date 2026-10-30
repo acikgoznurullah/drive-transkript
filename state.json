@@ -189,7 +189,7 @@
     "uploaded.srt": true
   },
   "1NUbLlXpBeSfZl1LyporYUvPiwUyA4GZ2": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261016_161901 - İlayda Balkan.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261016_161901 - İlayda Balkan.txt",
@@ -197,6 +197,10 @@
     "language": "tr",
     "transcribed_at": "2026-10-30T13:38:30",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261016_161901 - İlayda Balkan_Rapor.docx",
+    "reported_at": "2026-10-30T13:39:35",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1UodlB0foE5pWD2C1CnxhUdVf1Yx4cAeu/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   }
 }
