@@ -167,7 +167,7 @@
     "uploaded.srt": true
   },
   "1RyRlvXJZJDZpBOJT5NB3S9rBLzg4vaBY": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261023_110421 - Türkre Parametrik Münichre Toplantısı.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261023_110421 - Türkre Parametrik Münichre Toplantısı.txt",
@@ -175,7 +175,11 @@
     "language": "en",
     "transcribed_at": "2026-10-30T13:30:39",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261023_110421 - Türkre Parametrik Münichre Toplantısı_Rapor.docx",
+    "reported_at": "2026-10-30T13:41:39",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1uYE9zZZHSkMo3Nf5455R5NeBoPGTZn1V/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1vdTWxdyEiHl_NcAf4pPkmFJwW_7nfupD": {
     "status": "reported",
