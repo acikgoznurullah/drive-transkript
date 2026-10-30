@@ -1,0 +1,5192 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ece Meydin neydi? Buna gıcağı atlayacağız.
+
+2
+00:00:02,000 --> 00:00:03,000
+Evet, buyurun.
+
+3
+00:00:05,379 --> 00:00:10,539
+O bizim benim konuştuğum bir hikaye vardı.
+
+4
+00:00:10,539 --> 00:00:13,539
+O hikaye de bu arada yaptığınız var arkadaşlar.
+
+5
+00:00:15,660 --> 00:00:18,660
+Bu kondisyonunu şeyleri ürettik.
+
+6
+00:00:18,660 --> 00:00:20,660
+Asal görevlidir. Onları göstereceğim.
+
+7
+00:00:20,660 --> 00:00:23,820
+Tamam şimdi şöyle bir şey yapalım.
+
+8
+00:00:23,820 --> 00:00:29,820
+Ben şu anda beyin de sunanmış durumda.
+
+9
+00:00:29,820 --> 00:00:34,820
+Bana çok hafifte alarak başlayıp anlatılmıyor muyum?
+
+10
+00:00:35,820 --> 00:00:36,820
+Tamam.
+
+11
+00:00:36,820 --> 00:00:41,820
+Şimdi hocam biz hatırlarsanız bir taneli Rho et ol diye bir
+
+12
+00:00:41,820 --> 00:00:45,820
+Spen fragilitine geçme şeyimiz vardı.
+
+13
+00:00:45,820 --> 00:00:46,820
+Formülünümüz vardı.
+
+14
+00:00:46,820 --> 00:00:48,820
+Orada da şunu söylüyordu.
+
+15
+00:00:48,820 --> 00:00:54,920
+O yürüyün dediğimiz bir eksi formülü gösterecek oluştan.
+
+16
+00:00:54,920 --> 00:00:56,920
+Şu.
+
+17
+00:00:56,920 --> 00:00:59,920
+Şöyle bir formülü hocam.
+
+18
+00:00:59,920 --> 00:01:01,920
+Orada diyor ki aslında Türkçe'de şu.
+
+19
+00:01:01,920 --> 00:01:05,920
+En az birinin aşılım olasılığına dikkat alıyor biz de orada.
+
+20
+00:01:05,920 --> 00:01:07,920
+Altyapı veya üst yapı?
+
+21
+00:01:07,920 --> 00:01:09,980
+Evet, aynen.
+
+22
+00:01:09,980 --> 00:01:11,980
+Şimdi bu mantığına göre hareket ettiğimizde
+
+23
+00:01:11,980 --> 00:01:13,980
+şöyle bir şey hazırladım ben.
+
+24
+00:01:13,980 --> 00:01:15,980
+Buradan böyle şekillerden gitmemiz daha kolay olacak.
+
+25
+00:01:15,980 --> 00:01:18,980
+Şimdi ben bunun iki türlü bulabilirim.
+
+26
+00:01:18,980 --> 00:01:20,980
+Mesela on tane hasarlı olsun.
+
+27
+00:01:20,980 --> 00:01:21,980
+On tane binalar olsun.
+
+28
+00:01:21,980 --> 00:01:24,980
+Yedi tanesi izletörü açtı diyelim.
+
+29
+00:01:24,980 --> 00:01:27,980
+Burada da dört tanesi üst yapıyı aşmış olsun.
+
+30
+00:01:27,980 --> 00:01:32,980
+Şimdi ben eğer şeyi yaparsam.
+
+31
+00:01:32,980 --> 00:01:35,980
+Şimdi en az birinin aşılım olasılığı dedim ya.
+
+32
+00:01:35,980 --> 00:01:38,980
+İzletörü zaten yedi tanesi izletörüden gelecek.
+
+33
+00:01:38,980 --> 00:01:40,980
+Bir de şöyle bir durum olabilir.
+
+34
+00:01:40,980 --> 00:01:42,980
+Şu bir tane kutucuğun olma ihtimalle.
+
+35
+00:01:42,980 --> 00:01:46,980
+Orada da üst yapının, izletörün aşmıdan mı üst yapının aştığı durum olabilir.
+
+36
+00:01:46,980 --> 00:01:50,980
+Şimdi ben bunları şey yaparken nasıl yapacağım?
+
+37
+00:01:50,980 --> 00:01:53,980
+Bu yedi tane kutucuğu artık bir tanesini aldığında
+
+38
+00:01:53,980 --> 00:01:56,980
+sekiz tanesi aslında ben
+
+39
+00:01:56,980 --> 00:02:01,180
+sekiz tane kez için sistem hasarlı diyebilirim.
+
+40
+00:02:01,180 --> 00:02:05,180
+Bir de onu şurada yaptım aslında.
+
+41
+00:02:05,180 --> 00:02:10,180
+Yani izletörün aşmıda durumda üst yapının aşmı olasılığını şurada dikkat alıyorum.
+
+42
+00:02:10,180 --> 00:02:13,180
+Diğerini de zaten izletörü dikkat almış oluyorum.
+
+43
+00:02:13,180 --> 00:02:17,009
+O da dediğim gibi şu kez.
+
+44
+00:02:17,009 --> 00:02:20,009
+Bir böyle bir hasar görebilirdik, üretti.
+
+45
+00:02:20,009 --> 00:02:24,009
+Bir de şunu vermeni dediği işte izletörü açtığında
+
+46
+00:02:24,009 --> 00:02:29,009
+üst yapının aşmı olasılığını, kondisyonu da, galsin kapıladan
+
+47
+00:02:29,009 --> 00:02:34,009
+işte iki bağımsız değişikliği korilasyonuna bağlayayım.
+
+48
+00:02:34,009 --> 00:02:36,009
+Bir şey elde etmiş olduk.
+
+49
+00:02:36,009 --> 00:02:41,009
+Burada da ben sistem hasar görebilerine geçerken mantığım şu.
+
+50
+00:02:41,009 --> 00:02:44,330
+Şimdi ikisini de birlikte açtığı durum.
+
+51
+00:02:44,330 --> 00:02:46,330
+Şu üç tane kutsuzluk ya.
+
+52
+00:02:46,330 --> 00:02:48,330
+Bu seferde ben şunu yapıyorum.
+
+53
+00:02:48,330 --> 00:02:50,330
+Sadece izletörün açtığı durum.
+
+54
+00:02:50,330 --> 00:02:54,330
+Yedi tane, artı, üst yapının açtığı durum.
+
+55
+00:02:54,330 --> 00:02:59,699
+Dört tane, eksi bu sefer kesişini çıkarıyorum.
+
+56
+00:02:59,699 --> 00:03:01,699
+Aynı şey gidiyor aslında.
+
+57
+00:03:01,699 --> 00:03:05,150
+İki farklı yolun aynı mantık.
+
+58
+00:03:05,150 --> 00:03:08,150
+Onu da bulduğum zaman hocam.
+
+59
+00:03:08,150 --> 00:03:15,150
+Onun şeyle şu şey olan, yeşil olan hasar görebilirdik.
+
+60
+00:03:15,150 --> 00:03:18,150
+Hasar görebilirdik değil bu fragilite.
+
+61
+00:03:18,150 --> 00:03:21,569
+Şimdi iki tane farklı yoldan ben gideyim de
+
+62
+00:03:21,569 --> 00:03:25,849
+aslında ben aynı hasar görebilirli üretiyorum.
+
+63
+00:03:25,849 --> 00:03:29,849
+Günü sonda bizimle ürettiğimiz şey aynı hasar görebilirdik oluyor.
+
+64
+00:03:29,849 --> 00:03:34,740
+Şu yol bir yolki dediğinde zaten üst üste biniyorum.
+
+65
+00:03:34,740 --> 00:03:38,740
+Şimdi ben artık şey yapmış oldum şurada.
+
+66
+00:03:38,740 --> 00:03:42,740
+Üst yapıyı izletörü kondisyonuna bir şey oldu.
+
+67
+00:03:42,740 --> 00:03:45,319
+Kapılayla.
+
+68
+00:03:45,319 --> 00:03:47,319
+Bu üst sonrasında hocam.
+
+69
+00:03:47,319 --> 00:03:50,319
+Biz burada bir mesele verebiliği karşı gürülttük.
+
+70
+00:03:50,319 --> 00:03:53,319
+Şu üstteki bağımsız olma durumu.
+
+71
+00:03:53,319 --> 00:03:55,319
+Yani rolma sıfır olduğu durumu.
+
+72
+00:03:55,319 --> 00:03:56,319
+Aynen.
+
+73
+00:03:56,319 --> 00:03:59,319
+Şimdi bir tane model böyle elimizde var.
+
+74
+00:03:59,319 --> 00:04:03,639
+Geçen hafta konuştuğumuz şey buydu aslında.
+
+75
+00:04:03,639 --> 00:04:09,020
+Diğer ikinci modelde Merve'yi şimdi yana satılamıyorsam
+
+76
+00:04:09,020 --> 00:04:12,020
+iki gün önce konuştum ben hatırlayamadım.
+
+77
+00:04:12,020 --> 00:04:15,020
+Orada da şöyle bir şey dedi kocam.
+
+78
+00:04:15,020 --> 00:04:19,060
+Şimdi bizim yine üst yapı ve işte izletör var.
+
+79
+00:04:19,060 --> 00:04:21,060
+Dedi ki bunlara bir ağırlıklandıralım.
+
+80
+00:04:21,060 --> 00:04:25,060
+Yani normalde şey yapıyorduk ya.
+
+81
+00:04:25,060 --> 00:04:28,060
+İşte farklı farklı modekarrolar yapıp
+
+82
+00:04:28,060 --> 00:04:30,060
+iki konsekans ve iki fragiltiden
+
+83
+00:04:30,060 --> 00:04:32,060
+bir önceki metoddan bahsediyorum.
+
+84
+00:04:32,060 --> 00:04:35,060
+Geçen haftalarda onu da denemiştik hatırlarsanız.
+
+85
+00:04:35,060 --> 00:04:38,060
+Biz şimdi şurada tek bir ben şey bulanıyorum.
+
+86
+00:04:38,060 --> 00:04:42,060
+Konsekans bulanıyorum çünkü ben sustan fragiltisi elde ettim.
+
+87
+00:04:42,060 --> 00:04:48,060
+Konsekans da birleştirince ben tek bir asal görebilebilir diye elde etmiş oluyorum.
+
+88
+00:04:48,060 --> 00:04:50,060
+Ama ben burada tek bir konsekans kullanıyorum.
+
+89
+00:04:50,060 --> 00:04:54,060
+Şimdi bu ikinci metodda da iki tane konsekans kullanıyorum
+
+90
+00:04:54,060 --> 00:04:56,060
+ve iki tane fragilti kullanıyorum.
+
+91
+00:04:56,060 --> 00:04:58,060
+Bunlar da nasıl bir...
+
+92
+00:04:58,060 --> 00:04:59,060
+Tabii.
+
+93
+00:04:59,060 --> 00:05:00,060
+Tabi araya girebilir miyim?
+
+94
+00:05:00,060 --> 00:05:04,060
+Tabi bir şey ağırlıklandıralım nereden çıktığını şu şekilde özettiğim
+
+95
+00:05:04,060 --> 00:05:06,060
+bizim iki tane konsekans modelimiz var.
+
+96
+00:05:06,060 --> 00:05:10,060
+İkisi de bireye gidiyor ve aslında bizim bu ne toplamamız lazım.
+
+97
+00:05:11,060 --> 00:05:13,060
+Fakat yapılır farklı.
+
+98
+00:05:13,060 --> 00:05:15,060
+Ve iki tane toplar senar.
+
+99
+00:05:15,060 --> 00:05:21,060
+DS3, DS4 için benim bir olması gereken değeri iki olur.
+
+100
+00:05:21,060 --> 00:05:25,180
+Çünkü konsekans mesela DS3 alın, DS4 alın.
+
+101
+00:05:25,180 --> 00:05:28,180
+Konsekans ikisinde de bir gelecek.
+
+102
+00:05:28,180 --> 00:05:32,180
+Hem İzartör için bir olacak, hem bina için bir olacak.
+
+103
+00:05:32,180 --> 00:05:36,180
+Yani tüm binanın değeri veya tüm İzartör'ün değeri.
+
+104
+00:05:36,180 --> 00:05:39,180
+İkisini birleştirdiğimizde toplam iki olacak.
+
+105
+00:05:39,180 --> 00:05:41,180
+Ama bizim toplamızın bir olması lazım.
+
+106
+00:05:41,180 --> 00:05:45,180
+Çünkü bizim sıfırlı bir arasını değişeceğiz lazım.
+
+107
+00:05:45,180 --> 00:05:51,569
+Dolayısıyla sadece üst yakının konsekansını kullanmak yerine
+
+108
+00:05:51,569 --> 00:05:53,569
+bunları ağırlıklandıralım.
+
+109
+00:05:53,569 --> 00:05:57,569
+Binanın maliyetiyle göre oranlarını kullanarak işte
+
+110
+00:05:57,569 --> 00:06:01,569
+İzartör'ün binanın tüm maliyeti...
+
+111
+00:06:01,569 --> 00:06:06,569
+İzartör, oranını bunu kullanalım.
+
+112
+00:06:06,569 --> 00:06:10,569
+Ve sadece binanın konsekansı yerine
+
+113
+00:06:10,569 --> 00:06:13,569
+ikisinin konsekansını da beraber kullanalım.
+
+114
+00:06:13,569 --> 00:06:16,569
+Ağırlıklandırılmış bir şekilde.
+
+115
+00:06:21,139 --> 00:06:23,139
+Oru şöyle bir şey söyleyeyim.
+
+116
+00:06:23,139 --> 00:06:25,139
+Biz normalde onları toplamıyoruz da
+
+117
+00:06:25,139 --> 00:06:30,139
+yani ikisini farklı monotekar olarak da reçiyoruz.
+
+118
+00:06:30,139 --> 00:06:31,139
+Sen bulur musun?
+
+119
+00:06:31,139 --> 00:06:32,139
+Sen bulur musun?
+
+120
+00:06:32,139 --> 00:06:33,139
+Sen bulur musun?
+
+121
+00:06:33,139 --> 00:06:37,139
+Bu şekilde bir distribuşun gibi şey yapıp aslında şey yapıyoruz.
+
+122
+00:06:37,139 --> 00:06:42,139
+Şeyleri artık oluşturuyoruz, minleri vesaire diğer grafikleri.
+
+123
+00:06:42,139 --> 00:06:44,139
+Burada da...
+
+124
+00:06:44,139 --> 00:06:45,139
+Bir dakika.
+
+125
+00:06:45,139 --> 00:06:47,139
+Burada tamam bir dakika çok parmağım.
+
+126
+00:06:47,139 --> 00:06:50,660
+Ağırlıklandırmaya yaparken
+
+127
+00:06:50,660 --> 00:06:53,660
+benim dediği gibi üst yapım maliyeti,
+
+128
+00:06:53,660 --> 00:06:56,720
+görüksüz, alt yapım maliyeti,
+
+129
+00:06:56,720 --> 00:07:01,069
+yani zaratör maliyeti bununla ilgili
+
+130
+00:07:01,069 --> 00:07:06,920
+farklı olabileceğini mi düşünüyorsun?
+
+131
+00:07:06,920 --> 00:07:12,079
+Ben şöyle 10-15-20-25 için yaptım hocam.
+
+132
+00:07:12,079 --> 00:07:15,079
+Yani 10-15-20'de şu mu demek istiyorsunuz?
+
+133
+00:07:15,079 --> 00:07:18,079
+Zaratör maliyeti, %10 kel,
+
+134
+00:07:18,079 --> 00:07:20,079
+binan maliyeti %90.
+
+135
+00:07:20,079 --> 00:07:23,079
+Zaratör maliyeti, toplam maliyeti,
+
+136
+00:07:23,079 --> 00:07:28,180
+%28 kel, binan maliyeti, %80 gibilerinden değil mi?
+
+137
+00:07:28,180 --> 00:07:29,339
+Evet hocam.
+
+138
+00:07:29,339 --> 00:07:30,339
+Peki.
+
+139
+00:07:30,339 --> 00:07:34,009
+Bu da farklı bir metod.
+
+140
+00:07:34,009 --> 00:07:37,009
+İlk farklı konsekansık kullanmış olabildiğini dediği gibi.
+
+141
+00:07:37,009 --> 00:07:42,009
+Bu şekilde de böyle bir dağılımı elde etmiş oluyoruz.
+
+142
+00:07:42,009 --> 00:07:45,009
+Tabii ki yaklaşım farklı burada.
+
+143
+00:07:45,009 --> 00:07:49,009
+Yani şimdi bir tanesini de
+
+144
+00:07:49,009 --> 00:07:53,009
+ben ağırlıklandırıyorum iki farklı konsekans ve fragitiği.
+
+145
+00:07:53,009 --> 00:07:55,009
+Burada daha farklı bir yaklaşım var.
+
+146
+00:07:55,009 --> 00:07:58,009
+Mesela modelleri karşılaştıralım istiyorsanız,
+
+147
+00:07:58,009 --> 00:08:01,009
+şurada banderiye de seçmiştim ben.
+
+148
+00:08:01,009 --> 00:08:03,009
+Şimdi banderiden gelen şey,
+
+149
+00:08:03,009 --> 00:08:07,009
+galusin kaplığı ve işte lüayet olumantanın
+
+150
+00:08:07,009 --> 00:08:09,009
+kullanarak ürettiğiniz asar görevlilik,
+
+151
+00:08:09,009 --> 00:08:12,009
+şu mavi olan,
+
+152
+00:08:12,009 --> 00:08:14,009
+şu joint birleştirme,
+
+153
+00:08:14,009 --> 00:08:16,009
+işte ya da ağırlıklandığı metodu olarak
+
+154
+00:08:16,009 --> 00:08:19,009
+alındırdığımız metoddanda gelen şey,
+
+155
+00:08:19,009 --> 00:08:25,009
+şu mini şu, hocam mavi olarak gösterdiği bir şey.
+
+156
+00:08:25,009 --> 00:08:28,009
+Bunu %15 için mesela şey diyelim.
+
+157
+00:08:28,009 --> 00:08:30,009
+Bu tabii.
+
+158
+00:08:30,009 --> 00:08:32,009
+Evet, bu tabii şey öyle olacak.
+
+159
+00:08:32,009 --> 00:08:34,009
+Ben ağırlığını arttırdıkça,
+
+160
+00:08:34,009 --> 00:08:37,009
+izletörü yakınsiyecek yani mini.
+
+161
+00:08:37,009 --> 00:08:40,009
+Aynen, %10 deyince mesela
+
+162
+00:08:40,009 --> 00:08:42,009
+buralarla geziniyor.
+
+163
+00:08:42,009 --> 00:08:44,009
+Hangi siz üretiyorsunuz?
+
+164
+00:08:44,009 --> 00:08:46,230
+Şunu şöyle söyleyeceğim,
+
+165
+00:08:46,230 --> 00:08:48,230
+şu kuturunca olan izletörü.
+
+166
+00:08:48,230 --> 00:08:54,220
+Şimdi peki bunları üst üste şey yaptınız mı?
+
+167
+00:08:54,220 --> 00:08:56,220
+Şu üst üste.
+
+168
+00:08:56,220 --> 00:08:58,220
+Evet.
+
+169
+00:08:58,220 --> 00:09:00,220
+Üst üste hocam şöyle,
+
+170
+00:09:00,220 --> 00:09:02,220
+şu da kapıda,
+
+171
+00:09:02,220 --> 00:09:05,220
+aslında zaten bir şey daha
+
+172
+00:09:05,220 --> 00:09:07,220
+şey geliyor,
+
+173
+00:09:07,220 --> 00:09:10,220
+bu ikinci ağırlık anlaşma metoddalarıyla kullandığımız.
+
+174
+00:09:10,220 --> 00:09:12,220
+Daha düşük geliyor.
+
+175
+00:09:12,220 --> 00:09:15,220
+Çünkü burada sen izletöre %15, %20,
+
+176
+00:09:15,220 --> 00:09:17,440
+ne verdin dedin?
+
+177
+00:09:17,440 --> 00:09:19,440
+Ağırlık bağırlık hocam.
+
+178
+00:09:19,440 --> 00:09:21,440
+Yok, %15, %20, o kadar iki tane.
+
+179
+00:09:21,440 --> 00:09:24,340
+Şunları şu izletörü,
+
+180
+00:09:24,340 --> 00:09:26,340
+olan 15-20.
+
+181
+00:09:26,340 --> 00:09:29,340
+Tamam, peki şey,
+
+182
+00:09:29,340 --> 00:09:32,340
+peki ben bir şey söylemek istiyorum.
+
+183
+00:09:32,340 --> 00:09:34,340
+Burada, yani,
+
+184
+00:09:34,340 --> 00:09:36,340
+hepinize,
+
+185
+00:09:36,340 --> 00:09:38,340
+bu izletör,
+
+186
+00:09:38,340 --> 00:09:40,460
+üst yapı,
+
+187
+00:09:40,460 --> 00:09:42,460
+maliyetleriyle ilgili ağırlıklandırmaları
+
+188
+00:09:42,460 --> 00:09:44,460
+bir öner açtırmasını yaptınız mı?
+
+189
+00:09:44,460 --> 00:09:49,649
+Hocam, öyle bir araştırma yapmadım ben.
+
+190
+00:09:49,649 --> 00:09:51,649
+Sadece şeyde konuşmuştum size,
+
+191
+00:09:51,649 --> 00:09:53,649
+konferansta bir izletçisi vardı,
+
+192
+00:09:53,649 --> 00:09:55,649
+onunla konuşmuştum.
+
+193
+00:09:55,649 --> 00:09:58,649
+Orada onunla falan tekabir ediyor gibi
+
+194
+00:09:58,649 --> 00:10:00,649
+bir şey söylemişlerden,
+
+195
+00:10:00,649 --> 00:10:03,649
+araştırılabilir ya da bilmemeli,
+
+196
+00:10:03,649 --> 00:10:06,100
+eksert,
+
+197
+00:10:06,100 --> 00:10:08,100
+opinyonu yalnız bir şey değil.
+
+198
+00:10:08,100 --> 00:10:11,100
+Şimdi, her şekilde
+
+199
+00:10:11,100 --> 00:10:14,100
+alt yapının
+
+200
+00:10:14,100 --> 00:10:17,159
+asar görmesine koşuldu.
+
+201
+00:10:17,159 --> 00:10:19,159
+Üst yapı asar üstünden.
+
+202
+00:10:19,159 --> 00:10:21,159
+Ya da vice versa değil mi?
+
+203
+00:10:21,159 --> 00:10:23,830
+Diğer gibi.
+
+204
+00:10:23,830 --> 00:10:26,830
+O, o bize,
+
+205
+00:10:26,830 --> 00:10:28,830
+oradaki şey,
+
+206
+00:10:28,830 --> 00:10:31,500
+tek konsekans kullanıyoruz.
+
+207
+00:10:31,500 --> 00:10:35,500
+Çünkü diğerini ödegine koşuldu buluyoruz.
+
+208
+00:10:35,500 --> 00:10:39,519
+Evet, ya sistem fraziliyisi elde ediyoruz.
+
+209
+00:10:39,519 --> 00:10:41,519
+Ama doğru düşünüyor değil mi arkadaşlar?
+
+210
+00:10:41,519 --> 00:10:45,149
+Konsektans kullanmamızın sebebi o.
+
+211
+00:10:45,149 --> 00:10:49,429
+Çünkü sistem fraziliyisi elde ediyorum.
+
+212
+00:10:49,429 --> 00:10:51,429
+Ben koşulduğu şeyi bulduktan sonra,
+
+213
+00:10:51,429 --> 00:10:55,429
+Lio eto mantığı alarak,
+
+214
+00:10:55,429 --> 00:10:57,429
+sistem fraziliyisi elde ediyorum,
+
+215
+00:10:57,429 --> 00:10:59,429
+tek bir fraziliyisi olmuş oluyor.
+
+216
+00:10:59,429 --> 00:11:01,429
+Tek bir konseptansın olmuş oluyor.
+
+217
+00:11:01,429 --> 00:11:04,230
+Şimdi,
+
+218
+00:11:04,230 --> 00:11:07,259
+yine ben üçünüze bir soru sorayım.
+
+219
+00:11:07,259 --> 00:11:09,460
+Bunlar içerisinde
+
+220
+00:11:09,460 --> 00:11:11,460
+her iki farklı yaklaşımın,
+
+221
+00:11:11,460 --> 00:11:13,460
+artısında, ikisisinde
+
+222
+00:11:13,460 --> 00:11:20,700
+üçünüze soruyorum.
+
+223
+00:11:20,700 --> 00:11:22,700
+Bence hocam, yani diğerini daha
+
+224
+00:11:22,700 --> 00:11:24,700
+zaten yüksek.
+
+225
+00:11:24,700 --> 00:11:26,799
+Çünkü hani izletörü,
+
+226
+00:11:26,799 --> 00:11:28,799
+izletör dolu ediyor diğerinden.
+
+227
+00:11:28,799 --> 00:11:32,269
+Ama hani,
+
+228
+00:11:32,269 --> 00:11:34,269
+ya bana şu daha şey geliyor.
+
+229
+00:11:34,269 --> 00:11:36,269
+Biraz daha.
+
+230
+00:11:36,269 --> 00:11:39,909
+Çünkü diğerini de izletörü ben aslında şey yapıyorum ya.
+
+231
+00:11:39,909 --> 00:11:41,909
+Biri hasar alıyorsa diyorum.
+
+232
+00:11:41,909 --> 00:11:43,909
+Üst yapıya da alt yapı.
+
+233
+00:11:43,909 --> 00:11:45,909
+O zaman diyorum, binar hasarlı gibi bir yaklaşımla
+
+234
+00:11:45,909 --> 00:11:47,909
+birleştiriyorum ben,
+
+235
+00:11:47,909 --> 00:11:49,909
+oraniler alıyorum.
+
+236
+00:11:49,909 --> 00:11:51,909
+Öyle olunca da,
+
+237
+00:11:51,909 --> 00:11:53,909
+izletör zaten şey olan kısım.
+
+238
+00:11:53,909 --> 00:11:55,909
+Önce gidecek ya da işte
+
+239
+00:11:55,909 --> 00:11:58,909
+problems daha yüksek tarafta kalıyor.
+
+240
+00:11:58,909 --> 00:12:00,909
+Onun ortalığı da biraz daha
+
+241
+00:12:00,909 --> 00:12:02,909
+izletörü yakasamış oluyor bundan,
+
+242
+00:12:02,909 --> 00:12:04,909
+şöyle kombinasyonucumdan.
+
+243
+00:12:04,909 --> 00:12:06,909
+Peki.
+
+244
+00:12:06,909 --> 00:12:08,909
+Başka düşüncesi var mı?
+
+245
+00:12:08,909 --> 00:12:10,909
+Ben hiçbirine daha iyi veya daha kötü demez mi
+
+246
+00:12:10,909 --> 00:12:12,909
+açıkçası? Çünkü bu mesela
+
+247
+00:12:12,909 --> 00:12:14,909
+risk almak isteyen bir insan mı?
+
+248
+00:12:14,909 --> 00:12:16,909
+Risk almak istemeyen bir insan mı?
+
+249
+00:12:16,909 --> 00:12:17,909
+O,
+
+250
+00:12:17,909 --> 00:12:19,909
+karar verecek olan kişi kimdir?
+
+251
+00:12:19,909 --> 00:12:21,909
+Onun yaklaşımına bağlı bence.
+
+252
+00:12:21,909 --> 00:12:23,909
+Mesela eğer,
+
+253
+00:12:23,909 --> 00:12:25,909
+konservatif bir insanın gözlerinde bulunduruyorsa,
+
+254
+00:12:25,909 --> 00:12:28,909
+konservatif bir filmeyi gözlerinde bulunduruyorsa,
+
+255
+00:12:28,909 --> 00:12:30,909
+turuncu olanı seçelim.
+
+256
+00:12:30,909 --> 00:12:32,909
+Ben mesela konservatif bir insanı saydım.
+
+257
+00:12:32,909 --> 00:12:34,909
+Ve şey de saydım.
+
+258
+00:12:34,909 --> 00:12:36,909
+Ben bu yatıda,
+
+259
+00:12:36,909 --> 00:12:38,909
+herhangi bir şekilde herhangi bir hasar
+
+260
+00:12:38,909 --> 00:12:40,909
+oluşmasını istemiyorum.
+
+261
+00:12:40,909 --> 00:12:42,909
+Veya işte ne bileyim,
+
+262
+00:12:42,909 --> 00:12:44,909
+hasar konusunda daha konservatif
+
+263
+00:12:44,909 --> 00:12:47,009
+fiyatlaşıyorum deseydim.
+
+264
+00:12:47,009 --> 00:12:49,009
+Şey, tarz ederdim.
+
+265
+00:12:49,009 --> 00:12:51,009
+Trencü tarz ederdim.
+
+266
+00:12:51,009 --> 00:12:53,009
+Ama hani şeysem,
+
+267
+00:12:53,009 --> 00:12:55,009
+daha ortalama,
+
+268
+00:12:55,009 --> 00:12:57,009
+risk alma eğilimindeysem,
+
+269
+00:12:57,009 --> 00:12:59,009
+mavi,
+
+270
+00:12:59,009 --> 00:13:01,009
+mavi,
+
+271
+00:13:01,009 --> 00:13:03,009
+griyi seçerdim.
+
+272
+00:13:03,009 --> 00:13:05,009
+Çünkü gri,
+
+273
+00:13:05,009 --> 00:13:07,009
+indipenditler değil,
+
+274
+00:13:07,009 --> 00:13:09,679
+mescidi.
+
+275
+00:13:09,679 --> 00:13:11,679
+İşte önceki işe de
+
+276
+00:13:11,679 --> 00:13:13,679
+bulunduğunuz yöntem diyen önceki aşamada.
+
+277
+00:13:13,679 --> 00:13:15,679
+Griyi seçerdim.
+
+278
+00:13:15,679 --> 00:13:17,679
+Çünkü biz
+
+279
+00:13:17,679 --> 00:13:19,679
+bir şey vardik.
+
+280
+00:13:19,679 --> 00:13:21,679
+Kendimizce bir korilasyon vardı.
+
+281
+00:13:21,679 --> 00:13:23,679
+Bunlar analizlerden vesaireden gelmiş bir şey değil.
+
+282
+00:13:23,679 --> 00:13:25,679
+Görmüş bir şey değil.
+
+283
+00:13:25,679 --> 00:13:27,679
+Ama sıfır evli korilasyon,
+
+284
+00:13:27,679 --> 00:13:29,679
+bir tipli yaklaşımlarda
+
+285
+00:13:29,679 --> 00:13:31,679
+man, şeydir.
+
+286
+00:13:31,679 --> 00:13:33,679
+Nasıl söyle.
+
+287
+00:13:33,679 --> 00:13:35,679
+İyi bir yaklaşımdır.
+
+288
+00:13:35,679 --> 00:13:37,679
+Çok ciddi bir korilasyonu yapıralarında
+
+289
+00:13:37,679 --> 00:13:39,679
+ama tamamen korilasyonsuza değildir.
+
+290
+00:13:39,679 --> 00:13:41,679
+Kapısı
+
+291
+00:13:41,679 --> 00:13:43,679
+hesaplarında
+
+292
+00:13:43,679 --> 00:13:45,679
+falan da kullanılır.
+
+293
+00:13:45,679 --> 00:13:47,679
+Ama ben,
+
+294
+00:13:47,679 --> 00:13:49,679
+bir riski eğilimi bir şeysem,
+
+295
+00:13:49,679 --> 00:13:51,679
+binaf sahibi isem,
+
+296
+00:13:51,679 --> 00:13:53,679
+mavi seçerdim.
+
+297
+00:13:53,679 --> 00:13:55,679
+Çünkü işte,
+
+298
+00:13:55,679 --> 00:13:57,679
+izletiyorum da
+
+299
+00:13:57,679 --> 00:13:59,679
+binafın maliyeti
+
+300
+00:13:59,679 --> 00:14:01,679
+benim için aynı değil. Neden ben
+
+301
+00:14:01,679 --> 00:14:03,679
+bütün maliyeti veya
+
+302
+00:14:03,679 --> 00:14:05,679
+izletiyorumun hasar görevlileriyle,
+
+303
+00:14:05,679 --> 00:14:07,679
+binafın hasar görevlileriyle,
+
+304
+00:14:07,679 --> 00:14:09,679
+aynı değil. Neden ben hepsine
+
+305
+00:14:09,679 --> 00:14:11,679
+tek bir sistem ile
+
+306
+00:14:11,679 --> 00:14:13,679
+göz önünde bulundurayım diyorsam da
+
+307
+00:14:13,679 --> 00:14:15,679
+yani eğer izletiyorum
+
+308
+00:14:15,679 --> 00:14:17,679
+mesela hani
+
+309
+00:14:17,679 --> 00:14:19,679
+daha hasar alma evininde
+
+310
+00:14:19,679 --> 00:14:21,679
+o zaman hani izletiyorumun
+
+311
+00:14:21,679 --> 00:14:23,679
+maliyetiyle yetiştirdim.
+
+312
+00:14:23,679 --> 00:14:25,940
+Ben bir şekilde yaklaşımın problemi.
+
+313
+00:14:25,940 --> 00:14:27,940
+Ben çünkü aklım karışmasını çok gördüm.
+
+314
+00:14:27,940 --> 00:14:29,940
+Alttaki
+
+315
+00:14:29,940 --> 00:14:31,940
+oid
+
+316
+00:14:31,940 --> 00:14:33,940
+mali azı olanları
+
+317
+00:14:33,940 --> 00:14:35,940
+yetiştirdim. Alttaki
+
+318
+00:14:35,940 --> 00:14:37,940
+bu daha konservatif değil ama
+
+319
+00:14:37,940 --> 00:14:39,940
+yukarıdaki daha konservatif.
+
+320
+00:14:39,940 --> 00:14:42,059
+Evet evet, turuncu o zaman.
+
+321
+00:14:42,059 --> 00:14:44,059
+Kolukluyuz çünkü turuncular
+
+322
+00:14:44,059 --> 00:14:46,059
+turuncu olan şey, izletiyorum bu arada
+
+323
+00:14:46,059 --> 00:14:48,059
+yani şöyle
+
+324
+00:14:48,059 --> 00:14:50,059
+yalnızca izletiyorum.
+
+325
+00:14:50,059 --> 00:14:52,059
+Evet evet, şu ikisini karşılaştırıyorum.
+
+326
+00:14:52,059 --> 00:14:54,059
+Şu ikisini karşılaştırıyorum.
+
+327
+00:14:54,059 --> 00:14:56,059
+Yani siya noktalı olan
+
+328
+00:14:56,059 --> 00:14:58,059
+daha konservatif
+
+329
+00:14:58,059 --> 00:15:00,059
+konservatif olacaksa
+
+330
+00:15:00,059 --> 00:15:02,059
+siyahı seçmek zorundasın.
+
+331
+00:15:02,059 --> 00:15:04,059
+Tamam.
+
+332
+00:15:04,059 --> 00:15:06,059
+Yani sen o zaman sistem
+
+333
+00:15:06,059 --> 00:15:08,059
+yani ben de eğer sonra kendi fikrimi söyleyeceğim de
+
+334
+00:15:08,059 --> 00:15:10,059
+siz yani hani sizi nereden şey yapmak istedim.
+
+335
+00:15:10,059 --> 00:15:12,059
+Doğru muyum?
+
+336
+00:15:12,059 --> 00:15:14,059
+Doğru hocam.
+
+337
+00:15:14,059 --> 00:15:16,059
+Siyah noktalı.
+
+338
+00:15:16,059 --> 00:15:18,059
+Daha konservatif olayım.
+
+339
+00:15:18,059 --> 00:15:20,059
+Rho olarak da burada
+
+340
+00:15:20,059 --> 00:15:22,059
+çok pardon
+
+341
+00:15:22,059 --> 00:15:24,059
+Rho olarak da sıkı nokta 5 kere.
+
+342
+00:15:24,059 --> 00:15:26,129
+Korilasyona sıkı nokta 5 yani.
+
+343
+00:15:26,129 --> 00:15:28,129
+O esasında bir bakıma şey
+
+344
+00:15:28,129 --> 00:15:30,129
+yani
+
+345
+00:15:30,129 --> 00:15:32,289
+Korile şey
+
+346
+00:15:34,830 --> 00:15:36,830
+izolatör hasarı
+
+347
+00:15:36,830 --> 00:15:38,830
+ile buna bağlı yıpsal hasarı
+
+348
+00:15:38,830 --> 00:15:40,830
+ya da tam vice versa
+
+349
+00:15:40,830 --> 00:15:42,830
+ki bence burada
+
+350
+00:15:42,830 --> 00:15:44,830
+izolatör hasarına bağlı yıpsal hasar
+
+351
+00:15:44,830 --> 00:15:46,830
+çok makul bir bilmeyelim.
+
+352
+00:15:46,830 --> 00:15:48,929
+Bir sevini, bir sevini
+
+353
+00:15:48,929 --> 00:15:50,929
+kendimce açıklayacağım.
+
+354
+00:15:50,929 --> 00:15:52,929
+Bunlar arasında da böyle bir
+
+355
+00:15:52,929 --> 00:15:55,220
+yüzde
+
+356
+00:15:55,220 --> 00:15:57,220
+yani bu nokta 5 bir korilasyon var.
+
+357
+00:15:57,220 --> 00:15:59,220
+Yani izolatör
+
+358
+00:15:59,220 --> 00:16:01,409
+hasarına izolatör
+
+359
+00:16:01,409 --> 00:16:03,820
+bu da Korile şey böyle olduğunda
+
+360
+00:16:03,820 --> 00:16:05,820
+bildiğin şöyle
+
+361
+00:16:05,820 --> 00:16:07,820
+sen izolatörü asla bakarsan
+
+362
+00:16:07,820 --> 00:16:09,820
+bir tip daha meyilli oluyorsun ya değil mi?
+
+363
+00:16:09,820 --> 00:16:13,200
+Tamam peki.
+
+364
+00:16:13,200 --> 00:16:15,200
+Amca bir de ben bir şey ekleyebilir miyim
+
+365
+00:16:15,200 --> 00:16:17,200
+orada?
+
+366
+00:16:17,200 --> 00:16:19,580
+Evet.
+
+367
+00:16:19,580 --> 00:16:22,289
+İzolatör yapıların mantığı
+
+368
+00:16:22,289 --> 00:16:24,289
+zaten şey ya daha az mı sar
+
+369
+00:16:24,289 --> 00:16:26,419
+olsun
+
+370
+00:16:26,419 --> 00:16:28,419
+bantından yola çıkarak da aslında
+
+371
+00:16:28,419 --> 00:16:30,580
+bir şey yapılabilirdim.
+
+372
+00:16:30,580 --> 00:16:32,580
+Tamam peki.
+
+373
+00:16:32,580 --> 00:16:34,899
+Yürü oğlum.
+
+374
+00:16:34,899 --> 00:16:37,019
+Ya aslında ben de sizle
+
+375
+00:16:37,019 --> 00:16:39,019
+beraber sonuçları
+
+376
+00:16:39,019 --> 00:16:41,019
+görüyorum.
+
+377
+00:16:41,019 --> 00:16:43,019
+Şu anda bu
+
+378
+00:16:43,019 --> 00:16:45,019
+mesela
+
+379
+00:16:45,019 --> 00:16:47,019
+şu anki resim bir çalışmaya ait.
+
+380
+00:16:47,019 --> 00:16:49,019
+İşte bandari çalışmasına ait.
+
+381
+00:16:49,019 --> 00:16:51,059
+İşte
+
+382
+00:16:51,059 --> 00:16:53,059
+diğer çalışmaların kiler ne kadar
+
+383
+00:16:53,059 --> 00:16:55,059
+fark ediyor onu
+
+384
+00:16:55,059 --> 00:16:57,059
+bir kere görüyorum.
+
+385
+00:16:57,059 --> 00:16:59,059
+Buradan sonuçta biz nasıl bir
+
+386
+00:16:59,059 --> 00:17:01,059
+bir tanesi üzerinden mi devam edeceğiz?
+
+387
+00:17:01,059 --> 00:17:03,059
+Öyle mi planımız?
+
+388
+00:17:03,059 --> 00:17:05,789
+Evet.
+
+389
+00:17:05,789 --> 00:17:07,789
+Şu anda bandari var.
+
+390
+00:17:07,789 --> 00:17:09,789
+Yani şey
+
+391
+00:17:09,789 --> 00:17:11,789
+bir de şunu söyleyeceğim.
+
+392
+00:17:11,789 --> 00:17:13,789
+Şimdi en nihayetinde
+
+393
+00:17:13,789 --> 00:17:15,819
+bir bant oluşuyor.
+
+394
+00:17:15,819 --> 00:17:17,819
+Bu bantın işte en üst tarafı var.
+
+395
+00:17:17,819 --> 00:17:19,819
+Alt tarafı var.
+
+396
+00:17:19,819 --> 00:17:21,819
+Bizim de kendi sistemimiz var bir taraftan.
+
+397
+00:17:21,819 --> 00:17:23,819
+Yani bizim ket modda
+
+398
+00:17:23,819 --> 00:17:25,819
+hastanelerin
+
+399
+00:17:25,819 --> 00:17:27,819
+belli bina yaş ve şeylerine göre
+
+400
+00:17:27,819 --> 00:17:29,819
+katadetlerine göre
+
+401
+00:17:29,819 --> 00:17:31,819
+hasar
+
+402
+00:17:31,819 --> 00:17:33,819
+Vanderbiltilerimiz zaten şu anda var.
+
+403
+00:17:33,819 --> 00:17:35,819
+Bizim şu anda oluşturacağımız
+
+404
+00:17:35,819 --> 00:17:37,819
+bu hasar
+
+405
+00:17:37,819 --> 00:17:39,819
+görebilirliğin
+
+406
+00:17:39,819 --> 00:17:41,819
+mevcutta olan 9-10
+
+407
+00:17:41,819 --> 00:17:43,819
+bina sınıfımızla
+
+408
+00:17:43,819 --> 00:17:45,819
+uyumsuz olmaması gerekiyor.
+
+409
+00:17:45,819 --> 00:17:47,819
+O anlamda bence
+
+410
+00:17:47,819 --> 00:17:49,819
+onlarla birlikte bakıp
+
+411
+00:17:49,819 --> 00:17:51,819
+bu bandın içerisinde
+
+412
+00:17:51,819 --> 00:17:53,819
+neresi mantıklı oluyorsa
+
+413
+00:17:53,819 --> 00:17:55,819
+ona getirmek
+
+414
+00:17:55,819 --> 00:17:57,819
+lazım diye düşünüyorum.
+
+415
+00:17:57,819 --> 00:17:59,819
+Yani atıyorum
+
+416
+00:17:59,819 --> 00:18:01,819
+çok konservatif
+
+417
+00:18:01,819 --> 00:18:03,819
+bir şey aldık.
+
+418
+00:18:03,819 --> 00:18:05,819
+Bizim mitraiz
+
+419
+00:18:05,819 --> 00:18:07,819
+işte
+
+420
+00:18:07,819 --> 00:18:09,819
+low-code
+
+421
+00:18:09,819 --> 00:18:11,819
+şeyimizle eşit olmasın yani.
+
+422
+00:18:11,819 --> 00:18:13,819
+Anlatabildim mi?
+
+423
+00:18:13,819 --> 00:18:15,980
+Çünkü
+
+424
+00:18:15,980 --> 00:18:17,980
+izolatörlüğü yapı dediğimiz zaman
+
+425
+00:18:17,980 --> 00:18:19,980
+haykotlardan da
+
+426
+00:18:19,980 --> 00:18:21,980
+yapıl olması
+
+427
+00:18:21,980 --> 00:18:23,980
+gerekir yani bir öbür türlü bir sonuç verirsek
+
+428
+00:18:23,980 --> 00:18:25,980
+kimseye bunu açıklayamayız yani.
+
+429
+00:18:25,980 --> 00:18:27,980
+O sebep de
+
+430
+00:18:27,980 --> 00:18:29,980
+o bandı oluşturup
+
+431
+00:18:29,980 --> 00:18:31,980
+bir de bizim elimizdekine bakıp
+
+432
+00:18:31,980 --> 00:18:33,980
+öyle bir karar vermek gerekiyor diye
+
+433
+00:18:33,980 --> 00:18:36,430
+düşünüyorum.
+
+434
+00:18:36,430 --> 00:18:38,720
+Doğru mu?
+
+435
+00:18:38,720 --> 00:18:40,720
+Şöyle söyleyebilir miyim?
+
+436
+00:18:40,720 --> 00:18:42,720
+Bu mesela senin
+
+437
+00:18:42,720 --> 00:18:44,720
+söylediğiniz üzerine benim aklına
+
+438
+00:18:44,720 --> 00:18:46,720
+şöyle bir şey geldi.
+
+439
+00:18:46,720 --> 00:18:48,720
+Bizim zaten liste
+
+440
+00:18:48,720 --> 00:18:50,720
+kırılgankerileriniz var.
+
+441
+00:18:50,720 --> 00:18:52,720
+Mesela üst ve
+
+442
+00:18:52,720 --> 00:18:54,720
+bu kaynaklarla da
+
+443
+00:18:54,720 --> 00:18:56,720
+izolatörleri kırılgankları var.
+
+444
+00:18:56,720 --> 00:18:58,720
+Hani
+
+445
+00:18:58,720 --> 00:19:00,720
+mesela
+
+446
+00:19:00,720 --> 00:19:02,720
+onlarla birleştirmeyi denesek
+
+447
+00:19:02,720 --> 00:19:04,720
+hani
+
+448
+00:19:04,720 --> 00:19:06,720
+bulanabilir miyiz acaba?
+
+449
+00:19:06,720 --> 00:19:08,720
+Çok hani 2 sivirlikte değerlendirilmesi
+
+450
+00:19:08,720 --> 00:19:10,720
+gereken sistemler,
+
+451
+00:19:10,720 --> 00:19:12,720
+2 derece sivirlikte
+
+452
+00:19:12,720 --> 00:19:14,720
+2 serbestlik derece sistemler yığa
+
+453
+00:19:14,720 --> 00:19:16,720
+2 sivirlikte
+
+454
+00:19:16,720 --> 00:19:18,720
+2 sivirlikte analiz edilmesi lazım.
+
+455
+00:19:18,720 --> 00:19:20,720
+Bizim şu an onu yapacak zamanımız yok.
+
+456
+00:19:20,720 --> 00:19:22,720
+Dolayısıyla mesela
+
+457
+00:19:22,720 --> 00:19:24,720
+şu an zaten
+
+458
+00:19:24,720 --> 00:19:26,720
+izolatörün
+
+459
+00:19:26,720 --> 00:19:28,720
+kırılgankları var bizim elimizde.
+
+460
+00:19:28,720 --> 00:19:30,720
+Bir de mesela
+
+461
+00:19:30,720 --> 00:19:32,720
+şey bizim kendi
+
+462
+00:19:32,720 --> 00:19:34,720
+üst yapı kırılganklarımızla
+
+463
+00:19:34,720 --> 00:19:36,720
+izolatörün
+
+464
+00:19:36,720 --> 00:19:38,720
+kırılganlığını aynen bu mantığı
+
+465
+00:19:38,720 --> 00:19:40,720
+kullanarak
+
+466
+00:19:40,720 --> 00:19:42,720
+birleştirsek mesela
+
+467
+00:19:42,720 --> 00:19:44,720
+bulanabilir miyiz acaba?
+
+468
+00:19:44,720 --> 00:19:46,720
+Bir fikir aklıma geldi ama
+
+469
+00:19:46,720 --> 00:19:48,720
+sadece şu an sesini düşünüyorum.
+
+470
+00:19:48,720 --> 00:19:50,720
+Ya şöyle bence
+
+471
+00:19:50,720 --> 00:19:52,720
+eğer özellikle
+
+472
+00:19:52,720 --> 00:19:54,720
+fragilti değil de bizde vulnerable
+
+473
+00:19:54,720 --> 00:19:56,720
+modelleri var.
+
+474
+00:19:56,720 --> 00:19:58,720
+Vulnerable modeli olarak
+
+475
+00:19:58,720 --> 00:20:00,720
+zaten
+
+476
+00:20:00,720 --> 00:20:02,720
+komponunt bazı ilerliyoruz ya
+
+477
+00:20:02,720 --> 00:20:04,720
+bu
+
+478
+00:20:04,720 --> 00:20:06,720
+işte hocam
+
+479
+00:20:06,720 --> 00:20:08,720
+ATC'lerin
+
+480
+00:20:08,720 --> 00:20:10,720
+komponutları var. Atıyorum
+
+481
+00:20:10,720 --> 00:20:12,720
+şeyde yapılabilir.
+
+482
+00:20:12,720 --> 00:20:14,720
+Burada değerlendirilen komponuntlardan
+
+483
+00:20:14,720 --> 00:20:16,720
+bir tanesi olarak
+
+484
+00:20:16,720 --> 00:20:18,720
+sistemi entegre edilip
+
+485
+00:20:18,720 --> 00:20:20,720
+izolatör
+
+486
+00:20:20,720 --> 00:20:22,720
+komponuntı var atıyorum
+
+487
+00:20:22,720 --> 00:20:24,720
+işte oranı da
+
+488
+00:20:24,720 --> 00:20:26,720
+yüzde şu kadar
+
+489
+00:20:26,720 --> 00:20:28,720
+bir de binanın kendisi var gibi
+
+490
+00:20:28,720 --> 00:20:30,720
+bu böyle dilenden bilir.
+
+491
+00:20:30,720 --> 00:20:32,720
+Yani sonuç olarak
+
+492
+00:20:32,720 --> 00:20:34,720
+bu tür yaklaşımlar
+
+493
+00:20:34,720 --> 00:20:37,140
+olabilir yani tamamı evet.
+
+494
+00:20:37,140 --> 00:20:39,140
+Arkadaşlar şöyle birkaç tane
+
+495
+00:20:39,140 --> 00:20:41,140
+şey var. Ben
+
+496
+00:20:41,140 --> 00:20:43,140
+bir dakika şöyle izolatör
+
+497
+00:20:43,140 --> 00:20:45,619
+anasınıza anlatıyorum.
+
+498
+00:20:45,619 --> 00:20:47,619
+Yani bir
+
+499
+00:20:47,619 --> 00:20:49,619
+bu arada konu
+
+500
+00:20:49,619 --> 00:20:51,619
+uzaktan yurtuna bak.
+
+501
+00:20:51,619 --> 00:20:53,619
+Bu şeyler var. Bir takım ejintlar var.
+
+502
+00:20:53,619 --> 00:20:55,619
+Yani bu AI ejintlar.
+
+503
+00:20:55,619 --> 00:20:57,619
+Bizim kendi iç görüşmelerimizde
+
+504
+00:20:57,619 --> 00:20:59,619
+çıkan ana noktalara
+
+505
+00:20:59,619 --> 00:21:01,619
+bir toparlayacak
+
+506
+00:21:01,619 --> 00:21:03,619
+AI ejint.
+
+507
+00:21:03,619 --> 00:21:05,619
+Şey yapamaz mıyız biz ya?
+
+508
+00:21:05,619 --> 00:21:07,619
+Eski tabirle
+
+509
+00:21:07,619 --> 00:21:09,619
+toplantının
+
+510
+00:21:09,619 --> 00:21:11,619
+konaklarını.
+
+511
+00:21:11,619 --> 00:21:13,619
+Hocam team'si yapıyor zaten.
+
+512
+00:21:13,619 --> 00:21:15,619
+İsterseniz açalım şimdi.
+
+513
+00:21:15,619 --> 00:21:17,619
+Mesela yapay zekâye
+
+514
+00:21:17,619 --> 00:21:19,619
+erişimimiz yokmuş.
+
+515
+00:21:19,619 --> 00:21:21,619
+Ama team'sin kendi şey var.
+
+516
+00:21:21,619 --> 00:21:23,619
+Ejinti var.
+
+517
+00:21:23,619 --> 00:21:25,619
+Koop lot.
+
+518
+00:21:25,619 --> 00:21:27,619
+Tamam.
+
+519
+00:21:27,619 --> 00:21:29,710
+Kendimiz de yapabiliriz.
+
+520
+00:21:29,710 --> 00:21:31,710
+Yani bence açalım.
+
+521
+00:21:31,710 --> 00:21:33,710
+Çünkü not almak çok zor oluyor.
+
+522
+00:21:33,710 --> 00:21:35,710
+Bence bunu da bir
+
+523
+00:21:35,710 --> 00:21:39,500
+şey yapalım.
+
+524
+00:21:39,500 --> 00:21:41,500
+Şimdi al alışkanlık her ne getiriyor.
+
+525
+00:21:41,500 --> 00:21:43,500
+Şimdi arkadaşlar bence açalım yani.
+
+526
+00:21:43,500 --> 00:21:45,500
+Kim davet ettiyse
+
+527
+00:21:45,500 --> 00:21:47,500
+bence kim yapabiliyorsa yapsın yarın.
+
+528
+00:21:47,500 --> 00:21:49,500
+Şimdi
+
+529
+00:21:49,500 --> 00:21:51,500
+evet.
+
+530
+00:21:51,500 --> 00:21:53,500
+Bence
+
+531
+00:21:53,500 --> 00:21:55,500
+ayrılan, ayrılan
+
+532
+00:21:55,500 --> 00:21:57,500
+Elif yapma.
+
+533
+00:21:57,500 --> 00:21:59,700
+Şuradan bir yerden
+
+534
+00:21:59,700 --> 00:22:01,700
+bakayım. Rekorda
+
+535
+00:22:01,700 --> 00:22:03,700
+start recording tamam. Ben yapabiliyorum.
+
+536
+00:22:03,700 --> 00:22:06,529
+Açıyorum şimdi.
+
+537
+00:22:06,529 --> 00:22:09,680
+Start recording mi yapayım?
+
+538
+00:22:09,680 --> 00:22:11,680
+Şurada bir tane şey var.
+
+539
+00:22:11,680 --> 00:22:13,839
+Tamam.
+
+540
+00:22:13,839 --> 00:22:17,440
+Hangisi?
+
+541
+00:22:17,440 --> 00:22:19,440
+Şu şeyde.
+
+542
+00:22:19,440 --> 00:22:21,440
+Ne oluyor?
+
+543
+00:22:21,440 --> 00:22:23,440
+Son üstte yapay zekâhı
+
+544
+00:22:23,440 --> 00:22:25,440
+kapatıldı ve toplantıya erişemiyor.
+
+545
+00:22:25,440 --> 00:22:28,019
+Yazıyor. Oradan açabilirdik ama.
+
+546
+00:22:28,019 --> 00:22:30,210
+Evet.
+
+547
+00:22:30,210 --> 00:22:32,210
+Sağ üst köşede.
+
+548
+00:22:32,210 --> 00:22:34,210
+Azerbaycan Sanayi'yle
+
+549
+00:22:34,210 --> 00:22:36,210
+Türk Rehrenleri yazıyor ya.
+
+550
+00:22:36,210 --> 00:22:38,210
+Sol.
+
+551
+00:22:38,210 --> 00:22:40,210
+Sol üstte.
+
+552
+00:22:40,210 --> 00:22:42,210
+Söyledi.
+
+553
+00:22:42,210 --> 00:22:44,210
+Söyledi.
+
+554
+00:22:44,210 --> 00:22:46,619
+Evet.
+
+555
+00:22:46,619 --> 00:22:48,619
+Peki arkadaşlar problem değil.
+
+556
+00:22:48,619 --> 00:22:50,619
+Bundan sonra bunu yapalım olmaya.
+
+557
+00:22:50,619 --> 00:22:52,619
+İsterseniz
+
+558
+00:22:52,619 --> 00:22:54,619
+toplantı tutana kaydı alalım.
+
+559
+00:22:54,619 --> 00:22:56,619
+Sonra bunu EF
+
+560
+00:22:56,619 --> 00:22:58,619
+Elif'in bir takım şeyleri var. Oradan bir
+
+561
+00:22:58,619 --> 00:23:00,619
+girelim yani. İyi olur bence.
+
+562
+00:23:00,619 --> 00:23:03,809
+Şuradan şey yapayım.
+
+563
+00:23:03,809 --> 00:23:05,809
+Konuyla fazla atmak istemiyorum.
+
+564
+00:23:05,809 --> 00:23:08,289
+Şimdi
+
+565
+00:23:08,289 --> 00:23:10,289
+şu sondan başlayayım.
+
+566
+00:23:10,289 --> 00:23:12,289
+Şimdi bizim
+
+567
+00:23:12,289 --> 00:23:14,289
+hasar görevlilik modellerimizle
+
+568
+00:23:14,289 --> 00:23:16,289
+bu
+
+569
+00:23:16,289 --> 00:23:18,289
+hasar görevlilik çıkartacağımız
+
+570
+00:23:18,289 --> 00:23:20,289
+hasar görevlilik modelini
+
+571
+00:23:20,289 --> 00:23:22,289
+karşılaştırmasını yüzde yüz yapmamız lazım.
+
+572
+00:23:22,289 --> 00:23:24,289
+Tamam bir defa.
+
+573
+00:23:24,289 --> 00:23:26,289
+Yani bu bu bu bir şey
+
+574
+00:23:26,289 --> 00:23:28,319
+eee
+
+575
+00:23:28,319 --> 00:23:30,319
+buna da şu anda biz
+
+576
+00:23:30,319 --> 00:23:32,319
+zaretör bina hasar görevlilikleri
+
+577
+00:23:32,319 --> 00:23:34,319
+yapısı hasar görevliliklerle ilgili çalışıyoruz.
+
+578
+00:23:34,319 --> 00:23:36,349
+Bina
+
+579
+00:23:36,349 --> 00:23:39,180
+hasar görevliliğinin
+
+580
+00:23:39,180 --> 00:23:41,180
+belirliğinin
+
+581
+00:23:41,180 --> 00:23:45,390
+mevcut
+
+582
+00:23:45,390 --> 00:23:47,390
+hasar yürü
+
+583
+00:23:47,390 --> 00:23:49,710
+belirlikler
+
+584
+00:23:49,710 --> 00:23:52,579
+kontrolü
+
+585
+00:23:52,579 --> 00:23:55,660
+bence mutlaka yapılmam.
+
+586
+00:23:55,660 --> 00:23:58,500
+Mutlaka yapılmam.
+
+587
+00:23:58,500 --> 00:24:01,490
+Yani yöntemden bağımsız.
+
+588
+00:24:01,490 --> 00:24:03,490
+eee
+
+589
+00:24:03,490 --> 00:24:05,490
+öyle dediği gibi orada bir in consistency olmamalı.
+
+590
+00:24:05,490 --> 00:24:07,490
+Kendi içinde tüm modeller
+
+591
+00:24:07,490 --> 00:24:09,490
+bu anlarda tutarlı olmalı.
+
+592
+00:24:09,490 --> 00:24:11,490
+Şimdiki
+
+593
+00:24:11,490 --> 00:24:16,460
+şöyle söyleyeyim.
+
+594
+00:24:16,460 --> 00:24:18,910
+İki bin on yılda ve sonrasında
+
+595
+00:24:18,910 --> 00:24:20,910
+eee
+
+596
+00:24:20,910 --> 00:24:22,910
+tetiklendiği için yani son on
+
+597
+00:24:22,910 --> 00:24:24,910
+on beş yıllık bir teknoloji bulduğu için
+
+598
+00:24:24,910 --> 00:24:26,910
+bu bunları
+
+599
+00:24:26,910 --> 00:24:28,910
+genelde şu ana kadar
+
+600
+00:24:28,910 --> 00:24:30,910
+Sağlık Bakanlığı'nın
+
+601
+00:24:30,910 --> 00:24:32,910
+eee
+
+602
+00:24:32,910 --> 00:24:34,910
+hastanelerinde
+
+603
+00:24:34,910 --> 00:24:36,910
+yapıldıkları için ve
+
+604
+00:24:36,910 --> 00:24:38,910
+belli bir eee burada
+
+605
+00:24:38,910 --> 00:24:40,910
+regulasyonu tabi tutulukları için
+
+606
+00:24:40,910 --> 00:24:42,910
+high court binalar
+
+607
+00:24:42,910 --> 00:24:44,910
+olması gerekiyor.
+
+608
+00:24:44,910 --> 00:24:46,910
+Eee burada eee high court binalar
+
+609
+00:24:46,910 --> 00:24:48,910
+ve şu ana kadar
+
+610
+00:24:48,910 --> 00:24:51,299
+yani en babasının
+
+611
+00:24:51,299 --> 00:24:53,299
+eee on kata kadar filan
+
+612
+00:24:53,299 --> 00:24:55,299
+olması gerekiyor. Yani bizim eee
+
+613
+00:24:55,299 --> 00:24:57,299
+tall building kapsamında
+
+614
+00:24:57,299 --> 00:25:00,160
+izletörlüğü yapılarımızın
+
+615
+00:25:00,160 --> 00:25:02,160
+bu
+
+616
+00:25:02,160 --> 00:25:04,380
+bu aşamada ne olacağını düşünüyorum.
+
+617
+00:25:04,380 --> 00:25:06,380
+eee şeyy
+
+618
+00:25:06,380 --> 00:25:09,859
+eee
+
+619
+00:25:09,859 --> 00:25:11,859
+şey low rise
+
+620
+00:25:11,859 --> 00:25:13,859
+eee mid rise ve
+
+621
+00:25:13,859 --> 00:25:15,859
+high rise olarak
+
+622
+00:25:15,859 --> 00:25:17,859
+kıyaslamalarının
+
+623
+00:25:17,859 --> 00:25:19,859
+eee yapımısı bence
+
+624
+00:25:19,859 --> 00:25:21,859
+önemli. Yani bu da işte
+
+625
+00:25:21,859 --> 00:25:23,859
+dediğim gibi daha çok
+
+626
+00:25:23,859 --> 00:25:25,980
+eee
+
+627
+00:25:25,980 --> 00:25:29,230
+high court
+
+628
+00:25:29,230 --> 00:25:32,160
+low rise
+
+629
+00:25:32,160 --> 00:25:34,160
+mid rise ve eee
+
+630
+00:25:34,160 --> 00:25:36,160
+high rise için yapılabilirim.
+
+631
+00:25:36,160 --> 00:25:38,160
+Eee çünkü kansın edilere
+
+632
+00:25:38,160 --> 00:25:40,160
+onların eee diye düşünüyorum.
+
+633
+00:25:40,160 --> 00:25:42,160
+Yani şu andaki eee şey
+
+634
+00:25:42,160 --> 00:25:44,380
+bildiğim kadarıyla.
+
+635
+00:25:44,380 --> 00:25:46,859
+Gelelim yöntemlere
+
+636
+00:25:46,859 --> 00:25:48,859
+şimdi şu bu yapmış olduğumuz
+
+637
+00:25:48,859 --> 00:25:50,859
+pilot bir çalışma mı bunun artık gaza basacağız
+
+638
+00:25:50,859 --> 00:25:52,859
+çünkü bir talep var.
+
+639
+00:25:52,859 --> 00:25:54,859
+Eee diğer
+
+640
+00:25:54,859 --> 00:25:57,150
+çalışmalar için
+
+641
+00:25:57,150 --> 00:25:59,220
+eee mutlaka yapılması lazım.
+
+642
+00:25:59,220 --> 00:26:01,220
+En azından izletör ayağına dikkat edilmesi lazım.
+
+643
+00:26:01,220 --> 00:26:03,220
+Ben öteden beri
+
+644
+00:26:03,220 --> 00:26:05,220
+eee şeye
+
+645
+00:26:05,220 --> 00:26:07,250
+eee melise
+
+646
+00:26:07,250 --> 00:26:09,250
+bu çalışmayı eee
+
+647
+00:26:09,250 --> 00:26:11,250
+eee gerçekleştirirken
+
+648
+00:26:11,250 --> 00:26:13,250
+bizim kendi bir daha
+
+649
+00:26:13,250 --> 00:26:15,250
+basar görev bilgilerimizi
+
+650
+00:26:15,250 --> 00:26:17,250
+aslında onların beysi olan kırılganlıklarımız
+
+651
+00:26:17,250 --> 00:26:19,250
+de var.
+
+652
+00:26:19,250 --> 00:26:21,700
+Bir konsekans modelimiz de var.
+
+653
+00:26:21,700 --> 00:26:23,700
+Aslında bakarsanız bunu
+
+654
+00:26:23,700 --> 00:26:25,700
+kullanmasını önerdim.
+
+655
+00:26:25,700 --> 00:26:27,700
+Eee fakat burada şöyle bir
+
+656
+00:26:27,700 --> 00:26:32,859
+durum söz konusu.
+
+657
+00:26:32,859 --> 00:26:34,960
+Bizim
+
+658
+00:26:34,960 --> 00:26:36,960
+üst yapıyla ilgili
+
+659
+00:26:36,960 --> 00:26:40,049
+yapısal kırılganlıklarımız
+
+660
+00:26:40,049 --> 00:26:42,049
+eee daha çok
+
+661
+00:26:42,049 --> 00:26:44,690
+tradişinin yapılara bağlı
+
+662
+00:26:44,690 --> 00:26:46,690
+eee bir ışık verir bize
+
+663
+00:26:46,690 --> 00:26:48,690
+yani kırılganlıkları
+
+664
+00:26:48,690 --> 00:26:50,779
+kullanırsak
+
+665
+00:26:50,779 --> 00:26:52,779
+ve eee şehit kullanırsak
+
+666
+00:26:52,779 --> 00:26:54,779
+şu yani daha önceden
+
+667
+00:26:54,779 --> 00:26:56,779
+elimizde olan
+
+668
+00:26:56,779 --> 00:26:58,779
+konsekans modelini kullanırsak
+
+669
+00:26:58,779 --> 00:27:01,039
+bize bir ışık verir
+
+670
+00:27:01,039 --> 00:27:03,039
+ama bunları kullanırken
+
+671
+00:27:03,039 --> 00:27:05,039
+şu mevcut üç tane, dört tane
+
+672
+00:27:05,039 --> 00:27:07,259
+çalışmamız var.
+
+673
+00:27:07,259 --> 00:27:09,259
+Onların şeyini dikkat edin.
+
+674
+00:27:09,259 --> 00:27:11,259
+Şu aşamada
+
+675
+00:27:11,259 --> 00:27:13,259
+benim hatırladığım
+
+676
+00:27:13,259 --> 00:27:15,259
+konsekans modellerinin üst yapı için
+
+677
+00:27:15,259 --> 00:27:17,259
+firmadan aldığımız
+
+678
+00:27:17,259 --> 00:27:19,259
+eee
+
+679
+00:27:19,259 --> 00:27:24,849
+base modellerimizdeki
+
+680
+00:27:24,849 --> 00:27:27,039
+kırılganlıklarımızı
+
+681
+00:27:27,039 --> 00:27:29,039
+pgv üstünden
+
+682
+00:27:29,039 --> 00:27:31,039
+olması.
+
+683
+00:27:31,039 --> 00:27:33,039
+Yani biz şu anda pgv üstünden bir şey
+
+684
+00:27:33,039 --> 00:27:35,039
+üretiyoruz.
+
+685
+00:27:35,039 --> 00:27:37,039
+Bu anlamda hani
+
+686
+00:27:37,039 --> 00:27:39,039
+o konsekans modellerini
+
+687
+00:27:39,039 --> 00:27:41,039
+kullanabiliriz.
+
+688
+00:27:41,039 --> 00:27:43,039
+Ama onlar kırılganlıksız
+
+689
+00:27:43,039 --> 00:27:45,039
+olmaz.
+
+690
+00:27:45,039 --> 00:27:47,200
+Eğer konsekans modellerimize
+
+691
+00:27:47,200 --> 00:27:49,200
+kullanacaksak
+
+692
+00:27:49,200 --> 00:27:51,490
+çalışmadan
+
+693
+00:27:51,490 --> 00:27:53,490
+elde edilen
+
+694
+00:27:53,490 --> 00:27:55,490
+kırılganlıklar bina üst yapı kırılganlıkları
+
+695
+00:27:55,490 --> 00:27:57,490
+olması
+
+696
+00:27:57,490 --> 00:27:59,579
+gerekiyor. Başka çaresi yok.
+
+697
+00:27:59,579 --> 00:28:02,289
+Eee
+
+698
+00:28:02,289 --> 00:28:04,740
+Bilmiyorum anlatabilir miyim?
+
+699
+00:28:04,740 --> 00:28:06,740
+Çünkü değerleri pgv
+
+700
+00:28:06,740 --> 00:28:08,740
+üstünden veya pgv pgv
+
+701
+00:28:08,740 --> 00:28:10,740
+konu örtetmemiz lazım. Bu ayrı bir
+
+702
+00:28:10,740 --> 00:28:13,660
+mevzu.
+
+703
+00:28:13,660 --> 00:28:15,660
+Şeyye baktığım zaman
+
+704
+00:28:15,660 --> 00:28:17,890
+metodolojiye baktığım zaman
+
+705
+00:28:17,890 --> 00:28:19,890
+durulah bahsetmiş olduğu
+
+706
+00:28:19,890 --> 00:28:21,890
+şey. Yani bu ETS
+
+707
+00:28:21,890 --> 00:28:23,890
+1385'teki
+
+708
+00:28:23,890 --> 00:28:25,890
+eee
+
+709
+00:28:25,890 --> 00:28:27,890
+işte komponent
+
+710
+00:28:27,890 --> 00:28:29,890
+yüzdeleri aslında bir bakıma
+
+711
+00:28:29,890 --> 00:28:31,890
+bu şey gibi olmuyor mu? Acaba
+
+712
+00:28:31,890 --> 00:28:33,890
+eee
+
+713
+00:28:33,890 --> 00:28:35,890
+ikinci yöntem
+
+714
+00:28:35,890 --> 00:28:38,140
+yani
+
+715
+00:28:38,140 --> 00:28:40,210
+kırılganlı şey
+
+716
+00:28:40,210 --> 00:28:42,690
+eee şeyin
+
+717
+00:28:42,690 --> 00:28:44,690
+asarım olan katkısına bağlı
+
+718
+00:28:44,690 --> 00:28:46,690
+rating
+
+719
+00:28:46,690 --> 00:28:48,690
+stratejisi. Yani
+
+720
+00:28:48,690 --> 00:28:50,690
+yüzde 15
+
+721
+00:28:50,690 --> 00:28:52,690
+ilk onların ya da inşallah
+
+722
+00:28:52,690 --> 00:28:54,690
+veyahut onların maliyeti
+
+723
+00:28:54,690 --> 00:28:56,690
+üst yapıya göre yüzde 15%
+
+724
+00:28:56,690 --> 00:28:58,690
+%20 olursa %30 olursa
+
+725
+00:28:58,690 --> 00:29:00,690
+gibilerinden ona şey
+
+726
+00:29:00,690 --> 00:29:02,690
+ona yaklaşmıyor mu acaba biraz
+
+727
+00:29:02,690 --> 00:29:04,690
+sanki bana ona anlamıyor
+
+728
+00:29:04,690 --> 00:29:06,690
+bir şey var.
+
+729
+00:29:06,690 --> 00:29:08,690
+Evet hocam eee aynı zamanda
+
+730
+00:29:08,690 --> 00:29:10,690
+yani şey üst yapı olarak
+
+731
+00:29:10,690 --> 00:29:12,690
+bizim
+
+732
+00:29:12,690 --> 00:29:14,690
+kendi modelimizi
+
+733
+00:29:14,690 --> 00:29:16,690
+kullanır
+
+734
+00:29:16,690 --> 00:29:20,259
+evet yani
+
+735
+00:29:20,259 --> 00:29:22,259
+aslında işte yani ikisini sonra
+
+736
+00:29:22,259 --> 00:29:24,259
+asal görmek
+
+737
+00:29:24,259 --> 00:29:26,259
+yapacağız. Aynen
+
+738
+00:29:26,259 --> 00:29:28,259
+birleştirdim.
+
+739
+00:29:28,259 --> 00:29:30,259
+Yani şimdi şöyle bir şey
+
+740
+00:29:30,259 --> 00:29:32,259
+yani bu bir şey
+
+741
+00:29:32,259 --> 00:29:34,259
+yani bu onların maliyeti
+
+742
+00:29:34,259 --> 00:29:36,799
+üstünden giden bir durum
+
+743
+00:29:36,799 --> 00:29:39,250
+bana bir şey yok
+
+744
+00:29:39,250 --> 00:29:41,250
+eee bir yaklaşık başlamıştı da
+
+745
+00:29:41,250 --> 00:29:43,250
+bu yaklaşığına daha çok
+
+746
+00:29:43,250 --> 00:29:45,250
+benimsindir. Fakat şöyle bir durum
+
+747
+00:29:45,250 --> 00:29:48,109
+söz konusu
+
+748
+00:29:48,109 --> 00:29:50,109
+izeletörle yapılar
+
+749
+00:29:50,109 --> 00:29:52,180
+bana kalırsa
+
+750
+00:29:52,180 --> 00:29:54,180
+asıl amacı
+
+751
+00:29:54,180 --> 00:29:56,180
+şey
+
+752
+00:29:56,180 --> 00:29:59,420
+hasarın
+
+753
+00:29:59,420 --> 00:30:04,140
+izeletörle yollaşması
+
+754
+00:30:04,140 --> 00:30:06,140
+burada her peri ilişir
+
+755
+00:30:06,140 --> 00:30:08,140
+ve buna bağlı
+
+756
+00:30:08,140 --> 00:30:10,269
+hasar alması
+
+757
+00:30:10,269 --> 00:30:12,269
+fakat inanın üst yapının
+
+758
+00:30:12,269 --> 00:30:14,460
+konusyonlar kalmaz.
+
+759
+00:30:14,460 --> 00:30:16,460
+Yani başarılı bir tasarım
+
+760
+00:30:16,460 --> 00:30:18,460
+aslında bakarsanız böyle
+
+761
+00:30:18,460 --> 00:30:20,460
+gerçekleştiriyor.
+
+762
+00:30:20,460 --> 00:30:22,460
+Yolatımın sistemini üstümde
+
+763
+00:30:22,460 --> 00:30:24,460
+hareket ediyor.
+
+764
+00:30:24,460 --> 00:30:26,460
+O hareketi sırasında
+
+765
+00:30:26,460 --> 00:30:28,460
+lejik bir hareket yapıyor
+
+766
+00:30:28,460 --> 00:30:30,460
+ve bu hareketi
+
+767
+00:30:30,460 --> 00:30:32,819
+daha
+
+768
+00:30:32,819 --> 00:30:34,849
+displacement based yapıyor.
+
+769
+00:30:34,849 --> 00:30:36,849
+Gidiyor ve geliyor
+
+770
+00:30:36,849 --> 00:30:38,849
+ya da gidiyor
+
+771
+00:30:38,849 --> 00:30:40,849
+ve bir yerden sonra şey yapıyor.
+
+772
+00:30:40,849 --> 00:30:42,849
+Orada bir fonksiyon ürete
+
+773
+00:30:42,849 --> 00:30:44,849
+her zaman söz konusu
+
+774
+00:30:44,849 --> 00:30:46,849
+ama alt yapı da
+
+775
+00:30:46,849 --> 00:30:48,849
+bir şekilde
+
+776
+00:30:48,849 --> 00:30:50,849
+rikam ediyor ve
+
+777
+00:30:50,849 --> 00:30:52,849
+şey
+
+778
+00:30:52,849 --> 00:30:54,849
+hasarı daha çok orası
+
+779
+00:30:54,849 --> 00:30:56,849
+olanlanda ben böyle düşünüyorum.
+
+780
+00:30:56,849 --> 00:30:58,849
+O anlamda
+
+781
+00:30:58,849 --> 00:31:01,549
+şeyin sanki
+
+782
+00:31:01,549 --> 00:31:03,549
+bu ilk yöntemi yani
+
+783
+00:31:03,549 --> 00:31:05,710
+yapının
+
+784
+00:31:05,710 --> 00:31:07,839
+bağlenin
+
+785
+00:31:07,839 --> 00:31:09,970
+izeletöre koşuldu.
+
+786
+00:31:09,970 --> 00:31:11,970
+İzeletör hasarını koşuldu.
+
+787
+00:31:11,970 --> 00:31:13,970
+Hısandırabiliyim
+
+788
+00:31:13,970 --> 00:31:15,970
+çıkartılması.
+
+789
+00:31:15,970 --> 00:31:18,190
+Bana daha makur gibi geliyor.
+
+790
+00:31:18,190 --> 00:31:20,190
+Oradaki koelasyon bu işin
+
+791
+00:31:20,190 --> 00:31:22,190
+zayıf tarafı.
+
+792
+00:31:22,190 --> 00:31:24,480
+İzeletör hasarıyla
+
+793
+00:31:24,480 --> 00:31:26,480
+yapsal taraf arasındaki
+
+794
+00:31:26,480 --> 00:31:28,480
+şeyin koelasyon
+
+795
+00:31:28,480 --> 00:31:30,480
+bu işin zayıfı artması.
+
+796
+00:31:30,480 --> 00:31:32,480
+Ama bu freight based olduğu zaman
+
+797
+00:31:32,480 --> 00:31:34,480
+şöyle bir şey
+
+798
+00:31:34,480 --> 00:31:36,480
+gidebiliriz.
+
+799
+00:31:36,480 --> 00:31:38,480
+İzeletör fuli hasarı aldığı zaman
+
+800
+00:31:38,480 --> 00:31:41,059
+zaten yapı babayı yiyor.
+
+801
+00:31:41,059 --> 00:31:45,420
+Yapı babayı yiyor bence.
+
+802
+00:31:45,420 --> 00:31:47,420
+İzeletör
+
+803
+00:31:47,420 --> 00:31:49,420
+elastöme bearing olsun
+
+804
+00:31:49,420 --> 00:31:52,059
+pendulum sistemi olsun.
+
+805
+00:31:52,059 --> 00:31:54,059
+Pendulum sistemi de 2-3 patlı
+
+806
+00:31:54,059 --> 00:31:56,059
+yapıyorlar.
+
+807
+00:31:56,059 --> 00:31:58,059
+İzeletörde
+
+808
+00:31:58,059 --> 00:32:00,130
+şeyin
+
+809
+00:32:00,130 --> 00:32:02,130
+hasarını gözlemlemesi için.
+
+810
+00:32:02,130 --> 00:32:04,130
+Zaten elastöme bearingden
+
+811
+00:32:04,130 --> 00:32:06,130
+düşünelim.
+
+812
+00:32:06,130 --> 00:32:08,380
+Yani şeylerde
+
+813
+00:32:08,380 --> 00:32:10,380
+sistem çok hızlanıyor.
+
+814
+00:32:10,380 --> 00:32:12,380
+Güm diye vurdu o
+
+815
+00:32:12,380 --> 00:32:14,900
+duvara.
+
+816
+00:32:14,900 --> 00:32:16,900
+Ondan sonra. Zaten öyle bir
+
+817
+00:32:16,900 --> 00:32:18,900
+impact şey oluşturuyor orada.
+
+818
+00:32:18,900 --> 00:32:20,900
+Yani binalda har kalmaz ki
+
+819
+00:32:20,900 --> 00:32:22,900
+esas yapması gereken
+
+820
+00:32:22,900 --> 00:32:24,900
+bu böyle gelecek, kaykılacak
+
+821
+00:32:24,900 --> 00:32:26,930
+sonra geri gidecek.
+
+822
+00:32:26,930 --> 00:32:28,930
+Bu arada yapıda
+
+823
+00:32:28,930 --> 00:32:30,930
+böyle ve böyle gidecek.
+
+824
+00:32:30,930 --> 00:32:32,930
+Foksentist hiç değiştirecek.
+
+825
+00:32:32,930 --> 00:32:34,930
+Ama bu bir vurdu
+
+826
+00:32:34,930 --> 00:32:37,859
+şeyin o duvara.
+
+827
+00:32:37,859 --> 00:32:39,859
+İzeletör elastöme bearing.
+
+828
+00:32:39,859 --> 00:32:41,859
+Zaten üst yapıda her şey zangorz
+
+829
+00:32:41,859 --> 00:32:43,859
+olur gitti yani inanılmaz bir
+
+830
+00:32:43,859 --> 00:32:45,859
+impact force var. Blasting gibi
+
+831
+00:32:45,859 --> 00:32:47,859
+bir şey gibi.
+
+832
+00:32:47,859 --> 00:32:49,859
+Zaten zaten eğer
+
+833
+00:32:49,859 --> 00:32:51,859
+orada izeletör
+
+834
+00:32:51,859 --> 00:32:53,859
+badem olduysa ayba yediysa
+
+835
+00:32:53,859 --> 00:32:55,859
+üst yapıda har kalmıyor ki.
+
+836
+00:32:55,859 --> 00:32:58,269
+Üst yapıda har kalmıyor.
+
+837
+00:32:58,269 --> 00:33:00,269
+Zaten izeletör
+
+838
+00:33:00,269 --> 00:33:02,269
+yani o yüzden onun
+
+839
+00:33:02,269 --> 00:33:04,269
+konsekans modelinde
+
+840
+00:33:04,269 --> 00:33:06,269
+izeletör başarı davrandıysa
+
+841
+00:33:06,269 --> 00:33:08,269
+derin state bir ve iki
+
+842
+00:33:08,269 --> 00:33:09,269
+izeletör
+
+843
+00:33:09,269 --> 00:33:10,269
+badem olduysa
+
+844
+00:33:10,269 --> 00:33:12,269
+derin state 3 ve 4
+
+845
+00:33:12,269 --> 00:33:14,269
+yani hani full
+
+846
+00:33:14,269 --> 00:33:16,269
+üst yapıda şey vardı bilirimden
+
+847
+00:33:16,269 --> 00:33:18,269
+düşünürüz. O şekilde dikkate
+
+848
+00:33:18,269 --> 00:33:20,269
+almak söz konusu. Burada bir tane doğru
+
+849
+00:33:20,269 --> 00:33:23,099
+var mı? Bir tane doğru yok.
+
+850
+00:33:23,099 --> 00:33:25,099
+Birden fazla doğru var.
+
+851
+00:33:25,099 --> 00:33:27,099
+Yani daha üstün ki işte nerenmemiş
+
+852
+00:33:27,099 --> 00:33:29,099
+bir şey. Ben sizden
+
+853
+00:33:29,099 --> 00:33:31,099
+şöyle bir şey rica ediyorum.
+
+854
+00:33:31,099 --> 00:33:33,099
+Bir band çıkartın. Bir model
+
+855
+00:33:33,099 --> 00:33:35,099
+belirsizliği dikkate alın.
+
+856
+00:33:35,099 --> 00:33:37,099
+Bir band çıkartın.
+
+857
+00:33:37,099 --> 00:33:39,099
+O band üstünden bir genel
+
+858
+00:33:39,099 --> 00:33:41,099
+izeletör davranımı
+
+859
+00:33:41,099 --> 00:33:43,099
+ortaya çıkartalım. O
+
+860
+00:33:43,099 --> 00:33:45,099
+izeletör davran yani
+
+861
+00:33:45,099 --> 00:33:47,359
+hazırdı.
+
+862
+00:33:47,359 --> 00:33:49,359
+Hasar görevliye ortaya çıkartalım.
+
+863
+00:33:49,359 --> 00:33:51,359
+Ve onun bana kalırsa
+
+864
+00:33:51,359 --> 00:33:53,359
+i-code, low-rise, mid-rise ve high-rise
+
+865
+00:33:53,359 --> 00:33:55,359
+baş bir şey olarak
+
+866
+00:33:55,359 --> 00:33:57,359
+öncelikte olarak bizim
+
+867
+00:33:57,359 --> 00:33:59,359
+şeylerimizde
+
+868
+00:33:59,359 --> 00:34:02,029
+mevcut
+
+869
+00:34:02,029 --> 00:34:04,160
+yapı, şeyimizle
+
+870
+00:34:04,160 --> 00:34:06,609
+bir
+
+871
+00:34:06,609 --> 00:34:12,420
+şeyin olması lazım.
+
+872
+00:34:12,420 --> 00:34:14,420
+Kontrolünün piyasını yapılması lazım ki
+
+873
+00:34:14,420 --> 00:34:16,420
+biz neredeyiz? Onu çok iyi görelim.
+
+874
+00:34:16,420 --> 00:34:18,420
+Ve bunu da hızlıca
+
+875
+00:34:18,420 --> 00:34:20,420
+lazım. Oldukça hızlı yapmanız lazım.
+
+876
+00:34:20,420 --> 00:34:22,420
+Çünkü önümüze bir sipariş var.
+
+877
+00:34:22,420 --> 00:34:24,420
+Ben konuyu aktarabildim mi?
+
+878
+00:34:24,420 --> 00:34:28,880
+Hocam sadece ben
+
+879
+00:34:28,880 --> 00:34:30,880
+şöyle bir yorum yapmak istedim
+
+880
+00:34:30,880 --> 00:34:32,880
+bir şey dediniz ya, izeletör hazır olunca
+
+881
+00:34:32,880 --> 00:34:34,880
+zaten eder. Ama
+
+882
+00:34:34,880 --> 00:34:36,880
+hani binada
+
+883
+00:34:36,880 --> 00:34:38,880
+100 tane izeletör var. Hepsinin aynanda
+
+884
+00:34:38,880 --> 00:34:40,880
+şeyi, hasarıya. Bir tanesi
+
+885
+00:34:40,880 --> 00:34:42,880
+şey ise mesela, hasarı
+
+886
+00:34:42,880 --> 00:34:44,880
+aldıysa, onu değiştirirler.
+
+887
+00:34:44,880 --> 00:34:46,880
+Yani hani
+
+888
+00:34:46,880 --> 00:34:48,880
+şey demeye çalışıyor aslında.
+
+889
+00:34:48,880 --> 00:34:50,880
+Bu overall da direk sistemi
+
+890
+00:34:50,880 --> 00:34:53,010
+hani izeletör hazır aldığı için
+
+891
+00:34:53,010 --> 00:34:55,010
+bu da direkt koref
+
+892
+00:34:55,010 --> 00:34:57,010
+olacak bir durum değil gibi geliyor bunu.
+
+893
+00:34:57,010 --> 00:34:59,940
+Eğer
+
+894
+00:34:59,940 --> 00:35:01,940
+bir tane, iki tane, zaten
+
+895
+00:35:01,940 --> 00:35:03,940
+eğer izeletörde
+
+896
+00:35:03,940 --> 00:35:05,940
+bu şekilde bir hasar varsa
+
+897
+00:35:05,940 --> 00:35:07,940
+orada yani
+
+898
+00:35:07,940 --> 00:35:09,940
+bölgesel bir şey oluyor.
+
+899
+00:35:09,940 --> 00:35:11,940
+Yani bunu aslında konuşmak lazım.
+
+900
+00:35:11,940 --> 00:35:13,940
+Bir defa o kadar
+
+901
+00:35:13,940 --> 00:35:15,940
+aslında insanlar şey değiller.
+
+902
+00:35:15,940 --> 00:35:17,940
+Bu konuda hızlıksız değiller.
+
+903
+00:35:17,940 --> 00:35:19,940
+Bu yüzden izeletörlü yapılarda
+
+904
+00:35:19,940 --> 00:35:21,940
+büyük yapısal darzlar var.
+
+905
+00:35:21,940 --> 00:35:23,940
+Belli durumlarda
+
+906
+00:35:23,940 --> 00:35:25,940
+binaların ayrı çalışmasını
+
+907
+00:35:25,940 --> 00:35:27,940
+şey yapabilmek için
+
+908
+00:35:27,940 --> 00:35:29,940
+emin olabilmek için.
+
+909
+00:35:29,940 --> 00:35:31,940
+Ama sonuçta
+
+910
+00:35:31,940 --> 00:35:33,940
+yani bizim
+
+911
+00:35:34,260 --> 00:35:36,260
+bu anlamda, bu detayda
+
+912
+00:35:36,260 --> 00:35:38,260
+bir şey yapmamızın imkanı yok.
+
+913
+00:35:38,260 --> 00:35:40,260
+Peki, bir
+
+914
+00:35:40,260 --> 00:35:42,260
+ya çünkü o binaların
+
+915
+00:35:42,260 --> 00:35:44,260
+rispansları önünüzü gerektirir.
+
+916
+00:35:44,260 --> 00:35:46,260
+Böyle bir şey, böyle bir şey
+
+917
+00:35:46,260 --> 00:35:48,260
+kudum makalelerde
+
+918
+00:35:48,260 --> 00:35:50,260
+şu kadar, şu kadar prosentel hasar
+
+919
+00:35:50,260 --> 00:35:52,260
+gördü, bu kadar prosentel hasar görmedi
+
+920
+00:35:52,260 --> 00:35:54,260
+soru vahvetli gibilerinden bir şey
+
+921
+00:35:54,260 --> 00:35:58,849
+görebiliyor musunuz?
+
+922
+00:35:58,849 --> 00:36:00,849
+Öyle bir şey dikkat etmeden yapacağım.
+
+923
+00:36:00,849 --> 00:36:03,139
+Peki nasıl şey yapacağız onu?
+
+924
+00:36:03,139 --> 00:36:05,139
+Hayır, ben hani işle içinde de
+
+925
+00:36:05,139 --> 00:36:07,139
+öyle biz buradan bir analiz
+
+926
+00:36:07,139 --> 00:36:09,139
+anlamda demedim yani.
+
+927
+00:36:09,139 --> 00:36:11,139
+Hayır, onun işte o bir durum nasıl
+
+928
+00:36:11,139 --> 00:36:20,369
+dikkat edileceksin?
+
+929
+00:36:20,369 --> 00:36:22,369
+İki dereceyle
+
+930
+00:36:22,369 --> 00:36:24,369
+bir tanesi
+
+931
+00:36:24,369 --> 00:36:26,369
+şu şekilde gider.
+
+932
+00:36:26,369 --> 00:36:28,369
+Üst tarafta rejit bir sistem.
+
+933
+00:36:28,369 --> 00:36:30,369
+Hani orada bir
+
+934
+00:36:30,369 --> 00:36:32,369
+alt tarafta gidip gelen
+
+935
+00:36:32,369 --> 00:36:34,369
+şeylaya
+
+936
+00:36:34,369 --> 00:36:36,369
+işte izolatör şeyini versek,
+
+937
+00:36:36,369 --> 00:36:38,369
+istiretiğini versek
+
+938
+00:36:38,369 --> 00:36:40,369
+üst tarafa da
+
+939
+00:36:40,369 --> 00:36:42,369
+yapının kendi şeyini versek.
+
+940
+00:36:42,369 --> 00:36:44,369
+Basit, ondan sonra buradan
+
+941
+00:36:44,369 --> 00:36:46,659
+bir sistem alabilmek
+
+942
+00:36:46,659 --> 00:36:57,969
+belki bilin.
+
+943
+00:36:57,969 --> 00:37:00,130
+O zaman şey
+
+944
+00:37:00,130 --> 00:37:02,130
+dıklanmıyorlar
+
+945
+00:37:02,130 --> 00:37:04,130
+bukaç tane makayla buldum
+
+946
+00:37:04,130 --> 00:37:06,130
+dükkan numara ediyorlar.
+
+947
+00:37:06,130 --> 00:37:08,130
+Tamam, buna bizim zaman mı olacak?
+
+948
+00:37:08,130 --> 00:37:10,130
+Yok, ona zamanınız yok.
+
+949
+00:37:10,130 --> 00:37:12,130
+Ama da biraz söylediğiniz davranışı
+
+950
+00:37:12,130 --> 00:37:14,130
+gösteren ben bu tane makayla bulmuştum.
+
+951
+00:37:14,130 --> 00:37:16,130
+Ama sıkıntı
+
+952
+00:37:16,130 --> 00:37:18,130
+makaylılaki sıkıntı şu
+
+953
+00:37:18,130 --> 00:37:20,130
+şey yok
+
+954
+00:37:20,130 --> 00:37:22,130
+derici tekrar için traş hoplar
+
+955
+00:37:22,130 --> 00:37:24,130
+tanımlamamışlar, onun yerine
+
+956
+00:37:24,130 --> 00:37:26,130
+petten şöyle paylaşayım
+
+957
+00:37:26,130 --> 00:37:28,380
+yani isterseniz mesela
+
+958
+00:37:28,380 --> 00:37:30,380
+hani şey karşılaştırmak açısından
+
+959
+00:37:30,380 --> 00:37:32,380
+kullanabileceğimizi düşünüyorum
+
+960
+00:37:32,380 --> 00:37:34,380
+izolatör varsa ne olur
+
+961
+00:37:34,380 --> 00:37:36,380
+izolatör yoksa ne olduğunu
+
+962
+00:37:36,380 --> 00:37:38,380
+görmemiz açısından
+
+963
+00:37:38,380 --> 00:37:40,380
+PG kullanıyorlar
+
+964
+00:37:40,380 --> 00:37:42,380
+mesela ve 3 tane
+
+965
+00:37:42,380 --> 00:37:44,579
+farklı sistemleri var
+
+966
+00:37:44,579 --> 00:37:46,579
+şöyle bir tane doğru giderse hemen
+
+967
+00:37:46,579 --> 00:37:48,579
+bir tanesi
+
+968
+00:37:48,579 --> 00:37:50,579
+kresk, izolatör bir tanesi
+
+969
+00:37:50,579 --> 00:37:52,579
+izolatörde fracture olduğunu
+
+970
+00:37:52,579 --> 00:37:54,579
+düşünüyorlardı yerinde de
+
+971
+00:37:54,579 --> 00:37:56,579
+ritmenin bollar var izolatörün
+
+972
+00:37:56,579 --> 00:37:58,579
+etrafında çarkılabiliyor.
+
+973
+00:37:58,579 --> 00:38:00,829
+Evet
+
+974
+00:38:00,829 --> 00:38:03,309
+Evet
+
+975
+00:38:03,309 --> 00:38:05,309
+Hemen aşağıya geliyorum ve söylüyorum
+
+976
+00:38:05,309 --> 00:38:07,309
+davranışı yorumlarınız açısından belki
+
+977
+00:38:07,309 --> 00:38:09,309
+buralardan bir şeyler çıkartabiliriz
+
+978
+00:38:09,309 --> 00:38:11,309
+Sizpan fragilçisi yapıyorlar
+
+979
+00:38:11,309 --> 00:38:13,309
+Dolayısıyla
+
+980
+00:38:13,309 --> 00:38:15,309
+herhangi bir layer'da
+
+981
+00:38:15,309 --> 00:38:17,309
+bu driftlerin aşımı
+
+982
+00:38:17,309 --> 00:38:19,309
+ihtimalle bakıyorlar. Drift limitleri
+
+983
+00:38:19,309 --> 00:38:21,309
+0, 20, 5, 0, 5, 1, 1, 1, 2, 2
+
+984
+00:38:21,309 --> 00:38:23,309
+yüzden
+
+985
+00:38:23,309 --> 00:38:26,269
+üst yapıldığı değil
+
+986
+00:38:26,269 --> 00:38:28,269
+üst yapıldığı ayırmıyorlar
+
+987
+00:38:28,269 --> 00:38:30,269
+her bir bir layer olarak görüyorlar
+
+988
+00:38:30,269 --> 00:38:32,269
+Hemen bir layer'da
+
+989
+00:38:32,269 --> 00:38:34,269
+o
+
+990
+00:38:34,269 --> 00:38:36,269
+limit state'in fiilek nesi durumları var
+
+991
+00:38:36,269 --> 00:38:38,269
+limit state'imiz de
+
+992
+00:38:38,269 --> 00:38:40,269
+drift'in
+
+993
+00:38:40,269 --> 00:38:42,269
+0, 25
+
+994
+00:38:42,269 --> 00:38:44,269
+0, 25, 0, 5, 1, 1, 2, 2
+
+995
+00:38:44,269 --> 00:38:46,269
+%'den büyük olması durumları
+
+996
+00:38:46,269 --> 00:38:48,269
+büyük reya işte olması durumları
+
+997
+00:38:48,269 --> 00:38:50,269
+mesela şey
+
+998
+00:38:50,269 --> 00:38:52,269
+bir taraf izolatör olmadanki davranış
+
+999
+00:38:52,269 --> 00:38:54,269
+bu taraf
+
+1000
+00:38:54,269 --> 00:38:56,269
+izolatörlüğü binanın davranışı
+
+1001
+00:38:56,269 --> 00:38:58,269
+aynı şekilde izolatör olmadan davranış
+
+1002
+00:38:58,269 --> 00:39:00,269
+izolatörlüğü binanın davranışı
+
+1003
+00:39:00,269 --> 00:39:02,269
+izolatör olmadan davranışı
+
+1004
+00:39:02,269 --> 00:39:04,269
+izolatörlüğü olmayan binanın davranışı
+
+1005
+00:39:04,269 --> 00:39:06,269
+hesabından
+
+1006
+00:39:06,269 --> 00:39:08,269
+bir oran çıkartıp aşağı yıkarı medyan
+
+1007
+00:39:08,269 --> 00:39:10,269
+bir şey çıkartıp
+
+1008
+00:39:10,269 --> 00:39:12,269
+şey yapabiliriz belki
+
+1009
+00:39:12,269 --> 00:39:14,269
+tente izolatörsüz binalarımızı
+
+1010
+00:39:14,269 --> 00:39:16,269
+nasıl vazartmamız gerekiyor
+
+1011
+00:39:16,269 --> 00:39:18,269
+onu da görebiliriz belki
+
+1012
+00:39:18,269 --> 00:39:20,269
+çok kuvvetli yönetim olduğunu
+
+1013
+00:39:20,269 --> 00:39:22,269
+söyleyemem
+
+1014
+00:39:22,269 --> 00:39:24,269
+sadece bir şey olarak
+
+1015
+00:39:24,269 --> 00:39:26,269
+yok pratik olmak zorundayız
+
+1016
+00:39:26,269 --> 00:39:28,269
+yani pratik olmak zorundayız
+
+1017
+00:39:28,269 --> 00:39:30,269
+bu tip şeylere
+
+1018
+00:39:30,269 --> 00:39:32,269
+bu tip şeyler kontrol edemeyiz
+
+1019
+00:39:32,269 --> 00:39:34,269
+oradaki önemli şey bizim şu anda
+
+1020
+00:39:34,269 --> 00:39:36,269
+çünkü o da olacak
+
+1021
+00:39:36,269 --> 00:39:38,269
+şu anda biz pc'ye üstünden gidiyoruz ama
+
+1022
+00:39:38,269 --> 00:39:40,269
+bizim bu arada pc'ye hazırdığımızda
+
+1023
+00:39:40,269 --> 00:39:42,269
+hazırdığımızda her şey değil
+
+1024
+00:39:42,269 --> 00:39:45,039
+hazır değil
+
+1025
+00:39:45,039 --> 00:39:47,039
+hazır mıydı hapse
+
+1026
+00:39:47,039 --> 00:39:49,519
+pc
+
+1027
+00:39:49,519 --> 00:39:51,519
+hocam şu an kanalımla biliyor
+
+1028
+00:39:51,519 --> 00:39:53,519
+yeni versiyonla birlikte
+
+1029
+00:39:53,519 --> 00:39:55,519
+ne kaldı
+
+1030
+00:39:55,519 --> 00:39:57,519
+saptakçım
+
+1031
+00:39:57,519 --> 00:39:59,579
+evet
+
+1032
+00:39:59,579 --> 00:40:01,579
+db vektan kaldı
+
+1033
+00:40:01,579 --> 00:40:03,579
+tamam
+
+1034
+00:40:03,579 --> 00:40:05,579
+ama şöyle bir şey
+
+1035
+00:40:05,579 --> 00:40:07,579
+pc'den pcb
+
+1036
+00:40:07,579 --> 00:40:09,579
+ve hatta bahsedilirse o değişimini de gerçekleştirmek lazım
+
+1037
+00:40:09,579 --> 00:40:11,579
+ben şuna
+
+1038
+00:40:11,579 --> 00:40:13,579
+ben şuna
+
+1039
+00:40:13,579 --> 00:40:15,579
+kişisel olarak katılmıyorum
+
+1040
+00:40:15,579 --> 00:40:17,579
+daha sonra da zaten sizi rahat bakacağım
+
+1041
+00:40:19,579 --> 00:40:21,579
+arkadaşlar biz
+
+1042
+00:40:21,579 --> 00:40:23,579
+bu sigorta firmalarıyla uğraşıyoruz
+
+1043
+00:40:23,579 --> 00:40:25,579
+bu sigorta firmalarının öyle
+
+1044
+00:40:25,579 --> 00:40:27,579
+bahsetmiş olduğunun şekilde
+
+1045
+00:40:27,579 --> 00:40:29,579
+bir risk algısı olduğunu
+
+1046
+00:40:29,579 --> 00:40:31,579
+ben çok görmedim
+
+1047
+00:40:31,579 --> 00:40:33,579
+onlar daha çok bugün içerisinde
+
+1048
+00:40:33,579 --> 00:40:35,579
+enkârlı underwriting nasıl yapabilirim
+
+1049
+00:40:35,579 --> 00:40:37,579
+bu konu bana
+
+1050
+00:40:37,579 --> 00:40:39,579
+eğer
+
+1051
+00:40:39,579 --> 00:40:41,579
+yani yapıyorum
+
+1052
+00:40:41,579 --> 00:40:43,579
+işte hasar anlamında
+
+1053
+00:40:43,579 --> 00:40:45,579
+risksizse
+
+1054
+00:40:45,579 --> 00:40:47,579
+primim ne olmalı
+
+1055
+00:40:47,579 --> 00:40:49,579
+riskliyse primim ne olmalı
+
+1056
+00:40:49,579 --> 00:40:51,579
+grupla karşı karşı olduğumuz için
+
+1057
+00:40:51,579 --> 00:40:53,579
+biz onlara şöyle bir şey dersek adamlar cross olur
+
+1058
+00:40:53,579 --> 00:40:55,579
+hiç cevap veremez
+
+1059
+00:40:55,579 --> 00:40:57,579
+onu bir saniye informasyon olarak
+
+1060
+00:40:57,579 --> 00:40:59,579
+sen şunlik ne kadar risk almak istiyorsun
+
+1061
+00:40:59,579 --> 00:41:01,579
+şeklinde bir soru
+
+1062
+00:41:01,579 --> 00:41:03,579
+yöneltemiyoruz tekil
+
+1063
+00:41:03,579 --> 00:41:05,579
+böyle tekil
+
+1064
+00:41:05,579 --> 00:41:08,059
+yani şimdiye kadar
+
+1065
+00:41:08,059 --> 00:41:10,059
+şöyle bir şey olmadı
+
+1066
+00:41:10,059 --> 00:41:12,059
+yani bir bina var
+
+1067
+00:41:12,059 --> 00:41:14,059
+zaten bunun
+
+1068
+00:41:14,059 --> 00:41:16,059
+toplam sigorta belirli ve tsb'nin koymuş olduğun primimler
+
+1069
+00:41:16,059 --> 00:41:18,059
+belli
+
+1070
+00:41:18,059 --> 00:41:20,059
+sonra bunun üstünden adam
+
+1071
+00:41:20,059 --> 00:41:22,059
+acaba bunun altında yazabilir miyim
+
+1072
+00:41:22,059 --> 00:41:25,119
+yoksa bunun üstüne mi
+
+1073
+00:41:25,119 --> 00:41:27,119
+çıkmalıyım
+
+1074
+00:41:27,119 --> 00:41:29,119
+bunun hesabını yapıyor
+
+1075
+00:41:29,119 --> 00:41:31,119
+ve bizim daha kontente
+
+1076
+00:41:31,119 --> 00:41:33,119
+bir ayda bu anlamda şey yapmanız lazım
+
+1077
+00:41:33,119 --> 00:41:35,119
+dikkat almamız lazım
+
+1078
+00:41:35,119 --> 00:41:37,119
+bu yüzden bu ayağ
+
+1079
+00:41:37,119 --> 00:41:39,119
+çok hızlı bir şekilde geçmemiz gerekiyor
+
+1080
+00:41:39,119 --> 00:41:41,119
+çok hızlı bir şekilde geçmemiz gerekiyor
+
+1081
+00:41:41,119 --> 00:41:43,119
+benim
+
+1082
+00:41:43,119 --> 00:41:45,820
+düşüncem bir şey
+
+1083
+00:41:45,820 --> 00:41:48,849
+güzel bir şey
+
+1084
+00:41:48,849 --> 00:41:50,849
+ilerletör hasarına göre
+
+1085
+00:41:50,849 --> 00:41:53,460
+üst yapıyı dikkate alan
+
+1086
+00:41:53,460 --> 00:41:55,460
+sistem
+
+1087
+00:41:55,460 --> 00:41:57,460
+da davranışı yap
+
+1088
+00:41:57,460 --> 00:41:59,840
+bana makul gibi
+
+1089
+00:41:59,840 --> 00:42:02,219
+diğerini de yapın
+
+1090
+00:42:02,219 --> 00:42:04,739
+burada roğuyu değiştirebilsin
+
+1091
+00:42:04,739 --> 00:42:06,929
+diğerini de yapın
+
+1092
+00:42:06,929 --> 00:42:08,929
+ve bunlardan
+
+1093
+00:42:08,929 --> 00:42:10,929
+biraz önce birisinin iki tane örnek gösterdi
+
+1094
+00:42:10,929 --> 00:42:12,929
+bir şeyini çıkartalım
+
+1095
+00:42:12,929 --> 00:42:15,599
+burada
+
+1096
+00:42:15,599 --> 00:42:17,599
+yani nasıl bir değişim
+
+1097
+00:42:17,599 --> 00:42:19,599
+oluyor tamam mı
+
+1098
+00:42:19,599 --> 00:42:21,599
+yana da
+
+1099
+00:42:21,599 --> 00:42:23,820
+bunları ağırlıklandırarak
+
+1100
+00:42:23,820 --> 00:42:25,820
+Montekarlo'yla sample ettiklerimizin
+
+1101
+00:42:25,820 --> 00:42:27,820
+üstünde bir reis samplı
+
+1102
+00:42:27,820 --> 00:42:29,820
+gerçekleştirebiliyoruz
+
+1103
+00:42:29,820 --> 00:42:31,820
+ve bu da bizim
+
+1104
+00:42:31,820 --> 00:42:33,949
+bu şeylerle alakalı
+
+1105
+00:42:33,949 --> 00:42:36,110
+hastanelerle alakalı
+
+1106
+00:42:36,110 --> 00:42:38,110
+yaparlar
+
+1107
+00:42:38,110 --> 00:42:40,110
+yanıtımlı
+
+1108
+00:42:40,110 --> 00:42:42,340
+binalarla
+
+1109
+00:42:42,340 --> 00:42:44,340
+alakalı şeyimiz olur
+
+1110
+00:42:44,340 --> 00:42:46,340
+sonra
+
+1111
+00:42:46,340 --> 00:42:48,340
+bu her hastaneyse
+
+1112
+00:42:48,340 --> 00:42:50,340
+çıkartmış olsun
+
+1113
+00:42:50,340 --> 00:42:52,340
+eğer hastaneyse
+
+1114
+00:42:52,340 --> 00:42:54,340
+onun kontent yüzdeleri
+
+1115
+00:42:54,340 --> 00:42:56,340
+eklisi 13'te var
+
+1116
+00:42:56,340 --> 00:42:58,340
+bunlar tabi bu arada çok demode kalmış olabilir
+
+1117
+00:42:58,340 --> 00:43:00,340
+bana karışsa
+
+1118
+00:43:00,340 --> 00:43:02,340
+firma da eğer bu hastanelerle ilgili
+
+1119
+00:43:02,340 --> 00:43:04,340
+kontent şeyleri varsa
+
+1120
+00:43:04,340 --> 00:43:06,340
+onları kullanabiliriz
+
+1121
+00:43:06,340 --> 00:43:08,340
+yapısa hastaneler
+
+1122
+00:43:08,340 --> 00:43:10,340
+duyarlı
+
+1123
+00:43:10,340 --> 00:43:12,340
+kontent hastaneler için çıkartalım
+
+1124
+00:43:12,340 --> 00:43:14,340
+gelemeniz sana şey soracağım
+
+1125
+00:43:14,340 --> 00:43:16,340
+bir aile ilgili
+
+1126
+00:43:16,340 --> 00:43:18,500
+yani yeni firman
+
+1127
+00:43:18,500 --> 00:43:20,500
+onları da dikkate alarak
+
+1128
+00:43:20,500 --> 00:43:22,500
+bizim hep yeni bir şey
+
+1129
+00:43:22,500 --> 00:43:24,500
+asar görebili
+
+1130
+00:43:24,500 --> 00:43:26,500
+çok hızlı çok hızlı
+
+1131
+00:43:26,500 --> 00:43:29,039
+aşırı hızlı çıkartmalarız
+
+1132
+00:43:29,039 --> 00:43:31,039
+tamam bu da işin kötü tarafı
+
+1133
+00:43:31,039 --> 00:43:33,619
+çirkin tarafı
+
+1134
+00:43:33,619 --> 00:43:35,619
+çünkü biz araştırma kapasitemizi
+
+1135
+00:43:35,619 --> 00:43:37,619
+kullanıp veya da hesap yapma
+
+1136
+00:43:37,619 --> 00:43:39,619
+kapasitemizi kullanıp üstünden
+
+1137
+00:43:39,619 --> 00:43:41,739
+bunu
+
+1138
+00:43:41,739 --> 00:43:43,739
+etik ticari koşulları altında
+
+1139
+00:43:43,739 --> 00:43:45,739
+sunmak ürümundayız
+
+1140
+00:43:45,739 --> 00:43:47,739
+ben şöyle bir sizden şey rica ediyorum
+
+1141
+00:43:47,739 --> 00:43:49,739
+bizim
+
+1142
+00:43:50,059 --> 00:43:52,059
+önümüzdeki hafta
+
+1143
+00:43:52,059 --> 00:43:54,159
+bütün bunları
+
+1144
+00:43:54,159 --> 00:43:57,630
+toparlayıp
+
+1145
+00:43:57,630 --> 00:43:59,630
+son bir kez görüşmemiz lazım
+
+1146
+00:43:59,630 --> 00:44:01,920
+o bulutu görelim
+
+1147
+00:44:01,920 --> 00:44:03,920
+çünkü yöntemler oturmuş durumda
+
+1148
+00:44:03,920 --> 00:44:06,139
+ondan sonra o bulutunun üstünden
+
+1149
+00:44:06,139 --> 00:44:08,139
+yapısa asar görebili
+
+1150
+00:44:08,139 --> 00:44:10,139
+hastaneler için çıkartalım
+
+1151
+00:44:10,139 --> 00:44:12,139
+hemen arkasından özellikle
+
+1152
+00:44:12,139 --> 00:44:15,070
+şeyler için
+
+1153
+00:44:15,070 --> 00:44:17,199
+hastaneler için
+
+1154
+00:44:17,199 --> 00:44:19,199
+çok büyük
+
+1155
+00:44:19,199 --> 00:44:21,199
+low-rise, mid-rise ve high-rise
+
+1156
+00:44:21,199 --> 00:44:23,199
+betonlar ve yapılar olarak düşünüldür
+
+1157
+00:44:23,199 --> 00:44:25,199
+fakat hastaneler için
+
+1158
+00:44:25,199 --> 00:44:27,199
+abtoday
+
+1159
+00:44:27,199 --> 00:44:29,199
+fimanın yeni konutan şeylerinden alabiliriz
+
+1160
+00:44:29,199 --> 00:44:31,199
+bence
+
+1161
+00:44:31,199 --> 00:44:33,199
+hastaneler için alabiliriz
+
+1162
+00:44:35,199 --> 00:44:37,199
+çünkü etkisi
+
+1163
+00:44:37,199 --> 00:44:40,030
+çok eski kaldı
+
+1164
+00:44:40,030 --> 00:44:42,030
+1980'lerin
+
+1165
+00:44:42,030 --> 00:44:44,030
+şey çalışması
+
+1166
+00:44:44,030 --> 00:44:46,030
+arkasından da yine fimanın bir yayını
+
+1167
+00:44:46,030 --> 00:44:48,030
+yeni bir şey yapalım
+
+1168
+00:44:48,030 --> 00:44:50,030
+arkasından da bunları
+
+1169
+00:44:50,030 --> 00:44:52,030
+bizim mevcuttaki
+
+1170
+00:44:52,030 --> 00:44:54,030
+kesinlikle ona katılıyorum
+
+1171
+00:44:54,030 --> 00:44:56,030
+mevcuttaki hastanelik şeyle
+
+1172
+00:44:56,030 --> 00:44:58,030
+karşılaşalım
+
+1173
+00:44:58,030 --> 00:45:00,030
+bu arada ben bir şey sormak istiyorum
+
+1174
+00:45:00,030 --> 00:45:02,030
+bu şey yaparken
+
+1175
+00:45:02,030 --> 00:45:04,030
+sampling yaparken
+
+1176
+00:45:04,030 --> 00:45:07,380
+probability of no damage ve probability of full damage
+
+1177
+00:45:07,380 --> 00:45:09,380
+dikkat ediyor musunuz?
+
+1178
+00:45:09,380 --> 00:45:11,380
+tabii hocam
+
+1179
+00:45:11,380 --> 00:45:13,380
+çok çok teşekkürler
+
+1180
+00:45:13,380 --> 00:45:15,380
+ben önümüzdeki hafta
+
+1181
+00:45:15,380 --> 00:45:17,380
+bir şey olarak
+
+1182
+00:45:17,380 --> 00:45:19,380
+lütfen bu konuda size artık şey bekliyorum
+
+1183
+00:45:19,380 --> 00:45:21,380
+rica ediyorum
+
+1184
+00:45:21,380 --> 00:45:26,860
+sonuç
+
+1185
+00:45:26,860 --> 00:45:28,860
+tamam sonuç bekliyorum
+
+1186
+00:45:28,860 --> 00:45:30,860
+sonuç rica ediyorum
+
+1187
+00:45:30,860 --> 00:45:32,860
+şimdi şu şeyi açıvermeliyiz
+
+1188
+00:45:32,860 --> 00:45:34,860
+eğer müsaitliğim varsa
+
+1189
+00:45:34,860 --> 00:45:37,860
+kız ne istiymiş
+
+1190
+00:45:37,860 --> 00:45:40,050
+mail aç şimdi
+
+1191
+00:45:40,050 --> 00:45:42,050
+beni sanımda itibet ediyordu
+
+1192
+00:45:42,050 --> 00:45:44,719
+sen ona cevap ver müddetler
+
+1193
+00:45:44,719 --> 00:45:47,139
+tamam hocam
+
+1194
+00:45:47,139 --> 00:45:50,739
+evet
+
+1195
+00:45:50,739 --> 00:45:52,829
+ufayörbisü üzerinden verdikleri
+
+1196
+00:45:52,829 --> 00:45:58,059
+neydi Allah aşkına
+
+1197
+00:45:58,099 --> 00:46:00,099
+ufayörbisü üzerinden verdikleri şey
+
+1198
+00:46:00,099 --> 00:46:02,099
+hastanelerin raporuydu
+
+1199
+00:46:02,099 --> 00:46:04,099
+şeyler yazıyor orada
+
+1200
+00:46:04,099 --> 00:46:06,099
+konuşmuştuk ya aslında
+
+1201
+00:46:06,099 --> 00:46:08,099
+el yazılış hastanesi için
+
+1202
+00:46:08,099 --> 00:46:10,099
+bir kompleks içeriyor
+
+1203
+00:46:10,099 --> 00:46:12,099
+ama bu izaretörlüğü yapar
+
+1204
+00:46:12,099 --> 00:46:14,099
+mesela oradaki
+
+1205
+00:46:14,099 --> 00:46:16,099
+bir tane yapıyı
+
+1206
+00:46:16,099 --> 00:46:18,099
+temsil ediyor
+
+1207
+00:46:18,099 --> 00:46:20,099
+başka başka şeyler var
+
+1208
+00:46:20,099 --> 00:46:22,099
+aslında bunların sigortalattığı şeyler de
+
+1209
+00:46:22,099 --> 00:46:24,099
+o kompleksin tamamı
+
+1210
+00:46:24,099 --> 00:46:26,480
+tamam
+
+1211
+00:46:26,480 --> 00:46:28,480
+o yüzden şu anda benim
+
+1212
+00:46:28,480 --> 00:46:30,480
+ön görüm daha fazla çünkü
+
+1213
+00:46:30,480 --> 00:46:32,480
+tutuyor çünkü şöyle
+
+1214
+00:46:32,480 --> 00:46:34,480
+onlar için o hastane bir sistem
+
+1215
+00:46:34,480 --> 00:46:38,269
+tamam ile bir sistem
+
+1216
+00:46:38,269 --> 00:46:40,269
+yani orada şöyle bir şey yok
+
+1217
+00:46:40,269 --> 00:46:42,269
+biz öyle Türk böyle olalım
+
+1218
+00:46:42,269 --> 00:46:44,269
+biz içinde ne varsa yaparsak yapalım
+
+1219
+00:46:44,269 --> 00:46:46,269
+önümüzde bir tane
+
+1220
+00:46:46,269 --> 00:46:48,269
+hastane var
+
+1221
+00:46:48,269 --> 00:46:50,269
+meris senden
+
+1222
+00:46:50,269 --> 00:46:52,400
+hiç vakit kaybetmeden
+
+1223
+00:46:52,400 --> 00:46:54,400
+o incelemeleri
+
+1224
+00:46:54,400 --> 00:46:56,400
+şey yaptığı
+
+1225
+00:46:56,400 --> 00:46:59,300
+bir
+
+1226
+00:46:59,300 --> 00:47:01,300
+cevap hazırlamanı ve bunu benimle
+
+1227
+00:47:01,300 --> 00:47:03,300
+paylaşmanı ve bunun üstünden
+
+1228
+00:47:03,300 --> 00:47:05,300
+bizim bu kıza cevap
+
+1229
+00:47:05,300 --> 00:47:07,300
+aramızı becah ediyor
+
+1230
+00:47:07,300 --> 00:47:09,869
+oldu mu?
+
+1231
+00:47:09,869 --> 00:47:11,869
+yani bunu hemen
+
+1232
+00:47:11,869 --> 00:47:13,869
+gerçekleştirip
+
+1233
+00:47:13,869 --> 00:47:15,869
+şey yapmayalım
+
+1234
+00:47:15,869 --> 00:47:17,869
+ama o şeylerin hepsini incelediysen
+
+1235
+00:47:17,869 --> 00:47:19,869
+de
+
+1236
+00:47:19,869 --> 00:47:21,869
+cevabı yazmadan önce bana bir feedback var
+
+1237
+00:47:21,869 --> 00:47:25,889
+4,5 gibi falan çıkacağım
+
+1238
+00:47:25,889 --> 00:47:27,889
+tamam canım yani şöyle
+
+1239
+00:47:27,889 --> 00:47:29,889
+hepsinden ortak bir çıkarımı
+
+1240
+00:47:29,889 --> 00:47:31,889
+ayrı ayrı
+
+1241
+00:47:31,889 --> 00:47:33,889
+ama ayrı ayrı da incele
+
+1242
+00:47:33,889 --> 00:47:35,889
+inceleyip o ortak çıkarımı yap
+
+1243
+00:47:35,889 --> 00:47:37,889
+ben sana soru sorabilirim
+
+1244
+00:47:37,889 --> 00:47:41,900
+oldu mu?
+
+1245
+00:47:41,900 --> 00:47:43,900
+hocam orada bizim dikkat ettiğimiz nokta şey
+
+1246
+00:47:43,900 --> 00:47:45,900
+aslında
+
+1247
+00:47:45,900 --> 00:47:47,900
+bu tiyayı neler dahil
+
+1248
+00:47:47,900 --> 00:47:49,900
+tamam, poliçe yapıları
+
+1249
+00:47:49,900 --> 00:47:51,900
+poliçe yapıları
+
+1250
+00:47:51,900 --> 00:47:53,900
+poliçe yapıları nasıl gel
+
+1251
+00:47:53,900 --> 00:47:55,900
+bütün bunların hepsinin
+
+1252
+00:47:55,900 --> 00:47:57,900
+genel ben sana biliyorsun
+
+1253
+00:47:57,900 --> 00:47:59,900
+şimdi ben onları incelemediğim için
+
+1254
+00:47:59,900 --> 00:48:02,059
+sana her türlü soruyu sorabilirim yani
+
+1255
+00:48:02,059 --> 00:48:12,219
+çünkü kontentı tam bilmiyor
+
+1256
+00:48:12,219 --> 00:48:14,219
+okey tamam peki çok teşekkürler
+
+1257
+00:48:14,219 --> 00:48:16,320
+önümüzdeki hafta
+
+1258
+00:48:16,320 --> 00:48:18,320
+nurullah yok burada
+
+1259
+00:48:18,320 --> 00:48:20,929
+değil mi nurullah?
+
+1260
+00:48:20,929 --> 00:48:23,150
+evet hocam oyna
+
+1261
+00:48:23,150 --> 00:48:30,980
+o zaman ikinizden bekliyorum
+
+1262
+00:48:30,980 --> 00:48:32,980
+tamam hocam
+
+1263
+00:48:32,980 --> 00:48:34,980
+ikinizden bekliyorum
+
+1264
+00:48:34,980 --> 00:48:36,980
+yani bu
+
+1265
+00:48:36,980 --> 00:48:38,980
+poli ben rica ediyorum çünkü
+
+1266
+00:48:38,980 --> 00:48:40,980
+aksa çok kıymet verdiğimiz
+
+1267
+00:48:40,980 --> 00:48:42,980
+bizim bir başarı ikensi yazdı
+
+1268
+00:48:42,980 --> 00:48:44,980
+çok inanılmaz bir güven
+
+1269
+00:48:44,980 --> 00:48:46,980
+söylüyorlar bize
+
+1270
+00:48:46,980 --> 00:48:48,980
+bun da her tarafta böyle şey yapılar söylüyorlar
+
+1271
+00:48:48,980 --> 00:48:50,980
+o anlamda
+
+1272
+00:48:50,980 --> 00:48:52,980
+yani onların bu şeyine
+
+1273
+00:48:52,980 --> 00:48:54,980
+cevap vermemiz lazım
+
+1274
+00:48:54,980 --> 00:48:57,420
+önceki türlü
+
+1275
+00:48:57,420 --> 00:48:59,420
+sıkıntıya gireriz
+
+1276
+00:48:59,420 --> 00:49:01,420
+en ilişkilerimiz de
+
+1277
+00:49:01,420 --> 00:49:03,900
+peki
+
+1278
+00:49:03,900 --> 00:49:05,900
+çok teşekkürler tam zamanında bitirdik
+
+1279
+00:49:05,900 --> 00:49:07,900
+meris senden
+
+1280
+00:49:07,900 --> 00:49:09,900
+email'ın öncesinde
+
+1281
+00:49:09,900 --> 00:49:11,900
+şeyleri bekliyorum
+
+1282
+00:49:11,900 --> 00:49:13,900
+önümüzdeki hafta pazartesi salı
+
+1283
+00:49:13,900 --> 00:49:15,900
+değil mi arkadaşlar?
+
+1284
+00:49:15,900 --> 00:49:17,900
+çarşamba zaten yarım gün
+
+1285
+00:49:17,900 --> 00:49:19,900
+yanlış düşünmüyor değil mi?
+
+1286
+00:49:19,900 --> 00:49:21,900
+evet çarşamba yarım gün
+
+1287
+00:49:21,900 --> 00:49:23,900
+resmi tatil o zaman
+
+1288
+00:49:23,900 --> 00:49:25,900
+demek ki bizim bu işlerin
+
+1289
+00:49:25,900 --> 00:49:27,900
+pazartesi salı fulli konuşmamız gerekiyor
+
+1290
+00:49:27,900 --> 00:49:34,800
+arkadaşlar
+
+1291
+00:49:34,800 --> 00:49:38,179
+peki
+
+1292
+00:49:38,179 --> 00:49:40,179
+çok çok teşekkür ederim
+
+1293
+00:49:40,179 --> 00:49:42,179
+peki sizler rişebiliyorsunuz değil mi?
+
+1294
+00:49:42,179 --> 00:49:44,179
+ben şu anda kapattım
+
+1295
+00:49:44,179 --> 00:49:46,210
+geliyorum
+
+1296
+00:49:46,210 --> 00:49:48,980
+süper
+
+1297
+00:49:48,980 --> 00:49:51,679
+stop recording
+
+1298
+00:49:51,679 --> 00:49:53,679
+bun da artık şey yapalım şu ai icinti
+

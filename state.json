@@ -143,5 +143,16 @@
     "transcribed_at": "2026-10-30T13:08:17",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1bFBtSLiKFPPnd3G3taANnvJaVqCqh9HV": {
+    "status": "transcribed",
+    "source": "Ses 261023_135536 - NA-DSA-NMÇ-ME Hasargörebilirlik.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261023_135536 - NA-DSA-NMÇ-ME Hasargörebilirlik.txt",
+    "duration": "0:49:53",
+    "language": "tr",
+    "transcribed_at": "2026-10-30T13:17:27",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
