@@ -303,7 +303,7 @@
     "report_url": "https://docs.google.com/document/d/1iPXNa-xjuFIFhbDu8-O9J6VFMNOnnPho/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1MOkE-YQWFbYGnJUZVbClxJiiHmqZ7cyC": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261022_140641 - NA-HG Yeni Kod.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261022_140641 - NA-HG Yeni Kod.txt",
@@ -311,7 +311,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-31T02:53:13",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261022_140641 - NA-HG Yeni Kod_Rapor.docx",
+    "reported_at": "2026-10-31T14:49:14",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1h05Yp5cEDB5eoN9cAviBUQ93UiP5gRnw/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1tXK3Cw1NvoVNjD34YKrKZWknK-ecR06b": {
     "status": "transcribed",
