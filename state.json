@@ -258,7 +258,7 @@
     "report_url": "https://docs.google.com/document/d/19OeoZZ_XrwQphN8vYW0MO2q3C2biu_vF/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1O9GPOTFzs0jLcpcsw9YiHwyRqhh2_aic": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260710_211620 - MC Tefsir.m4a",
     "category": "Özel",
     "txt": "outputs/Özel/Ses 260710_211620 - MC Tefsir.txt",
@@ -266,7 +266,11 @@
     "language": "tr",
     "transcribed_at": "2026-10-31T02:06:10",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/Özel/Ses 260710_211620 - MC Tefsir_Rapor.docx",
+    "reported_at": "2026-10-31T03:00:47",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1sBJGF5yjGJnUf5v-J90Kr7wEZl5dtBrp/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1upEuiAzmxqv-6oPU-ljqTLAtwkT6KbyD": {
     "status": "transcribed",
