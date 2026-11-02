@@ -1,0 +1,5884 @@
+1
+00:00:00,000 --> 00:00:06,620
+8'i 10 geçe başlamış sayalım, 9'u 10 geçe de bitirmiş sayalım.
+
+2
+00:00:06,620 --> 00:00:08,619
+Evlat.
+
+3
+00:00:12,619 --> 00:00:15,289
+Başlıyorum be ya.
+
+4
+00:00:15,289 --> 00:00:17,289
+Bismillahirrahmanirrahim.
+
+5
+00:00:17,289 --> 00:00:19,609
+Arkadaşlar hoş geldiniz.
+
+6
+00:00:19,609 --> 00:00:25,609
+3'e başlamış sayalım, 9'u 10 geçe de bitirmiş sayalım.
+
+7
+00:00:49,609 --> 00:00:53,609
+Selam peygamberimiz Hazreti Muhammed'e, ailesine ve bütün hasabına olsun.
+
+8
+00:00:53,609 --> 00:00:59,609
+Allah'ın biz senden faydalı ilim, doğru anlayış, huşu dolu bir kalp, doğru bir dil, kabul edilmiş ameller isteriz.
+
+9
+00:00:59,609 --> 00:01:04,609
+Allah'ın bize dinde derin anlayış ver, kitabını öğret, sözümüzde ve amelimizde ihlas nasip et.
+
+10
+00:01:04,609 --> 00:01:07,609
+Rabbim gönlümüzü genişlet, işlerimizi kolaylaştır.
+
+11
+00:01:07,609 --> 00:01:11,609
+Bize ilmin kapılarını aç, ilmimizi, hidayetimizi ve muvaffakiyetimizi arttır.
+
+12
+00:01:11,609 --> 00:01:12,609
+Amin.
+
+13
+00:01:12,609 --> 00:01:14,680
+Tekrardan hoş geldiniz arkadaşlar.
+
+14
+00:01:16,189 --> 00:01:21,189
+Şimdi geçen hafta en son bakara süresi 79. ayette kaldık.
+
+15
+00:01:21,189 --> 00:01:23,189
+78. ayet ve öncesini işledik.
+
+16
+00:01:23,189 --> 00:01:29,189
+Şöyle kısaca bir hatırlatma yapmak gerekirse, geçen hafta birkaç farklı gruptan bahsetmiştik.
+
+17
+00:01:29,189 --> 00:01:32,189
+Bunlardan birincisi şu, Yahudi din alimleriydi.
+
+18
+00:01:32,189 --> 00:01:34,189
+Ve bu din alimlerinin şöyle bir özelliği vardı.
+
+19
+00:01:34,189 --> 00:01:37,189
+Yahudi vuban sınıfının şöyle bir özelliği vardı.
+
+20
+00:01:37,189 --> 00:01:41,189
+Bilmelerine rağmen bile bile isteye isteye, kitabı tahrif ediyorlardı.
+
+21
+00:01:41,189 --> 00:01:47,189
+Kendilerine Allah tarafından gönderilmiş, Allah tarafından Peygamberleri Musa Aleyhisselam'a vahyedilmiş kitabı.
+
+22
+00:01:47,189 --> 00:01:52,189
+Musa Aleyhisselam'dan sonrasında tahrif ediyorlardı ve bunu bile isteye yapıyordu.
+
+23
+00:01:52,189 --> 00:01:56,189
+Bu gruptan bahsettik ve bu tahrifin de detaylarından bahsettik.
+
+24
+00:01:56,189 --> 00:02:00,189
+Hatırlıyorsanız lafsi tariften ve manevi tariften bahsettik.
+
+25
+00:02:00,189 --> 00:02:04,189
+Lafsi tarifin bugünkü Müslümanlar açısından çok konuşulacak bir tarafının olmadığını.
+
+26
+00:02:04,189 --> 00:02:10,189
+Çünkü Kur'an-ı Kerim'in Hazreti Peygamber'den bugüne kadar bize aynı lafızlarla geldiği konusunda
+
+27
+00:02:10,189 --> 00:02:17,189
+şüphemizin olmadığını, hem tarihi verilerden hareketli, bu böyle bir şüphemizin olmadığını.
+
+28
+00:02:17,189 --> 00:02:22,189
+Fakat Müslümanları ilgilendiren tarafının daha çok manevi tarif olabileceğini,
+
+29
+00:02:22,189 --> 00:02:25,189
+bunun da daha çok gizleme yoluyla yapılabileceğini geçen hafta konuşmuştuk.
+
+30
+00:02:25,189 --> 00:02:31,189
+Yani bir ayeti veya Hazreti Peygamber'den bize ulaşmış bir hadis-i şerifi
+
+31
+00:02:31,189 --> 00:02:37,189
+söylenmesi gereken yerde, söylenmesi gereken zamanda bile isteye gizliyorsanız
+
+32
+00:02:37,189 --> 00:02:43,189
+bu Allah'ın ayetlerini, gizleme yoluyla yaptığınız bir tarif olabilir diye geçen hafta konuşmuştuk.
+
+33
+00:02:43,189 --> 00:02:48,189
+Dolayısıyla birinci bahsettiğimiz grup Yahudi din alimleriydi ve bunlar kitabı tarif ediyorlardı.
+
+34
+00:02:48,189 --> 00:02:52,189
+Bu tariflerin bir yönünü de şu kitle oluşturuyor,
+
+35
+00:02:52,189 --> 00:02:57,189
+ağabam dediğimiz, ümmiler dediğimiz geçen hafta ümmi kavramı üzerinde de konuşmuştuk.
+
+36
+00:02:57,189 --> 00:03:02,189
+Bunun bazı kaynaklarda anneden doğduğu hal üzerine olan kişi anlamına geldiğini.
+
+37
+00:03:02,189 --> 00:03:04,189
+Hoş geldiniz hocam.
+
+38
+00:03:04,189 --> 00:03:13,259
+Bazı kaynaklarda kitap verilmeyen halkların kast dediğini
+
+39
+00:03:13,259 --> 00:03:16,259
+gibi anlamları olduğunu geçen hafta konuşmuştuk.
+
+40
+00:03:16,259 --> 00:03:21,259
+Dolayısıyla bu tarifin diğer tarafını oluşturan kesin de halk olduğunu söylemiştik.
+
+41
+00:03:21,259 --> 00:03:25,259
+Çünkü halk din alimlerini denetlemez hale gelirse,
+
+42
+00:03:25,259 --> 00:03:27,259
+yani denetlemekten kastım şu,
+
+43
+00:03:27,259 --> 00:03:31,259
+dini hakkındaki bilgisi sadece duyduğu kadarıyla ibaret olursa
+
+44
+00:03:31,259 --> 00:03:34,259
+bu da alimlerin tahrif etme işini kolaylaştır.
+
+45
+00:03:34,259 --> 00:03:37,259
+Bu açıdan tamam din alimi olmayabilirsiniz ama
+
+46
+00:03:37,259 --> 00:03:39,259
+dininizin sınırlarını bilebilecek kadar
+
+47
+00:03:39,259 --> 00:03:42,259
+dininizin farkında olmanız gerekir.
+
+48
+00:03:42,259 --> 00:03:44,259
+Bunu geçen hafta konuşmuştuk.
+
+49
+00:03:44,259 --> 00:03:47,259
+Dolayısıyla bu birkaç zümreden bahsedilmişti.
+
+50
+00:03:47,259 --> 00:03:50,259
+Bunlardan birisi de ümmilerdi sevgili arkadaşlar.
+
+51
+00:03:50,259 --> 00:03:51,259
+Bunu konuşmuştuk.
+
+52
+00:03:51,259 --> 00:03:57,259
+Bir de Yahudiler'in münafıklık yapan veya münafıkça davranan zümresinden bahsedmiştik.
+
+53
+00:03:57,259 --> 00:04:01,259
+Bu insanlar Medine sokaklarında yaşanan sahneler Kur'an-ı Kerim'de anlatılıyor.
+
+54
+00:04:01,259 --> 00:04:03,259
+Müslümanlarla karşılaştıklarında
+
+55
+00:04:03,259 --> 00:04:06,259
+ya evet aslında sizin arkadaşınız Muhammed
+
+56
+00:04:06,259 --> 00:04:09,259
+bizim de kitabımızda bahsedilen özellikleri
+
+57
+00:04:09,259 --> 00:04:12,259
+bizim de kitabımızda aktarılan anladılan peygamber
+
+58
+00:04:12,259 --> 00:04:14,259
+din onu tastik ederken
+
+59
+00:04:14,259 --> 00:04:18,259
+tekrar kendi arkadaşlarının yanlarına döndüklerinde
+
+60
+00:04:18,259 --> 00:04:19,259
+diğer arkadaşlar onlara
+
+61
+00:04:19,259 --> 00:04:21,259
+yavrum siz manyak mısınız yani
+
+62
+00:04:21,259 --> 00:04:23,259
+hani niye yarın öbür gün ahirette
+
+63
+00:04:23,259 --> 00:04:27,259
+aleyhinize delil olarak kullanılabilecek şeyleri kabul ediyorsunuz, tastik ediyorsunuz.
+
+64
+00:04:27,259 --> 00:04:30,259
+Yani evet tamam kitabımızda böyle şeyler geçiyor olabilir ama
+
+65
+00:04:30,259 --> 00:04:32,259
+bunu her yerde de söylemeyin gibi
+
+66
+00:04:32,259 --> 00:04:35,259
+münafıkça davranan bir gruptan bahsedilmiştik.
+
+67
+00:04:35,259 --> 00:04:38,259
+Evet oysa geçen hafta böyle birkaç farklı gruptan bahsettik sevgili arkadaşlar.
+
+68
+00:04:38,259 --> 00:04:43,259
+Şimdi bu hafta bir başka israr yolları üzerinden bize anlatılan
+
+69
+00:04:43,259 --> 00:04:46,259
+ve bizim de belki de kendi üzerimize nasiplenmemiz gereken
+
+70
+00:04:46,259 --> 00:04:48,259
+bir başka zümreden bahsedecek sevgili arkadaşlar.
+
+71
+00:04:48,259 --> 00:04:51,259
+Bismillahirrahmanirrahim 79. ayet
+
+72
+00:05:02,610 --> 00:05:04,610
+ayet-i kerime o şekilde
+
+73
+00:05:04,610 --> 00:05:06,610
+Mâli'de şöyle sevgili arkadaşlar
+
+74
+00:05:06,610 --> 00:05:08,610
+feveylül yazıklar olsun
+
+75
+00:05:08,610 --> 00:05:10,610
+lillediğin o kimselere ki
+
+76
+00:05:10,610 --> 00:05:12,610
+yektubûnel kitabı yazıyorlar
+
+77
+00:05:12,610 --> 00:05:14,610
+eydehim elleriyle
+
+78
+00:05:14,610 --> 00:05:16,610
+fümmeyapûrûne sona diyorlar ki
+
+79
+00:05:16,610 --> 00:05:18,610
+hâdâmin lillâh vallâh katınlandır diyorlar
+
+80
+00:05:18,610 --> 00:05:20,610
+bunu şunun için yapıyorlar
+
+81
+00:05:20,610 --> 00:05:22,610
+yeşgârûbihî onu satmak için
+
+82
+00:05:22,610 --> 00:05:24,610
+femenâ galîle az bir pahâ az bir miktar karşılığında
+
+83
+00:05:24,610 --> 00:05:26,610
+onu satmak için
+
+84
+00:05:26,610 --> 00:05:28,610
+feveylül lehim lehum onlara yazıklar olsun
+
+85
+00:05:28,610 --> 00:05:30,610
+min mâke tebet eydehim elleriyle yazıklarından dolayı
+
+86
+00:05:30,610 --> 00:05:32,610
+onlara yazıklar olsun
+
+87
+00:05:32,610 --> 00:05:34,610
+veveylül lehum min mâke tebet
+
+88
+00:05:34,610 --> 00:05:36,610
+kazandıklarından dolayı da onlara yazıklar olsun
+
+89
+00:05:36,610 --> 00:05:38,610
+ayetin meali bu şekilde sevgili arkadaşlar
+
+90
+00:05:38,610 --> 00:05:40,610
+şimdi birkaç farklı gruptan bahsetti ama
+
+91
+00:05:40,610 --> 00:05:42,610
+yani Allah'u Teala'nın veyl olsun
+
+92
+00:05:42,610 --> 00:05:44,610
+yazıklar olsun
+
+93
+00:05:44,610 --> 00:05:46,610
+tabirini kullandığı grub
+
+94
+00:05:46,610 --> 00:05:48,610
+bu ol yani
+
+95
+00:05:48,610 --> 00:05:50,610
+hatırlamıyorum önceki ayetleri ama
+
+96
+00:05:50,610 --> 00:05:52,610
+veyl kelimesini bakara süresinde şimdiye kadar
+
+97
+00:05:52,610 --> 00:05:54,610
+ilk defa kullanılmış olabileceğini
+
+98
+00:05:54,610 --> 00:05:56,610
+tahmin ediyorum ama emin değilim tabi ki
+
+99
+00:05:56,610 --> 00:05:58,610
+bu veyl kelimesi üzerine birazcık durmak lazım
+
+100
+00:05:58,610 --> 00:06:00,610
+Kur'an-ı Kerim de aslında sırça
+
+101
+00:06:00,610 --> 00:06:02,610
+kullanılan bir
+
+102
+00:06:02,610 --> 00:06:04,610
+tabirdir bu
+
+103
+00:06:04,610 --> 00:06:06,610
+ve belki de aslında bir derste buna yönelik yapabiliriz
+
+104
+00:06:06,610 --> 00:06:08,610
+yani Allah'ın veyl ettiği
+
+105
+00:06:08,610 --> 00:06:10,610
+yazıklar olsun dediği grupları
+
+106
+00:06:10,610 --> 00:06:12,610
+inceleyebiliriz belki ayrı bir derste
+
+107
+00:06:12,610 --> 00:06:14,610
+veyl kelimesinin şu tarzı anlamları var
+
+108
+00:06:14,610 --> 00:06:16,610
+veyl dediğinizde aslında
+
+109
+00:06:16,610 --> 00:06:18,610
+kötülük kaplarının açılması
+
+110
+00:06:18,610 --> 00:06:20,610
+bu sözlük anlamıdır
+
+111
+00:06:20,610 --> 00:06:22,610
+kötülük kaplarının açılması
+
+112
+00:06:22,610 --> 00:06:24,610
+veya işte kader, hüzün, ölüm, meşakkat
+
+113
+00:06:24,610 --> 00:06:26,610
+azaptan kaynaklanan sıkıntı gibi
+
+114
+00:06:26,610 --> 00:06:28,610
+bu konulara geliyor
+
+115
+00:06:28,610 --> 00:06:30,610
+hazreti peygamberin de veyl ile alakalı bir hadis
+
+116
+00:06:30,610 --> 00:06:32,610
+şerif var
+
+117
+00:06:32,610 --> 00:06:34,610
+hazreti peygamber veylir cehennemde bir vadio olduğunu
+
+118
+00:06:34,610 --> 00:06:36,610
+cehennemde bir çukur olduğunu söylüyor
+
+119
+00:06:36,610 --> 00:06:38,610
+ve bu çukuru da düşen bir tabi
+
+120
+00:06:38,610 --> 00:06:40,610
+temsili olarak belki
+
+121
+00:06:40,610 --> 00:06:42,610
+gerçek gerçek olarak bilmiyorum ama
+
+122
+00:06:42,610 --> 00:06:44,610
+temsili olarak yok ya o veyl çukurunda düşen
+
+123
+00:06:44,610 --> 00:06:46,610
+kafirin işte 40 yıl boyunca
+
+124
+00:06:46,610 --> 00:06:48,610
+düşmeye devam ettiğini
+
+125
+00:06:48,610 --> 00:06:50,610
+40 mevsim boyunca düşmeye devam ettiğini
+
+126
+00:06:50,610 --> 00:06:52,610
+buyuruyor hazreti peygamber
+
+127
+00:06:52,610 --> 00:06:54,610
+dolayısıyla veyl dediğiniz şey
+
+128
+00:06:54,610 --> 00:06:56,610
+şukur bir şey olduğunu
+
+129
+00:06:56,610 --> 00:06:58,610
+hazreti peygamber söylüyor
+
+130
+00:06:58,610 --> 00:07:00,610
+dolayısıyla aslında veyl kelimesi
+
+131
+00:07:00,610 --> 00:07:02,610
+Türkçede de bazen kullandığımız bir kelime
+
+132
+00:07:02,610 --> 00:07:04,610
+yazıklar olsun anlamında kullanıyoruz
+
+133
+00:07:04,610 --> 00:07:06,610
+bu bazen
+
+134
+00:07:06,610 --> 00:07:08,610
+üzüldüğümüz için de kullanabiliyoruz
+
+135
+00:07:08,610 --> 00:07:10,610
+bu kelimeyi
+
+136
+00:07:10,610 --> 00:07:12,610
+yazıklar olsun kelimesi veya işte veyl kelimesini
+
+137
+00:07:12,610 --> 00:07:14,610
+bazen de işte Allah belanı versin
+
+138
+00:07:14,610 --> 00:07:16,610
+anlamına gelen, helak olun
+
+139
+00:07:16,610 --> 00:07:18,610
+Allah işte canın cehenneme gibi
+
+140
+00:07:18,610 --> 00:07:20,610
+bu manada da kullanabiliyoruz
+
+141
+00:07:20,610 --> 00:07:22,610
+dolayısıyla iki türlü manası var
+
+142
+00:07:22,610 --> 00:07:24,610
+ve ayette bahsettilen zümbre de şöyle bir zümbre
+
+143
+00:07:24,610 --> 00:07:26,610
+bu kişiler
+
+144
+00:07:26,610 --> 00:07:28,610
+kitabı tarif etme boyutunun da üstüne
+
+145
+00:07:28,610 --> 00:07:30,610
+çıkmışlar artık
+
+146
+00:07:30,610 --> 00:07:32,610
+kendi elleriyle bir şeyler yazıyorlar
+
+147
+00:07:32,610 --> 00:07:34,610
+ve bu yazdıkları şeyleri de insanlara
+
+148
+00:07:34,610 --> 00:07:36,610
+belli başlık miktarda
+
+149
+00:07:36,610 --> 00:07:38,610
+belli başlık kazanç elde etmek için
+
+150
+00:07:38,610 --> 00:07:40,610
+belli başlık menfaatler uğruna
+
+151
+00:07:40,610 --> 00:07:42,610
+insanlara bunu pazarlıyorlar
+
+152
+00:07:42,610 --> 00:07:44,610
+ve kendi adlarına da yapmıyorlar bunu
+
+153
+00:07:44,610 --> 00:07:46,610
+yani al kardeşim bunu
+
+154
+00:07:46,610 --> 00:07:48,610
+bu Allah'ın katındandır
+
+155
+00:07:48,610 --> 00:07:50,610
+dolayısıyla kendi yazdıklarını
+
+156
+00:07:50,610 --> 00:07:52,610
+daha atif ederek bunun üzerinden
+
+157
+00:07:52,610 --> 00:07:54,610
+bir menfaat devişliyorlar
+
+158
+00:07:54,610 --> 00:07:56,870
+dolayısıyla Allah'u Teala
+
+159
+00:07:56,870 --> 00:07:58,870
+bu grubu veyl olsun diyor
+
+160
+00:07:58,870 --> 00:08:00,870
+yazıklar olsun diyor
+
+161
+00:08:00,870 --> 00:08:02,870
+bu önemli sevgili arkadaşlar
+
+162
+00:08:02,870 --> 00:08:04,870
+bu Yahudiler ve Hristiyanlar tarihi açısından
+
+163
+00:08:04,870 --> 00:08:06,870
+ele aldığımızda
+
+164
+00:08:06,870 --> 00:08:08,870
+kendi kutsal kitaplarını yaptıkları
+
+165
+00:08:08,870 --> 00:08:10,870
+bağlamında konuştuğumuzda
+
+166
+00:08:10,870 --> 00:08:12,870
+görebiliriz bunu yani atıyorum
+
+167
+00:08:12,870 --> 00:08:14,870
+bu insanlar kendi kitaplarını
+
+168
+00:08:14,870 --> 00:08:16,870
+ekleme çıkarma yaptıklarını tespit edebiliyoruz
+
+169
+00:08:16,870 --> 00:08:18,870
+fakat Müslümanlar için
+
+170
+00:08:18,870 --> 00:08:20,870
+bir şekilde düşünülecek olursak
+
+171
+00:08:20,870 --> 00:08:22,870
+yine tekrar olacak ama
+
+172
+00:08:22,870 --> 00:08:24,870
+Müslümanların kitaplarını lafsi olarak
+
+173
+00:08:24,870 --> 00:08:26,870
+değiştirimeleri mümkün olmamıştır
+
+174
+00:08:26,870 --> 00:08:28,870
+mümkün de bu saatten sonra da
+
+175
+00:08:28,870 --> 00:08:30,870
+çok mümkün değildir sevgili arkadaşlar
+
+176
+00:08:30,870 --> 00:08:32,870
+fakat bu ayet
+
+177
+00:08:32,870 --> 00:08:34,870
+Müslümanları hiç muhatap almıyor da diyemez
+
+178
+00:08:34,870 --> 00:08:36,870
+mesela bugün bunun örneklerini
+
+179
+00:08:36,870 --> 00:08:38,870
+görebilirsiniz aslında
+
+180
+00:08:38,870 --> 00:08:40,870
+ben açıkçası bu tarz örneklerle
+
+181
+00:08:40,870 --> 00:08:42,870
+birebir maruz kalmadım
+
+182
+00:08:42,870 --> 00:08:44,870
+ama duyduğum kadarıyla
+
+183
+00:08:44,870 --> 00:08:46,870
+mesela işte adam bir şey yazıyor
+
+184
+00:08:46,870 --> 00:08:48,870
+şöyle şöyle şeyler olacak
+
+185
+00:08:48,870 --> 00:08:50,870
+veya aslında altına koyarsan
+
+186
+00:08:50,870 --> 00:08:52,870
+böyle böyle şeyler olacak
+
+187
+00:08:52,870 --> 00:08:54,870
+bazen çok anlamlı istekler de olabiliyor
+
+188
+00:08:54,870 --> 00:08:56,870
+bazen çok anlamsız isteklerde de olabiliyor
+
+189
+00:08:56,870 --> 00:08:58,870
+yani insanlar mesela işte
+
+190
+00:08:58,870 --> 00:09:00,870
+saçının çıkması için dahi
+
+191
+00:09:00,870 --> 00:09:02,870
+böyle bu tarz şeylere ihtiyaç duyabiliyor bazen
+
+192
+00:09:02,870 --> 00:09:04,870
+yani dolayısıyla
+
+193
+00:09:04,870 --> 00:09:06,870
+burada aslında sorun şu değil
+
+194
+00:09:06,870 --> 00:09:08,870
+yani insanların birbirlerine dua etmeleri değil
+
+195
+00:09:08,870 --> 00:09:10,870
+veya işte birini Allah'ı zikretmen asiatında bulunması değil
+
+196
+00:09:10,870 --> 00:09:12,870
+bunu profesyonel olarak iş
+
+197
+00:09:12,870 --> 00:09:14,870
+haline getirmiş bir
+
+198
+00:09:14,870 --> 00:09:16,870
+ekip var bir grup var
+
+199
+00:09:16,870 --> 00:09:18,870
+dolayısıyla
+
+200
+00:09:18,870 --> 00:09:22,049
+minindilla
+
+201
+00:09:34,820 --> 00:09:36,820
+ya şöyle o işi iki boyutla ayırmak lazım
+
+202
+00:09:36,820 --> 00:09:38,820
+insan Allah'tan bir şey ilham olunabilir
+
+203
+00:09:38,820 --> 00:09:40,820
+fakat bu
+
+204
+00:09:40,820 --> 00:09:42,820
+bir üzümbreyi bağlar mı o soru işareti
+
+205
+00:09:42,820 --> 00:09:44,820
+ama aynı şey gelmiyor belki onlar da ilhamlı
+
+206
+00:09:44,820 --> 00:09:46,820
+ama bunu karşındakine
+
+207
+00:09:46,820 --> 00:09:48,820
+bir menfaat uğruna satıyorsa
+
+208
+00:09:48,820 --> 00:09:50,820
+problemdir
+
+209
+00:09:50,820 --> 00:09:52,820
+yani mesela peygamberlere de vahiy geliyor
+
+210
+00:09:52,820 --> 00:09:54,820
+ve peygamberler bunu bir karşılık beklemek sizin
+
+211
+00:09:54,820 --> 00:09:56,820
+yani burada vahiy gelme problem değil
+
+212
+00:09:56,820 --> 00:09:58,820
+menfaatin ölçüsü ne
+
+213
+00:09:58,820 --> 00:10:00,820
+menfaatin ölçüsü kişisen çıkar
+
+214
+00:10:00,820 --> 00:10:02,820
+yani işte dünyevi çıkarlar uğruna
+
+215
+00:10:02,820 --> 00:10:04,820
+bir peygamber işte kendi dünyevi çıkarları uğruna
+
+216
+00:10:04,820 --> 00:10:06,820
+bunu yapıyorsa
+
+217
+00:10:08,820 --> 00:10:10,820
+bunun neticesinde hayatı güzelleştiyse
+
+218
+00:10:10,820 --> 00:10:12,820
+belli bir makam mevkiye geldiyse
+
+219
+00:10:12,820 --> 00:10:14,820
+olabilir
+
+220
+00:10:14,820 --> 00:10:16,820
+ama şunu söylememek çok doğru olur mu bilmiyorum
+
+221
+00:10:16,820 --> 00:10:18,820
+Allah hiçbir türlü insana bir şekilde
+
+222
+00:10:18,820 --> 00:10:20,820
+yol göstermesi için
+
+223
+00:10:20,820 --> 00:10:22,820
+bazı işaretlerde bulunmaz
+
+224
+00:10:22,820 --> 00:10:24,820
+yani bunu tespit edemeyiz
+
+225
+00:10:24,820 --> 00:10:26,820
+sorun şurada başlar
+
+226
+00:10:26,820 --> 00:10:28,820
+kendisine Allah tarafından verildiği
+
+227
+00:10:28,820 --> 00:10:30,820
+söylenilen ilhamla
+
+228
+00:10:30,820 --> 00:10:32,820
+başkalar üzerinde tahakkün kurmaya başladığı anda
+
+229
+00:10:32,820 --> 00:10:34,820
+sorun başlar
+
+230
+00:10:34,820 --> 00:10:36,820
+yoksa mesela ben bireysel olarak rüyamda bir şeyler
+
+231
+00:10:36,820 --> 00:10:38,820
+görmüşümdür
+
+232
+00:10:38,820 --> 00:10:40,820
+ve gerçekten belki de onu Allah bana ilham etmiştir
+
+233
+00:10:40,820 --> 00:10:42,820
+bununla hayatıma bir çekil düzen vermişimdir
+
+234
+00:10:42,820 --> 00:10:44,820
+ve gerçekten de öyledir
+
+235
+00:10:44,820 --> 00:10:46,820
+ama ben gelip sana ya ben böyle bir rüya gördüm
+
+236
+00:10:46,820 --> 00:10:48,820
+sen bunu yapmazsan
+
+237
+00:10:48,820 --> 00:10:50,820
+dini açıdan bazı sorunluklar
+
+238
+00:10:50,820 --> 00:10:52,820
+la karşılaşacaksın
+
+239
+00:10:52,820 --> 00:10:54,820
+dünyevi ve uğrayı bir bazı sıkıntılarla karşılaşacaksın
+
+240
+00:10:54,820 --> 00:10:56,820
+diyorsam bu problemledir
+
+241
+00:10:56,820 --> 00:10:58,820
+yani bu soru işaretidir
+
+242
+00:10:58,820 --> 00:11:00,820
+bu benim şahsi görüşümden
+
+243
+00:11:00,820 --> 00:11:02,820
+böyle olmayabilir
+
+244
+00:11:02,820 --> 00:11:04,820
+kimsenin rüyası başkasına bağlılamak
+
+245
+00:11:04,820 --> 00:11:06,820
+şerefiyetim meçhul diyor
+
+246
+00:11:06,820 --> 00:11:08,820
+kişiyi bile bağlamayabiliyor
+
+247
+00:11:08,820 --> 00:11:10,820
+evet
+
+248
+00:11:10,820 --> 00:11:14,639
+dolayısıyla
+
+249
+00:11:14,639 --> 00:11:16,639
+aslında burada bahsettiğimiz şey
+
+250
+00:11:16,639 --> 00:11:18,639
+başka bir konu
+
+251
+00:11:18,639 --> 00:11:20,639
+burada bahsettiğimiz şey
+
+252
+00:11:20,639 --> 00:11:22,639
+ilham almakla alakalı bir mesele değil
+
+253
+00:11:22,639 --> 00:11:24,639
+bir grup var
+
+254
+00:11:24,639 --> 00:11:26,639
+bu grup bu işi profesyonel olarak yapıyor
+
+255
+00:11:26,639 --> 00:11:28,639
+bir şeyler yazıyorlar
+
+256
+00:11:28,639 --> 00:11:30,639
+bir şeyler çiziyorlar
+
+257
+00:11:30,639 --> 00:11:32,639
+bence bu çizmekte de bir problem
+
+258
+00:11:32,639 --> 00:11:34,639
+yani mesela bir insana
+
+259
+00:11:34,639 --> 00:11:36,639
+ben bir şeyler yazıp ver diysem
+
+260
+00:11:36,639 --> 00:11:38,639
+ya işte bunu bir yere koy
+
+261
+00:11:38,639 --> 00:11:40,639
+inşallah sana şifa verir
+
+262
+00:11:40,639 --> 00:11:42,639
+bu tarz çünkü örnekleri muhtemelen
+
+263
+00:11:42,639 --> 00:11:44,639
+hazret peygamberin hayatından araştırsak
+
+264
+00:11:44,639 --> 00:11:46,639
+belki de bulabiliriz bilmiyorum
+
+265
+00:11:46,639 --> 00:11:48,639
+sorun bence şurada başlıyor
+
+266
+00:11:48,639 --> 00:11:50,639
+bunu bir menfaat kapsana
+
+267
+00:11:50,639 --> 00:11:52,639
+döktüğünüzüden itibaren başlıyor
+
+268
+00:11:52,639 --> 00:11:54,639
+bir de şurada başlıyor
+
+269
+00:11:54,639 --> 00:11:56,639
+bunun neticesinin kestirilebilir olduğunu
+
+270
+00:11:56,639 --> 00:11:58,639
+söylemekte başlıyorsun
+
+271
+00:11:58,639 --> 00:12:00,639
+yani işte mesela atıyorum
+
+272
+00:12:00,639 --> 00:12:02,639
+ki şu şu
+
+273
+00:12:02,639 --> 00:12:03,639
+şeyleri
+
+274
+00:12:03,639 --> 00:12:04,639
+ya al
+
+275
+00:12:04,639 --> 00:12:06,639
+işte bir suya karıştır
+
+276
+00:12:06,639 --> 00:12:08,639
+bu tarz şeyler oluyordur diye düşünüyorum
+
+277
+00:12:08,639 --> 00:12:10,639
+duydum ama şahit ol
+
+278
+00:12:10,639 --> 00:12:12,639
+işte suda çeviriyorum o kağıdı
+
+279
+00:12:12,639 --> 00:12:14,639
+ve bunu iç
+
+280
+00:12:14,639 --> 00:12:16,639
+ve neticesinde iyileşeceksin
+
+281
+00:12:16,639 --> 00:12:18,639
+yani bazı kesin cümleler kurmaya başlıyorum
+
+282
+00:12:18,639 --> 00:12:20,639
+ve bunun neticesinde
+
+283
+00:12:20,639 --> 00:12:22,639
+bazı maddi menfaatler elde ediyorum
+
+284
+00:12:22,639 --> 00:12:24,639
+sorun bu
+
+285
+00:12:24,639 --> 00:12:26,639
+bunu biz çevremizi de ben bilmiyorum
+
+286
+00:12:26,639 --> 00:12:28,639
+ben kendi yakın çevremini de çok görmedim
+
+287
+00:12:28,639 --> 00:12:30,639
+bir şeyler yok değil
+
+288
+00:12:30,639 --> 00:12:32,639
+mesela şöyle şeyler duyuyorum
+
+289
+00:12:32,639 --> 00:12:34,639
+son zamanlarda
+
+290
+00:12:34,639 --> 00:12:36,639
+ve bunların hep her birinin hocaları var
+
+291
+00:12:36,639 --> 00:12:38,639
+görüş bir hocalar var
+
+292
+00:12:38,639 --> 00:12:40,639
+bu gerçekten ama yani
+
+293
+00:12:40,639 --> 00:12:42,639
+lan ötekine söylüyorum da buna inanıyor mu
+
+294
+00:12:42,639 --> 00:12:44,639
+aynen
+
+295
+00:12:44,639 --> 00:12:46,639
+ödülüyorum sadece
+
+296
+00:12:46,639 --> 00:12:52,610
+ben ağırları düşünmüştüm
+
+297
+00:12:52,610 --> 00:12:55,860
+ama şey benim kaç gün ortaları
+
+298
+00:12:55,860 --> 00:12:57,860
+kitap yazıyorsan ağzını düştüm
+
+299
+00:12:57,860 --> 00:12:59,860
+durumluk başkalarına
+
+300
+00:12:59,860 --> 00:13:01,860
+senden başkasını da bağlaması
+
+301
+00:13:01,860 --> 00:13:03,860
+ispiosu anlamına geliyordu
+
+302
+00:13:03,860 --> 00:13:05,860
+sen kendini bağlamıyor
+
+303
+00:13:05,860 --> 00:13:08,149
+ama cimler hocası doğru
+
+304
+00:13:08,149 --> 00:13:10,149
+bana beğenmiyorsan
+
+305
+00:13:10,149 --> 00:13:12,149
+yani define
+
+306
+00:13:12,149 --> 00:13:14,149
+çok yapıyorlar
+
+307
+00:13:14,149 --> 00:13:17,039
+çocuğu olmayanlar için işler veriyor
+
+308
+00:13:17,039 --> 00:13:19,039
+evet
+
+309
+00:13:19,039 --> 00:13:21,039
+bir şey çıkıyor ya
+
+310
+00:13:21,039 --> 00:13:23,039
+ispi bir iş
+
+311
+00:13:23,039 --> 00:13:25,039
+adamın direk fotoğrafı var
+
+312
+00:13:25,039 --> 00:13:27,039
+ispi bir iş
+
+313
+00:13:27,039 --> 00:13:29,039
+ya gerçekten alana şarkılıyor ya
+
+314
+00:13:29,039 --> 00:13:31,039
+sen giremezsen
+
+315
+00:13:31,039 --> 00:13:33,039
+yani şöyle
+
+316
+00:13:33,039 --> 00:13:35,039
+benim dediğim define hocası
+
+317
+00:13:35,039 --> 00:13:37,039
+birinin hayatını kurtarmıyor
+
+318
+00:13:37,039 --> 00:13:39,039
+adam
+
+319
+00:13:39,039 --> 00:13:41,039
+şuraya git
+
+320
+00:13:41,039 --> 00:13:43,039
+şurada şöyle şeyler var
+
+321
+00:13:43,039 --> 00:13:45,039
+orayı kaz veya kazacakları yeri önceden getirtiyorlar
+
+322
+00:13:45,039 --> 00:13:47,039
+hocam ne diyorsun buradan bir şey çıkar mı
+
+323
+00:13:47,039 --> 00:13:49,039
+hocam oradan bir şeyler çıkabileceğini
+
+324
+00:13:49,039 --> 00:13:51,039
+söylüyor ve
+
+325
+00:13:51,039 --> 00:13:53,039
+kardan
+
+326
+00:13:53,039 --> 00:13:55,039
+dolayısıyla
+
+327
+00:13:55,039 --> 00:13:57,080
+bu şöyle
+
+328
+00:13:57,080 --> 00:13:59,080
+yani
+
+329
+00:13:59,080 --> 00:14:01,080
+yani bu ahlaki olarak
+
+330
+00:14:01,080 --> 00:14:03,080
+dini olarak
+
+331
+00:14:03,080 --> 00:14:05,080
+hazret peygamberin hayatına baktığımızda
+
+332
+00:14:05,080 --> 00:14:07,080
+bu tarz şeyleri Allah'ın kitabına baktığımızda
+
+333
+00:14:07,080 --> 00:14:09,080
+çok bulmamız mümkün değil
+
+334
+00:14:09,080 --> 00:14:11,080
+dolayısıyla bu çok basit bir konu aslında
+
+335
+00:14:11,080 --> 00:14:13,080
+daha kötüsü şöyle şeyler olabiliyor
+
+336
+00:14:13,080 --> 00:14:15,080
+mesela ben babamın hastalık sürecinde birazcık buna
+
+337
+00:14:15,080 --> 00:14:17,080
+yani çok da şahitlik etmedim ama
+
+338
+00:14:17,080 --> 00:14:19,080
+mesela başınıza bir hastalık geldiğinde
+
+339
+00:14:19,080 --> 00:14:21,080
+doğal olarak insan
+
+340
+00:14:21,080 --> 00:14:23,080
+çaresiz kaldığında
+
+341
+00:14:23,080 --> 00:14:25,080
+çok saçma aslında
+
+342
+00:14:25,080 --> 00:14:27,080
+sağlıklı düşünebildiğinde
+
+343
+00:14:27,080 --> 00:14:29,080
+başına bir hastalık geldiğinde
+
+344
+00:14:29,080 --> 00:14:31,080
+lan oğlum o da yapılır mı dediğin şeyler yapmaya başlıyorsun
+
+345
+00:14:31,080 --> 00:14:33,080
+çünkü o içindeki hastalıktan
+
+346
+00:14:33,080 --> 00:14:35,080
+kurtulmak adına ve tam o süreçte
+
+347
+00:14:35,080 --> 00:14:37,080
+bazı insanlar türüyor birden
+
+348
+00:14:37,080 --> 00:14:39,080
+ya bunlar bazıları iyi niyetlidir
+
+349
+00:14:39,080 --> 00:14:41,080
+muhtemelen ama bazıları da gerçekten kötü niyetli oluyor
+
+350
+00:14:41,080 --> 00:14:43,080
+yani o hastalığından
+
+351
+00:14:43,080 --> 00:14:45,080
+benfatlenerek sana bir takım
+
+352
+00:14:45,080 --> 00:14:47,080
+yani dini
+
+353
+00:14:47,080 --> 00:14:49,080
+bazı parçalar
+
+354
+00:14:49,080 --> 00:14:51,080
+sunuyor ve bu parçalar üzerinden
+
+355
+00:14:51,080 --> 00:14:53,080
+senin hastalığını
+
+356
+00:14:53,080 --> 00:14:55,080
+şey yaparak
+
+357
+00:14:55,080 --> 00:14:57,080
+kullanarak bir geçim kaynağı
+
+358
+00:14:57,080 --> 00:14:59,080
+sağlıyor doğal ise bu herhalde
+
+359
+00:14:59,080 --> 00:15:01,080
+Allah katında bunun bir vebali
+
+360
+00:15:01,080 --> 00:15:03,080
+bir sorunluğu vardır ve bunu da Allah adına
+
+361
+00:15:03,080 --> 00:15:05,080
+yapıyor yani mesela bunu kendi
+
+362
+00:15:05,080 --> 00:15:07,080
+işte tecrübelerine dayanarak
+
+363
+00:15:07,080 --> 00:15:09,080
+işte doğal bilmem ne
+
+364
+00:15:09,080 --> 00:15:11,080
+karışım icar bir şeyler buldum
+
+365
+00:15:11,080 --> 00:15:13,080
+eyvallah ama bunu Allah adına yapması da
+
+366
+00:15:13,080 --> 00:15:15,080
+çok büyük bir problemdir
+
+367
+00:15:15,080 --> 00:15:17,330
+sevgili arkadaşlar
+
+368
+00:15:17,330 --> 00:15:19,330
+dolayısıyla
+
+369
+00:15:19,330 --> 00:15:21,330
+yani Allah katından kendisine bir şeylerin ilham olduğunu
+
+370
+00:15:21,330 --> 00:15:23,330
+ve bunun üzerinden de kendisine
+
+371
+00:15:23,330 --> 00:15:25,330
+muhat elde edilmesini
+
+372
+00:15:25,330 --> 00:15:27,330
+Allah'u Teala burada veyl olmakla
+
+373
+00:15:27,330 --> 00:15:29,330
+karşılığını bulduruyor
+
+374
+00:15:29,330 --> 00:15:31,330
+bu açıdan
+
+375
+00:15:31,330 --> 00:15:33,330
+bu insanlarda sorun şu
+
+376
+00:15:33,330 --> 00:15:35,330
+yani yazdığının
+
+377
+00:15:35,330 --> 00:15:37,330
+bizzat Allah tarafından
+
+378
+00:15:37,330 --> 00:15:39,330
+yazdırıldığını ve bunun bir inanç
+
+379
+00:15:39,330 --> 00:15:41,330
+esası olduğu gördüğünün bizzat
+
+380
+00:15:41,330 --> 00:15:43,330
+Allah tarafından gördüğünü
+
+381
+00:15:43,330 --> 00:15:45,330
+duyduğunun bizzat Allah tarafından duyuyorum
+
+382
+00:15:45,330 --> 00:15:47,330
+burada sadece fiil olarak değil
+
+383
+00:15:47,330 --> 00:15:49,330
+aslında Allah'ın
+
+384
+00:15:49,330 --> 00:15:52,259
+yerimizdeki
+
+385
+00:15:52,259 --> 00:15:54,259
+dolayısıyla
+
+386
+00:15:54,259 --> 00:15:56,259
+çok sürecek mi
+
+387
+00:15:56,259 --> 00:16:00,019
+inşallah sürecek
+
+388
+00:16:02,279 --> 00:16:04,279
+mikrofon getirir mi
+
+389
+00:16:04,279 --> 00:16:06,659
+çok çalışmayacak
+
+390
+00:16:06,659 --> 00:16:11,539
+inşallah
+
+391
+00:16:11,539 --> 00:16:13,539
+devrem bu çok devam edecek mi
+
+392
+00:16:13,539 --> 00:16:15,860
+abi
+
+393
+00:16:15,860 --> 00:16:17,860
+o kadar
+
+394
+00:16:17,860 --> 00:16:19,860
+dolayısıyla
+
+395
+00:16:19,860 --> 00:16:22,149
+sevgili arkadaşlar
+
+396
+00:16:22,149 --> 00:16:24,149
+buradaki kişi
+
+397
+00:16:24,149 --> 00:16:26,149
+artık Allah'a ait bazı
+
+398
+00:16:26,149 --> 00:16:28,149
+kuvvetlerin
+
+399
+00:16:28,149 --> 00:16:30,149
+kendisinde vücut bulduğunu
+
+400
+00:16:30,149 --> 00:16:32,149
+açığa çıktığın iddiasındadır
+
+401
+00:16:32,149 --> 00:16:34,149
+bu herhalde problemdir
+
+402
+00:16:34,149 --> 00:16:36,149
+Allah bundan muavvuz etsin
+
+403
+00:16:36,149 --> 00:16:38,149
+bir de bu tarz işlerin çıktı
+
+404
+00:16:38,149 --> 00:16:40,149
+hep dünya yönelik oluyorsa bu da problemdir
+
+405
+00:16:40,149 --> 00:16:42,149
+hepsinin dünyavi meşguliyetlerinizle alakalı
+
+406
+00:16:42,149 --> 00:16:44,149
+bir meseleyse konuştuğumuz kişi
+
+407
+00:16:44,149 --> 00:16:46,149
+yani hep dünya yönelik bir şeyler var
+
+408
+00:16:46,149 --> 00:16:48,149
+hep eşinizle alakalı
+
+409
+00:16:48,149 --> 00:16:50,149
+ondan sonra para
+
+410
+00:16:50,149 --> 00:16:52,149
+olabilir işte eşinizle anlaşamıyorsunuzdur
+
+411
+00:16:52,149 --> 00:16:54,149
+dolayısıyla hep dünyavi bir
+
+412
+00:16:54,149 --> 00:16:56,149
+takım menfaatler uğruna bu hoca
+
+413
+00:16:56,149 --> 00:16:58,149
+danıştığınız biri ise
+
+414
+00:16:58,149 --> 00:17:00,149
+tabi dünya bir sorunlar için insan
+
+415
+00:17:00,149 --> 00:17:02,149
+danışmaz gibi bir şey değil ama
+
+416
+00:17:02,149 --> 00:17:04,150
+burada bir soru işareti vardır diye düşünüyorum
+
+417
+00:17:04,150 --> 00:17:06,150
+sevgili arkadaşlar
+
+418
+00:17:06,150 --> 00:17:08,150
+bizi doğru yoldan ayırmasın
+
+419
+00:17:08,150 --> 00:17:10,150
+normalde bu hait geçen hafta işleyecektik
+
+420
+00:17:10,150 --> 00:17:12,150
+şimdi bu haftaki ayetimiz
+
+421
+00:17:12,150 --> 00:17:14,150
+bakara süresi 80.
+
+422
+00:17:14,150 --> 00:17:16,150
+sevgili arkadaşlar
+
+423
+00:17:16,150 --> 00:17:18,150
+Bismillahirrahmanirrahim
+
+424
+00:17:18,150 --> 00:17:22,150
+...
+
+425
+00:17:22,150 --> 00:17:26,150
+...
+
+426
+00:17:26,150 --> 00:17:30,180
+...
+
+427
+00:17:30,180 --> 00:17:34,180
+...
+
+428
+00:17:34,180 --> 00:17:36,180
+bize ateş sayılı birkaç günden başka asla
+
+429
+00:17:36,180 --> 00:17:38,180
+dokunmayacaktır sen onlara da ki
+
+430
+00:17:38,180 --> 00:17:40,180
+siz bunun için Allah'tan söz mü aldınız
+
+431
+00:17:40,180 --> 00:17:42,180
+eğer böyleyse Allah verdiği sözden dönmez
+
+432
+00:17:42,180 --> 00:17:44,180
+yoksa siz Allah'a karşı bilmeyeceğiniz
+
+433
+00:17:44,180 --> 00:17:46,180
+şeyler mi söylüyorsunuz diyor
+
+434
+00:17:46,180 --> 00:17:48,180
+bir konuşacağımız konu şu aslında
+
+435
+00:17:48,180 --> 00:17:52,180
+...
+
+436
+00:17:52,180 --> 00:17:54,180
+...
+
+437
+00:17:54,180 --> 00:17:56,180
+...
+
+438
+00:17:56,180 --> 00:17:58,180
+...
+
+439
+00:17:58,180 --> 00:18:00,180
+...
+
+440
+00:18:00,180 --> 00:18:02,180
+...
+
+441
+00:18:02,180 --> 00:18:06,180
+...
+
+442
+00:18:06,180 --> 00:18:08,180
+...
+
+443
+00:18:08,180 --> 00:18:10,180
+...
+
+444
+00:18:10,180 --> 00:18:12,180
+...
+
+445
+00:18:12,180 --> 00:18:14,180
+...
+
+446
+00:18:14,180 --> 00:18:16,180
+...
+
+447
+00:18:16,180 --> 00:18:18,180
+...
+
+448
+00:18:18,180 --> 00:18:20,180
+...
+
+449
+00:18:20,180 --> 00:18:22,180
+...
+
+450
+00:18:22,180 --> 00:18:24,180
+...
+
+451
+00:18:24,180 --> 00:18:26,180
+...
+
+452
+00:18:26,180 --> 00:18:28,180
+...
+
+453
+00:18:28,180 --> 00:18:30,180
+...
+
+454
+00:18:30,180 --> 00:18:32,180
+...
+
+455
+00:18:32,180 --> 00:18:34,180
+...
+
+456
+00:18:34,180 --> 00:18:36,180
+...
+
+457
+00:18:36,180 --> 00:18:38,180
+...
+
+458
+00:18:38,180 --> 00:18:40,180
+...
+
+459
+00:18:40,180 --> 00:18:42,180
+...
+
+460
+00:18:42,180 --> 00:18:47,299
+karşılıyor çok umursuz bir tavırları var. Ya mesela kaypakça hiç umrunda değil
+
+461
+00:18:47,299 --> 00:18:52,500
+cehenneme gidebilme ihtimali hiç umrunda değil ve Allah'a karşı da çok pişkin davranıyorlar.
+
+462
+00:18:52,500 --> 00:18:57,380
+Yani bütün meselenin sonunda Allah'a şöyle davranıyorlar. Yani kardeşim beni yakacaksan da bir
+
+463
+00:18:57,380 --> 00:19:04,849
+kaç gün haberin olsun sonrası da ben çıkarırım. Bu şey yani bu tavır bu pişkince tavır Allah'a
+
+464
+00:19:04,849 --> 00:19:09,809
+karşı. Ve cehennemde yanmanın böyle çok basit ve sıradan bir şey olduğu. Mesela bugün de
+
+465
+00:19:10,289 --> 00:19:17,190
+Bilmiyorum bazen önünüze sokak röportajları düşüyorum ama. Mesela böyle Allah hidayet versin
+
+466
+00:19:17,190 --> 00:19:23,109
+tabi. Hani böyle salak gerizekalı gibi konuşmakta istemiyor ama hani hiç yaşamadı hiç tecrübetle
+
+467
+00:19:23,109 --> 00:19:28,069
+gidip konuda o kadar cesurca konuşuyordu. Yani mesela tamam ben öldürüp ve sonrası da
+
+468
+00:19:28,069 --> 00:19:34,309
+cehenneme gidelim. Ve çok cesur. Çünkü hayatta hiç ölümle karşılaşmamış, hiç ölümün
+
+469
+00:19:34,309 --> 00:19:38,869
+soğuğunu hissetmemiş. Hani mesela şey var ya başkasını tokadını yemeğine kadar
+
+470
+00:19:38,869 --> 00:19:44,069
+kendi tokadını balıyor sanır. Hal bir kere başkasından bir tokat desin. Aslında o kadar
+
+471
+00:19:44,069 --> 00:19:48,309
+da güçlü bir insan olmadığını, o kadar da kudretli biri olmadığını fark edecek.
+
+472
+00:19:48,309 --> 00:19:53,430
+Yani bir kere cehennemin ucundan bir görse belki veya bir kere Allah'ın vadetli o azapla
+
+473
+00:19:53,430 --> 00:19:57,589
+gerçek anlamda bir karşılarsa veya gerçekten bir kere gerçekten Allah'ın kudretin
+
+474
+00:19:57,589 --> 00:20:02,549
+azametini bir düşünebilse, kendi yaratılışından hareketle veya evrenin yaratılışından
+
+475
+00:20:02,549 --> 00:20:06,390
+hareketle Allah dediğimiz varlığın neye tekabül ettiğini bir kere idrak
+
+476
+00:20:06,390 --> 00:20:10,069
+eden ise bu kadar cesurca konuşamaz diye düşünüyorum.
+
+477
+00:20:10,069 --> 00:20:14,950
+Dolayısıyla bugün de çok bir komba cesur. Yani birkaç ben çok benzer bir inanç
+
+478
+00:20:14,950 --> 00:20:19,109
+bizde davardır bizde kadar. Yani birkaç bir uyanacağız ve çıkacağız. Yani neticesinde
+
+479
+00:20:19,109 --> 00:20:26,960
+biz Müslümanız, neticesinde biz Müslümanız ve... Allah'ım bu çok kötü ya.
+
+480
+00:20:26,960 --> 00:20:41,089
+İnşallah çok şöyle. İnşallah demiştir. Bu inanç bizde de var malesef. Yani Müslüman
+
+481
+00:20:41,089 --> 00:20:46,849
+olmamın cehennemden korunmak için yeterli bir seviye. Evet, tamam. Yani
+
+482
+00:20:46,849 --> 00:20:51,410
+gerçek anlamda Müslüman'sak yine de hani böyle çok emin olmamakla beraber.
+
+483
+00:20:51,410 --> 00:20:55,650
+Yani konularda çok emin konuşmak zaten problemdir. Yani bizimki garanti
+
+484
+00:20:55,650 --> 00:20:59,730
+başkalarının hakkından alabiliriz düşüncesine girmek zaten problemdir.
+
+485
+00:20:59,730 --> 00:21:03,809
+Fakat bu sadece Yahudilerle alakalı bir problem değildir.
+
+486
+00:21:03,809 --> 00:21:08,849
+Ciddi anlamda Allah'ın azap etmesi ve Allah hakkında çok cesaretliyiz.
+
+487
+00:21:08,930 --> 00:21:14,609
+Çok cesuruz. Bu bir soru işareti. Peki Yahudilerin bu sayılı gün düşüncesi.
+
+488
+00:21:14,609 --> 00:21:18,849
+Yani neden birkaç gün kalacaklarını düşünüyorlar. Bunun şöyle bir arka planı var
+
+489
+00:21:18,849 --> 00:21:23,490
+sevgili arkadaşlar. Yahudiler diyor ki biz diyorlar işte Musa aleyhisselam
+
+490
+00:21:23,490 --> 00:21:27,250
+tuğru sinaya çıktığında kaç gün kaldı orada? 40 gün kaldı.
+
+491
+00:21:27,250 --> 00:21:30,450
+Dolayısıyla biz o 40 gün sürecinde ne yaptık? Muzaya tatlı. Dolayısıyla
+
+492
+00:21:30,450 --> 00:21:33,569
+Allah'a karşı işlediğimiz en büyük günah olan şirk günahını kaç gün işledik?
+
+493
+00:21:33,569 --> 00:21:37,569
+40 gün işledik. O yüzden Allah'u teala bizi yaksa yaksa 40 gün yaksa.
+
+494
+00:21:37,650 --> 00:21:41,490
+İşte sen 30 gün mü taktın? Sen tatlı, sana 30 gün. Sen 10 gün tatlıysan
+
+495
+00:21:41,490 --> 00:21:44,849
+sana 10 gün. Allah'u teala ceza verir. Ve sen cehennemden çıkarsın.
+
+496
+00:21:44,849 --> 00:21:47,890
+Böyle bir inanışları var. Bazı Yahudilerin sevgili arkadaşlar.
+
+497
+00:21:47,890 --> 00:21:52,230
+Bunun dışında mesela yine. Ataların o kadar günahı değil mi?
+
+498
+00:21:52,230 --> 00:21:55,670
+Evet. Atalarının günahı için de belki bu olabilir ama emin değilim tabii.
+
+499
+00:21:55,670 --> 00:21:59,430
+Yani böyle 40 gün, maksimum 40 gün kalacaklarını çünkü tarihte
+
+500
+00:21:59,430 --> 00:22:03,190
+bu uzayıya 40 gün tatlılarını. Dolayısıyla onun cezasını 40 gün çekecekleri.
+
+501
+00:22:03,190 --> 00:22:07,160
+Ama emin değilim.
+
+502
+00:22:07,160 --> 00:22:10,519
+Ben o söylenmedim. Mesela bazıları için. Biri bazıları için 30 gün değilim.
+
+503
+00:22:10,519 --> 00:22:15,960
+Aslında bu da biraz şey gibi. Hakkınla eğlenimle mesela olmadığı gibi
+
+504
+00:22:15,960 --> 00:22:17,880
+bir şey olmadığını göstermiyorduk. Efendim?
+
+505
+00:22:17,880 --> 00:22:21,079
+Hakkınla eğleniminin guzağı da olsa. İyi bir şey olmadığı meselamda
+
+506
+00:22:21,079 --> 00:22:24,519
+da aslında biraz ııı mükaretmiş oluyor. Evet. Mesela niye
+
+507
+00:22:24,519 --> 00:22:27,799
+guzağın tatlıları gün kadar cehennemde değil mi?
+
+508
+00:22:27,799 --> 00:22:29,000
+Şuna da peygamber değil mi?
+
+509
+00:22:29,000 --> 00:22:31,000
+Bunlar belki zaten sanki işaret ediyor gibi değil mi?
+
+510
+00:22:31,000 --> 00:22:33,000
+Ya zaten kut keresi değiller şu an.
+
+511
+00:22:33,000 --> 00:22:35,220
+Evet.
+
+512
+00:22:43,220 --> 00:22:48,470
+Evet. Bir de ııı başka söyleyecek bir şeyiniz var mısın?
+
+513
+00:22:48,470 --> 00:22:52,710
+Ya burada ııı yani bu sayılı günden neden bu kadar eminle
+
+514
+00:22:52,710 --> 00:22:56,630
+bu bu da ııı farklı bir yorumdana var. Teşekkür ederim
+
+515
+00:22:56,630 --> 00:23:03,859
+suçum Allah razı olsun. Iıı bu sayılı günler ifadesinde ııı
+
+516
+00:23:03,859 --> 00:23:08,099
+dediğim gibi bir buzaya tapınma ııı süresiyle alakalı bir
+
+517
+00:23:08,099 --> 00:23:12,019
+yorum var. Bir diğerinde dünyanın ııı bütün işte
+
+518
+00:23:12,019 --> 00:23:15,380
+evrenin veya dünyanın neyse veya insan olduğum bu dünyadaki
+
+519
+00:23:15,380 --> 00:23:18,740
+kalacağı süreyle alakalı bir ııı yorum var. Mesela ııı
+
+520
+00:23:18,740 --> 00:23:21,779
+şöyle inanıyorlar. Iıı dünyanın ııı ya bu tabii bütün
+
+521
+00:23:21,779 --> 00:23:24,019
+Yahudiler böyle inanıyor diyemem. Fakat medineli
+
+522
+00:23:24,019 --> 00:23:26,819
+Yahudiler'den bir grubun böyle bir düşüncesi olduğuna
+
+523
+00:23:26,819 --> 00:23:30,420
+dahi bir ııı rivayetler ııı olduğunu okumuştum
+
+524
+00:23:30,420 --> 00:23:32,500
+diye hatırlıyorum sevgili arkadaşlar. Benim bu dersi
+
+525
+00:23:32,579 --> 00:23:35,380
+anlattıkların hiçbiri noktası kodumuş cümle değil. O
+
+526
+00:23:35,380 --> 00:23:39,220
+yüzden hani ııı yanlış olabilir. Abeniz olsun. Iıı bu ııı
+
+527
+00:23:39,220 --> 00:23:42,660
+taberide geçiyor. Iıı bu benzer bir rivayet. Iıı şöyle
+
+528
+00:23:42,660 --> 00:23:44,819
+düşünüyor abi. Dünyanın toplam süresinin yedi bin yıl
+
+529
+00:23:44,819 --> 00:23:47,700
+olduğunu düşünüyor. Işte Tanrı dünyayı altı günde yarattı.
+
+530
+00:23:47,700 --> 00:23:52,339
+Yedinci gün Şabat ııı ve Tanrı'nın katında ııı Tanrı'nın
+
+531
+00:23:52,339 --> 00:23:55,700
+bir gün Allah'ın bir günü ııı yeryüzünün bin yılına
+
+532
+00:23:55,700 --> 00:23:59,220
+denk olduğu için toplamda dünyanın dünyadaki sürenin
+
+533
+00:23:59,220 --> 00:24:02,019
+yaşanılabilecek sürenin yedi bin yıl olduğu yönünde
+
+534
+00:24:02,019 --> 00:24:05,380
+bir düşünceleri var sevgili arkadaşlar. Burası böyle
+
+535
+00:24:05,380 --> 00:24:08,420
+anlıyorlar. Ters çevirince ne oluyor peki? Ters çevirince
+
+536
+00:24:08,420 --> 00:24:11,779
+de şöyle oluyor. Dünyadaki yedi bin yıllık ııı günahın
+
+537
+00:24:11,779 --> 00:24:14,259
+ahiretteki karşılığı yedi gün olmuş oluyor sevgili
+
+538
+00:24:14,259 --> 00:24:17,220
+arkadaşlar. Yani dolayısıyla Allah'ın katında ııı bire
+
+539
+00:24:17,220 --> 00:24:21,220
+binse dünya katında da ııı işte bine bir yani dolayısıyla
+
+540
+00:24:21,220 --> 00:24:24,099
+o sayılı gün maksimum bize dokunacak azap sayısı
+
+541
+00:24:24,099 --> 00:24:27,059
+zaten ııı yedi gün olabilir diye ııı düşünüyorlar
+
+542
+00:24:27,059 --> 00:24:30,339
+sevgili arkadaşlar. Bu ııı peki Yahudi kitaplarında
+
+543
+00:24:30,339 --> 00:24:33,460
+bu geçiyor mu? Yahudilerin ana kaynak eserlerinde
+
+544
+00:24:33,460 --> 00:24:36,019
+geçmiyor. Sevgili arkadaşlar. Bakat Hazreti Musal
+
+545
+00:24:36,019 --> 00:24:39,059
+Sonrası ııı üretilen tefsir geleneğinde Rabbani
+
+546
+00:24:39,059 --> 00:24:41,619
+Litarakür'de ııı bu tarz zorumlarda ııı bunu
+
+547
+00:24:41,619 --> 00:24:44,019
+diyor. Iıı yani işte mesela bu bunu şuradan
+
+548
+00:24:44,019 --> 00:24:47,059
+hareketle söylüyorlar. Mezmurlarda geçen ııı bir
+
+549
+00:24:47,059 --> 00:24:49,619
+ayet var. Ne diyor ki ııı ayette şöyle söylüyor.
+
+550
+00:24:49,619 --> 00:24:52,339
+Senin gözünde bin yıl geçmiş bir gün gibidir.
+
+551
+00:24:52,339 --> 00:24:54,980
+Iıı böyle söylüyor. Benzeli bile çok benzer. Hatta
+
+552
+00:24:54,980 --> 00:24:57,299
+birebir belki aynı ııı minvalde aynı mevli bir
+
+553
+00:24:57,299 --> 00:24:58,420
+ayet. Kur'an-ı Kerim'de de geçiyor.
+
+554
+00:24:58,900 --> 00:25:01,779
+Haç Suresi ııı kırk yedinci ayette diyor ki Rabb
+
+555
+00:25:01,779 --> 00:25:04,259
+benim katında bir gün sizin saydığınız bin yıl
+
+556
+00:25:04,259 --> 00:25:08,099
+gibidir diyor. Iıı daha sonra bu ııı şey ııı işte
+
+557
+00:25:08,099 --> 00:25:11,140
+devrattaki bu ııı anlayışı dediğim gibi Hazreti
+
+558
+00:25:11,140 --> 00:25:15,970
+Musal Sonrası'ndaki ııı şeyler ruhban sınıfı ııı şöyle
+
+559
+00:25:15,970 --> 00:25:19,170
+yorumlular Babil Tanrıdu'nda geçiyor bu ııı dünyanın
+
+560
+00:25:19,170 --> 00:25:21,970
+altı bin yıl devam edeceğini ardından bin yıllık bir
+
+561
+00:25:21,970 --> 00:25:23,970
+şabat döneminin başlayacağını ifade edilmiştir.
+
+562
+00:25:23,970 --> 00:25:26,930
+Yani yaratılışın altı günüyle insanlık tarihinin
+
+563
+00:25:26,930 --> 00:25:28,930
+altı bin yıl arasında sembolik bir ilişki
+
+564
+00:25:28,930 --> 00:25:31,490
+kurulmuştur. Bu düşünce daha sonra Yahudi-i Ahiret
+
+565
+00:25:31,490 --> 00:25:34,130
+inancının önemli unsurlarından biri haline gelmiştir
+
+566
+00:25:34,130 --> 00:25:37,250
+sevgili arkadaşlar. Dolayısıyla bu sayılı gün
+
+567
+00:25:37,250 --> 00:25:39,730
+cehennemde kalacağız düşüncesinin birkaç
+
+568
+00:25:39,730 --> 00:25:42,849
+arka planı var. Birincisi o buzaya tapma, kırk gün
+
+569
+00:25:42,849 --> 00:25:45,650
+tapma olayı bir diğer de Yahudilerin dünyanın
+
+570
+00:25:45,650 --> 00:25:48,289
+yaratılışıyla alakalı inançlarının aynı zamanda
+
+571
+00:25:48,289 --> 00:25:50,769
+ahirete dayansayacağı yönündeki inanışları.
+
+572
+00:25:50,769 --> 00:25:53,730
+Bu konuyla alakalı yani muhtemelen şu an kaçınca
+
+573
+00:25:53,730 --> 00:25:58,210
+ayetliyiz? Sekseninci ayetliyiz. Bakara süresi
+
+574
+00:25:58,210 --> 00:26:01,730
+doksan altıncı ayette ilginç bir şey var.
+
+575
+00:26:01,730 --> 00:26:04,289
+Direkt bu konuyla bağlantın değil ama yani
+
+576
+00:26:04,289 --> 00:26:06,450
+atıf ilginç mesela Bakara süresi doksan altıncı
+
+577
+00:26:06,450 --> 00:26:09,329
+ayette diyor ki, and olsun sen onların yaşamaya
+
+578
+00:26:09,329 --> 00:26:12,210
+bütün insanlardan hatta ortak koşanlardan yani
+
+579
+00:26:12,210 --> 00:26:14,529
+müşriklerden daha düşkün olduklarını görürsün
+
+580
+00:26:14,529 --> 00:26:16,930
+onların her biri bin yıl yaşamak ister.
+
+581
+00:26:16,930 --> 00:26:19,650
+Halbuki uzun yaşamak onları azaptan kurtaracak
+
+582
+00:26:19,650 --> 00:26:21,809
+değildir. Allah onların bütün işlediklerini
+
+583
+00:26:21,809 --> 00:26:25,170
+görür. Dolayısıyla bu bin birebin atıfı
+
+584
+00:26:25,170 --> 00:26:28,130
+hem Kur'an-ı Kerim'de de hem de kutsal kitaplarda
+
+585
+00:26:28,130 --> 00:26:30,849
+geçen bir atıftır sevgili arkadaşlar.
+
+586
+00:26:30,849 --> 00:26:33,730
+Ayetin sonuna Allah'u Teala şöyle bitiriyor
+
+587
+00:26:33,730 --> 00:26:35,890
+Allah'tan böyle bir söz mü aldınız
+
+588
+00:26:35,890 --> 00:26:39,009
+deniliyor. Halbuki bu onların kendine kendine
+
+589
+00:26:39,009 --> 00:26:40,769
+uydurdukları bir inanıştır. Tevratta da
+
+590
+00:26:40,769 --> 00:26:43,890
+geçmediğini yani en azından ahirette
+
+591
+00:26:43,890 --> 00:26:45,730
+bir gün işte yedi gün on gün şu kadar
+
+592
+00:26:45,730 --> 00:26:47,890
+kalacaklarına yönelik bir şey geçmediğini
+
+593
+00:26:47,890 --> 00:26:50,369
+fakat onların din adamlarının ruhbanlarının
+
+594
+00:26:50,369 --> 00:26:53,250
+kendi illeriyle yazdıkları, tarif ettikleri
+
+595
+00:26:53,250 --> 00:26:56,450
+din üzerinden sattıkları bir düşüncedir
+
+596
+00:26:56,450 --> 00:26:58,690
+sevgili arkadaşlar. Tabi cicesi şöyle düşünüyorlar
+
+597
+00:26:58,690 --> 00:27:01,490
+aslında. Yahudi ol, yani Yahudi kalp
+
+598
+00:27:01,490 --> 00:27:04,289
+veya sonrasını bir şekilde çözeceğiz. Yani ahirette
+
+599
+00:27:04,289 --> 00:27:06,369
+bu işleri halledeceğiz yani bizim orada
+
+600
+00:27:06,369 --> 00:27:08,369
+biz densin tanıdıklar var bizim orada
+
+601
+00:27:08,369 --> 00:27:10,369
+böyle bir inanış geniştiriyor da yani
+
+602
+00:27:10,369 --> 00:27:12,369
+çok benzerlerini, çok benzeri hisleri
+
+603
+00:27:12,369 --> 00:27:14,529
+yani doğru mudur, yanlış mudur
+
+604
+00:27:14,529 --> 00:27:16,529
+bilmiyorum ama çok benzeri hisleri
+
+605
+00:27:16,529 --> 00:27:18,529
+maalesef bugünkü Müslümanlarda
+
+606
+00:27:18,529 --> 00:27:20,529
+taşıyordur diye düşünüyorum yani cehenneme
+
+607
+00:27:20,529 --> 00:27:22,529
+hiç değmeyecekmişiz gibi hiç görmeyecekmişiz gibi
+
+608
+00:27:22,529 --> 00:27:24,529
+bu ne kadar doğrudur
+
+609
+00:27:24,529 --> 00:27:26,529
+bilmiyorum sevgili arkadaşlar
+
+610
+00:27:26,529 --> 00:27:28,529
+ama bu kadar kolay olduğuna da
+
+611
+00:27:28,529 --> 00:27:30,529
+atışız ben düşünmüyorum yani
+
+612
+00:27:30,529 --> 00:27:32,529
+bu kadar kolay olduğu diye düşünmüyorum
+
+613
+00:27:32,529 --> 00:27:34,660
+evet
+
+614
+00:27:34,660 --> 00:27:37,460
+öyle doluyor zaten
+
+615
+00:27:37,460 --> 00:27:42,440
+şimdi Bismillahirrahmanirrahim diğer ayet
+
+616
+00:27:42,440 --> 00:27:44,440
+kelimesi 81. ayet
+
+617
+00:27:44,440 --> 00:27:46,470
+kaç dakika oldu?
+
+618
+00:27:46,470 --> 00:27:48,470
+10 geçe başladık değil mi?
+
+619
+00:27:48,470 --> 00:27:51,240
+Bismillahirrahmanirrahim
+
+620
+00:27:51,240 --> 00:27:53,240
+bela menkeze besleyiyyetem
+
+621
+00:27:53,240 --> 00:27:55,240
+ve ahad et bihi hatiyatuhu ve ulaikasabınla
+
+622
+00:27:55,240 --> 00:27:57,240
+mfiha khaliluh
+
+623
+00:27:57,240 --> 00:27:59,240
+bela
+
+624
+00:27:59,240 --> 00:28:01,240
+işte bu ayetin devamı
+
+625
+00:28:01,240 --> 00:28:03,240
+olarak bu ayeti okumak önemliyse
+
+626
+00:28:03,240 --> 00:28:05,240
+hayır kim bir kötülgeder
+
+627
+00:28:05,240 --> 00:28:07,240
+de kötülüğün kendisini çepe çevire kuşatırsa
+
+628
+00:28:07,240 --> 00:28:09,240
+o kimseler cehennemliktir
+
+629
+00:28:09,240 --> 00:28:11,240
+onlar orada devamlı kalacaklardır
+
+630
+00:28:11,240 --> 00:28:13,240
+yani
+
+631
+00:28:13,240 --> 00:28:15,240
+burada bahsettiği kişi şöyle bir kişi
+
+632
+00:28:15,240 --> 00:28:17,240
+bir günah işlemiş, bir hata işlemiş
+
+633
+00:28:17,240 --> 00:28:19,240
+ve işlediği hata artık onu çepe çevire kuşatmış
+
+634
+00:28:19,240 --> 00:28:21,240
+kişiliğini ele geçirmiş
+
+635
+00:28:21,240 --> 00:28:23,240
+hatası günahı artık
+
+636
+00:28:23,240 --> 00:28:25,240
+onun kişiliği haline almış
+
+637
+00:28:25,240 --> 00:28:27,240
+yani bir hata işlemiş bahsettiği
+
+638
+00:28:27,240 --> 00:28:29,240
+bela
+
+639
+00:28:29,240 --> 00:28:31,240
+hayır menkeze besleyiyyetem
+
+640
+00:28:31,240 --> 00:28:33,240
+kim bir kötülük işlerse
+
+641
+00:28:33,240 --> 00:28:35,240
+ve ahad et bihi hatiyatuhu ve o hatası
+
+642
+00:28:35,240 --> 00:28:37,240
+onu kuşatırsa
+
+643
+00:28:37,240 --> 00:28:39,240
+o cehennem asabından
+
+644
+00:28:39,240 --> 00:28:41,240
+mfiha khaliluhu orada da ebedi olarak kalacaklardır
+
+645
+00:28:41,240 --> 00:28:43,240
+dolayısıyla burada aslında hata işlemek bakımından
+
+646
+00:28:43,240 --> 00:28:45,240
+günah işlemek bakımından
+
+647
+00:28:45,240 --> 00:28:47,240
+insanları bir iki gruba ayırabiliriz
+
+648
+00:28:47,240 --> 00:28:49,240
+iki gruba ayırabiliriz
+
+649
+00:28:49,240 --> 00:28:51,240
+biri günahkar vardır
+
+650
+00:28:51,240 --> 00:28:53,240
+gerçekten Allah'ın dini ona ulaşmıştır
+
+651
+00:28:53,240 --> 00:28:55,240
+sahih bir din
+
+652
+00:28:55,240 --> 00:28:57,240
+bir peygamber vasıtasıyla
+
+653
+00:28:57,240 --> 00:28:59,240
+ona sahih bir din ulaşmıştır ve reddetmiştir
+
+654
+00:28:59,240 --> 00:29:01,240
+yani kafir olmayı tercih etmiştir
+
+655
+00:29:01,240 --> 00:29:03,240
+bunun işlediği bir günah vardır
+
+656
+00:29:03,240 --> 00:29:05,240
+bir de
+
+657
+00:29:05,240 --> 00:29:07,240
+müslüman olmayı kabul etmiştir
+
+658
+00:29:07,240 --> 00:29:09,240
+veya işte Hz. Musa döneminde
+
+659
+00:29:09,240 --> 00:29:11,240
+Hz. Musa'ya inanan müslüman olmayı kabul etmiştir
+
+660
+00:29:11,240 --> 00:29:13,240
+ve bunlar rağmen
+
+661
+00:29:13,240 --> 00:29:15,240
+kabul etmesine rağmen
+
+662
+00:29:15,240 --> 00:29:17,240
+içinde bulunduğu dini
+
+663
+00:29:17,240 --> 00:29:19,240
+Hz. Musa'yı Hz. Muhammed kabul etmesine rağmen
+
+664
+00:29:19,240 --> 00:29:21,240
+hatada
+
+665
+00:29:21,240 --> 00:29:23,240
+tövbesiz bir şekilde
+
+666
+00:29:23,240 --> 00:29:25,240
+hatasını işlediği hatayı
+
+667
+00:29:25,240 --> 00:29:27,240
+tövbesiz bir şekilde sürdüren kişi
+
+668
+00:29:27,240 --> 00:29:29,240
+burada
+
+669
+00:29:29,240 --> 00:29:31,240
+aslında ayet kerime de bahsedilen şey
+
+670
+00:29:31,240 --> 00:29:33,240
+işlediği
+
+671
+00:29:33,240 --> 00:29:35,240
+günahına dahil günah algısı kaybolmuştum seni
+
+672
+00:29:35,240 --> 00:29:37,240
+yani artık
+
+673
+00:29:37,240 --> 00:29:39,359
+işliyor ve işlediğinin
+
+674
+00:29:39,359 --> 00:29:41,359
+farkına dahi varamıyor
+
+675
+00:29:41,359 --> 00:29:43,359
+çünkü çevresi çepe çevre
+
+676
+00:29:43,359 --> 00:29:45,359
+kuşatılmış
+
+677
+00:29:45,359 --> 00:29:47,359
+buna bir müslüman dahil olabilir mi? bence olabilir
+
+678
+00:29:47,359 --> 00:29:49,359
+yani ayette Yahudilerden bahsediliyor
+
+679
+00:29:49,359 --> 00:29:51,359
+fakat
+
+680
+00:29:51,359 --> 00:29:53,359
+bir müslüman için bunu konuşabilirimiz
+
+681
+00:29:53,359 --> 00:29:55,359
+yani bir hata işliyor ve işlediği o hata
+
+682
+00:29:55,359 --> 00:29:57,359
+kendisini çepe çevre kuşatıyor
+
+683
+00:29:57,359 --> 00:29:59,359
+ve artık o günah algısı kayboluyor
+
+684
+00:29:59,359 --> 00:30:01,359
+ve nihayetinde Allah muhafaza
+
+685
+00:30:01,359 --> 00:30:03,359
+yani burada aslında
+
+686
+00:30:03,359 --> 00:30:05,359
+yani birinin ne kafir demek için
+
+687
+00:30:05,359 --> 00:30:07,359
+sebep aramıyorum
+
+688
+00:30:07,359 --> 00:30:09,359
+yani işte sen kafirsin gibi bir sonunca varmak için söylemiyor
+
+689
+00:30:09,359 --> 00:30:11,359
+fakat yani şunu kabul ediyoruz
+
+690
+00:30:11,359 --> 00:30:13,359
+ben haram dediği bir şeye
+
+691
+00:30:13,359 --> 00:30:15,359
+helal diyenin herhalde din içerisinde
+
+692
+00:30:15,359 --> 00:30:17,359
+kalma ihtimalini kalmadığını
+
+693
+00:30:17,359 --> 00:30:19,359
+bütün İslam ümmeti kabul ediyordur diye düşünüyorum
+
+694
+00:30:19,359 --> 00:30:21,359
+yani işte Allah bir şeye helal diyecek veya haram diyecek
+
+695
+00:30:21,359 --> 00:30:23,359
+sen ona helal diyeceksin veya haram diyeceksin
+
+696
+00:30:23,359 --> 00:30:25,359
+bu kişiye herhalde kimse
+
+697
+00:30:25,359 --> 00:30:27,359
+müamelesi de bulunmayacaktır
+
+698
+00:30:27,359 --> 00:30:29,359
+fakat
+
+699
+00:30:29,359 --> 00:30:31,359
+bir günahı tövbesiz olarak işlemek de
+
+700
+00:30:31,359 --> 00:30:33,359
+sürecin sonunda farkına varmadan
+
+701
+00:30:33,359 --> 00:30:35,359
+insanı buna
+
+702
+00:30:35,359 --> 00:30:37,359
+götürebilir sevgili arkadaşlar
+
+703
+00:30:37,359 --> 00:30:39,359
+yani bir süre sonra belki sözünüzde işlediğiniz günahın
+
+704
+00:30:39,359 --> 00:30:41,359
+haram oluşunu söylemiyorsunuzdur ama
+
+705
+00:30:41,359 --> 00:30:43,359
+artık tavırlarınız o günahı
+
+706
+00:30:43,359 --> 00:30:45,359
+o kadar normalleştirmiştir ki
+
+707
+00:30:45,359 --> 00:30:47,359
+sözünüze gerek bile kalmamıştır
+
+708
+00:30:47,359 --> 00:30:49,359
+yani o günahı o kadar sıradan işliyorsunuzdur ki
+
+709
+00:30:49,359 --> 00:30:51,359
+öyle içiniz acımıyordur ki o günahı işlerken
+
+710
+00:30:51,359 --> 00:30:53,359
+öyle vicdanların rahatsız hissetmiyorsunuzdur ki
+
+711
+00:30:53,359 --> 00:30:55,359
+dolayısıyla artık bunu sözle söylemenin bir anlamı kalmamıştır
+
+712
+00:30:55,359 --> 00:30:57,359
+ya Allah afyasın
+
+713
+00:30:57,359 --> 00:30:59,359
+mesela ben üniversite yıllarımda
+
+714
+00:30:59,359 --> 00:31:01,359
+açlıktan uğruş yiyenlere çok gıcık oluyordum
+
+715
+00:31:01,359 --> 00:31:03,359
+hala da gıcık oluyorum tabi de
+
+716
+00:31:03,359 --> 00:31:05,359
+gıcık olmamı sebebi benim nefsim gıdıkları dıklarından dolayı dedim
+
+717
+00:31:05,359 --> 00:31:07,359
+fakat şu beni rahatsız ediyordu
+
+718
+00:31:07,359 --> 00:31:09,720
+eğer müslüman iddiasındaysan
+
+719
+00:31:09,720 --> 00:31:11,720
+bundan dolayı
+
+720
+00:31:11,720 --> 00:31:13,720
+şeyin ne olursa olsun
+
+721
+00:31:13,720 --> 00:31:15,720
+mazeretin ne olursa olsun
+
+722
+00:31:15,720 --> 00:31:17,720
+insanların senin hakkında zanda bulunacağı şekilde
+
+723
+00:31:17,720 --> 00:31:19,720
+orucunu yeme
+
+724
+00:31:19,720 --> 00:31:21,720
+yani açlıktan yeme
+
+725
+00:31:21,720 --> 00:31:23,720
+gizliden yeme
+
+726
+00:31:23,720 --> 00:31:25,720
+çünkü açlıktan yemeni şöyle bir bak
+
+727
+00:31:25,720 --> 00:31:27,720
+namaz için bunu söyle yemeyebilirim
+
+728
+00:31:27,720 --> 00:31:29,720
+çünkü namazı takibini yapamayabilirim
+
+729
+00:31:29,720 --> 00:31:31,720
+ama ramazan ayında orucu tutup tutmadığım
+
+730
+00:31:31,720 --> 00:31:33,809
+çok aşkar bir olaydır
+
+731
+00:31:33,809 --> 00:31:35,809
+dolayısıyla herkesin gözün içerisine gözünün içine baka baka yiyiyorsan
+
+732
+00:31:35,809 --> 00:31:37,809
+hele de hiçbir mazeretin yoksa
+
+733
+00:31:37,809 --> 00:31:39,809
+hiçbir sebebin yoksa
+
+734
+00:31:39,809 --> 00:31:41,809
+bu bir noktadan sonra şey değildir
+
+735
+00:31:41,809 --> 00:31:43,809
+ne yapıyorsanız ya bana ne
+
+736
+00:31:43,809 --> 00:31:45,880
+oruç tutmaktan bana ne
+
+737
+00:31:45,880 --> 00:31:47,880
+dolayısıyla bunu illa ağzımla mı söylemen gerekiyor
+
+738
+00:31:47,880 --> 00:31:49,880
+ve bunun neticesinde
+
+739
+00:31:49,880 --> 00:31:51,880
+müslüman kaldığını iddia etmek
+
+740
+00:31:51,880 --> 00:31:53,880
+yani müslüman kalmışsındır inşallah
+
+741
+00:31:53,880 --> 00:31:55,880
+yani bilmiyorum tabi
+
+742
+00:31:55,880 --> 00:31:57,880
+kalabilir misin bilmiyorum
+
+743
+00:31:57,880 --> 00:31:59,910
+ama bu çok cesurca değil mi yani
+
+744
+00:31:59,910 --> 00:32:01,910
+hiçbir mazeretin yoksa ve insanlar senin
+
+745
+00:32:01,910 --> 00:32:03,910
+oruç tutmadığını görüyorlarsa
+
+746
+00:32:03,910 --> 00:32:05,910
+bu konuda hiç umurun da değilse
+
+747
+00:32:05,910 --> 00:32:07,910
+mesela hiç için de acımıyorsa
+
+748
+00:32:07,910 --> 00:32:09,910
+yani peki şey demek olmuyor mu
+
+749
+00:32:09,910 --> 00:32:11,910
+yani senin emirlerinden bana ne
+
+750
+00:32:11,910 --> 00:32:13,910
+demek oluyordur diye düşünüyorum
+
+751
+00:32:13,910 --> 00:32:15,910
+o yüzden sen
+
+752
+00:32:15,910 --> 00:32:18,230
+efendim
+
+753
+00:32:20,230 --> 00:32:22,230
+yani namazı şöyle
+
+754
+00:32:22,230 --> 00:32:24,230
+takip edemem
+
+755
+00:32:24,230 --> 00:32:26,230
+çok görünür bir şey değil
+
+756
+00:32:26,230 --> 00:32:28,230
+kendi başına kırmıştır şudur budur
+
+757
+00:32:28,230 --> 00:32:30,230
+ama direkt karşında yiyiyorsa ve oruç tutma almışsa
+
+758
+00:32:30,230 --> 00:32:32,230
+ve hiçbir mazeretin olmadığını da
+
+759
+00:32:32,230 --> 00:32:34,230
+biliyorsa herhalde
+
+760
+00:32:34,230 --> 00:32:36,230
+bu sorumdur diye düşünüyorum
+
+761
+00:32:36,230 --> 00:32:38,230
+bu bakımdan sevgili arkadaşlar
+
+762
+00:32:38,230 --> 00:32:40,230
+günah işlemenin bir adabı vardır
+
+763
+00:32:40,230 --> 00:32:42,230
+yani asıyorum
+
+764
+00:32:42,230 --> 00:32:44,230
+hata yapmanın müslüman nezdinde
+
+765
+00:32:44,230 --> 00:32:46,230
+bir adabı vardır
+
+766
+00:32:46,230 --> 00:32:48,230
+şöyle bir şey söylemek mümkün değil tabi ki
+
+767
+00:32:48,230 --> 00:32:50,230
+yani günahsız kalalım
+
+768
+00:32:50,230 --> 00:32:52,230
+günahsız olalım
+
+769
+00:32:52,230 --> 00:32:54,230
+günah işlememek mümkün değil
+
+770
+00:32:54,230 --> 00:32:56,230
+fakat müslümanın günah işler
+
+771
+00:32:56,230 --> 00:32:58,230
+kendi dahi bir şey olmalı
+
+772
+00:32:58,230 --> 00:33:00,230
+bir izleti, bir şerefi, bir onur
+
+773
+00:33:00,230 --> 00:33:02,230
+bir haysiyeti kalmalı
+
+774
+00:33:02,230 --> 00:33:04,230
+mesela ısrarla günah işleyemezdir müslüman
+
+775
+00:33:04,230 --> 00:33:06,230
+ısrarla tekrar tekrar aynı günahı
+
+776
+00:33:06,230 --> 00:33:08,230
+işleyemez adam olmalı müslüman
+
+777
+00:33:08,230 --> 00:33:10,230
+evet o günahı bir kere işlemiştir
+
+778
+00:33:10,230 --> 00:33:12,230
+iki kere işlemiştir
+
+779
+00:33:12,230 --> 00:33:14,230
+ama 86. kez aynı günahı işlediğinde
+
+780
+00:33:14,230 --> 00:33:16,230
+aynı
+
+781
+00:33:16,230 --> 00:33:18,230
+kalmaz diye düşünüyorum müslüman
+
+782
+00:33:18,230 --> 00:33:20,230
+ya müslüman kimliğinde bir zedelenme vardır
+
+783
+00:33:20,230 --> 00:33:22,230
+ya da başka bir şey bilmiyorum
+
+784
+00:33:22,230 --> 00:33:24,230
+dolayısıyla müslümanın
+
+785
+00:33:24,230 --> 00:33:26,230
+günah işleme adabını konuşacaksa
+
+786
+00:33:26,230 --> 00:33:28,230
+tekrar sayısının
+
+787
+00:33:28,230 --> 00:33:30,230
+düşüklüğü üzerinden konuşabilir
+
+788
+00:33:30,230 --> 00:33:32,230
+bu günahı bir kere işlemiştir, üç kere işlemiştir, beş kere işlemiştir
+
+789
+00:33:32,230 --> 00:33:34,230
+artık bunun sayısında
+
+790
+00:33:34,230 --> 00:33:36,230
+çoğalma oldukça çünkü
+
+791
+00:33:36,230 --> 00:33:38,230
+artık o günahın
+
+792
+00:33:38,230 --> 00:33:40,230
+müslüman mezimdeki günah olma
+
+793
+00:33:40,230 --> 00:33:42,230
+hissi ve potansiyeli azalıyor çünkü
+
+794
+00:33:42,230 --> 00:33:44,230
+dolayısıyla müslüman günah işlerken ısrarla günah işleyemez
+
+795
+00:33:44,230 --> 00:33:46,230
+işlerken
+
+796
+00:33:46,230 --> 00:33:48,230
+vicdanında mutlaka bir
+
+797
+00:33:48,230 --> 00:33:50,230
+kıpırtı bir sıkıntı hisseder
+
+798
+00:33:50,230 --> 00:33:52,230
+içinde bir daralma hisseder
+
+799
+00:33:52,230 --> 00:33:54,230
+içinde bir bunalma, bir iç daraltısı hisseder
+
+800
+00:33:54,230 --> 00:33:56,230
+dolayısıyla içi daralmadan yapıyorsa o günahın
+
+801
+00:33:56,230 --> 00:33:58,230
+bu arada ya müslümanlıkta bir sıkıntılardır
+
+802
+00:33:58,230 --> 00:34:00,230
+ya da başka bir şey bilmiyorum artık
+
+803
+00:34:00,230 --> 00:34:02,230
+dolayısıyla
+
+804
+00:34:02,230 --> 00:34:04,230
+sevgili arkadaşlar
+
+805
+00:34:04,230 --> 00:34:06,230
+hem ısrarla devam ediyorsun hem de vicdanında
+
+806
+00:34:06,230 --> 00:34:08,230
+hiçbir sıkıntı, hiçbir daraltı hissetmiyorsa
+
+807
+00:34:08,230 --> 00:34:10,230
+herhalde müslüman da Allah muhabaza
+
+808
+00:34:10,230 --> 00:34:12,389
+bu zümreye gider
+
+809
+00:34:12,389 --> 00:34:14,389
+bu Allah'ın haridiyle
+
+810
+00:34:14,389 --> 00:34:16,389
+dediği zümreye girer
+
+811
+00:34:16,389 --> 00:34:18,389
+bunu şun için söylemiyorum yani birilerini
+
+812
+00:34:18,389 --> 00:34:20,389
+cehenneme atalım diye söylemiyorum
+
+813
+00:34:20,389 --> 00:34:22,389
+farkında olmadan müslüman kinliğin
+
+814
+00:34:22,389 --> 00:34:24,389
+mizik kaybetmiş olabiliriz
+
+815
+00:34:24,389 --> 00:34:26,389
+veya işte sadece
+
+816
+00:34:26,389 --> 00:34:28,389
+kendimizi kandırarak müslümanızdır
+
+817
+00:34:28,389 --> 00:34:30,389
+dolayısıyla belki de günahımız
+
+818
+00:34:30,389 --> 00:34:32,389
+bizi çepe çevre kuşatmıştır
+
+819
+00:34:32,389 --> 00:34:34,389
+ve işte dediğim gibi
+
+820
+00:34:34,389 --> 00:34:36,389
+İslam etketi bizim için
+
+821
+00:34:36,389 --> 00:34:38,389
+bizim nezlimizde var olan bir etket
+
+822
+00:34:38,389 --> 00:34:40,389
+fakat Allah'ın katında
+
+823
+00:34:40,389 --> 00:34:42,389
+çok makburi olmayan bir etket
+
+824
+00:34:42,389 --> 00:34:44,389
+olmuş dolar verir
+
+825
+00:34:44,389 --> 00:34:46,389
+o yüzden bu işlerden bu kadar emin olmamak gerekir
+
+826
+00:34:46,389 --> 00:34:48,389
+yani biz genel olarak ehlisinde de itikadın
+
+827
+00:34:48,389 --> 00:34:50,389
+ve genel müslümanların itikadı tabi ki
+
+828
+00:34:50,389 --> 00:34:52,389
+ben müslümanım diye birini
+
+829
+00:34:52,389 --> 00:34:54,389
+sokamam tabi ki
+
+830
+00:34:54,389 --> 00:34:56,389
+ama ahireteki durumu hakkında da
+
+831
+00:34:56,389 --> 00:34:58,389
+ben başla olmamak üzere bizler
+
+832
+00:34:58,389 --> 00:35:00,389
+çok emin de hareket etmememiz gerekiyor diye
+
+833
+00:35:00,389 --> 00:35:02,389
+düşünüyorum sevgili arkadaşlar
+
+834
+00:35:02,389 --> 00:35:04,389
+bir de çünkü günah işlemenin
+
+835
+00:35:04,389 --> 00:35:06,480
+şöyle bir yanı var
+
+836
+00:35:06,480 --> 00:35:08,480
+günahdaki ısrarınız
+
+837
+00:35:08,480 --> 00:35:10,480
+ve umursamaz tavrınız
+
+838
+00:35:10,480 --> 00:35:12,480
+dininizin geri kalanına dayansın
+
+839
+00:35:12,480 --> 00:35:14,480
+yani bu çok net hissedilir bu arada yani
+
+840
+00:35:14,480 --> 00:35:16,480
+işte dediğiniz bir günahda ısrarcıysanız
+
+841
+00:35:16,480 --> 00:35:18,480
+dininizin geri kalanında ısrarcı olduğumuz günahdan
+
+842
+00:35:18,480 --> 00:35:20,480
+etkilenmemesi de mümkün değildir
+
+843
+00:35:20,480 --> 00:35:22,480
+yani mesela işte
+
+844
+00:35:22,480 --> 00:35:24,480
+sürekli gıybet yapan biriyseniz
+
+845
+00:35:24,480 --> 00:35:26,480
+dedikodu yapmak
+
+846
+00:35:26,480 --> 00:35:28,480
+gıybet yapmak sizin için normal bir şey ise
+
+847
+00:35:28,480 --> 00:35:30,480
+iftira atmak da normalleşiyor
+
+848
+00:35:30,480 --> 00:35:32,480
+şey bilir zamanla
+
+849
+00:35:32,480 --> 00:35:34,480
+çünkü birinin arkasından konuşuyorsunuzdur
+
+850
+00:35:34,480 --> 00:35:36,480
+arkasından konuştuğunuz kişi
+
+851
+00:35:36,480 --> 00:35:38,480
+hakkında zaten doğru şeyler söylemek
+
+852
+00:35:38,480 --> 00:35:40,480
+diyorsanız dahi
+
+853
+00:35:40,480 --> 00:35:42,480
+zamanla araya bazı şeyler de girer
+
+854
+00:35:42,480 --> 00:35:44,480
+dolayısıyla iftira atmanızı da kolaylaştır
+
+855
+00:35:44,480 --> 00:35:46,480
+dolayısıyla yalan söylemeniz de kolaylaştır
+
+856
+00:35:46,480 --> 00:35:48,480
+dolayısıyla sadece dininizle işlediğiniz bir günah
+
+857
+00:35:48,480 --> 00:35:50,480
+bir günahlara da sebep olabilir
+
+858
+00:35:50,480 --> 00:35:52,480
+o yüzden bir günahda en küçüğünden en büyüğüne
+
+859
+00:35:52,480 --> 00:35:54,480
+olan ısrarınız
+
+860
+00:35:54,480 --> 00:35:56,480
+dininizin geri kalanında
+
+861
+00:35:56,480 --> 00:35:58,480
+doğal olarak etkileyecektir diye
+
+862
+00:35:58,480 --> 00:36:00,480
+düşünüyorum sevgili arkadaşlar
+
+863
+00:36:00,480 --> 00:36:02,960
+mesela
+
+864
+00:36:02,960 --> 00:36:04,960
+zaman geçer işlediğiniz günah
+
+865
+00:36:04,960 --> 00:36:06,960
+artık siz de günah gelmemeye başlar
+
+866
+00:36:06,960 --> 00:36:08,960
+ve hep mesela bu derslerde tekrar ettiğimiz bir ayet var
+
+867
+00:36:08,960 --> 00:36:10,960
+işte şeytan
+
+868
+00:36:10,960 --> 00:36:12,960
+onlara yaptıklarını sizli gösterdi
+
+869
+00:36:12,960 --> 00:36:14,960
+Allah-u Teala ayet-i kerime de
+
+870
+00:36:14,960 --> 00:36:16,960
+meyelen böyle bölüyor yani bir günah
+
+871
+00:36:16,960 --> 00:36:18,960
+ve şeytan da zamanla süreç içerisinde
+
+872
+00:36:18,960 --> 00:36:20,960
+o yaptıklarını aslında tatlı
+
+873
+00:36:20,960 --> 00:36:22,960
+şey olarak gösteriyor
+
+874
+00:36:22,960 --> 00:36:24,960
+ilk başta sadece günahın işleyen biri
+
+875
+00:36:24,960 --> 00:36:26,960
+başladığınız yolculuğa sürecin sonunda
+
+876
+00:36:26,960 --> 00:36:28,960
+günahın bayrağına taşıyan kişi olarak
+
+877
+00:36:28,960 --> 00:36:30,960
+varmış olabilirsiniz sevgili arkadaşlar
+
+878
+00:36:30,960 --> 00:36:32,960
+çünkü o süreç içerisinde sürekli
+
+879
+00:36:32,960 --> 00:36:34,960
+tekrar tekrar aynı şeyi yapmak
+
+880
+00:36:34,960 --> 00:36:36,960
+sizi sürecin sonunda o işi yapan
+
+881
+00:36:36,960 --> 00:36:38,960
+ve bu işi yapmaktan dolayı gurur duyan
+
+882
+00:36:38,960 --> 00:36:40,960
+ve insanları da bunu yapmayı tavsiye eden
+
+883
+00:36:40,960 --> 00:36:42,960
+birine dönüştürebilir
+
+884
+00:36:42,960 --> 00:36:44,960
+o yüzden etrafınızı kuşatır günah
+
+885
+00:36:44,960 --> 00:36:46,960
+o yüzden sevgili arkadaşlar
+
+886
+00:36:46,960 --> 00:36:48,960
+bir günah işliyorsak dahi
+
+887
+00:36:48,960 --> 00:36:50,960
+dediğim gibi bunun sızısını
+
+888
+00:36:50,960 --> 00:36:52,960
+yüreğimizi de hissedeceğiz
+
+889
+00:36:52,960 --> 00:36:54,960
+mesela namazda böyle bir konu
+
+890
+00:36:54,960 --> 00:36:56,960
+namaz kılmak
+
+891
+00:36:56,960 --> 00:36:58,960
+ve namazda sebaht etmek
+
+892
+00:36:58,960 --> 00:37:00,960
+gerçekten zor bir iştir
+
+893
+00:37:00,960 --> 00:37:02,960
+ama namaz kılmamak kolaydır çünkü hesabını tutmuyorsun
+
+894
+00:37:02,960 --> 00:37:04,960
+günlük hayatta
+
+895
+00:37:04,960 --> 00:37:06,960
+farklı olarak yaptığım bir şey değil
+
+896
+00:37:06,960 --> 00:37:08,960
+dolayısıyla namaz kılmak
+
+897
+00:37:08,960 --> 00:37:10,960
+zordur ve takip
+
+898
+00:37:10,960 --> 00:37:12,960
+takip gerektir ama namaz kılmamak
+
+899
+00:37:12,960 --> 00:37:14,960
+kolaydır ve takip etmene gerek yoktur
+
+900
+00:37:14,960 --> 00:37:16,960
+fakat namaz kılmadığında
+
+901
+00:37:16,960 --> 00:37:18,960
+zamanında başka şeyler de yapmaya
+
+902
+00:37:18,960 --> 00:37:20,960
+veya yapmamaya başlayacaksın doğal olarak
+
+903
+00:37:20,960 --> 00:37:22,960
+günlük bazı hassasiyetlerin zedelenmeye başlayacak
+
+904
+00:37:22,960 --> 00:37:24,960
+hayata bakışın
+
+905
+00:37:24,960 --> 00:37:26,960
+farklılaşmaya başlayacak
+
+906
+00:37:26,960 --> 00:37:28,960
+kılmadığın her namaz sadece namaz kılmamak
+
+907
+00:37:28,960 --> 00:37:30,960
+günahı olarak kalmayacak
+
+908
+00:37:30,960 --> 00:37:32,960
+başka günahlar olarak da sana geri dönecek
+
+909
+00:37:32,960 --> 00:37:34,960
+ve belki farkında olmayacaksın
+
+910
+00:37:34,960 --> 00:37:36,960
+o yüzden namaz kılmamak
+
+911
+00:37:36,960 --> 00:37:38,960
+sürecin sonunda
+
+912
+00:37:38,960 --> 00:37:40,960
+ve hadi diyelim namaz kılmıyorsun
+
+913
+00:37:40,960 --> 00:37:42,960
+namaz kılmamak artık umursamadığım
+
+914
+00:37:42,960 --> 00:37:44,960
+bir eylem haline dönüşmesi
+
+915
+00:37:44,960 --> 00:37:46,960
+artık Allah'a karşı da bir umursuz
+
+916
+00:37:46,960 --> 00:37:48,960
+yanının oluştuğu anlamına da gelecek
+
+917
+00:37:48,960 --> 00:37:50,960
+dolayısıyla Allah korkusu üzerinden eksilecek
+
+918
+00:37:50,960 --> 00:37:52,960
+ölüm sonrası
+
+919
+00:37:52,960 --> 00:37:54,960
+bunlara dair düşüncelerin eksilecek
+
+920
+00:37:54,960 --> 00:37:56,960
+o yüzden sevgili arkadaşlar
+
+921
+00:37:56,960 --> 00:37:58,960
+günahlarınızı hafifleştirmeyeceğiz
+
+922
+00:37:58,960 --> 00:38:00,960
+günah işleyebiliriz
+
+923
+00:38:00,960 --> 00:38:02,960
+fakat hafif almadan
+
+924
+00:38:02,960 --> 00:38:04,960
+bunu basitleştirmeden
+
+925
+00:38:04,960 --> 00:38:06,960
+ve tevbesini
+
+926
+00:38:06,960 --> 00:38:08,960
+tevbesini de yaparak
+
+927
+00:38:08,960 --> 00:38:10,960
+çünkü bağımlısı olduğunuz tek bir günah bile
+
+928
+00:38:10,960 --> 00:38:12,960
+Allah'a olan bağımlılığınızı
+
+929
+00:38:12,960 --> 00:38:14,960
+etkileyebilir
+
+930
+00:38:14,960 --> 00:38:16,960
+bazen kesilmesine de
+
+931
+00:38:16,960 --> 00:38:18,960
+sebep olabilir
+
+932
+00:38:18,960 --> 00:38:20,960
+yani işte mesela bunu şöyle de düşünebilirsiniz
+
+933
+00:38:20,960 --> 00:38:22,960
+mesela uyuşturucu bağımlı
+
+934
+00:38:22,960 --> 00:38:24,960
+sadece sizi etkilemiyordur
+
+935
+00:38:24,960 --> 00:38:26,960
+uyuşturucuya bağımlı olmak
+
+936
+00:38:26,960 --> 00:38:28,960
+yani evliyseniz kesinlikle ailenizi etkiliyordur
+
+937
+00:38:28,960 --> 00:38:30,960
+anne babanız, eşiniz, çocuğunuz
+
+938
+00:38:30,960 --> 00:38:32,960
+yakın çevrenizi, arkadaş çevrenizi etkiliyordur
+
+939
+00:38:32,960 --> 00:38:34,960
+işinizi, maddi kazancınızı etkiliyordur
+
+940
+00:38:34,960 --> 00:38:36,960
+veya zina yapmak
+
+941
+00:38:36,960 --> 00:38:38,960
+sizinle alakalı bir günah değil
+
+942
+00:38:38,960 --> 00:38:40,960
+çevrenizle de alakalı bir günah değil
+
+943
+00:38:40,960 --> 00:38:42,960
+yani hem zina yapıp
+
+944
+00:38:42,960 --> 00:38:44,960
+hem sadakat üzerine kurulması
+
+945
+00:38:44,960 --> 00:38:46,960
+gereken bir yuvayı nasıl ayaktır tutabileceksin
+
+946
+00:38:46,960 --> 00:38:48,960
+mümkün değil
+
+947
+00:38:48,960 --> 00:38:50,960
+mesela çocuğunla olan ilişkinle nasıl
+
+948
+00:38:50,960 --> 00:38:52,960
+sağlıklı bir zemindir tutabileceksin
+
+949
+00:38:52,960 --> 00:38:54,960
+herhalde mümkün değildir diye düşünüyorum
+
+950
+00:38:54,960 --> 00:38:56,960
+dolayısıyla zina yapmak
+
+951
+00:38:56,960 --> 00:38:58,960
+sadece seni ilgilendiren bir günah olmuyor artık
+
+952
+00:38:58,960 --> 00:39:00,960
+zamanla başka insanlarla olan ilişkilerini de etkilediği için
+
+953
+00:39:00,960 --> 00:39:02,960
+diğer insanlarla olan ilişkilerini de etkilemesinden
+
+954
+00:39:02,960 --> 00:39:04,960
+doğan başka günahlara da sebep oluyor
+
+955
+00:39:04,960 --> 00:39:06,960
+o yüzden
+
+956
+00:39:06,960 --> 00:39:08,960
+sevgili arkadaşlar
+
+957
+00:39:08,960 --> 00:39:10,960
+günahlara karşı umursuz
+
+958
+00:39:10,960 --> 00:39:12,960
+davranmayacağız ve işlediğimiz
+
+959
+00:39:12,960 --> 00:39:14,960
+günahdan dolayı da
+
+960
+00:39:14,960 --> 00:39:16,960
+tevbeimizi edeceğiz ve en kötü ihtimalle
+
+961
+00:39:16,960 --> 00:39:18,960
+kalbimizden sızısını geçireceğiz
+
+962
+00:39:18,960 --> 00:39:20,960
+yani içimiz bir ciz edecek bir şey olacak
+
+963
+00:39:20,960 --> 00:39:28,880
+sevgili arkadaşlar yoruldunuz mu
+
+964
+00:39:28,880 --> 00:39:30,880
+Bismillahirrahmanirrahim
+
+965
+00:39:34,880 --> 00:39:36,880
+bir önceki ayette
+
+966
+00:39:36,880 --> 00:39:38,880
+cehennem ehlidinden
+
+967
+00:39:38,880 --> 00:39:40,880
+kumfiha khalidun dediği
+
+968
+00:39:40,880 --> 00:39:42,880
+ehli cehennemdi cehenneme giden üzümreydi
+
+969
+00:39:42,880 --> 00:39:44,880
+ve Allah'u Teala onların yaptığı
+
+970
+00:39:44,880 --> 00:39:46,880
+bir kötülüğün neticesinden bahsetti
+
+971
+00:39:46,880 --> 00:39:48,880
+burada da vellediğine amen
+
+972
+00:39:48,880 --> 00:39:50,880
+iman edenlerden bahsetti ve amiru salihat
+
+973
+00:39:50,880 --> 00:39:52,880
+onlar salihamenler işler dedi
+
+974
+00:39:52,880 --> 00:39:54,880
+ula iken sabri cennem onlar cenneta sabri kumfiha
+
+975
+00:39:54,880 --> 00:39:56,880
+khalidun
+
+976
+00:39:56,880 --> 00:39:58,880
+bakın aslında bu ayet diğerinin hemen akabinde geldi
+
+977
+00:39:58,880 --> 00:40:00,880
+dolayısıyla buradaki
+
+978
+00:40:00,880 --> 00:40:02,880
+çıkarımlarda bunları bilirsin
+
+979
+00:40:02,880 --> 00:40:04,880
+Allah'u Teala iman etmekte küfrü
+
+980
+00:40:04,880 --> 00:40:06,880
+iki zıt kutup olarak birbirine koydu
+
+981
+00:40:06,880 --> 00:40:08,880
+büyük yapmakla iyilik yapmayı da
+
+982
+00:40:08,880 --> 00:40:10,880
+iki zıt kutuba koydu
+
+983
+00:40:10,880 --> 00:40:12,880
+zaten doğalıyla bunu anlayabiliriz
+
+984
+00:40:12,880 --> 00:40:14,880
+fakat bunların birbirinin zıtlı olduğunu bilelim
+
+985
+00:40:14,880 --> 00:40:16,880
+yani bir tarafta
+
+986
+00:40:16,880 --> 00:40:18,880
+küfür ve günahlar
+
+987
+00:40:18,880 --> 00:40:20,880
+bu ikisi aynı bağlamda kullanılmış
+
+988
+00:40:20,880 --> 00:40:22,880
+bir tarafta iman etmek ve
+
+989
+00:40:22,880 --> 00:40:24,880
+salihamel işlemek
+
+990
+00:40:24,880 --> 00:40:26,880
+bu ikisi aynı bağlamda kullanılmış
+
+991
+00:40:26,880 --> 00:40:28,880
+de olsa bunlar birbirlerini zıttı
+
+992
+00:40:28,880 --> 00:40:30,880
+yani ne alaka zaten biliyoruz gibi
+
+993
+00:40:30,880 --> 00:40:32,880
+düşünebilirsiniz fakat
+
+994
+00:40:32,880 --> 00:40:34,880
+burada amellerin kıymetsizleştirilmemesi
+
+995
+00:40:34,880 --> 00:40:36,880
+yani
+
+996
+00:40:36,880 --> 00:40:38,880
+evet yani
+
+997
+00:40:38,880 --> 00:40:40,880
+bir de burada şöyle
+
+998
+00:40:40,880 --> 00:40:42,880
+benim mesela ilgimi çeken bir yan var
+
+999
+00:40:42,880 --> 00:40:44,880
+önceki ayette
+
+1000
+00:40:44,880 --> 00:40:46,880
+kötü dedi sadece bir kötülükten bahsettim
+
+1001
+00:40:46,880 --> 00:40:48,880
+yani sizin Allah muhafaza
+
+1002
+00:40:48,880 --> 00:40:50,880
+cehennemde ebedi
+
+1003
+00:40:50,880 --> 00:40:52,880
+kalmanıza sebep olacak şeyin
+
+1004
+00:40:52,880 --> 00:40:54,880
+sadece bir kötülük olabileceğini söyledi
+
+1005
+00:40:54,880 --> 00:40:56,880
+çünkü önceki ayette
+
+1006
+00:40:56,880 --> 00:40:58,880
+Arapçasında
+
+1007
+00:40:58,880 --> 00:41:00,880
+bela menkete ve seyyih eten dedi
+
+1008
+00:41:00,880 --> 00:41:02,880
+seyyih at demedi seyyih eten dedi
+
+1009
+00:41:02,880 --> 00:41:04,880
+yani tek bir kötülüğün insanın
+
+1010
+00:41:04,880 --> 00:41:06,880
+etrafını kuşatabileceğini
+
+1011
+00:41:06,880 --> 00:41:08,880
+tabiki bunun doğal olarak başka kötülükleri doğurabileceğini
+
+1012
+00:41:08,880 --> 00:41:10,880
+ve bunun neticesine insan
+
+1013
+00:41:10,880 --> 00:41:12,880
+cehennemlik olabileceğini Allah'u Teala buyurdu
+
+1014
+00:41:12,880 --> 00:41:14,880
+fakat burada sevgili arkadaşlar
+
+1015
+00:41:14,880 --> 00:41:16,880
+salihat dedi
+
+1016
+00:41:16,880 --> 00:41:18,880
+tek bir iyilikten bahsetmedi
+
+1017
+00:41:18,880 --> 00:41:20,880
+birden fazla iyilikten bahsetti
+
+1018
+00:41:20,880 --> 00:41:22,880
+burası imanı ayakta tutmak
+
+1019
+00:41:22,880 --> 00:41:24,880
+tek bir iyiliğe bağlı kalabilecek bir şey değil
+
+1020
+00:41:24,880 --> 00:41:26,880
+belki de kalabilir tabi
+
+1021
+00:41:26,880 --> 00:41:28,880
+bu yorum neticede benim söyledim
+
+1022
+00:41:28,880 --> 00:41:30,880
+fakat Müslüman kalmak için
+
+1023
+00:41:30,880 --> 00:41:32,880
+sadece bir yerden tutunmak değil
+
+1024
+00:41:32,880 --> 00:41:34,880
+ya mesela namaz kuracaksın
+
+1025
+00:41:34,880 --> 00:41:36,880
+tamam değil
+
+1026
+00:41:36,880 --> 00:41:38,880
+hayatın tüm alanlarına yaydığım bir iyiliğin olması gerekiyor
+
+1027
+00:41:38,880 --> 00:41:40,880
+hayatın büyük tüm aşamalarına tabi
+
+1028
+00:41:40,880 --> 00:41:42,880
+hepsini mükemmel yapmayacaksın
+
+1029
+00:41:42,880 --> 00:41:44,880
+fakat bir salihamelikten bahsetmiyor Allah'u Teala
+
+1030
+00:41:44,880 --> 00:41:46,880
+küfrü bir kötülüğe bağlarken
+
+1031
+00:41:46,880 --> 00:41:48,880
+yani burada şunu da demek istemiyorum
+
+1032
+00:41:48,880 --> 00:41:50,880
+bir kötülük işledin hadi cehenneme değil
+
+1033
+00:41:50,880 --> 00:41:52,880
+bir kötülüğün insanı götürebileceği yerlerden
+
+1034
+00:41:52,880 --> 00:41:54,880
+bahsederken
+
+1035
+00:41:54,880 --> 00:41:56,880
+diğer tarafta imanı muhafaza etmenin
+
+1036
+00:41:56,880 --> 00:41:58,880
+bir iyiliğe bağlı kalmadığını birden fazla
+
+1037
+00:41:58,880 --> 00:42:00,880
+iyilikten ancak
+
+1038
+00:42:00,880 --> 00:42:02,880
+imanı ayakta tutabileceğinizi
+
+1039
+00:42:02,880 --> 00:42:04,880
+belki bu yoruma
+
+1040
+00:42:04,880 --> 00:42:06,880
+ulaşabiliriz sevgili arkadaşlarım
+
+1041
+00:42:06,880 --> 00:42:08,880
+şimdi 83. ayete geldik
+
+1042
+00:42:08,880 --> 00:42:10,880
+sanırım son ayetimi
+
+1043
+00:42:10,880 --> 00:42:13,590
+tabi küfrü
+
+1044
+00:42:29,989 --> 00:42:31,989
+vellediğin âmenu iman edenler
+
+1045
+00:42:31,989 --> 00:42:34,630
+yani iman etmek bir ön şart
+
+1046
+00:42:34,630 --> 00:42:37,079
+ve amel-i salli had
+
+1047
+00:42:37,079 --> 00:42:40,960
+tamam
+
+1048
+00:42:40,960 --> 00:42:42,960
+cennettesin abi
+
+1049
+00:42:42,960 --> 00:42:44,960
+yok abi inşallah birkaç bin yarabbi
+
+1050
+00:42:44,960 --> 00:42:46,960
+hayır iman ettiysem
+
+1051
+00:42:46,960 --> 00:42:48,960
+salihameliler de işlediysem
+
+1052
+00:42:48,960 --> 00:42:50,960
+inşallah cennettesin yani
+
+1053
+00:42:50,960 --> 00:42:53,380
+biz gideceğiz abi
+
+1054
+00:42:53,380 --> 00:42:56,150
+bence inşallah gideriz yani
+
+1055
+00:42:56,150 --> 00:42:58,150
+benim ümidim var yani
+
+1056
+00:42:58,150 --> 00:43:00,150
+inşallah inşallah
+
+1057
+00:43:00,150 --> 00:43:02,150
+inşallah
+
+1058
+00:43:02,150 --> 00:43:04,659
+ya şöyle ben hiç yanmayacağım
+
+1059
+00:43:04,659 --> 00:43:06,659
+inşallah
+
+1060
+00:43:06,659 --> 00:43:08,659
+ben yanmayacağım derken
+
+1061
+00:43:08,659 --> 00:43:10,659
+benimki garanti değil
+
+1062
+00:43:10,659 --> 00:43:12,659
+hayır
+
+1063
+00:43:12,659 --> 00:43:14,659
+ben hiç yanmaya da tahammülümüm
+
+1064
+00:43:14,659 --> 00:43:16,659
+cennettin ve rahmeti sayesinde
+
+1065
+00:43:16,659 --> 00:43:18,659
+inşallah buradaki hepimiz hep beraber
+
+1066
+00:43:18,659 --> 00:43:20,659
+tabi inşallah amacım
+
+1067
+00:43:20,659 --> 00:43:22,659
+ya tamam da
+
+1068
+00:43:22,659 --> 00:43:24,659
+hayır
+
+1069
+00:43:26,659 --> 00:43:28,659
+yok yani belki cennetteki
+
+1070
+00:43:28,659 --> 00:43:30,659
+şeyimiz
+
+1071
+00:43:30,659 --> 00:43:32,659
+ağızdır ama
+
+1072
+00:43:32,659 --> 00:43:34,659
+yani mesela günah işlerken
+
+1073
+00:43:34,659 --> 00:43:36,659
+hafife alıyoruz
+
+1074
+00:43:36,659 --> 00:43:38,659
+yani inşallah almıyoruz inşallah tabi
+
+1075
+00:43:38,659 --> 00:43:40,659
+yani bu ilerleyen tabi ömürümüzü
+
+1076
+00:43:40,659 --> 00:43:42,659
+böyle tamamlayacağımız anlamına da gelmiyor
+
+1077
+00:43:42,659 --> 00:43:44,659
+ben bir müslümanın şunu da şöyle düşünmesini istiyor
+
+1078
+00:43:44,659 --> 00:43:46,659
+eee cehenneme giderim
+
+1079
+00:43:46,659 --> 00:43:48,659
+eee değil
+
+1080
+00:43:48,659 --> 00:43:50,659
+abi ben inşallah cennete gidelim
+
+1081
+00:43:50,659 --> 00:43:52,659
+bence bu konuda Allah'tan
+
+1082
+00:43:52,659 --> 00:43:54,659
+ümit kesmemek gerekiyor
+
+1083
+00:43:54,659 --> 00:43:56,659
+yani çükmüye ben Allah'a inanıyorum
+
+1084
+00:43:56,659 --> 00:43:58,659
+elhamdülillah çok şükür
+
+1085
+00:43:58,659 --> 00:44:00,659
+yani inşallah
+
+1086
+00:44:00,659 --> 00:44:02,659
+eee inanıyorum
+
+1087
+00:44:02,659 --> 00:44:04,659
+Hz.beygamber'e inanıyorum
+
+1088
+00:44:04,659 --> 00:44:06,659
+hayatımda eee kötülük yap
+
+1089
+00:44:06,659 --> 00:44:08,659
+mamak için bir mücadelem var
+
+1090
+00:44:08,659 --> 00:44:10,659
+kötülük yapmıyorum değil
+
+1091
+00:44:10,659 --> 00:44:12,659
+bu ekimin hepsi Allah'ın izni cennette
+
+1092
+00:44:12,659 --> 00:44:14,659
+yani
+
+1093
+00:44:14,659 --> 00:44:16,659
+yani
+
+1094
+00:44:16,659 --> 00:44:18,659
+eee şöyle
+
+1095
+00:44:18,659 --> 00:44:20,659
+günahı hafife almıyoruz
+
+1096
+00:44:20,659 --> 00:44:22,659
+ondan sonra dediğim gibi
+
+1097
+00:44:22,659 --> 00:44:24,659
+yani günah işlesek bile bu bizim için sıradan bir şey değil
+
+1098
+00:44:24,659 --> 00:44:26,949
+o yüzden
+
+1099
+00:44:26,949 --> 00:44:28,949
+abi inşallah biz cennete gideceğiz
+
+1100
+00:44:40,949 --> 00:44:42,949
+cennete gidiyoruz
+
+1101
+00:44:50,949 --> 00:44:52,949
+ona da iman ediyorsun
+
+1102
+00:44:52,949 --> 00:44:54,949
+yani eee yapmadığından dolayı
+
+1103
+00:44:54,949 --> 00:44:56,949
+bir iş rahatsızlık hissediyorsun
+
+1104
+00:44:56,949 --> 00:44:58,949
+yani şöyle
+
+1105
+00:44:58,949 --> 00:45:00,949
+ama abi burada bazen eee
+
+1106
+00:45:00,949 --> 00:45:02,949
+mesela ben kendi hayatımda da böyle oluyor
+
+1107
+00:45:02,949 --> 00:45:04,949
+eee bazen eee bunun da
+
+1108
+00:45:04,949 --> 00:45:06,949
+mazeretine sınıyor
+
+1109
+00:45:06,949 --> 00:45:08,949
+tamam benim en azından içim acıyor
+
+1110
+00:45:08,949 --> 00:45:10,949
+ben de oluyor bu
+
+1111
+00:45:10,949 --> 00:45:12,949
+bazen yapmadığım bir ibadetten dolayı
+
+1112
+00:45:12,949 --> 00:45:14,949
+eee en azından sızısını hissediyor
+
+1113
+00:45:14,949 --> 00:45:16,949
+bunun mazeretine de sığınmamak lazım
+
+1114
+00:45:16,949 --> 00:45:18,949
+yani namazları kılacağız
+
+1115
+00:45:18,949 --> 00:45:20,949
+bu bir kere eee şey
+
+1116
+00:45:20,949 --> 00:45:22,949
+üzerinde tartışılabilecek bir konu değil
+
+1117
+00:45:22,949 --> 00:45:24,949
+yani namazsızlık
+
+1118
+00:45:24,949 --> 00:45:26,949
+eee namazsız cennete gidilebilir mi bilmiyorum
+
+1119
+00:45:26,949 --> 00:45:28,949
+ya ben Allah da değilim zaten
+
+1120
+00:45:28,949 --> 00:45:30,949
+eee
+
+1121
+00:45:30,949 --> 00:45:32,949
+yani o yüzden
+
+1122
+00:45:32,949 --> 00:45:34,949
+ama namazsız kolay bir şey de değildir diye düşünüyorum
+
+1123
+00:45:34,949 --> 00:45:36,949
+genel anlamıyla
+
+1124
+00:45:36,949 --> 00:45:39,400
+buyur Yasmecim
+
+1125
+00:45:39,400 --> 00:45:41,400
+o ayet bir şey diyor
+
+1126
+00:45:41,400 --> 00:45:43,400
+iman edip sadece yapanlar cennete gidiyor
+
+1127
+00:45:43,400 --> 00:45:45,400
+inşallah
+
+1128
+00:45:45,400 --> 00:45:47,400
+sözler sözlülür
+
+1129
+00:45:47,400 --> 00:45:49,400
+Allah frankede çok defa söylemiyor
+
+1130
+00:45:49,400 --> 00:45:51,400
+evet tabi
+
+1131
+00:45:51,400 --> 00:45:53,400
+bence şey derhalet
+
+1132
+00:45:53,400 --> 00:45:55,400
+Rabbimizin bir şekilde bir şey yaptığımız takdirde
+
+1133
+00:45:55,400 --> 00:45:57,400
+bize cennet vermek istiyor
+
+1134
+00:45:57,400 --> 00:45:59,400
+doğru evet öyle
+
+1135
+00:45:59,400 --> 00:46:01,400
+doğru olabilecek
+
+1136
+00:46:01,400 --> 00:46:03,400
+o kadar yüzlerce ayetler bunu yapacak
+
+1137
+00:46:03,400 --> 00:46:05,400
+bir şekilde yakalarsak
+
+1138
+00:46:05,400 --> 00:46:07,400
+yapıyorda hemen sadece
+
+1139
+00:46:07,400 --> 00:46:09,400
+evet inşallah
+
+1140
+00:46:09,400 --> 00:46:11,400
+yiyin
+
+1141
+00:46:11,400 --> 00:46:13,400
+yani eee
+
+1142
+00:46:13,400 --> 00:46:15,400
+inşallah
+
+1143
+00:46:15,400 --> 00:46:17,400
+Allah'tan ümitimizi kesmeyeceğiz
+
+1144
+00:46:17,400 --> 00:46:19,400
+ama bu konuda tembel de olmayacağız
+
+1145
+00:46:19,400 --> 00:46:21,400
+yani ama ben şöyle
+
+1146
+00:46:21,400 --> 00:46:23,400
+haptiriyor musun birkaç haftaki öncek derslerde şunu söylemiştim
+
+1147
+00:46:23,400 --> 00:46:25,400
+amelimiz ne olursa olsun
+
+1148
+00:46:25,400 --> 00:46:27,400
+zaten Allah'a Allah'tan beklentimiz
+
+1149
+00:46:27,400 --> 00:46:29,400
+şöyle olmayacak hiç bir zaman
+
+1150
+00:46:29,400 --> 00:46:31,400
+namaz kıldım oruç ettim zekat verdim
+
+1151
+00:46:31,400 --> 00:46:33,400
+hadcek ettim tamam
+
+1152
+00:46:33,400 --> 00:46:35,400
+sen üstüne söyleyeceğin söz şu
+
+1153
+00:46:35,400 --> 00:46:37,400
+ya Rabbi ben senin merhametin üzerine
+
+1154
+00:46:37,400 --> 00:46:39,400
+eee
+
+1155
+00:46:39,400 --> 00:46:41,400
+talebim bu yani kendi amellerimden
+
+1156
+00:46:41,400 --> 00:46:43,400
+hak ettim de buraya geldim değil
+
+1157
+00:46:43,400 --> 00:46:45,400
+ya Rabbi senin merhametin neticesi
+
+1158
+00:46:45,400 --> 00:46:47,400
+ya bu tevazu
+
+1159
+00:46:47,400 --> 00:46:49,400
+Allah'a karşı tevazu hissi
+
+1160
+00:46:49,400 --> 00:46:51,400
+bir müslümanın üzerinde olması gereken birisi
+
+1161
+00:46:51,400 --> 00:46:53,400
+yani kıldığı namazın
+
+1162
+00:46:53,400 --> 00:46:55,400
+cennete gitmesi için
+
+1163
+00:46:55,400 --> 00:46:57,400
+Allah'ın ona vermek zorunda olduğu bir
+
+1164
+00:46:57,400 --> 00:46:59,400
+ya bu biraz şey oluyor anlatabildim mi bilmiyorum
+
+1165
+00:46:59,400 --> 00:47:01,400
+ben namaz kıldım hadi nerede cennetim
+
+1166
+00:47:01,400 --> 00:47:03,559
+değil yani
+
+1167
+00:47:03,559 --> 00:47:05,559
+hani biz her şeye rağmen
+
+1168
+00:47:05,559 --> 00:47:07,559
+cennet nimetinin Allah'ın merhameti karşısında
+
+1169
+00:47:07,559 --> 00:47:09,559
+bize verileceğine iman etmemiz gerekiyor
+
+1170
+00:47:09,559 --> 00:47:24,710
+inşallah gideceğiz
+
+1171
+00:47:24,710 --> 00:47:27,349
+kendi şeriatına göre yaşamış
+
+1172
+00:47:27,349 --> 00:47:29,349
+vefade etmiş gitmiş
+
+1173
+00:47:29,349 --> 00:47:31,349
+bu adam ya
+
+1174
+00:47:31,349 --> 00:47:33,349
+dinleme gireceğine dahil
+
+1175
+00:47:33,349 --> 00:47:35,349
+sabit bir şey var mı
+
+1176
+00:47:35,349 --> 00:47:37,349
+bunun birkaç hafta öncelikle
+
+1177
+00:47:37,349 --> 00:47:39,349
+canlısı dikişleniriz sen arkadaşılar
+
+1178
+00:47:39,349 --> 00:47:41,349
+biz şuan
+
+1179
+00:47:41,349 --> 00:47:43,349
+aynen
+
+1180
+00:47:43,349 --> 00:47:45,349
+seni de alacağız
+
+1181
+00:47:48,309 --> 00:47:50,309
+ya bunu birkaç hafta önce konuşmuştuk
+
+1182
+00:47:50,309 --> 00:47:52,309
+bu Yahudilerin ve Hristiyanların cehenneme gitme olayını
+
+1183
+00:47:52,309 --> 00:47:54,309
+veya cennete gitme olayını
+
+1184
+00:47:54,309 --> 00:47:56,309
+ilk cehennem dedin de
+
+1185
+00:47:56,309 --> 00:47:58,309
+ya ben cehenneme gitmelerin diliyorum gibi de anlaşılmasın ama
+
+1186
+00:47:58,309 --> 00:48:00,309
+burada birkaç farklı öncülümüz var
+
+1187
+00:48:00,309 --> 00:48:02,309
+bilinçsi o kişilere sahiplin ulaşmış mı
+
+1188
+00:48:02,309 --> 00:48:04,309
+yani gerçekten
+
+1189
+00:48:04,309 --> 00:48:06,309
+mesela Hazreti Peygamber hakkında algıları düzgün mü
+
+1190
+00:48:06,309 --> 00:48:08,309
+eee
+
+1191
+00:48:08,309 --> 00:48:10,309
+Allah'ın herhalde buna göre değerlendirecekli yani
+
+1192
+00:48:10,309 --> 00:48:12,309
+çünkü mesela bütün hayatı boyunca
+
+1193
+00:48:12,309 --> 00:48:14,309
+eee Hazreti Peygamberi terörist olarak duymuş biri
+
+1194
+00:48:14,309 --> 00:48:16,309
+doğru din ona ulaşmış biri değildir aslında
+
+1195
+00:48:16,309 --> 00:48:18,309
+mesela
+
+1196
+00:48:18,309 --> 00:48:20,309
+mesela her internet aramasında
+
+1197
+00:48:20,309 --> 00:48:22,309
+Google her aramasında
+
+1198
+00:48:22,309 --> 00:48:24,309
+önüne çıkan şeyler
+
+1199
+00:48:24,309 --> 00:48:26,440
+dolayısıyla ona ulaştırılan dil
+
+1200
+00:48:26,440 --> 00:48:28,440
+din veya din dili neyse artık
+
+1201
+00:48:28,440 --> 00:48:30,440
+eee tebliğ
+
+1202
+00:48:30,440 --> 00:48:32,440
+sağlam, sahih, düzgün bir tebliğ değil
+
+1203
+00:48:32,440 --> 00:48:34,440
+herhalde Allah'ın herhalde buna göre hesaba çekecektir
+
+1204
+00:48:34,440 --> 00:48:36,440
+ama benim bu konudaki düşüncem hep şöyle
+
+1205
+00:48:36,440 --> 00:48:38,440
+eee Allah birini cehenneme atma
+
+1206
+00:48:38,440 --> 00:48:40,440
+karar verdiyse
+
+1207
+00:48:40,440 --> 00:48:42,440
+cehenneme gitmeyi hak etmiştir zaten
+
+1208
+00:48:42,440 --> 00:48:44,440
+ya burada bazen insan olu şöyle bir hataya düşüyor
+
+1209
+00:48:44,440 --> 00:48:46,440
+kendisinin adalet
+
+1210
+00:48:46,440 --> 00:48:48,440
+hissinin Allah'ın adalettiğinden
+
+1211
+00:48:48,440 --> 00:48:50,440
+daha güçlü olduğu gibi bir hisse kaplıyor
+
+1212
+00:48:50,440 --> 00:48:52,440
+Allah birini cehennete
+
+1213
+00:48:52,440 --> 00:48:54,440
+koyduysa o kişi cehennete gitmeyi hak etmiştir
+
+1214
+00:48:54,440 --> 00:48:56,440
+Allah birini cehenneme koyduysa
+
+1215
+00:48:56,440 --> 00:48:58,440
+o kişi cehenneme gitmeyi hak etmiştir
+
+1216
+00:48:58,440 --> 00:49:00,440
+eee bu dünyada kristiyanlar
+
+1217
+00:49:00,440 --> 00:49:02,440
+eee bizim genel düşüncem
+
+1218
+00:49:02,440 --> 00:49:04,440
+şu şekilde gerçekten Hazreti Muhammedin Peygamberi'nin
+
+1219
+00:49:04,440 --> 00:49:06,440
+kabul etmeyen Allah'ın biri olduğunu kabul etmeyen
+
+1220
+00:49:06,440 --> 00:49:08,440
+yani la ilahe illallah Muhammed'in
+
+1221
+00:49:08,440 --> 00:49:10,440
+ha bu arada başka yorumlar var mıdır
+
+1222
+00:49:10,440 --> 00:49:12,440
+İslam mezhepleri tarihinde
+
+1223
+00:49:12,440 --> 00:49:14,440
+mesela bazı mezhepler ben böyle düşünmesem de
+
+1224
+00:49:14,440 --> 00:49:16,440
+işte la ilahe illallah'ın yeterli bir seviye
+
+1225
+00:49:16,440 --> 00:49:18,440
+olduğunu düşünenlerde olmuş pararı
+
+1226
+00:49:18,440 --> 00:49:20,500
+fakat
+
+1227
+00:49:20,500 --> 00:49:22,500
+Hazreti Peygamberin Peygamberin duymasına
+
+1228
+00:49:22,500 --> 00:49:24,500
+bunu kendisine sağlam bir şekilde
+
+1229
+00:49:24,500 --> 00:49:26,980
+ulaşmasına rağmen
+
+1230
+00:49:26,980 --> 00:49:28,980
+buna inanmayanın
+
+1231
+00:49:28,980 --> 00:49:30,980
+bilmiyorum ya ahirete git durma herhalde
+
+1232
+00:49:30,980 --> 00:49:33,239
+başka bir yerdir
+
+1233
+00:49:33,239 --> 00:49:35,239
+ama bunun ben açıkçası
+
+1234
+00:49:35,239 --> 00:49:37,460
+derdine ben düşebilmem
+
+1235
+00:49:37,460 --> 00:49:39,559
+şey yok yani
+
+1236
+00:49:39,559 --> 00:49:42,070
+var
+
+1237
+00:49:42,070 --> 00:49:44,070
+yani hristiyanlarım ve Yahudilerin
+
+1238
+00:49:44,070 --> 00:49:46,070
+birkaç hafta önce konuştuğunda hatırlamıyorum
+
+1239
+00:49:46,070 --> 00:49:48,070
+ee Hazreti Peygamberi
+
+1240
+00:49:48,070 --> 00:49:50,070
+yani son Peygamberin kendine ulaşmasına rağmen
+
+1241
+00:49:50,070 --> 00:49:52,070
+iman etmemeleri
+
+1242
+00:49:52,070 --> 00:49:55,539
+bir cehennem sebebidir yani
+
+1243
+00:49:55,539 --> 00:49:57,539
+ya şu an hatırlamıyorum o dersin
+
+1244
+00:49:57,539 --> 00:49:59,699
+ama 2 tarafa değil
+
+1245
+00:49:59,699 --> 00:50:01,699
+ya bunun tarafa değil durursan
+
+1246
+00:50:01,699 --> 00:50:04,949
+diğer tarafa değil
+
+1247
+00:50:04,949 --> 00:50:06,949
+ya zaten şöyle bir çabanın anlamsız olduğunda konuşmuş gibi
+
+1248
+00:50:06,949 --> 00:50:08,949
+yani birilerinin cenneti
+
+1249
+00:50:08,949 --> 00:50:12,519
+kutmanın aslında bizim işimiz olmadığı
+
+1250
+00:50:12,519 --> 00:50:17,110
+evet
+
+1251
+00:50:31,110 --> 00:50:33,110
+Muhammedur Ruslan yok mu?
+
+1252
+00:50:35,110 --> 00:50:37,110
+tarihte de böyle söyleyenler
+
+1253
+00:50:37,110 --> 00:50:39,110
+vermiş olabilir
+
+1254
+00:50:39,110 --> 00:50:41,110
+farklı meseflerden söylemiş olmalı
+
+1255
+00:50:41,110 --> 00:50:44,070
+şimdi sevgili arkadaşlar
+
+1256
+00:50:44,070 --> 00:50:46,070
+83. ayete geçiyorum
+
+1257
+00:50:46,070 --> 00:50:48,070
+10 geçen başlamıştık
+
+1258
+00:50:48,070 --> 00:50:50,070
+ayet biraz uzun artık olduğu yere kadar
+
+1259
+00:50:50,070 --> 00:50:52,070
+sonrasında yarada da bırakabiliriz belki
+
+1260
+00:50:52,070 --> 00:50:54,070
+Bismillahirrahmanirrahim
+
+1261
+00:50:54,070 --> 00:50:56,070
+Allah'u Teala 83. ayet kelime de
+
+1262
+00:50:56,070 --> 00:50:58,070
+şöyle buyuruyor
+
+1263
+00:51:12,070 --> 00:51:14,070
+Allah'u Teala meyelen şöyle buyuruyor
+
+1264
+00:51:14,070 --> 00:51:16,070
+hani biz İsrail oğullarından Allah'tan başkasına
+
+1265
+00:51:16,070 --> 00:51:18,070
+ibadet etmeyeceksiniz
+
+1266
+00:51:18,070 --> 00:51:20,070
+anne babaya yakınlara yetimlere
+
+1267
+00:51:20,070 --> 00:51:22,070
+yoksullara iyilik edeceksiniz
+
+1268
+00:51:22,070 --> 00:51:24,070
+herkese güzel sözler söyleyeceksiniz
+
+1269
+00:51:24,070 --> 00:51:26,070
+namazı kılacaksınız zekâtı vereceksiniz diye
+
+1270
+00:51:26,070 --> 00:51:28,070
+söz almıştık
+
+1271
+00:51:28,070 --> 00:51:30,070
+sonra pek azını sağrıç yüz çevirerek sözünüzden
+
+1272
+00:51:30,070 --> 00:51:32,289
+döndünüz
+
+1273
+00:51:32,289 --> 00:51:34,289
+şimdi bütün bu bakaro söyleseniz
+
+1274
+00:51:34,289 --> 00:51:36,289
+83. ayetine kadar belki onlarca defa
+
+1275
+00:51:36,289 --> 00:51:38,289
+tekrar ettiğimiz şu cümle
+
+1276
+00:51:38,289 --> 00:51:40,289
+Allah'u Teala Kur'an-ı Kerim'de
+
+1277
+00:51:40,289 --> 00:51:42,289
+hissediyorsa
+
+1278
+00:51:42,289 --> 00:51:44,289
+burada aslında
+
+1279
+00:51:44,289 --> 00:51:46,289
+böyle haberin olsun
+
+1280
+00:51:46,289 --> 00:51:48,289
+bak burada bunu yaşadılar sen de bunu bilin
+
+1281
+00:51:48,289 --> 00:51:50,289
+dolayısıyla İsrail oğullarından bahseden
+
+1282
+00:51:50,289 --> 00:51:52,289
+her kıssanın sadece
+
+1283
+00:51:52,289 --> 00:51:54,289
+İsrail oğullarını ilgilendirmediğini defa
+
+1284
+00:51:54,289 --> 00:51:56,289
+da tekrar ettik
+
+1285
+00:51:56,289 --> 00:51:58,289
+Müslümanların da bu konularda
+
+1286
+00:51:58,289 --> 00:52:00,289
+kendilerini Allah'u Teala İsrail oğulları
+
+1287
+00:52:00,289 --> 00:52:02,289
+üzerinden bir ders çıkarmaları gerektiğini
+
+1288
+00:52:02,289 --> 00:52:04,289
+bu ayetleri bu mimvalik anlamamız gerektiğini
+
+1289
+00:52:04,289 --> 00:52:06,289
+defa de söyledik Allah'u Teala
+
+1290
+00:52:06,289 --> 00:52:08,289
+İsrail oğullarından ne sözü almış
+
+1291
+00:52:08,289 --> 00:52:10,289
+farklı bir şey var mı diye kontrol ettiniz de
+
+1292
+00:52:10,289 --> 00:52:12,289
+birim siz diyor ki Allah'a kulluk etmek
+
+1293
+00:52:12,289 --> 00:52:14,289
+bu bizim de verdiğimiz bir söz değil mi
+
+1294
+00:52:14,289 --> 00:52:16,289
+bizim de verdiğimiz bir söz
+
+1295
+00:52:16,289 --> 00:52:18,289
+anne babaya iyilik etmek
+
+1296
+00:52:18,289 --> 00:52:20,289
+akrabaya yetimlere, miskinlere
+
+1297
+00:52:20,289 --> 00:52:22,289
+güzel söz söylemek, namazı kılmak zeket vermek
+
+1298
+00:52:22,289 --> 00:52:24,289
+bunlar İsrail oğullarını ilgilendiren
+
+1299
+00:52:24,289 --> 00:52:26,289
+ve bizi ilgilendirmeyen arada bir mesele yok
+
+1300
+00:52:26,289 --> 00:52:28,289
+zaten
+
+1301
+00:52:28,289 --> 00:52:30,289
+tüm meseleler aslında temelde bizi de ilgilendiriyor
+
+1302
+00:52:30,289 --> 00:52:32,289
+şimdi ayetin başına Allah Teala ilk koyduğu Kur'an
+
+1303
+00:52:32,289 --> 00:52:34,289
+ilk koyduğu emir
+
+1304
+00:52:34,289 --> 00:52:36,289
+ve işte belki eğer bir çember çizeceksek
+
+1305
+00:52:36,289 --> 00:52:38,289
+o çemberi çapına oluşturan ilk düşünce
+
+1306
+00:52:38,289 --> 00:52:40,289
+yalnızca Allah'a kulluk etmek
+
+1307
+00:52:40,289 --> 00:52:42,289
+yani bütün eğlen ve fiillerimizle
+
+1308
+00:52:42,289 --> 00:52:44,289
+bütün hal ve hareketlerimizle
+
+1309
+00:52:44,289 --> 00:52:46,289
+bütün davranışlarımızda
+
+1310
+00:52:46,289 --> 00:52:48,289
+merkez çapa olarak şekil alacağımız
+
+1311
+00:52:48,289 --> 00:52:50,289
+konumlanacağımız yer
+
+1312
+00:52:50,289 --> 00:52:52,289
+Allah'ın bir olduğu ve
+
+1313
+00:52:52,289 --> 00:52:54,289
+Allah'ın kula olduğumuz düşüncesidir
+
+1314
+00:52:54,289 --> 00:52:56,289
+dolayısıyla sevgili arkadaşlar bütün diğer
+
+1315
+00:52:56,289 --> 00:52:58,289
+sorumlulukların üstünde
+
+1316
+00:52:58,289 --> 00:53:00,289
+bu sorumluluk, Allah'ın kula olma sorumluğu
+
+1317
+00:53:00,289 --> 00:53:02,289
+bir müslümanı vazgeçilmez tartışılmaz
+
+1318
+00:53:02,289 --> 00:53:04,289
+diğer bütün her şeyi
+
+1319
+00:53:04,289 --> 00:53:06,289
+bu dediğim gibi bazı olarak
+
+1320
+00:53:06,289 --> 00:53:08,289
+konuştuğu bir meseleydir Allah'ın kulu yüzümüz
+
+1321
+00:53:08,289 --> 00:53:10,289
+Allah bizi yarattı
+
+1322
+00:53:10,289 --> 00:53:12,289
+bir amaç için bu dünyaya gönderdi
+
+1323
+00:53:12,289 --> 00:53:14,289
+ve biz bu amaç için bu dünyada varız
+
+1324
+00:53:14,289 --> 00:53:16,289
+ve bu en önemli meselemiz
+
+1325
+00:53:16,289 --> 00:53:18,289
+en önemli sıfatımız vasfımız
+
+1326
+00:53:18,289 --> 00:53:20,389
+Allah'ın kulu olmak dolayısıyla Allah'a kulluk görevi
+
+1327
+00:53:20,389 --> 00:53:22,389
+bütün diğer her şeyin
+
+1328
+00:53:22,389 --> 00:53:24,389
+üzerindeki sorumluluğumuzdur
+
+1329
+00:53:24,389 --> 00:53:26,389
+Allah Teala Allah'a kulluktan sonra bahsettiği şey
+
+1330
+00:53:26,389 --> 00:53:28,389
+anne babaya ihsanda bulunmak
+
+1331
+00:53:28,389 --> 00:53:30,389
+yani
+
+1332
+00:53:30,389 --> 00:53:32,579
+Kur'an kerinde bu bildiğim kadarıyla
+
+1333
+00:53:32,579 --> 00:53:34,579
+anne babaya ihsanda bulunmakla alakalı
+
+1334
+00:53:34,579 --> 00:53:36,579
+bahsetilen her ayetin öncesinde
+
+1335
+00:53:36,579 --> 00:53:38,579
+Allah vardır
+
+1336
+00:53:38,579 --> 00:53:40,579
+yani Allah'a kuluk edin ve anne babaya ihsanda bulunmak
+
+1337
+00:53:40,579 --> 00:53:42,579
+Allah'a kuluk edin ve anne babaya ihsanda bulunmak
+
+1338
+00:53:42,579 --> 00:53:44,579
+dolayısıyla anne babaya ihsanda bulunmakla
+
+1339
+00:53:44,579 --> 00:53:46,579
+Allah'a kuluk etmek arasında
+
+1340
+00:53:46,579 --> 00:53:48,579
+direkt bir geçişin olduğunu yani
+
+1341
+00:53:48,579 --> 00:53:50,579
+anne babaya ihsandan bahseden
+
+1342
+00:53:50,579 --> 00:53:52,579
+bütün ayetler böyledir diyemem
+
+1343
+00:53:52,579 --> 00:53:54,579
+çünkü hepsine bakmadım
+
+1344
+00:53:54,579 --> 00:53:56,579
+fakat çoğunda böyledir sevgili arkadaşlar
+
+1345
+00:53:56,579 --> 00:53:58,579
+Allah'a kuluk edinden hemen sonra
+
+1346
+00:53:58,579 --> 00:54:00,579
+anne babaya ihsanda bulunmak
+
+1347
+00:54:00,579 --> 00:54:02,579
+bu önemdir sevgili arkadaşlar
+
+1348
+00:54:02,579 --> 00:54:04,579
+ihsan nedir yani bunu aslında hepiniz
+
+1349
+00:54:04,579 --> 00:54:06,800
+şeyde
+
+1350
+00:54:06,800 --> 00:54:08,800
+meşhur hadis çifti duymuşsunuzdur
+
+1351
+00:54:08,800 --> 00:54:10,800
+Cebrail aleyhisselam geliyor Hazreti Peygamber'e
+
+1352
+00:54:10,800 --> 00:54:12,800
+İman nedir, İslam nedir ve en sonunda
+
+1353
+00:54:12,800 --> 00:54:14,800
+ihsan nedir diye soruyor
+
+1354
+00:54:14,800 --> 00:54:16,800
+Hazreti Peygamber de ona
+
+1355
+00:54:16,800 --> 00:54:18,800
+ihsanın Allah'ı görüyormuşçasına
+
+1356
+00:54:18,800 --> 00:54:20,800
+bir müslümanın Allah'ın
+
+1357
+00:54:20,800 --> 00:54:22,800
+görüyormuşçasına
+
+1358
+00:54:22,800 --> 00:54:24,800
+kulluk bildincine sahip olması
+
+1359
+00:54:24,800 --> 00:54:26,800
+ibadetlerinde işte hayatında
+
+1360
+00:54:26,800 --> 00:54:28,800
+Allah'ı görüyormuşçasına hareket etmesine
+
+1361
+00:54:28,800 --> 00:54:30,800
+ihsan der Peygamber efendimiz
+
+1362
+00:54:30,800 --> 00:54:32,800
+tabi kelimenin
+
+1363
+00:54:32,800 --> 00:54:34,800
+kavransa sözlük kerimsel karşılığı
+
+1364
+00:54:34,800 --> 00:54:36,800
+iyilik yapmaktır hasene
+
+1365
+00:54:36,800 --> 00:54:38,800
+kelimesinden geliyor
+
+1366
+00:54:38,800 --> 00:54:40,800
+hatta hassan Hüseyin bir kelime
+
+1367
+00:54:40,800 --> 00:54:42,800
+bununla alakalı şeyi anlatmış
+
+1368
+00:54:42,800 --> 00:54:44,800
+hazreti hasan hazreti Hüseyin isminin
+
+1369
+00:54:44,800 --> 00:54:46,800
+koyuluş hikayesi nedir
+
+1370
+00:54:46,800 --> 00:54:48,800
+hiç anlatmadın mı
+
+1371
+00:54:48,800 --> 00:54:50,800
+ama bu konudaki şey
+
+1372
+00:54:50,800 --> 00:54:52,800
+kaynağın çok sağlamda olmalıydır
+
+1373
+00:54:52,800 --> 00:54:54,800
+bu şeyi anlatayım sallıyor da olabilir yani
+
+1374
+00:54:54,800 --> 00:54:56,800
+kaynağın
+
+1375
+00:54:56,800 --> 00:54:58,800
+çok da uzatmadan
+
+1376
+00:54:58,800 --> 00:55:00,800
+çünkü ben bu hikayeyi ilk duyduğunda
+
+1377
+00:55:00,800 --> 00:55:02,800
+aşırı derecede etkilenmiştim
+
+1378
+00:55:02,800 --> 00:55:04,800
+yani etkilenmişim derken biraz farklı gelmişti
+
+1379
+00:55:04,800 --> 00:55:06,800
+hazreti Peygamberin hayatıyla alakalı
+
+1380
+00:55:06,800 --> 00:55:08,800
+bu hikayeyi anlatıp bitirelim
+
+1381
+00:55:08,800 --> 00:55:10,800
+işte hazreti Ali biliyorsunuz hazreti Peygamberi
+
+1382
+00:55:10,800 --> 00:55:12,800
+damadı kızı Fatıma ile evli
+
+1383
+00:55:12,800 --> 00:55:14,800
+ve çocuğu oluyor ilk çocuğu oluyor
+
+1384
+00:55:14,800 --> 00:55:16,800
+ve hazreti Peygamberin yanına geliyor
+
+1385
+00:55:16,800 --> 00:55:18,800
+diyor ki ya Resulullah bizim çocuğumuz oldu
+
+1386
+00:55:18,800 --> 00:55:20,800
+buna ne isim koyalım diye soruyor
+
+1387
+00:55:20,800 --> 00:55:22,800
+hazreti Ali harp ismini koymak istiyor
+
+1388
+00:55:22,800 --> 00:55:24,800
+ilk doğan erkek çocuğunun ismini
+
+1389
+00:55:24,800 --> 00:55:26,800
+Resulullah diyor ki ya Ali diyor
+
+1390
+00:55:26,800 --> 00:55:28,800
+harp savaş
+
+1391
+00:55:28,800 --> 00:55:30,800
+güzel şeyler değilken savaşmak iyi bir şey değil
+
+1392
+00:55:30,800 --> 00:55:32,800
+yeni doğan çocuğa harp ismi koyulmasın
+
+1393
+00:55:32,800 --> 00:55:34,800
+savaşmak güzel bir isim değil
+
+1394
+00:55:34,800 --> 00:55:36,800
+en iyisi sen gel bu çocuğa
+
+1395
+00:55:36,800 --> 00:55:38,800
+Hasan ismini koyun
+
+1396
+00:55:38,800 --> 00:55:40,800
+en güzel, bilinci güzel, güzel
+
+1397
+00:55:40,800 --> 00:55:42,800
+gibi manalara gelen Hasan ismini koyuyor
+
+1398
+00:55:42,800 --> 00:55:44,800
+hazreti Ali de hem kayınbabası olmasa
+
+1399
+00:55:44,800 --> 00:55:46,800
+sebebiyle hem de Peygamber olmasa
+
+1400
+00:55:46,800 --> 00:55:48,800
+sebebiyle reddedemiyor
+
+1401
+00:55:48,800 --> 00:55:50,800
+dolayısıyla ilk çocuğunun adı Hasan oluyor
+
+1402
+00:55:50,800 --> 00:55:52,800
+bir süre daha geçtikten sonra
+
+1403
+00:55:52,800 --> 00:55:54,800
+hazreti Hüseyin doğuyor
+
+1404
+00:55:54,800 --> 00:55:56,800
+yine hazreti Ali geliyor hazreti Peygamberin yanına
+
+1405
+00:55:56,800 --> 00:55:58,800
+diyor ki işte benim bir çocuğum daha oldu
+
+1406
+00:55:58,800 --> 00:56:00,800
+buna harp ismini koymak istiyorum
+
+1407
+00:56:00,800 --> 00:56:02,800
+sen de uygun bulursan
+
+1408
+00:56:02,800 --> 00:56:04,960
+bunun ismi harp olsun diyor
+
+1409
+00:56:04,960 --> 00:56:06,960
+hazreti Peygamber de diyor ki
+
+1410
+00:56:06,960 --> 00:56:08,960
+ya Ali diyor yani harp ismi
+
+1411
+00:56:08,960 --> 00:56:10,960
+güzel bir şey değil, iyi bir şey değil
+
+1412
+00:56:10,960 --> 00:56:12,960
+sonrası bir çocuğa yakışmaz bu isim
+
+1413
+00:56:12,960 --> 00:56:14,960
+sen gel bu ikinci
+
+1414
+00:56:14,960 --> 00:56:16,960
+çocuğun ismi de ikinci en güzel anlamına gelen
+
+1415
+00:56:16,960 --> 00:56:18,960
+ikinci güzel anlamına gelen
+
+1416
+00:56:18,960 --> 00:56:20,960
+demiyor üstradım öyledir diye düşünüyorum Hüseyin
+
+1417
+00:56:20,960 --> 00:56:22,960
+güzelcik mi?
+
+1418
+00:56:22,960 --> 00:56:25,059
+güzelcik ama
+
+1419
+00:56:30,440 --> 00:56:32,530
+öyle doğar ama nihayetle
+
+1420
+00:56:32,530 --> 00:56:34,530
+kök an aynı kök yani güzelden gelen bir kök
+
+1421
+00:56:34,530 --> 00:56:36,530
+Hüseyin ismini koyuyor
+
+1422
+00:56:36,530 --> 00:56:38,530
+daha sonra hazreti Peygamber
+
+1423
+00:56:38,530 --> 00:56:40,530
+vefat ediyor ve kaynaklarda
+
+1424
+00:56:40,530 --> 00:56:42,530
+hazreti Ali'nin bir çocuğu daha olduğu
+
+1425
+00:56:42,530 --> 00:56:44,530
+hazreti Fatıma'dan bir çocuğu daha olduğu
+
+1426
+00:56:44,530 --> 00:56:46,530
+rivayet ediyor ve
+
+1427
+00:56:46,530 --> 00:56:48,530
+bu çocukta olduğunda hazreti Ali'nin yanına
+
+1428
+00:56:48,530 --> 00:56:50,530
+birileri geliyor diyor ki Ali diyor sen
+
+1429
+00:56:50,530 --> 00:56:52,530
+hayattayken olma harp ismini koymayı
+
+1430
+00:56:52,530 --> 00:56:54,530
+çok istiyordun diyor
+
+1431
+00:56:54,530 --> 00:56:56,530
+sen hazreti Peygamber de hayatta değil
+
+1432
+00:56:56,530 --> 00:56:58,530
+gel bu üçüncü çocuğun ismini
+
+1433
+00:56:58,530 --> 00:57:00,530
+harp koy istiyorsan ya Resulullah seni reddedemez artık
+
+1434
+00:57:00,530 --> 00:57:02,530
+hazreti Ali de diyor ki
+
+1435
+00:57:02,530 --> 00:57:04,530
+ben Resulullah'ın iki kere reddettiği şeyi
+
+1436
+00:57:04,530 --> 00:57:06,530
+üçüncü de koymam diyor
+
+1437
+00:57:06,530 --> 00:57:08,530
+üçüncü çocuğun ismini de muhassin
+
+1438
+00:57:08,530 --> 00:57:10,530
+koyuyor yine o kelime de
+
+1439
+00:57:10,530 --> 00:57:12,530
+Hasan Hüseyin'in de aynı kökten gelen
+
+1440
+00:57:12,530 --> 00:57:14,530
+muhassin ismini
+
+1441
+00:57:14,530 --> 00:57:16,530
+koyuyor diye bir
+
+1442
+00:57:16,530 --> 00:57:18,530
+evet o küçükken ölüyor
+
+1443
+00:57:18,530 --> 00:57:20,530
+öyle bir çocuğu var hazreti Ali'nin
+
+1444
+00:57:20,530 --> 00:57:22,530
+muhassin diye bir çocuğu var diyebiliyor
+
+1445
+00:57:22,530 --> 00:57:24,530
+bu da böyle bir hikaye
+
+1446
+00:57:24,530 --> 00:57:26,530
+sevgili arkadaşlar
+
+1447
+00:57:26,530 --> 00:57:28,530
+sağda solda satarsınız
+
+1448
+00:57:30,789 --> 00:57:32,789
+Hasan Hüseyin
+
+1449
+00:57:42,789 --> 00:57:44,789
+muhassin ismini
+
+1450
+00:57:44,789 --> 00:57:46,789
+dolayısıyla seksen üçüncü ayette kaldık
+
+1451
+00:57:46,789 --> 00:57:49,010
+ismini
+
+1452
+00:57:49,010 --> 00:57:51,010
+muhassin mi
+
+1453
+00:57:51,010 --> 00:57:53,010
+muhassin aynı kökten
+
+1454
+00:57:53,010 --> 00:57:55,010
+bitirmedik daha
+
+1455
+00:57:55,010 --> 00:57:57,010
+imza atmaya mı yoklama
+
+1456
+00:57:57,010 --> 00:57:59,010
+yoklama imza atmaya imzasın
+
+1457
+00:57:59,010 --> 00:58:01,010
+haftaya
+
+1458
+00:58:01,010 --> 00:58:03,010
+seksen üçüncü ayette kaldık
+
+1459
+00:58:03,010 --> 00:58:05,400
+arkadaşlar
+
+1460
+00:58:05,400 --> 00:58:07,400
+haftaya seksen üçüncü ayette kaldık
+
+1461
+00:58:07,400 --> 00:58:09,400
+söz söylemek isteyen var mı
+
+1462
+00:58:09,400 --> 00:58:11,809
+evet
+
+1463
+00:58:11,809 --> 00:58:13,809
+peki o zaman
+
+1464
+00:58:13,809 --> 00:58:16,070
+kapanış duasını yapıyorum
+
+1465
+00:58:16,070 --> 00:58:20,070
+peki tapa
+
+1466
+00:58:20,070 --> 00:58:42,710
+kapanış
+
+1467
+00:58:46,070 --> 00:58:50,050
+okuduğumuz ve anladığımız şeyleri lehimize delil kıl, alehimize delil kılma.
+
+1468
+00:58:50,050 --> 00:58:54,050
+Allah'ım bizi Kur'an-ı Ehl-i kıl, onlar senin ehlim ve seçkin kullarıdır.
+
+1469
+00:58:54,050 --> 00:58:58,050
+Allah'ım bize faydalı olacak şeylere öğret, öğrettiklerine bizi faydalandır.
+
+1470
+00:58:58,050 --> 00:59:01,050
+İlmimizi kabul edilmiş, salih amelimizi arttır.
+
+1471
+00:59:01,050 --> 00:59:04,050
+Amin vel hamdülillahi rabbil alemin el-Fatiha.
+
