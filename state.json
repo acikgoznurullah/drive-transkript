@@ -363,7 +363,7 @@
     "report_url": "https://docs.google.com/document/d/1I3QSaj0GoKwVnXl2n4nbTD2S7gu_dP1T/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1RGAGkjKVsauIGkdZTkBLktjkwsuIDDSv": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261102_084110 - NA-DSA Yıllık izin sonrası.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261102_084110 - NA-DSA Yıllık izin sonrası.txt",
@@ -371,6 +371,10 @@
     "language": "tr",
     "transcribed_at": "2026-11-02T10:32:25",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261102_084110 - NA-DSA Yıllık izin sonrası_Rapor.docx",
+    "reported_at": "2026-11-02T10:37:04",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1pPGTn7X846y4Ba9maziillrDp6rp9e0Y/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   }
 }
