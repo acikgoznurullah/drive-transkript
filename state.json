@@ -353,5 +353,16 @@
     "transcribed_at": "2026-11-02T10:21:02",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1RGAGkjKVsauIGkdZTkBLktjkwsuIDDSv": {
+    "status": "transcribed",
+    "source": "Ses 261102_084110 - NA-DSA Yıllık izin sonrası.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261102_084110 - NA-DSA Yıllık izin sonrası.txt",
+    "duration": "0:47:27",
+    "language": "tr",
+    "transcribed_at": "2026-11-02T10:32:25",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
