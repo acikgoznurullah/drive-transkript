@@ -378,7 +378,7 @@
     "report_url": "https://docs.google.com/document/d/1pPGTn7X846y4Ba9maziillrDp6rp9e0Y/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1vY-iJvKir7ZZTyounUdE06d8p0fCk6cz": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261104_110537 - DSA-NA-Parametrik Pt2.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261104_110537 - DSA-NA-Parametrik Pt2.txt",
@@ -386,7 +386,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-04T13:35:10",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261104_110537 - DSA-NA-Parametrik Pt2_Rapor.docx",
+    "reported_at": "2026-11-04T13:43:21",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1hFzX1pKOqFKhZS0gnLA6IVj1DV6Qshst/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1m0Tt0FhCSxofn9GruoYoFsrEdD93ZxPl": {
     "status": "transcribed",
