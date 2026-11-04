@@ -1,0 +1,2996 @@
+1
+00:00:00,000 --> 00:00:07,320
+Eee bir gv-based losu adalın fakat istediğim gibi tek burada karar vermemiz gereken şey şu
+
+2
+00:00:07,320 --> 00:00:12,320
+Eee biz kendi viyes otuzlarımızı kullanacağız
+
+3
+00:00:12,320 --> 00:00:16,350
+Afadın viyes otuzlarını kullanmaya başlayacak mıyız?
+
+4
+00:00:16,350 --> 00:00:19,609
+Eee burada sen şöyle bir şey diyebilirsin bana
+
+5
+00:00:19,609 --> 00:00:23,609
+Ben ilk ketapla kendi viyes otuzlarımıza bir sonuçlar çıkartayım
+
+6
+00:00:23,609 --> 00:00:27,609
+Eğer hızlı ilerlersek Afadın viyes otuzları ile de
+
+7
+00:00:27,609 --> 00:00:34,609
+Bir ek neler oluyor neler yapıyor diye aynı sistemimizdeki bir çalışma çıkartırız
+
+8
+00:00:34,609 --> 00:00:41,609
+Olur hocam bence hızlanma kadına yani şeye takılma makadına bu şekilde bence deniz mantıklı yani
+
+9
+00:00:41,609 --> 00:00:44,609
+Şu an elimizdekilerle ilerleyelim
+
+10
+00:00:44,609 --> 00:00:53,609
+Eee bir de şey zaten hani bu dündesi yazdınız ya viyes otuz meselesinin işte los anlamında vesaire dene etki ediyor
+
+11
+00:00:53,609 --> 00:00:57,609
+Hatta belki bu aşamada şey de görmüş oluruz yani evet
+
+12
+00:00:57,609 --> 00:01:08,670
+Hem pgv hem pgv üzerinde şey eee pardon hem eski viyes otuz hem yeni viyes otuz üzerinden eee danlar alırız vesaire
+
+13
+00:01:08,670 --> 00:01:10,670
+Ben not alayım bu şekilde
+
+14
+00:01:10,670 --> 00:01:20,120
+Ben de şimdi not alıyorum bunun bunun üstünden şey yaparız devam edeceğiz eğer zaman yeterse
+
+15
+00:01:20,120 --> 00:01:22,120
+Tamamdır hocam
+
+16
+00:01:50,890 --> 00:01:56,590
+İnşallah o zamana kadar belki Afadın viyes otuzları ile de iş yapmış oluruz
+
+17
+00:01:56,590 --> 00:01:57,590
+Peki hocam tamamdır
+
+18
+00:01:57,590 --> 00:01:59,590
+İnşallah bir şansımız var
+
+19
+00:01:59,590 --> 00:02:05,590
+Hı hı tamamdır ya belki hani sistemi kurarsak aynı ranları tekrar etmek kolay olabilir
+
+20
+00:02:05,590 --> 00:02:12,719
+Üçüncü konuda bu konu tamamsa şey var
+
+21
+00:02:12,719 --> 00:02:13,719
+Eee evet
+
+22
+00:02:13,719 --> 00:02:16,719
+Egenin attığı son mail var bir de
+
+23
+00:02:16,719 --> 00:02:18,719
+Onu görebildiniz misiniz
+
+24
+00:02:18,719 --> 00:02:30,879
+Ben paylaşayım isterseniz ekran görebiliyorsanız ekranımı
+
+25
+00:02:30,879 --> 00:02:34,879
+Şimdi ben de şey yaptım mügirahimi ilginçsin hocam merhabalar
+
+26
+00:02:34,879 --> 00:02:40,330
+Kasım'a içerisinde gerçekten çalışma ve desteklenme sermecele iltikloseyi paylaşmaktan mutluluk buyuruyorum
+
+27
+00:02:40,330 --> 00:02:47,330
+Bu kapsamla ilgili mesela Bakterin'in RMS prenses ailevi senaryosu unuttadır
+
+28
+00:02:47,330 --> 00:02:53,580
+Bu ne abi prenses ailesi peki RMS'in tamam adalardaki şeyi tamam
+
+29
+00:02:53,580 --> 00:02:54,580
+Evet hocam
+
+30
+00:02:54,580 --> 00:02:56,580
+Şimdi şöyle bir şey yollamışlar hocam
+
+31
+00:02:56,580 --> 00:02:59,020
+Eee RMS
+
+32
+00:02:59,020 --> 00:03:07,020
+Eee bir adalar segmentindeki bir eventi hani bizim senaryolar tarzında
+
+33
+00:03:07,020 --> 00:03:13,020
+Eee o eventin oluşturacağı bu bu arada şeylerle alakası değil
+
+34
+00:03:13,020 --> 00:03:15,020
+Eee ihtiyali değil
+
+35
+00:03:15,020 --> 00:03:20,020
+Geçen haftalar konuştuğumuz eee Dask mevzusuyumun devamasında
+
+36
+00:03:20,020 --> 00:03:26,469
+Eee bu laktın şey yollamış işte RMS'in 250 yılda birine tekabül eden
+
+37
+00:03:26,469 --> 00:03:34,469
+Bu prenses adalarındaki deprem sonucunda burada oluşması beklenen payoutlar
+
+38
+00:03:34,469 --> 00:03:41,969
+Aramesin bu deprem 250 yılda birine tekabül ediyor he
+
+39
+00:03:41,969 --> 00:03:43,969
+Eee öyleymiş evet
+
+40
+00:03:43,969 --> 00:03:44,969
+Deprem mi?
+
+41
+00:03:44,969 --> 00:03:53,129
+Yani eee şey olarak eee 250 yılda biri en yakın eee deprem seçildi tarzında
+
+42
+00:03:53,129 --> 00:03:55,129
+Şurada yazıyor hocam
+
+43
+00:03:55,129 --> 00:03:59,699
+Eee los is closed
+
+44
+00:03:59,699 --> 00:04:04,699
+Yani eee bunun losu 250 yılda birine en yakın olan los
+
+45
+00:04:04,699 --> 00:04:07,740
+Ulan depremi seçmiş
+
+46
+00:04:07,740 --> 00:04:12,740
+Üreten depremi evet seçmişler hocam
+
+47
+00:04:12,740 --> 00:04:14,740
+Marmara bölgesinde
+
+48
+00:04:14,740 --> 00:04:16,740
+Bu da bu çıkmış
+
+49
+00:04:16,740 --> 00:04:20,740
+Eee bunun da eee şeydeki sonuçları
+
+50
+00:04:21,800 --> 00:04:27,310
+Marmara bölgesinde o payout'a göre sonuçları hocam bu
+
+51
+00:04:27,310 --> 00:04:28,310
+Aynen
+
+52
+00:04:28,310 --> 00:04:34,019
+Eee şimdi burada şöyle önemli eee farklılıklar var
+
+53
+00:04:34,019 --> 00:04:37,019
+Ben bunu az önce biraz inceledim
+
+54
+00:04:37,019 --> 00:04:43,850
+Eee bizim şimdi biz de hatırlarsanız marmara senaryoları şey yapmıştık
+
+55
+00:04:43,850 --> 00:04:45,850
+Göstermiştik
+
+56
+00:04:45,850 --> 00:04:49,850
+Eee bu marmara senaryolarımız bizimkiler hiç los üretmemişti
+
+57
+00:04:49,850 --> 00:04:53,139
+Ama bunlarınki epey bir los üretiyor
+
+58
+00:04:53,139 --> 00:04:57,139
+Eee onunla alakalı da şöyle göstereyim
+
+59
+00:04:57,139 --> 00:05:01,139
+Şimdi arames'in modellerinden şeyi
+
+60
+00:05:01,139 --> 00:05:06,230
+4 nokta yani kendi modelinden çıkan 4.7 milyon euro
+
+61
+00:05:06,230 --> 00:05:08,230
+Ket modun
+
+62
+00:05:08,230 --> 00:05:09,230
+7 milyar
+
+63
+00:05:09,230 --> 00:05:10,230
+1 milyar mı?
+
+64
+00:05:10,230 --> 00:05:11,230
+Tamam mı?
+
+65
+00:05:11,230 --> 00:05:12,230
+Tamam
+
+66
+00:05:12,230 --> 00:05:13,230
+Aynen
+
+67
+00:05:13,230 --> 00:05:14,230
+1 milyon da biz de
+
+68
+00:05:14,230 --> 00:05:17,230
+Bu milyon herhalde 1 euro olduğu için mi?
+
+69
+00:05:17,230 --> 00:05:18,970
+1 milyar
+
+70
+00:05:18,970 --> 00:05:20,970
+Aha tamam 4.700 evet pardon
+
+71
+00:05:20,970 --> 00:05:23,970
+4.7 milyar euro
+
+72
+00:05:23,970 --> 00:05:28,970
+Ket modun da eee senaryo bir 3.3
+
+73
+00:05:28,970 --> 00:05:32,970
+Senaryo 4'te 5.4 milyar
+
+74
+00:05:32,970 --> 00:05:36,970
+Bir için harcın tek başına diğeri orta marmayla beraber
+
+75
+00:05:36,970 --> 00:05:41,970
+Şimdi aslında losu anlamında epey şeyi görünüyoruz
+
+76
+00:05:41,970 --> 00:05:44,970
+Eee yani karşılaştırılabilir
+
+77
+00:05:44,970 --> 00:05:45,970
+Karşılaştırabilir
+
+78
+00:05:45,970 --> 00:05:48,259
+Eee ama
+
+79
+00:05:48,259 --> 00:05:51,259
+Arames'in söylediğine göre
+
+80
+00:05:51,259 --> 00:05:56,259
+5.5 milyar euroluk bir peyat ödeyecek bu indeksiz ediyor
+
+81
+00:05:56,259 --> 00:06:01,259
+Bizim şeyimize göre hesaplarımıza göre ise
+
+82
+00:06:01,259 --> 00:06:04,259
+Senaryo bir 149 milyon
+
+83
+00:06:04,259 --> 00:06:06,259
+Senaryo 4 175 milyon
+
+84
+00:06:06,259 --> 00:06:10,470
+Bu arada çok çok büyük bir fark var
+
+85
+00:06:10,470 --> 00:06:11,470
+Evet
+
+86
+00:06:11,470 --> 00:06:14,600
+Eee böyle bir durum var hocam
+
+87
+00:06:14,600 --> 00:06:18,600
+Burada şimdi aslında bu şuna tekabül ediyor
+
+88
+00:06:18,600 --> 00:06:22,600
+Şimdi Arames'in yaptığı hesaplar
+
+89
+00:06:22,600 --> 00:06:25,660
+Kendi P.J. şeyi üzerinden
+
+90
+00:06:25,660 --> 00:06:28,660
+Bizimkiler de bizim ket mod medyan üzerinden
+
+91
+00:06:28,660 --> 00:06:31,660
+Onları karşılaştırdığımız zaman
+
+92
+00:06:31,660 --> 00:06:36,660
+Arames'in verdiği P.J. aralıdır
+
+93
+00:06:36,660 --> 00:06:38,660
+Eee şöyle diyor hocam
+
+94
+00:06:38,660 --> 00:06:41,660
+Bu dosya şöyle göstereyim mesela
+
+95
+00:06:41,660 --> 00:06:44,430
+Şuna tıklayınca
+
+96
+00:06:44,430 --> 00:06:46,529
+Eee diyor ki
+
+97
+00:06:46,529 --> 00:06:48,529
+Şimdi Arames yani
+
+98
+00:06:48,529 --> 00:06:51,529
+Implied P.J. diye bir şey vermişler hocam
+
+99
+00:06:51,529 --> 00:06:53,529
+Direkt P.J.yi vermemişler
+
+100
+00:06:53,529 --> 00:06:57,529
+Yani bu da şu hani P.650 demiş
+
+101
+00:06:57,529 --> 00:07:04,529
+P.650 ise trigger seviyesi 0.5 ile 0.55 arasına tekabül ediyor
+
+102
+00:07:04,529 --> 00:07:07,620
+Veya başka bir şeye bakalım
+
+103
+00:07:07,620 --> 00:07:09,620
+Farklı olan eee ne var
+
+104
+00:07:09,620 --> 00:07:13,660
+Eee işte yani genelde buralar %50
+
+105
+00:07:13,660 --> 00:07:15,660
+Eee bunlar payout üzerinden
+
+106
+00:07:15,660 --> 00:07:17,660
+Eee Arames'in verdiği payout
+
+107
+00:07:17,660 --> 00:07:21,660
+Mesela şu %100 demek ki 0.75 ile 80. yarısı diye
+
+108
+00:07:21,660 --> 00:07:24,750
+İnference yapmışlar aslında
+
+109
+00:07:24,750 --> 00:07:25,750
+Laktın
+
+110
+00:07:25,750 --> 00:07:34,550
+Laktın nattığı dosya bu arada bir de tamamen
+
+111
+00:07:34,550 --> 00:07:36,550
+Yani bir defa şimdi bu
+
+112
+00:07:36,550 --> 00:07:38,899
+Her bir ücrede
+
+113
+00:07:38,899 --> 00:07:50,629
+Eee Implied P.J.'den
+
+114
+00:07:50,629 --> 00:07:54,870
+Ben ne anlamadım 0.75 ile
+
+115
+00:07:54,870 --> 00:07:57,870
+Sıkıntısı trigger seviyesi 0.75
+
+116
+00:07:57,870 --> 00:08:00,610
+Ben de burada
+
+117
+00:08:00,610 --> 00:08:03,670
+Bir şekilde 0.75 ile 0.80 arasında
+
+118
+00:08:03,670 --> 00:08:06,540
+Bir P.J. gördüm
+
+119
+00:08:06,540 --> 00:08:07,540
+Hı hı
+
+120
+00:08:07,540 --> 00:08:08,540
+İsterseniz hocam
+
+121
+00:08:08,540 --> 00:08:10,540
+Yani şurayı bir okuyalım
+
+122
+00:08:10,540 --> 00:08:11,540
+Eee
+
+123
+00:08:11,540 --> 00:08:13,540
+Burada bir açıklama yapmışlar
+
+124
+00:08:13,540 --> 00:08:15,540
+Implied P.J.
+
+125
+00:08:15,540 --> 00:08:17,920
+Her bir şey söylüyordu
+
+126
+00:08:17,920 --> 00:08:18,920
+Verdi o
+
+127
+00:08:18,920 --> 00:08:19,920
+Şurası hocam
+
+128
+00:08:19,920 --> 00:08:20,920
+Evet
+
+129
+00:08:20,920 --> 00:08:23,920
+Implied P.J. on the composite cells
+
+130
+00:08:23,920 --> 00:08:28,000
+Overlaid with cells
+
+131
+00:08:28,000 --> 00:08:30,000
+By payout %0
+
+132
+00:08:30,000 --> 00:08:34,000
+The red marker is the center of the princess iron segment
+
+133
+00:08:34,000 --> 00:08:38,480
+Only the 200 cells that carry an anamester loss
+
+134
+00:08:38,480 --> 00:08:41,929
+Or this earthquake can be placed
+
+135
+00:08:41,929 --> 00:08:48,980
+Only the 200 cells that carry anamester loss
+
+136
+00:08:48,980 --> 00:08:51,980
+Or this earthquake can be placed
+
+137
+00:08:51,980 --> 00:08:58,580
+And those below and implied 2G are not drawn
+
+138
+00:08:58,580 --> 00:09:02,580
+So the footprint is richer than a shakeback
+
+139
+00:09:02,580 --> 00:09:04,740
+Poggle payout %0
+
+140
+00:09:04,740 --> 00:09:06,740
+Centrics in the layer control
+
+141
+00:09:06,740 --> 00:09:10,259
+Or the cell center
+
+142
+00:09:10,259 --> 00:09:15,590
+Click a cell for its figures
+
+143
+00:09:15,590 --> 00:09:18,720
+Implied P.J. on the composite cells
+
+144
+00:09:18,720 --> 00:09:22,649
+Overlaid with the cells that pay
+
+145
+00:09:22,649 --> 00:09:26,309
+Colored %0
+
+146
+00:09:26,309 --> 00:09:28,309
+Pardon, pardon, kıyaptı
+
+147
+00:09:28,309 --> 00:09:31,919
+Colored by a payout %10 cell value
+
+148
+00:09:31,919 --> 00:09:33,919
+Burada şöyle bir şey var
+
+149
+00:09:33,919 --> 00:09:35,919
+Implied P.J. on the composite cells
+
+150
+00:09:35,919 --> 00:09:41,700
+Implied P.J. on the composite cells
+
+151
+00:09:41,700 --> 00:09:47,490
+Overlaid with the cells that pay
+
+152
+00:09:47,490 --> 00:09:52,600
+Colored by a payout %10 cell value
+
+153
+00:09:52,600 --> 00:09:55,850
+İşte en kırmızı olursa %100'i ödüyor
+
+154
+00:09:55,850 --> 00:09:57,850
+Fakat şimdi ben gülüyorum
+
+155
+00:09:57,850 --> 00:10:00,169
+Ben bir şey herhalde
+
+156
+00:10:00,169 --> 00:10:03,169
+Red marker is the center of the princess iron segment
+
+157
+00:10:03,169 --> 00:10:05,169
+Şurada
+
+158
+00:10:05,169 --> 00:10:07,580
+Bu segmentin
+
+159
+00:10:07,580 --> 00:10:09,870
+Şurada
+
+160
+00:10:09,870 --> 00:10:11,870
+Bu segmentin
+
+161
+00:10:11,870 --> 00:10:13,870
+Şurada
+
+162
+00:10:13,870 --> 00:10:15,870
+Bu segmentin
+
+163
+00:10:15,870 --> 00:10:17,870
+Episenteri olarak gibi yazmışlar
+
+164
+00:10:17,870 --> 00:10:19,870
+Episenteri
+
+165
+00:10:19,870 --> 00:10:21,870
+Ondan sonra
+
+166
+00:10:21,870 --> 00:10:23,870
+Koyu olan dedikleri de
+
+167
+00:10:23,870 --> 00:10:25,870
+Mesela şu hemen adalar
+
+168
+00:10:25,870 --> 00:10:28,159
+%100 ödemiş
+
+169
+00:10:28,159 --> 00:10:30,159
+Demek ki bunun P.J.sı 1.2 veri üzeri
+
+170
+00:10:30,159 --> 00:10:32,159
+Demek ki bunun P.J.sı 1.2 veri üzeri
+
+171
+00:10:32,159 --> 00:10:34,320
+Diyorlar
+
+172
+00:10:34,320 --> 00:10:36,320
+Evet ama işte
+
+173
+00:10:36,320 --> 00:10:38,320
+Yani bu
+
+174
+00:10:38,320 --> 00:10:40,860
+Yani Arames'ten
+
+175
+00:10:40,860 --> 00:10:43,950
+P.J. değerlerini
+
+176
+00:10:43,950 --> 00:10:50,080
+Nasıl çekiyorlar
+
+177
+00:10:50,080 --> 00:10:52,080
+Yani onu bilmiyorum evet
+
+178
+00:10:52,080 --> 00:10:54,080
+Şimdi şöyle bir şey düşünelim
+
+179
+00:10:54,080 --> 00:10:56,080
+Şimdi sen bana diyorsun ki bak
+
+180
+00:10:56,080 --> 00:10:59,529
+Şimdi bir aşağı doğru inebilir miyiz?
+
+181
+00:10:59,529 --> 00:11:02,100
+Sen bana yok şeyi göstermiş
+
+182
+00:11:02,100 --> 00:11:04,100
+Burada herhalde bir her bir sen için
+
+183
+00:11:04,100 --> 00:11:06,100
+Her bir saldaki şeyi mi gösteriyor?
+
+184
+00:11:06,100 --> 00:11:08,100
+Bu yine payout şeyi
+
+185
+00:11:08,100 --> 00:11:11,100
+Yani hangi aralığa
+
+186
+00:11:11,100 --> 00:11:14,100
+Ne kadar şey vardı, ne kadar payout oldu
+
+187
+00:11:14,100 --> 00:11:16,100
+Bunu gösteriyor burası
+
+188
+00:11:16,100 --> 00:11:18,100
+Yine bu aşağıda da
+
+189
+00:11:18,100 --> 00:11:20,100
+Her tüm selleri gösteriyor
+
+190
+00:11:20,100 --> 00:11:21,100
+Yani toplamıştı
+
+191
+00:11:21,100 --> 00:11:23,100
+Yukarıdaki tüm sellerde
+
+192
+00:11:23,100 --> 00:11:25,100
+Ne kadar ödemi var vesaire
+
+193
+00:11:25,100 --> 00:11:27,100
+Yukarıdakini tadlısın
+
+194
+00:11:27,100 --> 00:11:29,100
+Aynen yukarıdakini tadlısın
+
+195
+00:11:29,100 --> 00:11:31,100
+Şimdi peki yani ben şuradan
+
+196
+00:11:31,100 --> 00:11:33,620
+Şöyle bir şey
+
+197
+00:11:33,620 --> 00:11:35,620
+Sen bana dedin ki biraz önce
+
+198
+00:11:35,620 --> 00:11:38,159
+Şu aşağıdaki şeyle
+
+199
+00:11:38,159 --> 00:11:40,159
+Yazıklarını
+
+200
+00:11:40,159 --> 00:11:43,929
+Şu ön emni olabilir önce
+
+201
+00:11:43,929 --> 00:11:46,929
+P.J. değil
+
+202
+00:11:46,929 --> 00:11:48,929
+Evet
+
+203
+00:11:48,929 --> 00:11:50,929
+RMS return
+
+204
+00:11:50,929 --> 00:11:51,929
+RMS return
+
+205
+00:11:51,929 --> 00:11:53,929
+No hazard per event
+
+206
+00:11:53,929 --> 00:11:54,929
+For each cell
+
+207
+00:11:54,929 --> 00:11:56,929
+The loss threshold is set
+
+208
+00:11:56,929 --> 00:11:59,929
+At every point of 5G step
+
+209
+00:11:59,929 --> 00:12:03,960
+So that it is exited as often
+
+210
+00:12:03,960 --> 00:12:08,600
+As RMS's own hazard curve
+
+211
+00:12:08,600 --> 00:12:11,049
+RP hazard
+
+212
+00:12:11,049 --> 00:12:13,049
+RMS return
+
+213
+00:12:13,049 --> 00:12:15,179
+RMS return
+
+214
+00:12:15,179 --> 00:12:17,179
+No hazard per event
+
+215
+00:12:17,179 --> 00:12:19,179
+For each cell
+
+216
+00:12:19,179 --> 00:12:23,000
+A loss threshold is set
+
+217
+00:12:23,000 --> 00:12:25,000
+A loss threshold is set
+
+218
+00:12:25,000 --> 00:12:27,000
+At every point of 5G step
+
+219
+00:12:27,000 --> 00:12:29,289
+RMS return
+
+220
+00:12:29,289 --> 00:12:45,590
+RMS return
+
+221
+00:12:45,590 --> 00:12:47,590
+RMS return
+
+222
+00:12:47,590 --> 00:12:49,590
+No hazard per event
+
+223
+00:12:49,590 --> 00:12:52,460
+For each cell
+
+224
+00:12:52,460 --> 00:12:54,460
+A loss threshold is set
+
+225
+00:12:54,460 --> 00:12:56,460
+A loss threshold is set
+
+226
+00:12:57,460 --> 00:13:00,779
+At every point of 5G
+
+227
+00:13:00,779 --> 00:13:02,779
+Mesela diyor ki
+
+228
+00:13:02,779 --> 00:13:04,779
+Ben payout yapıma göre herhalde
+
+229
+00:13:04,779 --> 00:13:06,779
+Sıkıntısı 5G'de bile artıyor
+
+230
+00:13:06,779 --> 00:13:08,779
+Şeyler payout yapısından
+
+231
+00:13:08,779 --> 00:13:11,159
+Evet hocam
+
+232
+00:13:11,159 --> 00:13:13,159
+O zaman şöyle diyor
+
+233
+00:13:13,159 --> 00:13:15,259
+Sıkıntısı
+
+234
+00:13:15,259 --> 00:13:17,259
+For each cell a loss threshold is set
+
+235
+00:13:17,259 --> 00:13:19,580
+At every so that
+
+236
+00:13:19,580 --> 00:13:21,580
+It is exited as often
+
+237
+00:13:21,580 --> 00:13:25,250
+As RMS's own hazard curve
+
+238
+00:13:25,250 --> 00:13:27,250
+Says that PGA is
+
+239
+00:13:27,250 --> 00:13:30,399
+This earthquake's loss
+
+240
+00:13:30,399 --> 00:13:32,399
+At the cell
+
+241
+00:13:32,399 --> 00:13:34,399
+Then places it in a bend
+
+242
+00:13:34,399 --> 00:13:43,500
+For each cell a loss threshold is set
+
+243
+00:13:43,500 --> 00:13:45,500
+At every point of 5G
+
+244
+00:13:45,500 --> 00:13:47,500
+Yani her şeyde
+
+245
+00:13:47,500 --> 00:13:49,500
+O zaman her hücrede
+
+246
+00:13:49,500 --> 00:13:51,500
+O payout yapısını veriyorlar
+
+247
+00:13:51,500 --> 00:13:57,500
+So that it exited
+
+248
+00:13:57,500 --> 00:14:00,139
+As often as
+
+249
+00:14:00,139 --> 00:14:02,139
+RMS's own hazard
+
+250
+00:14:02,139 --> 00:14:09,710
+Means that PGA is
+
+251
+00:14:09,710 --> 00:14:12,929
+O zaman burada
+
+252
+00:14:12,929 --> 00:14:14,929
+Diyor ki
+
+253
+00:14:14,929 --> 00:14:17,220
+O payout trigger levelini veriyor
+
+254
+00:14:17,220 --> 00:14:19,220
+Ondan sonra
+
+255
+00:14:19,220 --> 00:14:22,399
+Diyor ki
+
+256
+00:14:22,399 --> 00:14:25,100
+O hücrede
+
+257
+00:14:25,100 --> 00:14:27,299
+RMS gidiyor
+
+258
+00:14:27,299 --> 00:14:29,299
+O trigger a loss
+
+259
+00:14:29,299 --> 00:14:31,679
+Sıkıntısı 5G ise
+
+260
+00:14:31,679 --> 00:14:33,679
+Şu kadar loss olsun diyor
+
+261
+00:14:33,679 --> 00:14:35,679
+Buysa bu kadar şey
+
+262
+00:14:35,679 --> 00:14:37,679
+Yani orada RMS diyor ki gidiyor
+
+263
+00:14:37,679 --> 00:14:39,679
+Burada şimdiki 120 bu hücrede
+
+264
+00:14:39,679 --> 00:14:41,679
+İşte 120 milyon liralık
+
+265
+00:14:41,679 --> 00:14:43,679
+Bir loss oldu diyor
+
+266
+00:14:43,679 --> 00:14:45,679
+120 milyon liralık
+
+267
+00:14:45,679 --> 00:14:47,679
+Tersten aslında evet
+
+268
+00:14:47,679 --> 00:14:49,679
+Aynen
+
+269
+00:14:49,679 --> 00:14:51,679
+Lostan PGA'ya
+
+270
+00:14:51,679 --> 00:14:53,679
+Geçiyor gibi
+
+271
+00:14:53,679 --> 00:14:55,679
+Ama şu burada şöyle bir şey var
+
+272
+00:14:55,679 --> 00:14:57,679
+Burada
+
+273
+00:14:57,679 --> 00:14:59,679
+RMS'in medyan
+
+274
+00:14:59,679 --> 00:15:01,679
+Değer verdiğini nereden biliyorlar
+
+275
+00:15:01,679 --> 00:15:03,679
+İşte aynen ben de o noktaya gelecektim hocam
+
+276
+00:15:03,679 --> 00:15:05,679
+Yani şimdi ben bu
+
+277
+00:15:05,679 --> 00:15:07,679
+Karşıraştırmayı yaptım
+
+278
+00:15:07,679 --> 00:15:09,679
+Bizim medyan değerlerimizle
+
+279
+00:15:09,679 --> 00:15:11,679
+Bu RMS'in implied
+
+280
+00:15:11,679 --> 00:15:13,679
+Dedikleri arasında
+
+281
+00:15:13,679 --> 00:15:15,679
+Çok büyük fark var yani
+
+282
+00:15:15,679 --> 00:15:17,679
+Zaten şu şeyden
+
+283
+00:15:17,679 --> 00:15:19,679
+Görüyorsunuz
+
+284
+00:15:19,679 --> 00:15:21,679
+2-2 buçuk kat
+
+285
+00:15:21,679 --> 00:15:23,679
+Ortalama
+
+286
+00:15:23,679 --> 00:15:25,679
+Yani bu fark
+
+287
+00:15:25,679 --> 00:15:27,740
+Arta da biliyor
+
+288
+00:15:27,740 --> 00:15:29,809
+Ondan sonra şey
+
+289
+00:15:29,809 --> 00:15:31,809
+Bence burada
+
+290
+00:15:31,809 --> 00:15:33,809
+RMS'in
+
+291
+00:15:33,809 --> 00:15:35,809
+Yöntemi
+
+292
+00:15:35,809 --> 00:15:37,809
+Medyan üzerinden
+
+293
+00:15:37,809 --> 00:15:39,809
+Değildi atıyorum
+
+294
+00:15:39,809 --> 00:15:41,809
+Bu şey mevzusu gibi
+
+295
+00:15:41,809 --> 00:15:43,809
+Sanırım
+
+296
+00:15:43,809 --> 00:15:45,809
+Belli bir
+
+297
+00:15:45,809 --> 00:15:47,809
+İventi
+
+298
+00:15:47,809 --> 00:15:49,809
+Anlatamadım da
+
+299
+00:15:49,809 --> 00:15:51,809
+Bu pörsen
+
+300
+00:15:51,809 --> 00:15:53,809
+Koantil mevzusu vardı ya
+
+301
+00:15:53,809 --> 00:15:55,809
+Aksada
+
+302
+00:15:55,809 --> 00:15:57,809
+Bunuza da benzer bir şey olabilir
+
+303
+00:15:57,809 --> 00:15:59,809
+Atıyorum biz
+
+304
+00:15:59,809 --> 00:16:01,809
+Yer hareketinin bir medyanı var
+
+305
+00:16:01,809 --> 00:16:03,809
+10.000 kere simül ediyoruz
+
+306
+00:16:03,809 --> 00:16:05,809
+10.000 simül asyondan
+
+307
+00:16:05,809 --> 00:16:07,809
+Herhangi bir tanesi aslında
+
+308
+00:16:07,809 --> 00:16:09,809
+Tabii tabii
+
+309
+00:16:09,809 --> 00:16:11,809
+Ben şöyle bir şey
+
+310
+00:16:11,809 --> 00:16:13,809
+Bunlar şöyle bir şey yapıyor
+
+311
+00:16:13,809 --> 00:16:15,809
+Bunlar diyor ki
+
+312
+00:16:15,809 --> 00:16:17,809
+Benim diyor bir sana
+
+313
+00:16:17,809 --> 00:16:20,029
+Bir şey yapısı vereceğim
+
+314
+00:16:20,029 --> 00:16:22,029
+Trigger yapısı vereceğim
+
+315
+00:16:22,029 --> 00:16:24,029
+Yani işte
+
+316
+00:16:24,029 --> 00:16:26,029
+Eğer burada PJ'de
+
+317
+00:16:26,029 --> 00:16:28,029
+0-0-5K ise
+
+318
+00:16:28,029 --> 00:16:30,029
+Şöyle bir dost var
+
+319
+00:16:30,029 --> 00:16:32,129
+Oradaki gücüdeki
+
+320
+00:16:32,129 --> 00:16:34,350
+Expojürü biliyor
+
+321
+00:16:34,350 --> 00:16:36,350
+Tamam mı?
+
+322
+00:16:36,350 --> 00:16:38,350
+Sibortabelerini biliyor
+
+323
+00:16:38,350 --> 00:16:40,350
+Ondan sonra şimdi bunu yani böyle düşünüyorum
+
+324
+00:16:40,350 --> 00:16:42,350
+Ondan sonra diyor ki
+
+325
+00:16:42,350 --> 00:16:44,350
+Sibortabeleri bu
+
+326
+00:16:44,350 --> 00:16:46,350
+Eğer 0-0-5K'yi aşarsa
+
+327
+00:16:46,350 --> 00:16:48,799
+İşte bir hatta bu şey ise
+
+328
+00:16:48,799 --> 00:16:50,799
+Dost trigger
+
+329
+00:16:50,799 --> 00:16:52,799
+Seviyeleri aslında hiç mi piceyi vermiyor
+
+330
+00:16:52,799 --> 00:16:54,799
+5 lira, 10 lira, 20 lira, 100 lira
+
+331
+00:16:54,799 --> 00:16:56,799
+Böyle giden bir
+
+332
+00:16:56,799 --> 00:16:58,799
+Dost trigger seviyelerini veriyor tamam mı?
+
+333
+00:16:58,799 --> 00:17:00,799
+Ondan sonra diyor ki burada
+
+334
+00:17:00,799 --> 00:17:02,799
+Bu dost trigger seviyelerin
+
+335
+00:17:02,799 --> 00:17:04,799
+Hangisini aşıldıysa bana haber verdi
+
+336
+00:17:04,799 --> 00:17:09,099
+O da gidiyor Arames
+
+337
+00:17:09,099 --> 00:17:11,099
+Mesela orada diyor ki
+
+338
+00:17:11,099 --> 00:17:13,099
+İşte burada
+
+339
+00:17:13,099 --> 00:17:15,099
+Dost trigger seviyesi
+
+340
+00:17:15,099 --> 00:17:17,809
+Kafa atıyorum
+
+341
+00:17:17,809 --> 00:17:19,809
+100 lira oldu diyor
+
+342
+00:17:19,809 --> 00:17:21,970
+Tamam mı? Dost trigger seviyesi
+
+343
+00:17:21,970 --> 00:17:23,970
+O da gidiyor diyor ki
+
+344
+00:17:23,970 --> 00:17:25,970
+Bu dost trigger seviyesi
+
+345
+00:17:25,970 --> 00:17:28,259
+Burada 100 lira
+
+346
+00:17:28,259 --> 00:17:30,259
+Bu da benim şu PJ'ye karşılık geliyor diyor
+
+347
+00:17:30,259 --> 00:17:32,799
+Tamam mı?
+
+348
+00:17:32,799 --> 00:17:34,799
+Yani orada
+
+349
+00:17:34,799 --> 00:17:36,799
+O tersten gidiş var
+
+350
+00:17:36,799 --> 00:17:38,960
+Arames
+
+351
+00:17:38,960 --> 00:17:40,960
+Medyan PJ'yi üstünden de veriyor
+
+352
+00:17:40,960 --> 00:17:42,960
+Yoksa işte
+
+353
+00:17:42,960 --> 00:17:44,960
+84 % den mi vermiş
+
+354
+00:17:44,960 --> 00:17:46,960
+Bunu hiç sorgulayamıyorlar
+
+355
+00:17:46,960 --> 00:17:51,619
+Evet
+
+356
+00:17:51,619 --> 00:17:53,619
+Yani
+
+357
+00:17:53,619 --> 00:17:55,619
+Yani burada olay o yani
+
+358
+00:17:55,619 --> 00:17:58,259
+O depremin
+
+359
+00:17:58,259 --> 00:18:00,670
+Bana kalırsa
+
+360
+00:18:00,670 --> 00:18:02,670
+O sücrede
+
+361
+00:18:02,670 --> 00:18:06,109
+Arames pek çok
+
+362
+00:18:06,109 --> 00:18:08,109
+O kuantaylara göre PJ değeri
+
+363
+00:18:08,109 --> 00:18:12,289
+oluşturuyor
+
+364
+00:18:12,289 --> 00:18:14,539
+Üçerisinde
+
+365
+00:18:14,539 --> 00:18:16,609
+O
+
+366
+00:18:16,609 --> 00:18:18,609
+Dost trigger seviyelerini
+
+367
+00:18:18,609 --> 00:18:20,609
+Dost trigger seviyelerinin içerisinde
+
+368
+00:18:20,609 --> 00:18:22,609
+Belki de en kritik olanını veriyor
+
+369
+00:18:22,609 --> 00:18:24,609
+Ve hatta
+
+370
+00:18:24,609 --> 00:18:26,609
+Bunu senin dediğin gibi
+
+371
+00:18:26,609 --> 00:18:28,609
+Bir sürü kez sample ediyor
+
+372
+00:18:28,609 --> 00:18:30,609
+Onlardan bir tanesini raporluyor
+
+373
+00:18:30,609 --> 00:18:32,609
+Bir şey yani böyle bir şey
+
+374
+00:18:32,609 --> 00:18:34,609
+Burada
+
+375
+00:18:34,609 --> 00:18:37,279
+Medyan PJ'in
+
+376
+00:18:37,279 --> 00:18:39,599
+Sonuçları değil bunlar
+
+377
+00:18:39,599 --> 00:18:42,140
+Evet hocam bence de
+
+378
+00:18:42,140 --> 00:18:44,400
+Yani acaba
+
+379
+00:18:44,400 --> 00:18:46,819
+Modellenen lostan
+
+380
+00:18:46,819 --> 00:18:48,819
+Geriye gitme ihtimalleri var mı
+
+381
+00:18:48,819 --> 00:18:50,819
+Onu düşünüyorum da
+
+382
+00:18:50,819 --> 00:18:52,819
+250 yıllık her bir gritte bir los
+
+383
+00:18:52,819 --> 00:18:54,819
+Olmaz ya
+
+384
+00:18:54,819 --> 00:18:56,819
+Yok yanlış bir şey düşündüm
+
+385
+00:18:56,819 --> 00:18:58,819
+Yani evet hocam
+
+386
+00:18:58,819 --> 00:19:00,819
+Bu medyan değil yani
+
+387
+00:19:00,819 --> 00:19:02,819
+Bunlar bence de kesin
+
+388
+00:19:02,819 --> 00:19:04,819
+Zaten şöyle bir 1.2
+
+389
+00:19:04,819 --> 00:19:06,819
+Falan gibi veya
+
+390
+00:19:06,819 --> 00:19:08,819
+Hadi sahillere bakalım
+
+391
+00:19:08,819 --> 00:19:10,819
+İşte şuralarda
+
+392
+00:19:10,819 --> 00:19:12,819
+0.75ci gibi
+
+393
+00:19:12,819 --> 00:19:14,819
+Medyanlar
+
+394
+00:19:14,819 --> 00:19:16,819
+Evet
+
+395
+00:19:16,819 --> 00:19:19,099
+Şöyle bir şey yapalım
+
+396
+00:19:19,099 --> 00:19:21,099
+Bu
+
+397
+00:19:21,099 --> 00:19:23,329
+Onu yapmayalım
+
+398
+00:19:23,329 --> 00:19:25,329
+Çünkü bu depreme
+
+399
+00:19:25,329 --> 00:19:27,329
+Yakın bir USCS şekmef depremi yok
+
+400
+00:19:27,329 --> 00:19:32,619
+Bizim prenses adalarının
+
+401
+00:19:32,619 --> 00:19:34,619
+Etrafından geçen
+
+402
+00:19:34,619 --> 00:19:36,619
+Çınarcık basenin kırdığımız
+
+403
+00:19:36,619 --> 00:19:38,619
+Ya senaryo bir
+
+404
+00:19:38,619 --> 00:19:40,619
+Onlardan bir tanesi var
+
+405
+00:19:40,619 --> 00:19:42,619
+Bizim oradaki
+
+406
+00:19:42,619 --> 00:19:44,619
+Medyan pj değerlerimiz
+
+407
+00:19:44,619 --> 00:19:46,619
+Demek karşılaştırmayı yaptın
+
+408
+00:19:46,619 --> 00:19:48,619
+Yoksa bütün dört sınaryo
+
+409
+00:19:48,619 --> 00:19:50,619
+Yani şey iki şekilde
+
+410
+00:19:50,619 --> 00:19:52,619
+Bir çınarcıkla
+
+411
+00:19:52,619 --> 00:19:54,619
+Bir de çınarcık artı
+
+412
+00:19:54,619 --> 00:19:56,619
+Centrum
+
+413
+00:19:56,619 --> 00:19:58,619
+Centrum
+
+414
+00:19:58,619 --> 00:20:00,910
+Çünkü
+
+415
+00:20:00,910 --> 00:20:02,910
+Çınarcık iki tanesinde
+
+416
+00:20:02,910 --> 00:20:04,910
+Dahil oluyor diğer ikisi
+
+417
+00:20:04,910 --> 00:20:06,910
+Çınarcıksız
+
+418
+00:20:06,910 --> 00:20:08,910
+Sadece çınarcın kırıldığı
+
+419
+00:20:08,910 --> 00:20:10,910
+Bizim 7 büyüklüğünde olan
+
+420
+00:20:10,910 --> 00:20:12,910
+Bu şekilde
+
+421
+00:20:12,910 --> 00:20:14,910
+Bizim diğer
+
+422
+00:20:14,910 --> 00:20:16,910
+İkisinin beraber kırıldığı 7-3 olan
+
+423
+00:20:16,910 --> 00:20:18,910
+Bu şekilde
+
+424
+00:20:18,910 --> 00:20:21,170
+Görüntü veriyor
+
+425
+00:20:21,170 --> 00:20:23,170
+Tamam evet anladım sağolsun
+
+426
+00:20:23,170 --> 00:20:25,170
+Ya bir şey yapalım mı
+
+427
+00:20:25,170 --> 00:20:27,170
+Şöyle bir şey o iki tane sentis var ya
+
+428
+00:20:27,170 --> 00:20:29,170
+Bana onu
+
+429
+00:20:29,170 --> 00:20:31,170
+Tekst olarak atar mısın
+
+430
+00:20:31,170 --> 00:20:33,170
+Neyi hocam
+
+431
+00:20:33,170 --> 00:20:35,170
+Şurada hani şey
+
+432
+00:20:35,170 --> 00:20:37,170
+O şeyleri
+
+433
+00:20:37,170 --> 00:20:39,170
+Göstermiştin ya
+
+434
+00:20:39,170 --> 00:20:41,710
+Bir onu
+
+435
+00:20:41,710 --> 00:20:43,710
+Şurada pj infert diye
+
+436
+00:20:43,710 --> 00:20:46,000
+Bir onu
+
+437
+00:20:46,000 --> 00:20:48,000
+Bir de yukarıda bir şey vardı
+
+438
+00:20:48,000 --> 00:20:51,180
+Bir de onu bir atar mısın
+
+439
+00:20:51,180 --> 00:20:56,829
+Bu işler
+
+440
+00:20:56,829 --> 00:21:01,710
+Bitmiyorum
+
+441
+00:21:01,710 --> 00:21:06,339
+Bir deneydi
+
+442
+00:21:06,339 --> 00:21:08,339
+Şurası
+
+443
+00:21:08,339 --> 00:21:11,869
+Bu dimi hocam
+
+444
+00:21:11,869 --> 00:21:16,750
+Aynen
+
+445
+00:21:16,750 --> 00:21:20,220
+Bir şey yapalım mı
+
+446
+00:21:20,220 --> 00:21:22,220
+Ben bunları tam böyle bir
+
+447
+00:21:22,220 --> 00:21:24,220
+Kendi kendine de
+
+448
+00:21:24,220 --> 00:21:26,509
+Söyle
+
+449
+00:21:26,509 --> 00:21:28,509
+Tam anlamaya çalışın
+
+450
+00:21:28,509 --> 00:21:30,509
+Sen bunu yapmış oldun
+
+451
+00:21:30,509 --> 00:21:32,509
+Ben şimdi bu konuyu
+
+452
+00:21:32,509 --> 00:21:34,509
+Bir mesaj göndereyim
+
+453
+00:21:34,509 --> 00:21:36,509
+Döneceğimizi sürelim onu
+
+454
+00:21:36,509 --> 00:21:38,509
+Olur hocam tamamdır
+
+455
+00:21:38,509 --> 00:21:40,509
+Diğer taraftan ben o zaman
+
+456
+00:21:40,509 --> 00:21:42,509
+Pcv üzerinden bir
+
+457
+00:21:42,509 --> 00:21:44,509
+İhtiyar Iran'ı
+
+458
+00:21:44,509 --> 00:21:46,509
+Bir an önce başlatalım
+
+459
+00:21:46,509 --> 00:21:48,509
+İkincisi de pga üzerinden
+
+460
+00:21:48,509 --> 00:21:50,509
+Hazırt Iran'ı
+
+461
+00:21:50,509 --> 00:21:52,640
+Buyurun
+
+462
+00:21:52,640 --> 00:21:55,599
+Bir şey var pga üzerinden
+
+463
+00:21:55,599 --> 00:21:57,599
+Hatta ben şöyle bir şey söyleyecektim
+
+464
+00:21:57,599 --> 00:21:59,700
+Biz
+
+465
+00:21:59,700 --> 00:22:01,700
+Bu pga yapısını
+
+466
+00:22:01,700 --> 00:22:03,859
+Pcv üzerinden de çıkartalım
+
+467
+00:22:03,859 --> 00:22:05,859
+Tamamdır
+
+468
+00:22:05,859 --> 00:22:07,859
+Ama şöyle bir şey yapalım
+
+469
+00:22:07,859 --> 00:22:09,859
+Öncesinde
+
+470
+00:22:09,859 --> 00:22:11,890
+Sercan
+
+471
+00:22:11,890 --> 00:22:13,890
+Göndermiş diye tabloları
+
+472
+00:22:13,890 --> 00:22:15,890
+Yüzde bilmem ne kaç bilmem ne
+
+473
+00:22:15,890 --> 00:22:17,890
+Yüzde bilmem ne kaç bilmem ne
+
+474
+00:22:17,890 --> 00:22:19,890
+Diyebilerimden
+
+475
+00:22:19,890 --> 00:22:21,890
+Bir şey var
+
+476
+00:22:21,890 --> 00:22:23,890
+Şekmetle
+
+477
+00:22:23,890 --> 00:22:25,890
+Kent mode şekmet
+
+478
+00:22:25,890 --> 00:22:27,890
+Fark var tamam mı
+
+479
+00:22:27,890 --> 00:22:29,890
+Onu bir şekilde dikkate bizim
+
+480
+00:22:29,890 --> 00:22:33,329
+Estimationlarımızda
+
+481
+00:22:33,329 --> 00:22:35,329
+Bu dostla ilgili
+
+482
+00:22:35,329 --> 00:22:37,329
+Senaryo basedi estimationlarımızda
+
+483
+00:22:37,329 --> 00:22:39,329
+Bunu bir şekilde dikkate almamız gerekir
+
+484
+00:22:39,329 --> 00:22:41,329
+Bununla ilgili en kolay
+
+485
+00:22:41,329 --> 00:22:43,329
+En rahat çalışma
+
+486
+00:22:43,329 --> 00:22:45,390
+Şu şekilde olur
+
+487
+00:22:45,390 --> 00:22:47,390
+Bu iki tane şey var tamam mı
+
+488
+00:22:47,390 --> 00:22:49,490
+Bunu
+
+489
+00:22:49,490 --> 00:22:51,490
+Şimdi bir dakika
+
+490
+00:22:51,490 --> 00:22:53,490
+Bir dakika
+
+491
+00:22:53,490 --> 00:22:55,490
+Bir dakika
+
+492
+00:22:55,490 --> 00:22:58,190
+Bir dakika
+
+493
+00:22:58,190 --> 00:23:00,900
+Bir dakika
+
+494
+00:23:00,900 --> 00:23:02,900
+Bir dakika
+
+495
+00:23:02,900 --> 00:23:07,579
+Nerede Sercan
+
+496
+00:23:07,579 --> 00:23:13,940
+Burada şey demiş Sercan
+
+497
+00:23:13,940 --> 00:23:16,700
+Hakkar et o kaozi
+
+498
+00:23:16,700 --> 00:23:20,910
+Campbell
+
+499
+00:23:20,910 --> 00:23:22,910
+Abrams'ın çoyu
+
+500
+00:23:22,910 --> 00:23:25,359
+Zahmet o kota
+
+501
+00:23:25,359 --> 00:23:28,539
+Bu kota da var bizde
+
+502
+00:23:28,539 --> 00:23:30,539
+Tamam mı
+
+503
+00:23:30,539 --> 00:23:32,539
+Zahmet var çoyu var
+
+504
+00:23:32,539 --> 00:23:34,539
+Campbell'da
+
+505
+00:23:34,539 --> 00:23:36,539
+Übiyatta
+
+506
+00:23:36,539 --> 00:23:43,250
+Low Q
+
+507
+00:23:43,250 --> 00:23:45,250
+Bunlardan bizim şey yapmamız lazım
+
+508
+00:23:45,250 --> 00:23:48,180
+Akar et o rjb
+
+509
+00:23:48,180 --> 00:23:50,180
+Kaozi
+
+510
+00:23:50,180 --> 00:23:52,180
+Bu model
+
+511
+00:23:52,180 --> 00:23:54,180
+İdiali şu
+
+512
+00:23:54,180 --> 00:23:56,180
+Bunlardan
+
+513
+00:23:56,180 --> 00:23:58,180
+Bunların yüzdelerini de vermiş
+
+514
+00:23:58,180 --> 00:24:00,980
+Nasıl katıldığını
+
+515
+00:24:00,980 --> 00:24:02,980
+Her bir kez için
+
+516
+00:24:02,980 --> 00:24:04,980
+Ben şöyle bir şey yaparım
+
+517
+00:24:04,980 --> 00:24:06,980
+Bu USGS'in haritalarından bağımsız
+
+518
+00:24:06,980 --> 00:24:08,980
+Ben oluştururum
+
+519
+00:24:08,980 --> 00:24:11,619
+Bunlarla ilgili
+
+520
+00:24:11,619 --> 00:24:13,619
+Ben medyanı
+
+521
+00:24:13,619 --> 00:24:15,740
+Medyan için
+
+522
+00:24:15,740 --> 00:24:18,099
+Kendim
+
+523
+00:24:18,099 --> 00:24:20,990
+Ne üretiyorum
+
+524
+00:24:20,990 --> 00:24:23,180
+Bu modeller farklı distanslarda
+
+525
+00:24:23,180 --> 00:24:25,180
+Ne üretiyor
+
+526
+00:24:25,180 --> 00:24:27,220
+As a function of magnitude
+
+527
+00:24:27,220 --> 00:24:29,220
+Bir distans
+
+528
+00:24:29,220 --> 00:24:31,220
+Ben bunun arasındaki bir bayesi bulurum
+
+529
+00:24:31,220 --> 00:24:34,079
+Ve bu bayesi
+
+530
+00:24:34,079 --> 00:24:36,079
+Bu peyat yapısının tutarlılığı için
+
+531
+00:24:36,079 --> 00:24:38,430
+Kendim
+
+532
+00:24:38,430 --> 00:24:41,420
+Estimat ettiğim senaryo
+
+533
+00:24:41,420 --> 00:24:44,859
+BGPGP
+
+534
+00:24:44,859 --> 00:24:46,859
+Bir şeylerinde
+
+535
+00:24:46,859 --> 00:24:48,859
+Bu bayesi
+
+536
+00:24:48,859 --> 00:24:50,859
+Onun üstüne katabildim
+
+537
+00:24:50,859 --> 00:24:52,859
+Yani o zaman ben gerçekten
+
+538
+00:24:52,859 --> 00:24:54,859
+USGS şekmepe
+
+539
+00:24:54,859 --> 00:24:57,119
+Öyle ya da böyle bir simule etmiş olurum
+
+540
+00:24:57,119 --> 00:25:00,559
+Bunu anlatabildim
+
+541
+00:25:00,559 --> 00:25:02,559
+Acaba yoksa bunu apayra anlatayım
+
+542
+00:25:02,559 --> 00:25:04,559
+Peki hocam şöyle
+
+543
+00:25:04,559 --> 00:25:06,559
+Burada
+
+544
+00:25:06,559 --> 00:25:08,559
+Hepisini direkt kullanmak gibi
+
+545
+00:25:08,559 --> 00:25:11,460
+Bir seçeneğimiz var mı
+
+546
+00:25:11,460 --> 00:25:14,319
+Bizi mi kullanacağız
+
+547
+00:25:14,319 --> 00:25:16,319
+Yani bizim kendi
+
+548
+00:25:16,319 --> 00:25:18,319
+Lojik tri'yimizi değil de
+
+549
+00:25:18,319 --> 00:25:20,380
+Bunların oluşturduğu
+
+550
+00:25:20,380 --> 00:25:24,140
+Lojik tri'yi
+
+551
+00:25:24,140 --> 00:25:26,849
+Şimdi burada
+
+552
+00:25:26,849 --> 00:25:28,849
+Bunların oluşturduğu Lojik tri'yi
+
+553
+00:25:28,849 --> 00:25:31,039
+Biz kullanabiliriz
+
+554
+00:25:31,039 --> 00:25:33,069
+Ama bizim yapımız
+
+555
+00:25:33,069 --> 00:25:35,069
+Yani bizim ground motion modelimiz
+
+556
+00:25:35,069 --> 00:25:37,069
+Backbone
+
+557
+00:25:37,069 --> 00:25:39,069
+Üstünü gidiyor
+
+558
+00:25:39,069 --> 00:25:42,509
+Bunlar Backbone üstüne çalışmamışlar
+
+559
+00:25:42,509 --> 00:25:44,509
+Bunlar şey yapıyor
+
+560
+00:25:44,509 --> 00:25:46,640
+Yani
+
+561
+00:25:46,640 --> 00:25:48,640
+Şunların her birisinin
+
+562
+00:25:48,640 --> 00:25:50,640
+Medyan ve standart
+
+563
+00:25:50,640 --> 00:25:53,019
+Satmasından
+
+564
+00:25:53,019 --> 00:25:55,019
+Bir medyan ve standart
+
+565
+00:25:55,019 --> 00:25:57,019
+Satma şeyi oluşturuyorlar
+
+566
+00:25:57,019 --> 00:25:59,089
+Ve bunun dikkate oluyorlar
+
+567
+00:26:01,250 --> 00:26:03,250
+Kendi modellerinde
+
+568
+00:26:03,250 --> 00:26:05,250
+Ama biz burada
+
+569
+00:26:05,250 --> 00:26:07,250
+Bunların kullanıp
+
+570
+00:26:07,250 --> 00:26:09,250
+Sonuçta medyan değerleri
+
+571
+00:26:09,250 --> 00:26:11,279
+Yani bu modellerin
+
+572
+00:26:11,279 --> 00:26:13,279
+Bu gibis modellerin medyan
+
+573
+00:26:13,279 --> 00:26:15,279
+O değerlerini şey yapıyorlar
+
+574
+00:26:15,279 --> 00:26:17,730
+Yani
+
+575
+00:26:17,730 --> 00:26:19,730
+Medyanlarını kullanıyorlar
+
+576
+00:26:19,730 --> 00:26:21,730
+Bizim de derdimiz aslında
+
+577
+00:26:21,730 --> 00:26:23,730
+USGS check maplerde
+
+578
+00:26:23,730 --> 00:26:26,269
+Medyan değerlere göre
+
+579
+00:26:26,269 --> 00:26:28,269
+Kendi yapımızı
+
+580
+00:26:28,269 --> 00:26:32,029
+Test etmek
+
+581
+00:26:32,029 --> 00:26:34,480
+O zaman kendi senaryoları
+
+582
+00:26:34,480 --> 00:26:36,480
+Test edeceğimiz
+
+583
+00:26:36,480 --> 00:26:38,799
+Fittip senaryolarımızı
+
+584
+00:26:38,799 --> 00:26:40,799
+Buradan evleneceğimiz
+
+585
+00:26:40,799 --> 00:26:44,460
+Yani o kendi
+
+586
+00:26:44,460 --> 00:26:46,460
+Çalışmamıza kullanacağımız
+
+587
+00:26:46,460 --> 00:26:48,460
+Medyan pc
+
+588
+00:26:48,460 --> 00:26:52,059
+Pcv değerlerini
+
+589
+00:26:52,059 --> 00:26:54,259
+Biz buradaki yapıdan
+
+590
+00:26:54,259 --> 00:26:56,259
+Öğrendiğimiz
+
+591
+00:26:56,259 --> 00:26:58,829
+Bayes'e göre
+
+592
+00:26:58,829 --> 00:27:03,170
+Modify edebiliriz
+
+593
+00:27:03,170 --> 00:27:05,170
+O zaman payout yapımızdaki
+
+594
+00:27:05,170 --> 00:27:07,170
+Hakikaten
+
+595
+00:27:07,170 --> 00:27:09,170
+Ne olduk ne bittiğini
+
+596
+00:27:09,170 --> 00:27:11,170
+Önerdiğimiz payout yapısında
+
+597
+00:27:11,170 --> 00:27:13,170
+Ne olduk ne bittiğini önder
+
+598
+00:27:13,170 --> 00:27:15,680
+Yapabiliriz
+
+599
+00:27:15,680 --> 00:27:17,680
+Görebiliriz
+
+600
+00:27:17,680 --> 00:27:19,680
+Ona göre bu payout yapısını
+
+601
+00:27:19,680 --> 00:27:21,680
+Denemişler
+
+602
+00:27:21,680 --> 00:27:24,420
+Maria Infantino'lar
+
+603
+00:27:24,420 --> 00:27:26,420
+Benim anladığım
+
+604
+00:27:26,420 --> 00:27:28,420
+Ona göre de
+
+605
+00:27:28,420 --> 00:27:30,420
+Fine tuning yapmışlar
+
+606
+00:27:30,420 --> 00:27:32,420
+Şimdi neden örediyorum bunlar
+
+607
+00:27:32,420 --> 00:27:34,420
+Biz onlara ne verdik
+
+608
+00:27:34,420 --> 00:27:36,420
+Pcv değerlerini verdik
+
+609
+00:27:36,420 --> 00:27:38,420
+Dost değerlerini verdik değil mi
+
+610
+00:27:38,420 --> 00:27:40,420
+Her bir karelerdeki medyan
+
+611
+00:27:40,420 --> 00:27:42,420
+Pcv değerleri var
+
+612
+00:27:42,420 --> 00:27:44,420
+Ve ona karşılık gelen dost değerleri var
+
+613
+00:27:44,420 --> 00:27:46,609
+Buna göre bir payout yapısı çıkartmışlar
+
+614
+00:27:46,609 --> 00:27:48,640
+Sonrasında
+
+615
+00:27:48,640 --> 00:27:51,410
+Bunu gitmişler
+
+616
+00:27:51,410 --> 00:27:53,410
+Bu payout yapısını gitmişler
+
+617
+00:27:53,410 --> 00:27:55,410
+Yözecez
+
+618
+00:27:55,410 --> 00:27:57,410
+Şekmepteki
+
+619
+00:27:57,410 --> 00:28:00,910
+Gerçekten
+
+620
+00:28:00,910 --> 00:28:02,910
+Senaryolarla test etmişler
+
+621
+00:28:02,910 --> 00:28:04,940
+Bunu yaparken de
+
+622
+00:28:04,940 --> 00:28:06,940
+Bizim vermiş olduğumuz
+
+623
+00:28:06,940 --> 00:28:08,940
+Medyan Pcv değerlerini
+
+624
+00:28:08,940 --> 00:28:10,940
+Yözecez
+
+625
+00:28:10,940 --> 00:28:12,940
+Şekmepteki medyan
+
+626
+00:28:12,940 --> 00:28:14,940
+Pcv değerleriyle görmüş oldukları
+
+627
+00:28:14,940 --> 00:28:16,940
+O Bayes'i
+
+628
+00:28:16,940 --> 00:28:18,940
+Bir şekilde dikkatı alarak
+
+629
+00:28:18,940 --> 00:28:20,940
+Pcv değerlerimizi
+
+630
+00:28:20,940 --> 00:28:22,940
+Değiştirmişler
+
+631
+00:28:22,940 --> 00:28:24,940
+Değil mi
+
+632
+00:28:24,940 --> 00:28:28,609
+Çünkü ellerimde başka bir şey yok
+
+633
+00:28:28,609 --> 00:28:32,460
+Evet hocam
+
+634
+00:28:32,460 --> 00:28:34,460
+Biz de bunu
+
+635
+00:28:34,460 --> 00:28:37,230
+O zaman biz şöyle bir şey diyebiliriz
+
+636
+00:28:37,230 --> 00:28:39,230
+Biz stokastik hesaplamalar
+
+637
+00:28:39,230 --> 00:28:41,230
+Sonrasında
+
+638
+00:28:41,230 --> 00:28:43,490
+Bir payout yapısı
+
+639
+00:28:43,490 --> 00:28:45,490
+Uğuşturuyor
+
+640
+00:28:45,490 --> 00:28:48,319
+Ondan sonra bunu kritik
+
+641
+00:28:48,319 --> 00:28:50,319
+Denemeye başlıyoruz
+
+642
+00:28:50,319 --> 00:28:52,420
+Denemeye başladığımızda
+
+643
+00:28:52,420 --> 00:28:54,420
+Biz stokastik
+
+644
+00:28:54,420 --> 00:28:57,279
+Los sonuçların üstünden
+
+645
+00:28:57,279 --> 00:28:59,279
+Gerçekleştireceğiz
+
+646
+00:28:59,279 --> 00:29:01,279
+Evet
+
+647
+00:29:01,279 --> 00:29:03,279
+Tamam
+
+648
+00:29:03,279 --> 00:29:05,279
+Orada bir payout yapısı
+
+649
+00:29:05,279 --> 00:29:09,200
+Çıkarttığımda
+
+650
+00:29:09,200 --> 00:29:11,200
+Ama bunu tutarlılığında
+
+651
+00:29:11,200 --> 00:29:13,390
+Tıkım senaryolarla
+
+652
+00:29:13,390 --> 00:29:16,700
+Benim justifikaya yapmıyoruz
+
+653
+00:29:16,700 --> 00:29:18,700
+Belki justifikaya yaparken
+
+654
+00:29:18,700 --> 00:29:20,700
+Bir scaling yapmamız lazım
+
+655
+00:29:20,700 --> 00:29:22,700
+Değil mi
+
+656
+00:29:22,700 --> 00:29:24,700
+Anladım hocam
+
+657
+00:29:24,700 --> 00:29:26,700
+Pcv depremlerde zaten yayınlıyor
+
+658
+00:29:26,700 --> 00:29:29,019
+Yani zaten yayınladığı
+
+659
+00:29:29,019 --> 00:29:31,019
+Şekmepe direkt kullansak
+
+660
+00:29:31,019 --> 00:29:35,329
+Şimdi şöyle bir şey
+
+661
+00:29:35,329 --> 00:29:39,440
+Kendi ya Pcv cinsinden
+
+662
+00:29:39,440 --> 00:29:41,660
+Üretiyorum
+
+663
+00:29:41,660 --> 00:29:44,500
+Ben
+
+664
+00:29:44,500 --> 00:29:46,529
+İki türlü işlem yapabilirim
+
+665
+00:29:46,529 --> 00:29:48,529
+Bunlardan bir tanesi
+
+666
+00:29:48,529 --> 00:29:50,529
+Kendi üretmiş olduğum medyan
+
+667
+00:29:50,529 --> 00:29:52,529
+Pcv ve Pcv
+
+668
+00:29:52,529 --> 00:29:54,529
+Fiyatlarım var
+
+669
+00:29:54,529 --> 00:29:56,529
+Bu istiyiz
+
+670
+00:29:56,529 --> 00:29:58,940
+Şekmeplerden oluşturduğum
+
+671
+00:29:58,940 --> 00:30:02,670
+Fiyatlarla
+
+672
+00:30:02,670 --> 00:30:04,670
+Kaptı
+
+673
+00:30:04,670 --> 00:30:06,670
+Bu bana bir serbestli tanır
+
+674
+00:30:06,670 --> 00:30:08,670
+Ben pek çok senaryolarda
+
+675
+00:30:08,670 --> 00:30:11,599
+Kullanabilirim
+
+676
+00:30:11,599 --> 00:30:13,599
+Ya da yalnız ve yalnız
+
+677
+00:30:13,599 --> 00:30:15,599
+USTS'ın
+
+678
+00:30:15,599 --> 00:30:18,619
+Şu ana kadar şey yapmış olduğu
+
+679
+00:30:18,619 --> 00:30:20,619
+Yayınlamış olduğu
+
+680
+00:30:20,619 --> 00:30:23,259
+Depremler üstünden gidi
+
+681
+00:30:23,259 --> 00:30:25,259
+Anladım hocam
+
+682
+00:30:25,259 --> 00:30:27,259
+Yani o zaman siz şey
+
+683
+00:30:27,259 --> 00:30:29,259
+Siz o zaman şey diyorsunuz
+
+684
+00:30:29,259 --> 00:30:31,259
+Mesela biz Marmara Senaryoları için de
+
+685
+00:30:31,259 --> 00:30:36,759
+USTS'li aramızdaki ilişkiyi bilirsek Marmara Senaryoları için de olmamış
+
+686
+00:30:36,759 --> 00:30:40,259
+Senaryoları için de bu scaling'i kullanabiliriz.
+
+687
+00:30:40,259 --> 00:30:42,259
+Aynen USTS'i imit edin.
+
+688
+00:30:42,259 --> 00:30:46,289
+Anladım. Anladım hocam tamamdır.
+
+689
+00:30:46,289 --> 00:30:49,289
+Yani bunu sercan sercan akbaşlak yapar.
+
+690
+00:30:49,289 --> 00:30:56,019
+Onunla beraber bir bunu aslında merve de çok iyi yapabilir.
+
+691
+00:30:56,019 --> 00:31:00,640
+Yani bu konularda o yetkin bir liste.
+
+692
+00:31:00,640 --> 00:31:04,140
+Bir şey yapalım mı bak sen lütfen bir çalışmaya başla.
+
+693
+00:31:04,140 --> 00:31:08,619
+Bizim şu anda payat yapması bir çıkartmamız lazım değil mi?
+
+694
+00:31:08,619 --> 00:31:10,539
+Evet.
+
+695
+00:31:10,539 --> 00:31:13,539
+Bu bizim temelimiz. Bizim payat yapısını çıkartmamız lazım.
+
+696
+00:31:13,539 --> 00:31:18,140
+Bu payat yapısını çıkartırsak biz.
+
+697
+00:31:18,140 --> 00:31:24,339
+Ondan sonraki aşamada ben şey yapacağım.
+
+698
+00:31:24,339 --> 00:31:26,950
+Bunun denemesini gerçekleştireceğim.
+
+699
+00:31:26,950 --> 00:31:32,130
+Bununla alakalı buluşma gerçekleştireceğim.
+
+700
+00:31:32,130 --> 00:31:36,130
+Bir benim fırtınası halinde bir şey yapalım.
+
+701
+00:31:36,130 --> 00:31:40,079
+Tabi hocam tamamdır.
+
+702
+00:31:40,079 --> 00:31:42,079
+Bunun üstünden yürüyüp gidersin onu.
+
+703
+00:31:42,079 --> 00:31:44,849
+Tamam tamam.
+
+704
+00:31:44,849 --> 00:31:47,849
+Ben şimdi şu Ege'ye bir şey atayım.
+
+705
+00:31:47,849 --> 00:31:49,849
+Sen bana çatları attın değil mi?
+
+706
+00:31:49,849 --> 00:31:51,880
+Evet hocam artık.
+
+707
+00:31:51,880 --> 00:31:52,880
+Tamam tamam.
+
+708
+00:31:52,880 --> 00:31:57,910
+Bir de peki bu şeyde Open AI'da veyahut da
+
+709
+00:31:57,910 --> 00:31:59,940
+işte ne bileyim başka türlü.
+
+710
+00:31:59,940 --> 00:32:02,940
+Bu mesela aramesin. Hazırt modellemesi.
+
+711
+00:32:02,940 --> 00:32:04,940
+GroundMotion.
+
+712
+00:32:04,940 --> 00:32:07,940
+Onlarla ilgili bir araştırma yapmış mıydınız?
+
+713
+00:32:07,940 --> 00:32:10,390
+Yok hocam.
+
+714
+00:32:10,390 --> 00:32:12,390
+Yani ne kullanıyorlar bilmiyorum.
+
+715
+00:32:12,390 --> 00:32:17,390
+Tamam ben bunu da bir bu esnada bir yapmaya çalışayım da
+
+716
+00:32:17,390 --> 00:32:18,390
+Nurullah.
+
+717
+00:32:18,390 --> 00:32:20,390
+Bu heriflere bir adam akıllı bir cevap verelim.
+
+718
+00:32:20,390 --> 00:32:21,390
+Oldum.
+
+719
+00:32:21,390 --> 00:32:26,390
+Yalnız yani ben birazcık bu işi yani tecrübem varsa
+
+720
+00:32:26,390 --> 00:32:29,390
+ben benimle işte aktyomotiv bir karşılaştırma.
+
+721
+00:32:29,390 --> 00:32:37,160
+Yani onların kesinlikle medyan değerlerle üstünden iş yapmadığını düşünüyorum.
+
+722
+00:32:37,160 --> 00:32:42,059
+Bu kadar büyük farklar olamaz yani imkansız bir şey.
+
+723
+00:32:42,059 --> 00:32:45,849
+O sen yapmış oldun.
+
+724
+00:32:45,849 --> 00:32:48,869
+İgzal dosyası mıydı o?
+
+725
+00:32:48,869 --> 00:32:50,869
+Eee ne hocam hangisi?
+
+726
+00:32:50,869 --> 00:32:54,900
+Eee 45 derece erisinde karşılaştırma.
+
+727
+00:32:54,900 --> 00:32:56,900
+Görsel ürettim. Atabilirim onu da.
+
+728
+00:32:56,900 --> 00:32:57,900
+Görsel.
+
+729
+00:32:57,900 --> 00:32:58,900
+O görseli bir atar mısın?
+
+730
+00:32:58,900 --> 00:33:00,900
+Tam bir şey kaç kat oluyor mesela?
+
+731
+00:33:00,900 --> 00:33:05,160
+Yani iki katın üzerinde olanlar var yani.
+
+732
+00:33:05,160 --> 00:33:06,160
+Abi.
+
+733
+00:33:06,160 --> 00:33:11,160
+Yani GM modeli den kaynaklı bence denemez bu kadar yani.
+
+734
+00:33:11,160 --> 00:33:14,309
+Atıyorum hocam.
+
+735
+00:33:14,309 --> 00:33:15,309
+Kikat olamaz.
+
+736
+00:33:15,309 --> 00:33:16,309
+Kikat olamaz.
+
+737
+00:33:16,309 --> 00:33:18,309
+Medyan değerlerde iki kat olamaz.
+
+738
+00:33:18,309 --> 00:33:21,579
+Tamam şey.
+
+739
+00:33:21,579 --> 00:33:23,829
+Tamam.
+
+740
+00:33:23,829 --> 00:33:27,460
+Çok sağolsun.
+
+741
+00:33:27,460 --> 00:33:30,460
+Yani ona bitti.
+
+742
+00:33:30,460 --> 00:33:34,460
+Onu bugün içerisinde yani bugün ve atı yarın içerisinde hallederiz şimdi.
+
+743
+00:33:34,460 --> 00:33:37,359
+Hangisini hocam?
+
+744
+00:33:37,359 --> 00:33:39,869
+Eee oğurun cevabını.
+
+745
+00:33:39,869 --> 00:33:40,869
+Tamamdır.
+
+746
+00:33:40,869 --> 00:33:43,539
+Tamam.
+
+747
+00:33:43,539 --> 00:33:45,539
+O zaman haberleşiyoruz yine.
+
+748
+00:33:45,539 --> 00:33:47,539
+Peki kolay gelsin.
+
+749
+00:33:47,539 --> 00:33:51,539
+Teşekkürler kolay gelsin.
+
