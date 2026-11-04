@@ -408,7 +408,7 @@
     "report_url": "https://docs.google.com/document/d/1GROQ5MD3hHEdac3itfl0xdMkOFGXeL1r/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1PcmqoA1TOlHoy8jFsiJC-ulb6d8EorQ7": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261103_150014 - GF Parametrik.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261103_150014 - GF Parametrik.txt",
@@ -416,6 +416,10 @@
     "language": "en",
     "transcribed_at": "2026-11-04T13:40:40",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261103_150014 - GF Parametrik_Rapor.docx",
+    "reported_at": "2026-11-04T13:43:51",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1_uBFu1xmmfG0hRaseoIq8391YzDdllzu/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   }
 }
