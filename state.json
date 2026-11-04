@@ -387,5 +387,16 @@
     "transcribed_at": "2026-11-04T13:35:10",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1m0Tt0FhCSxofn9GruoYoFsrEdD93ZxPl": {
+    "status": "transcribed",
+    "source": "Ses 261104_103237 - DSA-NA-Parametrik Pt1.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261104_103237 - DSA-NA-Parametrik Pt1.txt",
+    "duration": "0:28:18",
+    "language": "tr",
+    "transcribed_at": "2026-11-04T13:36:41",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

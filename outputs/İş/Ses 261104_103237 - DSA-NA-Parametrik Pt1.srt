@@ -1,0 +1,412 @@
+1
+00:00:00,000 --> 00:00:02,029
+Yine ise laktına onu gönderiyorlar.
+
+2
+00:00:02,029 --> 00:00:09,029
+Evet hocam zaten laktına da laktına da ilçe merkezi neyse onu yollamışlar yani.
+
+3
+00:00:09,029 --> 00:00:15,929
+Sesim geliyor mu acaba?
+
+4
+00:00:15,929 --> 00:00:21,960
+Ha, seni gelmiştim.
+
+5
+00:00:21,960 --> 00:00:35,960
+Ha pardon şey diyordum hocam laktına da direkt olarak zaten o bizdeki koordinatları sonuçta atıyorlar ama laktın nasıl bir şey yapıyor onu bilmiyorum.
+
+6
+00:00:35,960 --> 00:00:43,960
+Yani kendisi tekrardan bir yani hatırlarsanız dusk için yaptığımda şöyle bir durum vardı.
+
+7
+00:00:43,960 --> 00:00:51,960
+Dusk'ı ilçe merkezlerinde verdiği için nüfusa göre onlar kendileri dağıtmışlardı.
+
+8
+00:00:51,960 --> 00:00:56,960
+Hani acaba burada da böyle bir dağıtma yaparlar mı?
+
+9
+00:00:56,960 --> 00:01:06,060
+Zaten kümülün çok büyük oranda dağıtılmış durumda geri kalanı ilçe merkezlerinde mi kalıyor?
+
+10
+00:01:06,060 --> 00:01:08,120
+Onu bilmiyorum.
+
+11
+00:01:08,120 --> 00:01:45,420
+Evet.
+
+12
+00:01:45,420 --> 00:02:13,860
+O çok orda yani sanırım işte böyle işin içinden çıkamadıkları noktada zaten ilçe merkezine atamıyor.
+
+13
+00:02:13,860 --> 00:02:18,860
+O zaman bence yani şöyle biz bu varsayımı söyleyelim.
+
+14
+00:02:18,860 --> 00:02:27,860
+Yani kendimiz bir şey yapmayalım bence ilçe merkezinde kabulü varsa ilçe merkezindeki kabul üstünden gidelim yani.
+
+15
+00:02:27,860 --> 00:02:28,860
+Tamam tamam.
+
+16
+00:02:28,860 --> 00:02:41,939
+Bu noktada o zaman yani şöyle olmuş olacak hani tekrardan paylaşırsan değilim işte şurada bir ilçe var.
+
+17
+00:02:41,939 --> 00:02:49,939
+Bu ilçenin merkezi şuradaysa şu gride ben bunu atıyorum çünkü hesaplama grit üzerinden olacağı için sonuçta.
+
+18
+00:02:49,939 --> 00:02:51,939
+Aynen.
+
+19
+00:02:51,939 --> 00:02:58,939
+Yani o merkezi hangi işte şu ilçede atıyorum 4 tane farklı grit görünüyor.
+
+20
+00:02:58,939 --> 00:03:05,939
+Bu 4 gritten hangisine düşüyorsa kümülü oraya orada kabul ediyoruz o zaman.
+
+21
+00:03:05,939 --> 00:03:11,939
+Bu zaten şu an ben zaten bunu öyle yaptım yani şu görselde o şekilde.
+
+22
+00:03:11,939 --> 00:03:15,939
+Yani o işin en düz şeyi o zaten aynen.
+
+23
+00:03:15,939 --> 00:03:21,099
+Peki hocam bu soru o zaman kapatıyorum yani bu soruyu.
+
+24
+00:03:21,099 --> 00:03:23,099
+O zaman bence şöyle bir not alayım.
+
+25
+00:03:23,099 --> 00:03:25,099
+Bir dakika şöyle bir not alayım.
+
+26
+00:04:38,139 --> 00:04:41,139
+Evet hocam.
+
+27
+00:05:10,060 --> 00:05:12,060
+Bir gün de falan bitiyormuş hocam.
+
+28
+00:05:12,060 --> 00:05:15,060
+Ben bir sercanla konuştum.
+
+29
+00:05:15,060 --> 00:05:17,060
+Bir gün falan söylüyor diyor.
+
+30
+00:05:34,610 --> 00:05:35,610
+Yani.
+
+31
+00:05:39,629 --> 00:05:40,629
+Anladım hocam.
+
+32
+00:05:45,660 --> 00:05:56,529
+Yani bilemiyorum hocam şey şimdi sonuçta mesela bazı analizler de yapacağız.
+
+33
+00:05:56,529 --> 00:05:59,490
+Atıyorum.
+
+34
+00:05:59,490 --> 00:06:03,490
+Geçen geçen şöyle bir şey yapmıştık hani şeyde diğer.
+
+35
+00:06:03,490 --> 00:06:06,550
+Dask parametrik çalışmasında.
+
+36
+00:06:06,550 --> 00:06:09,550
+Mesela gerçek dostları.
+
+37
+00:06:09,550 --> 00:06:12,550
+Pcv üzerinden bulmuştuk.
+
+38
+00:06:12,550 --> 00:06:15,550
+Pcv ve bizim pcv alınır oldularımız.
+
+39
+00:06:15,550 --> 00:06:20,550
+Ama parametrikleri Pcv üzerinden elde etmiştik.
+
+40
+00:06:20,550 --> 00:06:28,550
+Yine böyle yapacak olursak bu sefer pcv pcv arasında bir şey oluşur.
+
+41
+00:06:28,550 --> 00:06:35,899
+Ya da ikisini de mesela yeni viyes otuzlarla baştan almak gerekir vesaire.
+
+42
+00:06:35,899 --> 00:06:41,290
+Şimdi şu bir tek unutam anlamaya çalışayım.
+
+43
+00:06:41,290 --> 00:06:45,290
+Geçen dask çalışması dediğin gene parametrikle alakalı.
+
+44
+00:06:45,290 --> 00:06:47,769
+Şu en sonki evet evet.
+
+45
+00:06:47,769 --> 00:06:55,399
+Şimdi orada biz Zulaktan'ın expojür yapısını kullandık.
+
+46
+00:06:55,399 --> 00:07:02,279
+Şey pcv peyaletinin peyalet yapısı vardı.
+
+47
+00:07:02,279 --> 00:07:03,279
+Evet.
+
+48
+00:07:03,279 --> 00:07:11,529
+O pcv peyalet yapısını kullanıp biz o gridlerde pcv ürettik.
+
+49
+00:07:11,529 --> 00:07:12,529
+Aynen.
+
+50
+00:07:12,529 --> 00:07:17,029
+Medyan pcv ürettik.
+
+51
+00:07:17,029 --> 00:07:19,029
+Şey demek istiyorum hocam.
+
+52
+00:07:19,029 --> 00:07:23,029
+Şu sunum üzerinden isterseniz çok hızlıca göstereceğim.
+
+53
+00:07:23,029 --> 00:07:26,029
+Şuralarda bizim şeyler vardı diye mesela.
+
+54
+00:07:26,029 --> 00:07:31,029
+İşte pazarcık depremi net payout bir de catmode main gross loss.
+
+55
+00:07:31,029 --> 00:07:38,100
+Yani bunu biz normal pcv catmode'un kendi motorluğumuzu çalıştırarak elde ettik.
+
+56
+00:07:38,100 --> 00:07:39,100
+Yani şunları.
+
+57
+00:07:39,100 --> 00:07:44,129
+İşte mesela catmode gross loss şuymuş vesaire diye.
+
+58
+00:07:44,129 --> 00:07:48,259
+Bunları pcv üzerinden elde ettik.
+
+59
+00:07:48,259 --> 00:07:52,259
+Ama şu net payout haliyle pga üzerinden hesaplıyoruz.
+
+60
+00:07:52,259 --> 00:07:55,259
+Şey rampa pga olduğu için.
+
+61
+00:07:55,259 --> 00:08:03,259
+Şimdi de biz sonuçta bu hem rampayı hem de şey oluşturacağız ya.
+
+62
+00:08:03,259 --> 00:08:07,259
+Rampanın orada bir optimum ne olacağını vesaire.
+
+63
+00:08:07,259 --> 00:08:14,259
+Oralarda acaba yine pcv üzerinden de ranalmak gerekir mi?
+
+64
+00:08:14,259 --> 00:08:16,350
+O zaman bu kesinlikle.
+
+65
+00:08:16,350 --> 00:08:19,350
+Onu şey yaptığım için.
+
+66
+00:08:20,350 --> 00:08:24,350
+Yani kesinlikle dostları pga üzerinden almak gerekir.
+
+67
+00:08:24,350 --> 00:08:26,660
+Kesinlikle.
+
+68
+00:08:26,660 --> 00:08:30,660
+Çünkü öteki türlü işin içine başka bir belesizlik katıyorsun.
+
+69
+00:08:30,660 --> 00:08:38,659
+Bu şekilde verdiğin zaman da yani genel belesizlik devam ediyor.
+
+70
+00:08:38,659 --> 00:08:41,820
+Şey hocam bir yandan da şöyle bir şey var.
+
+71
+00:08:41,820 --> 00:08:44,820
+Hani pga'yı da bu.
+
+72
+00:08:44,820 --> 00:08:46,820
+Konverjimleri yapar.
+
+73
+00:08:46,820 --> 00:08:49,820
+Yapılıyor ama orada da bu sefer belesizlik.
+
+74
+00:08:50,820 --> 00:08:53,820
+Yani buna bir şey yapamıyoruz.
+
+75
+00:08:53,820 --> 00:08:59,820
+Şunu yani şu çok şey olur.
+
+76
+00:08:59,820 --> 00:09:13,750
+Şimdi sen zaten payout yapısını elde ederken.
+
+77
+00:09:13,750 --> 00:09:23,700
+Bu mevcut kümüldeki her bir tesis ait hasar görebilirliği pga'yı kesinlikle yapıyorsun.
+
+78
+00:09:23,700 --> 00:09:24,700
+Değil mi?
+
+79
+00:09:24,700 --> 00:09:26,889
+Kullanacaksın.
+
+80
+00:09:30,029 --> 00:09:32,029
+İşte şey düşündüm mevcuğum.
+
+81
+00:09:32,029 --> 00:09:35,029
+Orada mesela gerçeklosu bulacağız ya.
+
+82
+00:09:35,029 --> 00:09:39,029
+Gerçeklosu bulurken direkt pgv üzerinden de yapabiliriz.
+
+83
+00:09:39,029 --> 00:09:41,029
+Onun çünkü rampayla ilişkisi olmayacak aslında.
+
+84
+00:09:41,029 --> 00:09:47,559
+Ama gerçeklosu sen pgv cesinden bulurken.
+
+85
+00:09:47,559 --> 00:09:55,169
+Daha sonra bunu pga'ya bağlı bir şeyin üstünden bir rampayla.
+
+86
+00:09:55,169 --> 00:09:56,169
+Tamam.
+
+87
+00:09:56,169 --> 00:09:57,169
+Evet.
+
+88
+00:09:57,169 --> 00:10:20,980
+Yani şey çünkü gerçek hani biz pgv vanlı bulutlarımız yani vanlı bulutlarımızın daha doğrusu orijinal hali pgv olduğu için sanki gerçeklosu pgv üzerinden bulmak daha şey geldi bana ama şey yani o hani işte o yüzden size şey yapıyorum.
+
+89
+00:10:20,980 --> 00:10:35,379
+Yani orada losu pgv cinsinden bulup medyan pga'yla ilişkilendirmek.
+
+90
+00:10:39,070 --> 00:10:48,070
+Sonuçta şey hocam hani hasar görevlilik kullanıldıktan sonra artık los oluyor yani o pga'da olsa pgv'da olsa sonuçta losu ulaşıyoruz.
+
+91
+00:10:48,070 --> 00:10:49,070
+Aynen.
+
+92
+00:10:49,070 --> 00:10:58,490
+Yani biz orada los üzerinden o optimizasyonu yapacağımız için öyle olabilir mi diye düşündüm ya.
+
+93
+00:10:58,490 --> 00:11:16,850
+Şundan kesin emin olsak mesela pga vanlı bulutlarımız ile alınan losuranıyla pgv vanlı bulutlarımız ile alınan losuranı zaten aynı sonucu veriyor noktasında olsak.
+
+94
+00:11:16,850 --> 00:11:22,850
+Aslında zaten şöyle bir şey vuruldu zaten bunun imkanı yok.
+
+95
+00:11:22,850 --> 00:11:23,850
+Evet.
+
+96
+00:11:55,000 --> 00:11:56,000
+Evet.
+
+97
+00:12:21,820 --> 00:12:22,820
+Evet.
+
+98
+00:12:29,580 --> 00:12:30,580
+Aynen.
+
+99
+00:13:10,210 --> 00:13:11,529
+Evet.
+
+100
+00:13:12,529 --> 00:13:13,529
+Evet.
+
+101
+00:13:34,289 --> 00:13:37,370
+Aynen.
+
+102
+00:14:16,899 --> 00:14:20,899
+Olur olur hocam tamamdır görüşürüz.
+
+103
+00:17:18,099 --> 00:17:19,099
+Evet.
+
