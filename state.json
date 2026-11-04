@@ -398,5 +398,16 @@
     "transcribed_at": "2026-11-04T13:36:41",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1PcmqoA1TOlHoy8jFsiJC-ulb6d8EorQ7": {
+    "status": "transcribed",
+    "source": "Ses 261103_150014 - GF Parametrik.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261103_150014 - GF Parametrik.txt",
+    "duration": "0:30:26",
+    "language": "en",
+    "transcribed_at": "2026-11-04T13:40:40",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
