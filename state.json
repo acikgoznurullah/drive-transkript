@@ -451,5 +451,16 @@
     "reported_at": "2026-11-08T14:24:18",
     "uploaded.docx": true,
     "report_url": "https://docs.google.com/document/d/15ech753Dx5Sdukqau6Ykr-Gqy-K5f0iw/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
+  },
+  "1c4SV8jFHvjmeHMIzKiEcxZKaPXhkKPTU": {
+    "status": "transcribed",
+    "source": "Ses 261108_140349.m4a",
+    "category": "Özel",
+    "txt": "outputs/Özel/Ses 261108_140349.txt",
+    "duration": "0:34:27",
+    "language": "tr",
+    "transcribed_at": "2026-11-08T14:57:38",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
