@@ -477,5 +477,16 @@
     "transcribed_at": "2026-11-14T01:33:05",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1Rx-dB505L0r_PHLy4Bwltqfq1Ltxx2hV": {
+    "status": "transcribed",
+    "source": "Ses 261113_200932 - MC Tefsir.m4a",
+    "category": "Özel",
+    "txt": "outputs/Özel/Ses 261113_200932 - MC Tefsir.txt",
+    "duration": "1:29:21",
+    "language": "tr",
+    "transcribed_at": "2026-11-14T02:03:03",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
