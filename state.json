@@ -468,7 +468,7 @@
     "report_url": "https://docs.google.com/document/d/1W7YTNd_5g54u5dxSZo1OovXJVbz4sj0i/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1lJnU961VWzeqeTzuqYxL0dDjqPs1wlYJ": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261109_180854 - OnurŞ-ÖmerA.m4a",
     "category": "Doktora",
     "txt": "outputs/Doktora/Ses 261109_180854 - OnurŞ-ÖmerA.txt",
@@ -476,7 +476,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-14T01:33:05",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/Doktora/Ses 261109_180854 - OnurŞ-ÖmerA_Rapor.docx",
+    "reported_at": "2026-11-14T02:06:27",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1JsqWzAEm9KtbeYTOzuOS-2LSXfXnXbXj/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1Rx-dB505L0r_PHLy4Bwltqfq1Ltxx2hV": {
     "status": "transcribed",
