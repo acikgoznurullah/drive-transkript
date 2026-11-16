@@ -496,5 +496,16 @@
     "reported_at": "2026-11-14T02:06:32",
     "uploaded.docx": true,
     "report_url": "https://docs.google.com/document/d/17f3chAC58NVL_w1zKd12nwhEK-SSJzRl/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
+  },
+  "1e-f_ArYpfCC23aihQ2Z3dq-9SgEbPGzq": {
+    "status": "transcribed",
+    "source": "Ses 261116_150004 - Türkre-Lockton Marm İhti Parametrik.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261116_150004 - Türkre-Lockton Marm İhti Parametrik.txt",
+    "duration": "0:37:56",
+    "language": "en",
+    "transcribed_at": "2026-11-16T18:05:04",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

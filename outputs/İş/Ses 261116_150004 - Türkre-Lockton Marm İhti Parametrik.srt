@@ -1,0 +1,1080 @@
+1
+00:00:29,870 --> 00:00:42,530
+seems to be ready. We're ready. Super. So we've undertaken a review of the revised data that
+
+2
+00:00:42,530 --> 00:00:51,170
+you've sent over to us for your MAMRA fact port. So we completed that middle of last week
+
+3
+00:00:51,170 --> 00:00:57,460
+and I think if it wasn't for Microsoft having some problems we would have had this call
+
+4
+00:00:57,460 --> 00:01:04,340
+maybe on Friday. Hopefully a little break from the laptop for everyone because of that.
+
+5
+00:01:05,540 --> 00:01:11,409
+So we've undertaken all the work. There are more things we can do.
+
+6
+00:01:12,769 --> 00:01:21,439
+We've done to date as we've compared last year with this year. Slightly adjusted the box is
+
+7
+00:01:21,439 --> 00:01:29,920
+the grid sorry to capture the USGS shake map more accurately. We've then also looked at
+
+8
+00:01:29,920 --> 00:01:35,040
+an alternative multi-layer structure. So for different types of assets in the portfolio
+
+9
+00:01:36,159 --> 00:01:44,909
+something that you could do. We'll go through that. And also Liberty have asked us about
+
+10
+00:01:44,909 --> 00:01:50,269
+perhaps the introduction of their sensor methodology which is something we can maybe
+
+11
+00:01:50,269 --> 00:01:56,030
+pick up later but they're interested in perhaps leading the program but using
+
+12
+00:01:57,069 --> 00:02:04,530
+a sensor based model so we can talk to that as well. So I'll just share my screen.
+
+13
+00:02:10,879 --> 00:02:18,560
+So we'll share this with you. Perhaps tomorrow we'll have to set up a share file for it but we'll
+
+14
+00:02:18,560 --> 00:02:24,159
+share this with you as soon as possible. But maybe if we just start with last year versus
+
+15
+00:02:24,240 --> 00:02:29,520
+this year's portfolios please stop me if by the way if you want me to answer any questions or if
+
+16
+00:02:29,520 --> 00:02:35,280
+you want to take a conversation in a different direction by the way. So because I can I can
+
+17
+00:02:35,280 --> 00:02:43,659
+talk for a while. But essentially what we're seeing here is that there are less sales
+
+18
+00:02:43,659 --> 00:02:51,539
+at risk just come down slightly. There are less sales at risk than last year but with higher
+
+19
+00:02:51,539 --> 00:03:00,099
+values so greater exposure. So the exposure change is 6.7% and the slightly increased risk
+
+20
+00:03:00,099 --> 00:03:09,280
+profile as well. So this is the 2025 grid. This is the 2026 grid and you can see that
+
+21
+00:03:09,280 --> 00:03:16,240
+you know there's obviously slightly less sales but a bit more exposure in there and certainly
+
+22
+00:03:16,240 --> 00:03:22,159
+towards the south region of Istanbul and also some slightly higher exposures
+
+23
+00:03:22,159 --> 00:03:34,340
+over towards Qatebi. So these are the expiring versus new factors. As a result of that I expect
+
+24
+00:03:34,340 --> 00:03:41,139
+to see maybe a slight premium increase but our position with the market will be no increase.
+
+25
+00:03:41,139 --> 00:03:47,060
+Okay so that's how we're going to sort position it or we think we should position it with market.
+
+26
+00:03:47,139 --> 00:03:54,750
+So more exposure but same same sort of premium as last year or maybe a slight reduction.
+
+27
+00:03:56,509 --> 00:04:15,969
+So hold on a second sorry I've gone to the wrong okay. So we could also look at different
+
+28
+00:04:15,969 --> 00:04:21,410
+different ratings. So at the moment as you know we're operating on peak ground acceleration
+
+29
+00:04:22,740 --> 00:04:28,899
+but what we could do based on the types of assets at risk is to use different kinds of
+
+30
+00:04:28,980 --> 00:04:36,100
+spectral acceleration by building type or building asset. So as you can see here
+
+31
+00:04:36,100 --> 00:04:45,300
+we've broken them down to spectral acceleration 0.1234 PGA 0.6 and we've also assigned the values
+
+32
+00:04:45,300 --> 00:04:50,660
+to those. These are the ones that would respond in different ways more effectively and you can
+
+33
+00:04:50,660 --> 00:04:54,180
+sort of see there's some analysis here that you can read through at your own leisure.
+
+34
+00:04:54,959 --> 00:05:02,560
+So Paul excuse me can I just ask a question before you proceed with the
+
+35
+00:05:02,560 --> 00:05:11,199
+intense symmetrics. So how do you distribute the exposure over the cells? Are you going to give
+
+36
+00:05:11,199 --> 00:05:18,819
+some more explanation on that? Yes so each cell would essentially have six payout tables
+
+37
+00:05:20,160 --> 00:05:27,839
+so you would if you were calculating a PGA loss at the same time you would calculate every other
+
+38
+00:05:27,839 --> 00:05:35,699
+regime but each cell would have a value assigned to it for that regime so you'd have six regimes
+
+39
+00:05:35,699 --> 00:05:43,860
+six different values and then six payouts per cell. Oh no I'll make it more clear my question.
+
+40
+00:05:43,860 --> 00:05:54,670
+Sorry. So essentially you have this facultated exposure different kinds of agreements
+
+41
+00:05:55,310 --> 00:06:05,310
+agreements having one single risk or agreements having multiple risks at multiple locations so
+
+42
+00:06:05,310 --> 00:06:16,370
+essentially how did you distribute the exposure over those cells the payout structure? Yeah okay
+
+43
+00:06:16,370 --> 00:06:26,529
+good question so these are the essentially the payout tables per regime okay and this is using
+
+44
+00:06:26,529 --> 00:06:41,170
+AIRs best fit for each type of asset so in here somewhere I have to find the raising what what
+
+45
+00:06:41,170 --> 00:06:45,889
+because I guess what you want to know is what's in all of these right to correspond and why have
+
+46
+00:06:45,889 --> 00:06:52,050
+they been put in there so I think we have that information somewhere it's broken down by
+
+47
+00:06:52,850 --> 00:07:02,100
+heavy industrial heavy like heavy industrial schools and things like that and different types
+
+48
+00:07:02,100 --> 00:07:16,139
+of occupancies or I may not have it we have got it one second and just see here we go okay so in each
+
+49
+00:07:19,620 --> 00:07:23,300
+in the in the information that's been provided we get a one of these
+
+50
+00:07:23,860 --> 00:07:29,939
+codes to tell us which type of asset we have in there okay and you can also use this I guess
+
+51
+00:07:30,019 --> 00:07:36,660
+quite usefully again within within Turk read to see where your exposure has fallen and where
+
+52
+00:07:36,660 --> 00:07:43,459
+it's increased so for example greater retail than last year less heavy manufacturing so probably
+
+53
+00:07:43,459 --> 00:07:50,319
+makes a slightly better portfolio mix and so what we've what we've then done is look to
+
+54
+00:07:50,959 --> 00:08:03,439
+the occupancy and then we've applied the most appropriate fit for both the industrial
+
+55
+00:08:03,439 --> 00:08:10,319
+residential and commercial assets that you saw in that previous graphic
+
+56
+00:08:19,360 --> 00:08:26,240
+okay I'm not going to keep you busy with this question but I just wanted to know so say that
+
+57
+00:08:26,240 --> 00:08:35,889
+you have single risk policies with certain coordinates and having a total issued value
+
+58
+00:08:37,179 --> 00:08:47,259
+and then you have multiple risk policies with each say risk located in a different
+
+59
+00:08:47,820 --> 00:08:54,299
+say location yeah we say that you know all the coordinates and everything and then
+
+60
+00:08:55,019 --> 00:09:05,620
+each risk has a sort of an issued value isn't it so yeah by no one dose you have come up
+
+61
+00:09:05,620 --> 00:09:13,379
+with the distribution correct exposure over the entire great that you have just shown to us
+
+62
+00:09:13,379 --> 00:09:19,440
+that's what exactly that's correct that's correct yeah okay thank you thank you it's been yeah it's
+
+63
+00:09:19,440 --> 00:09:28,259
+all been disaggregated in that in that respect okay so what what we've looked at with this
+
+64
+00:09:28,259 --> 00:09:37,840
+multi-layer structure is putting each risk into a different regime to reflect whether it's concrete
+
+65
+00:09:37,840 --> 00:09:46,350
+and or otherwise or what the has a intensity maybe on a different type of occupancy and so what you
+
+66
+00:09:46,350 --> 00:09:53,710
+can essentially have is six different payout tables for the asset in question so you might
+
+67
+00:09:53,710 --> 00:09:59,710
+would have a mix perhaps of assets that are in a particular cell and you can apply a different
+
+68
+00:09:59,710 --> 00:10:09,100
+ratio now what you would likely end up with is greater accuracy of payout in the event of a major
+
+69
+00:10:09,100 --> 00:10:17,580
+earthquake they will come at a price okay so it will be a higher cost essentially the versus the
+
+70
+00:10:17,580 --> 00:10:24,379
+pga cover that we have in place at the moment so I think that is detailed in this report
+
+71
+00:10:26,059 --> 00:10:31,179
+but of course there's quite a lot of information here
+
+72
+00:10:35,220 --> 00:10:43,379
+so this report has all the all relevant information related to what kind of risk
+
+73
+00:10:44,399 --> 00:10:54,779
+is described by a specific industry that's correct that kind of correct that's right
+
+74
+00:10:54,779 --> 00:11:04,269
+so you can see here is if we bring all of the different regimes into question okay we have an
+
+75
+00:11:04,269 --> 00:11:13,860
+expected loss per per regime and as you can see here and you know it's all and again if you were
+
+76
+00:11:13,940 --> 00:11:19,220
+to base it based on the existing purchase of a five million deductible and a hundred million
+
+77
+00:11:19,220 --> 00:11:26,419
+aggregate limit you can see that the expected the net expected loss is higher than what we
+
+78
+00:11:26,419 --> 00:11:34,899
+have currently and we think the rate online would be about a percent higher so greater
+
+79
+00:11:34,899 --> 00:11:43,779
+granularity in the regime will create higher likely higher pricing however the claim settlement
+
+80
+00:11:43,779 --> 00:11:49,220
+may be more accurate it doesn't mean that the claim settlement would be greater or less
+
+81
+00:11:49,220 --> 00:11:56,480
+right it just means it would be more accurate so that's an option that we can put together
+
+82
+00:11:58,029 --> 00:12:06,159
+it's completely your decision however I think that the existing cover actually gives you a good
+
+83
+00:12:06,159 --> 00:12:13,100
+cover without being as accurate as this but of course it comes at a higher cost
+
+84
+00:12:13,100 --> 00:12:22,720
+I don't any questions on these are the you know the different payout curves so you can see that
+
+85
+00:12:22,720 --> 00:12:31,379
+the payout curve and the PGA on the existing basis is lower and that's also what drives the price
+
+86
+00:12:34,450 --> 00:12:41,169
+again Paul just one question the technical one again so essentially for each different
+
+87
+00:12:42,269 --> 00:12:53,330
+distance metric I'm sorry ground motion test metric you are considering the median
+
+88
+00:12:55,179 --> 00:13:09,120
+hazard results with the event by event with the occurred losses given a specific cell
+
+89
+00:13:09,120 --> 00:13:17,840
+is it the case that is the case yeah okay so it means for each so in your in AIR
+
+90
+00:13:17,840 --> 00:13:36,269
+stochastic set you do have the information of median hazard curves for each cell I need to ask Henry that
+
+91
+00:13:36,269 --> 00:13:43,149
+he's on holiday but I expect I would expect that would be the case yes okay if you if you
+
+92
+00:13:43,149 --> 00:13:50,700
+I mean if it makes easier I can note it while listening to you and send it to you of course
+
+93
+00:13:50,700 --> 00:13:55,740
+that would be great yeah but I think that is the case but we would of course for a hundred percent
+
+94
+00:13:55,740 --> 00:14:04,700
+certainty I think to check with Henry so median ground motion in 10 stimulates the center at the
+
+95
+00:14:04,700 --> 00:14:12,940
+center point all the all the so that that's going to be related to the losses at the cell level
+
+96
+00:14:14,340 --> 00:14:21,179
+and then you get the payout structure that's right yeah or I'll just and then it's the
+
+97
+00:14:21,179 --> 00:14:28,139
+sum of all the cells that pays out I'll just make it as clear as possible in my text in my email
+
+98
+00:14:29,259 --> 00:14:41,379
+and then send it to you so that you can convey to your colleague happy to happy to yeah no problem
+
+99
+00:14:41,379 --> 00:14:47,299
+so that's that's another type of methodology that we could use to implement cover this year
+
+100
+00:14:47,299 --> 00:14:59,179
+if that's of interest based on last year sorry go back here based on last year
+
+101
+00:15:00,779 --> 00:15:07,340
+we're expecting if you would well there's some options right we can increase or reduce the
+
+102
+00:15:07,340 --> 00:15:14,690
+deductible I don't think reducing the deductible sorry I don't think increasing the deductible will
+
+103
+00:15:14,690 --> 00:15:20,049
+give you much margin from premium savings to be honest but it's something we can check
+
+104
+00:15:20,049 --> 00:15:23,730
+so we could maybe bring that up to around 10 million depending on what
+
+105
+00:15:24,769 --> 00:15:32,509
+Turkey wished to do we could like I say change the regime multiple regimes to
+
+106
+00:15:33,789 --> 00:15:39,230
+per cover in place again different deductibles at this stage we haven't we haven't done that
+
+107
+00:15:39,230 --> 00:15:46,990
+work but it's something that we can do fairly quickly and whilst our pricing you know is probably
+
+108
+00:15:46,990 --> 00:15:52,190
+a bit more conservative than the market as well so that was sort of shown last year I think
+
+109
+00:15:53,659 --> 00:16:04,139
+from memory we we priced it at 2.7 and I think that the outcome was 2.4 so it might be that our
+
+110
+00:16:05,679 --> 00:16:10,879
+our structure is a little bit conservative on pricing than what we can achieve from the market
+
+111
+00:16:12,639 --> 00:16:20,419
+so that that's really that and then in addition to that we've spoken to all the markets and
+
+112
+00:16:21,059 --> 00:16:27,139
+they're all happy to continue to be on the program subject to adequate pricing of course
+
+113
+00:16:27,700 --> 00:16:32,500
+and but we we think we could probably push for a small reduction in price
+
+114
+00:16:34,769 --> 00:16:38,450
+depending again on what structure Tabry would like to explore
+
+115
+00:16:39,250 --> 00:16:45,009
+and sorry I realized I'm still I'm still sharing but is there any questions at this point I'll just
+
+116
+00:16:45,009 --> 00:16:55,340
+pause there okay so the only other thing to mention as you're very familiar with this
+
+117
+00:16:55,419 --> 00:17:01,980
+program now really is if you'd like to explore alternatives where you feel the renewal strategy
+
+118
+00:17:01,980 --> 00:17:08,059
+should go and what it should look like our belief is that with the increased
+
+119
+00:17:10,559 --> 00:17:19,170
+with the increased exposure if we can secure terms as expiry on the existing basis
+
+120
+00:17:19,809 --> 00:17:23,089
+that would be a reasonable result but we would aim for maybe
+
+121
+00:17:24,099 --> 00:17:31,299
+slightly less to start with issue FOT so that level or if you would like us to ask for one
+
+122
+00:17:31,299 --> 00:17:38,980
+alternative with lead pricing from Munich Reef as a starting point but you know there are as you
+
+123
+00:17:38,980 --> 00:17:43,940
+know there are lots of variations of what we can do so it really depends on I guess what
+
+124
+00:17:43,940 --> 00:17:50,779
+Turf Reef's appetite would look like a renewal all correct me if I'm wrong I'm sure Liberty
+
+125
+00:17:50,779 --> 00:17:58,190
+is interesting having a lead position on the program yeah so Liberty are interested in having a lead but
+
+126
+00:17:58,910 --> 00:18:04,819
+when they when they do a lead I'll show you something what they like to do is implement sensors
+
+127
+00:18:05,940 --> 00:18:12,740
+across Turkey using safe hub I don't know if you're familiar with safe hub at all I think they
+
+128
+00:18:12,740 --> 00:18:18,180
+have an expectation on on the on this entity that's why they want to sell it I guess I think
+
+129
+00:18:18,180 --> 00:18:26,180
+I think you hear you explain us for the ECIP right yeah but they do have a part ownership of safe hub
+
+130
+00:18:27,140 --> 00:18:32,900
+but this is just to let you know this is this is a safe hub box it's actually got safe hub
+
+131
+00:18:32,900 --> 00:18:40,019
+written on it there I think you can see and what they do they these devices get put into
+
+132
+00:18:40,500 --> 00:18:47,650
+into buildings or like they can be public buildings they can be private ownership buildings
+
+133
+00:18:48,289 --> 00:18:55,569
+and they can deploy these not only into your assets but also into the assets of third parties
+
+134
+00:18:55,569 --> 00:19:01,890
+like they work with different companies across Turkey and they already have some sensors deployed
+
+135
+00:19:01,890 --> 00:19:07,329
+and on the back it's got kind of like a QR code there and that gives you the installation
+
+136
+00:19:07,329 --> 00:19:14,910
+instructions as how to whoever's receiving the sensor can install it now what these sensors do is
+
+137
+00:19:14,910 --> 00:19:24,559
+that they take the readings the shaking velocity at the building and then they interpolate that
+
+138
+00:19:25,470 --> 00:19:35,390
+reading with the USGS shake map so essentially for where where where there are less
+
+139
+00:19:36,349 --> 00:19:44,349
+sensors to inform USGS these provide a midway point to essentially give a greater granularity
+
+140
+00:19:44,349 --> 00:19:53,380
+of shape footprint so it has its uses to give you a more granular reading the question is is
+
+141
+00:19:53,380 --> 00:19:59,619
+do would that be something that interests you you know I think it would be perhaps worth
+
+142
+00:20:00,180 --> 00:20:07,359
+seeing them and as well having a call with with safe hub if it is something you would like more
+
+143
+00:20:07,359 --> 00:20:17,410
+information on etc. John actually increasing the granularity of the recorded ground motions
+
+144
+00:20:18,380 --> 00:20:28,000
+it sounds interesting and also theoretically reasonable but then there are several questions
+
+145
+00:20:28,079 --> 00:20:36,480
+in my mind if you don't if you will so now now as part of the agreement if I'm not mistaken
+
+146
+00:20:36,480 --> 00:20:44,529
+USGS is going to be the reporting agency so actually safe hub would be the reporting agent
+
+147
+00:20:44,529 --> 00:20:52,130
+yeah that's that's that's what I wanted to say because essentially now before I mean safe hub
+
+148
+00:20:52,690 --> 00:21:00,609
+would be directly or naturally the reporting agency because now they will be providing the
+
+149
+00:21:00,609 --> 00:21:09,839
+shake maps that's right but then and all in all then you know when it comes to US geological survey
+
+150
+00:21:10,880 --> 00:21:19,119
+they have because it's a public agency they do provide information about the ground motion
+
+151
+00:21:19,119 --> 00:21:29,740
+models they do provide their way of developing the shake maps so then they it can be imitable
+
+152
+00:21:31,259 --> 00:21:41,259
+you can imitate them when you study the say when you assess the payout structures then if
+
+153
+00:21:41,259 --> 00:21:54,779
+Turkey wants to have those sensors will save up describe its ground motion model as well as how
+
+154
+00:21:56,140 --> 00:22:02,779
+it will calculate the ground intensity metrics at the say
+
+155
+00:22:03,660 --> 00:22:11,019
+sensors of the cells that you are just showing to us or conditional ground motions in other words
+
+156
+00:22:11,019 --> 00:22:27,039
+and then again are we also technically sure about whether these sensors are capable of recording so
+
+157
+00:22:27,039 --> 00:22:37,680
+like like for example magnitude fighting about earthquakes without interfering the instrument
+
+158
+00:22:37,759 --> 00:22:46,000
+response without having the interference of the instrument response are these sensors
+
+159
+00:22:47,009 --> 00:22:53,410
+are as good as the ones in alpha for example so well I don't know the answer to that question
+
+160
+00:22:53,410 --> 00:23:01,740
+I'm afraid so that's what that would be one for safe hub what I do know is that once the data
+
+161
+00:23:02,619 --> 00:23:08,140
+is not publicly available it does make me a little bit nervous because we can
+
+162
+00:23:09,710 --> 00:23:22,589
+everything you see here is from public sources you know should and we you know we can't verify
+
+163
+00:23:23,150 --> 00:23:31,789
+we cannot verify a safe hub shake map you know once it's been interpolated with the USGS shake map
+
+164
+00:23:32,579 --> 00:23:43,490
+so you know that then is sort out of our hands a little bit however you know this technology
+
+165
+00:23:43,490 --> 00:23:51,309
+was deployed in Mexico and the government of Mexico did have a claim and safe hub did respond
+
+166
+00:23:51,309 --> 00:23:58,980
+and it did pick up recordings from their sensors um this year and that's in the press so you can
+
+167
+00:23:58,980 --> 00:24:08,589
+you can read about that um my past I don't want to um okay so my personal opinion is that these
+
+168
+00:24:08,589 --> 00:24:14,509
+sensors are great if you're measuring ground motion at one particular building and you want
+
+169
+00:24:14,509 --> 00:24:20,910
+to build a parametric policy on that because it's the sensor is in the building it can detect the
+
+170
+00:24:20,910 --> 00:24:26,589
+exact ground motion in that building okay so from that perspective I think it's very useful
+
+171
+00:24:29,059 --> 00:24:36,960
+is it as useful for country-based colors I'm not sure about that it would make the shake
+
+172
+00:24:36,960 --> 00:24:42,799
+map more granular but that doesn't necessarily mean it would be in the favor of you as the client
+
+173
+00:24:42,799 --> 00:24:50,130
+so I think it might be worth having a quick call call with quick call with them
+
+174
+00:24:50,130 --> 00:24:59,170
+and they can answer your questions in more detail but um I'm I'm 50-50 about it if I'm honest
+
+175
+00:25:00,289 --> 00:25:08,220
+okay I mean I mean technically as I said it is a great improvement but there are things
+
+176
+00:25:09,259 --> 00:25:18,349
+uh to clarify in order not to have a dispute when a critical event occurs essentially for example
+
+177
+00:25:18,910 --> 00:25:25,220
+we do also produce shake maps and then we do also compare our shake maps with the USGS
+
+178
+00:25:26,339 --> 00:25:33,299
+shake maps and in that sense for example we're using APOD stations recordings from
+
+179
+00:25:34,259 --> 00:25:44,019
+and then of course for example we imitate the uh say data processing of USGS because it's
+
+180
+00:25:44,019 --> 00:25:51,779
+say public open so you can study those and then implement it into into your codes yeah and then
+
+181
+00:25:51,779 --> 00:25:59,940
+also uh we do imitate we although we have our own ground motion model for shake maps we can also
+
+182
+00:26:00,019 --> 00:26:11,299
+imitate the USGS ground motion models uh to see if there are discrepancies or say similarities between
+
+183
+00:26:11,299 --> 00:26:21,779
+what we produce and what they produce so I mean in a way that's uh that kind of additional public
+
+184
+00:26:21,779 --> 00:26:36,140
+open explanations by USGS make the make the analyst's life easier to justify the its calculation or her
+
+185
+00:26:36,140 --> 00:26:43,259
+calculation so that's those are the things that we could discuss with liberty to see how they get
+
+186
+00:26:43,259 --> 00:26:52,779
+prepared uh to produce shake maps with those sensitive measurements sure so if you'd like I
+
+187
+00:26:52,779 --> 00:27:00,960
+can set up a call uh this week um if you'd like to maybe interrogate the information a little bit
+
+188
+00:27:00,960 --> 00:27:08,940
+further um what I do know is that you know this is not a new solution this has been around for 10
+
+189
+00:27:08,940 --> 00:27:16,940
+years the the guide that runs it is also um a has a has a background in geology uh
+
+190
+00:27:17,819 --> 00:27:23,420
+in in from California from California met him last week really nice guide but whether it's
+
+191
+00:27:23,420 --> 00:27:30,460
+appropriate for this cover I'm not convinced but you know you I think Sinan you'd probably be
+
+192
+00:27:30,460 --> 00:27:36,539
+the best place person to interrogate the device and how it responds
+
+193
+00:27:37,180 --> 00:27:40,220
+but at least to have an overall idea would help us
+
+194
+00:27:41,980 --> 00:27:51,460
+sure sure that's fine so um just coming on to the renewal then uh a gateholder everyone um
+
+195
+00:27:52,769 --> 00:28:02,940
+I think that you know my first view is that you should probably try and renew um with the
+
+196
+00:28:02,940 --> 00:28:08,779
+existing reinsurance panel to start with um if they're supportive of the indexes that you want to
+
+197
+00:28:09,579 --> 00:28:15,500
+go for you know they were very supportive last year of trying to bring this program to Lonik
+
+198
+00:28:15,500 --> 00:28:23,579
+as well um however I think that we should be pressing for at least expiry terms with the
+
+199
+00:28:23,579 --> 00:28:30,460
+increased exposure but try and obtain some sort of reduction and then also if you would like to
+
+200
+00:28:30,460 --> 00:28:37,900
+consider yourselves a different deductible or if you would like to consider the multi regime cover
+
+201
+00:28:38,619 --> 00:28:45,420
+so there are the things that you probably need to ask from you really so before and I mean I'm in
+
+202
+00:28:45,420 --> 00:28:49,579
+the same way for it you we should go with do it the same same terms but if they can
+
+203
+00:28:49,579 --> 00:28:55,500
+consider an alternative and see and show us the you know the the cost cost difference it will be
+
+204
+00:28:55,500 --> 00:29:02,720
+much more helpful than we make our decision I mean what do you think everyone again I also
+
+205
+00:29:02,720 --> 00:29:11,460
+agree with you totally and for the for the safe up I mean I support Sinan Hoja by the way can you
+
+206
+00:29:11,460 --> 00:29:17,700
+tell us the approximate uh number difference I mean you have the cells on the map for the USGS you
+
+207
+00:29:17,700 --> 00:29:24,740
+told us that safe house will use if the risk is away from the station of the USGS so in your
+
+208
+00:29:24,740 --> 00:29:30,579
+opinion I don't know if you checked that when we put our you know uh risks on the Marmara region
+
+209
+00:29:30,579 --> 00:29:37,970
+how many of them is really far away from the USGS station center and the safe up will be useful
+
+210
+00:29:37,970 --> 00:29:44,609
+what's called the ratio so the cell the cells are something that we've produced within lockdown
+
+211
+00:29:46,130 --> 00:29:52,859
+to capture the exposure that this year we've aligned them to uh follow where the shake
+
+212
+00:29:52,859 --> 00:30:00,720
+map readings will be so so so there's no overlap essentially with grids um so that
+
+213
+00:30:00,720 --> 00:30:09,039
+that's probably the first point I think the second point really is we're not sure how
+
+214
+00:30:09,759 --> 00:30:14,559
+and I believe that the USGS and Sinan you you probably know better than I do but I believe
+
+215
+00:30:14,559 --> 00:30:22,160
+that the USGS are using around seven or eight stations in Istanbul to capture the um ground
+
+216
+00:30:22,160 --> 00:30:31,519
+motion um so would have more granular grit than would have would have more granular
+
+217
+00:30:31,519 --> 00:30:37,200
+set of sensors improve that I think you would make it more granular I think you would make
+
+218
+00:30:37,200 --> 00:30:48,420
+it more granular but sorry it's no it's certainly uh having a granular uh recording stations
+
+219
+00:30:48,420 --> 00:30:55,940
+more granular recording stations would certainly include increase the accuracy of the shake maps
+
+220
+00:30:57,309 --> 00:31:08,589
+this is I mean without any doubt uh nevertheless if we are to uh if shape our safe have is to
+
+221
+00:31:09,309 --> 00:31:17,890
+improve the shake maps of US geological survey if this is the intention then I presume
+
+222
+00:31:18,529 --> 00:31:26,859
+the methodology they follow should be exactly is the is exactly the same as the USGS methodology
+
+223
+00:31:27,700 --> 00:31:32,259
+otherwise there's going to be advice the ground motion model they are implementing
+
+224
+00:31:33,200 --> 00:31:42,720
+will should be in my opinion exactly the same as USGS so you know so if these are the if
+
+225
+00:31:42,720 --> 00:31:55,740
+these are the cases then certainly having additional sensors uh close to the risks will increase the
+
+226
+00:31:56,539 --> 00:32:05,339
+say reliability of the ground motion metrics that you will be using in your payout structure
+
+227
+00:32:05,339 --> 00:32:10,700
+that's for certain but I mean one one should have to talk to all of these issues
+
+228
+00:32:11,619 --> 00:32:18,420
+with the safe up guys to have a proper understanding of the methodology behind
+
+229
+00:32:18,420 --> 00:32:25,859
+that procedure yeah my my understanding is that it does follow the USGS methodology essentially it
+
+230
+00:32:25,859 --> 00:32:31,299
+just fills the gaps between the ground motion stations that are already existing so it gives
+
+231
+00:32:31,299 --> 00:32:39,579
+a more accurate reading um so we I think that's something to explore maybe this week if you
+
+232
+00:32:39,579 --> 00:32:49,200
+if you have an opportunity um and so just quick question then um talk uh you would like to see
+
+233
+00:32:49,200 --> 00:32:55,839
+one alternative uh against the existing would that be with a higher deductible or would you
+
+234
+00:32:55,839 --> 00:33:02,720
+like to see a lower deductible or maybe either side I mean for me let's let's keep the same
+
+235
+00:33:02,720 --> 00:33:09,200
+deductibles okay yeah because we don't want to you know have a disadvantage during the
+
+236
+00:33:09,200 --> 00:33:14,000
+soft market let's see I mean but came up with the same deductible with an alternatives
+
+237
+00:33:14,559 --> 00:33:23,150
+layer let's say okay because the exposure is already increased so let's not push it
+
+238
+00:33:23,789 --> 00:33:35,230
+let's let's see the alternative with the same deductible so um what what sorry I might have
+
+239
+00:33:35,230 --> 00:33:41,150
+misunderstood um you want to see one alternative with the same deductible is that for a lower limit
+
+240
+00:33:41,150 --> 00:33:46,559
+a higher limit or how much higher limit of course because you told us the exposure has increased
+
+241
+00:33:46,559 --> 00:33:53,359
+although the risks are are number wise degrees but but the exposure is there okay so we could
+
+242
+00:33:53,359 --> 00:33:59,339
+split that maybe into two layers one one keeping like the we could go for a stretch
+
+243
+00:33:59,339 --> 00:34:07,259
+layer of say 150 million okay or we could do a 50 excess 100 on your current so you can
+
+244
+00:34:08,139 --> 00:34:12,940
+what would you recommend I mean for your for your I mean exposure increased shall this stretch it or
+
+245
+00:34:12,940 --> 00:34:22,500
+shall get one more layer um I would I would probably stretch it then let's go for it stretch them
+
+246
+00:34:22,500 --> 00:34:34,900
+okay we'll do that no problem at all we're trying to push for a slight reduction in premium
+
+247
+00:34:34,900 --> 00:34:43,940
+um despite the increase in exposure because the market is um still fairly uh well you know
+
+248
+00:34:43,940 --> 00:34:55,550
+yourself sorry soft um so we'll start with that and um we'll go from there um I think in
+
+249
+00:34:55,550 --> 00:35:02,190
+respect of the safe hub conversation maybe uh if you could maybe Sinan um share some
+
+250
+00:35:02,190 --> 00:35:08,739
+dates with me this week if you're able to and we'll see yeah certainly I will share
+
+251
+00:35:09,460 --> 00:35:18,690
+some days I mean with you some hours with you so that we can have a brief technical
+
+252
+00:35:18,690 --> 00:35:24,900
+talk with safe hub people are they based in the U.S. or are they based in just just
+
+253
+00:35:26,900 --> 00:35:32,500
+yeah I'd recommend an afternoon conversation okay some of them are based in the U.S. but
+
+254
+00:35:32,739 --> 00:35:40,269
+okay I think there's a lot so he may be in Europe okay so at least there should I
+
+255
+00:35:40,269 --> 00:35:46,130
+would think like after 4 p.m. in the afternoon or 5 p.m. in the afternoon yeah absolutely
+
+256
+00:35:50,610 --> 00:35:58,210
+so we'll proceed on that basis and also start the call with safe hub um is there anything else
+
+257
+00:35:58,210 --> 00:36:02,769
+that you'd like I will I will share this report with you is there anything else you would like
+
+258
+00:36:03,889 --> 00:36:11,630
+to further go through or is there interest in say the multi regime structure or different
+
+259
+00:36:11,630 --> 00:36:19,820
+attachment points or anything like that let's start let's start make it too complex I just
+
+260
+00:36:24,750 --> 00:36:34,079
+want to give you the option Tolga you know okay make sure I will they will come up with something
+
+261
+00:36:34,079 --> 00:36:44,909
+interesting as well the leader I mean yes so we'll uh speak to Munich um really I'll speak to
+
+262
+00:36:44,989 --> 00:36:52,849
+them today um with with the Liberty conversation I'll pause that until we've arranged a call they
+
+263
+00:36:52,849 --> 00:37:00,510
+are interested in meeting that there are some some points that we'd need to discuss with them
+
+264
+00:37:00,510 --> 00:37:05,389
+around structure because what they like to do is they like to take the full capacity and then
+
+265
+00:37:05,389 --> 00:37:12,059
+retrocede out but we don't really like that because we think that you know you should have
+
+266
+00:37:12,059 --> 00:37:16,300
+relationships with multiple insurers on the panel and you should have clarity of who they are
+
+267
+00:37:16,539 --> 00:37:22,300
+in a traditional quota share rather than Liberty fronting 100% and then arranging fact
+
+268
+00:37:23,019 --> 00:37:29,099
+so it's something that we can sort of discuss I think once we've had the conversation with Sinan
+
+269
+00:37:29,099 --> 00:37:38,179
+and um and safe hub and Liberty and uh go from there thank you thank you for your time a pleasure
+
+270
+00:37:38,179 --> 00:37:42,099
+thank you thank you very much all right cheers
+
