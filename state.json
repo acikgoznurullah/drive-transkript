@@ -498,7 +498,7 @@
     "report_url": "https://docs.google.com/document/d/17f3chAC58NVL_w1zKd12nwhEK-SSJzRl/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1e-f_ArYpfCC23aihQ2Z3dq-9SgEbPGzq": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261116_150004 - Türkre-Lockton Marm İhti Parametrik.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261116_150004 - Türkre-Lockton Marm İhti Parametrik.txt",
@@ -506,7 +506,11 @@
     "language": "en",
     "transcribed_at": "2026-11-16T18:05:04",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261116_150004 - Türkre-Lockton Marm İhti Parametrik_Rapor.docx",
+    "reported_at": "2026-11-17T21:13:46",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1sZbwV40mC1u--Ha5beGvFEJqfF5OLiiD/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1Lge_lTseU5l9pH-OQMEfpx_Oagf0xMq5": {
     "status": "transcribed",
