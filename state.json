@@ -601,7 +601,7 @@
     "report_url": "https://docs.google.com/document/d/1fOGXE16HAOc2uM41UMO-XGyO3ylnF2F1/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1DRldCCCbnEJC0nmZe6TqdQpW73fLpl2o": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260717_170025 - DSA Önemli.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 260717_170025 - DSA Önemli.txt",
@@ -609,7 +609,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T19:53:07",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 260717_170025 - DSA Önemli_Rapor.docx",
+    "reported_at": "2026-11-17T21:12:28",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/148C_R9P6RLS1Rrxzp0iUIIlpV4wgEsl7/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1irTbek1YtYIUeWjRISaG_vQuNEWS-745": {
     "status": "transcribed",
