@@ -542,7 +542,7 @@
     "uploaded.srt": true
   },
   "1dH6zwughyS6ws3N92t7iQxXrBKRSwhn_": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260730_101438 - Tüm Şirket Toplantı.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 260730_101438 - Tüm Şirket Toplantı.txt",
@@ -550,7 +550,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T19:27:38",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 260730_101438 - Tüm Şirket Toplantı_Rapor.docx",
+    "reported_at": "2026-11-17T21:12:56",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1etZ1fCTl27P3sZkKGsuGWshV6_IbnD6H/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1Pfy2mEFsjTSo4esXu7SIaQhtAOlOuSrR": {
     "status": "transcribed",
