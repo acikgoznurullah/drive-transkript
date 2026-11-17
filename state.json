@@ -562,5 +562,16 @@
     "transcribed_at": "2026-11-17T19:30:20",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1O1XI0zH9qIXIWxzS1aRum2ZEtq9O3J9f": {
+    "status": "transcribed",
+    "source": "Ses 260709_154852 - Dask.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260709_154852 - Dask.txt",
+    "duration": "1:02:08",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T19:39:28",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
