@@ -661,5 +661,16 @@
     "transcribed_at": "2026-11-17T20:22:35",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1Zp_fqvvAyVnAVuCwGUfD6PCyeb9E4MHj": {
+    "status": "transcribed",
+    "source": "Ses 261110_082600 - DSA-Utku görüşme.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261110_082600 - DSA-Utku görüşme.txt",
+    "duration": "0:04:51",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:23:30",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
