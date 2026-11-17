@@ -595,5 +595,16 @@
     "transcribed_at": "2026-11-17T19:50:17",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1DRldCCCbnEJC0nmZe6TqdQpW73fLpl2o": {
+    "status": "transcribed",
+    "source": "Ses 260717_170025 - DSA Önemli.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260717_170025 - DSA Önemli.txt",
+    "duration": "0:15:26",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T19:53:07",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
