@@ -1,0 +1,4520 @@
+1
+00:00:00,000 --> 00:00:02,000
+Biraz ben bir şey yaptım.
+
+2
+00:00:03,339 --> 00:00:06,400
+Toparladım ama daha bayağı iş var.
+
+3
+00:00:06,660 --> 00:00:12,039
+Bu işte çeptir, araya çeptir ekleyeceğiz diye, seksen ekleyeceğiz diye şey yapmadım.
+
+4
+00:00:12,800 --> 00:00:14,080
+Daha da idarelemedim.
+
+5
+00:00:14,919 --> 00:00:15,939
+Bir şey yapalım.
+
+6
+00:00:16,460 --> 00:00:20,300
+Ama kataracağız gibi yüzüküyor yani. Bayağı bir şey ekleyeceğiz çünkü.
+
+7
+00:00:21,120 --> 00:00:23,940
+Ömer'de gelsin bir bakarız bu zamanı.
+
+8
+00:00:24,199 --> 00:00:25,719
+Tamamdır hocam.
+
+9
+00:00:25,980 --> 00:00:28,800
+Sayfa sınırı konusu var mıydı?
+
+10
+00:00:29,320 --> 00:00:30,600
+Artık yok.
+
+11
+00:00:30,899 --> 00:00:32,439
+Yani başta var da.
+
+12
+00:00:32,700 --> 00:00:37,679
+Yani gidin kendine bir şey olmuyor mu o sayfasında?
+
+13
+00:00:37,939 --> 00:00:38,960
+Vallahi yani
+
+14
+00:00:39,219 --> 00:00:41,020
+Bir şey derlerse bakarız ama.
+
+15
+00:00:42,000 --> 00:00:44,560
+Genelde bu ilk reviyle sonra
+
+16
+00:00:45,009 --> 00:00:48,850
+Yani ekleyebildiğin kadar ekliyorum ben. Ne yapacağımı verdim. Recek miyim ya?
+
+17
+00:00:49,460 --> 00:00:53,039
+O zaman evi kurşura söyle yani. Sorması soru ne yapayım yani.
+
+18
+00:00:53,299 --> 00:00:54,060
+Ne yapmayayım.
+
+19
+00:00:54,320 --> 00:00:55,859
+İstersene yani.
+
+20
+00:00:56,119 --> 00:00:57,640
+Yazacağız biz de mecburen.
+
+21
+00:01:00,679 --> 00:01:04,019
+Tabloları falan ekleyecek. Tabloların yüzü olmuş hepsi.
+
+22
+00:01:04,780 --> 00:01:05,280
+Şu.
+
+23
+00:01:05,540 --> 00:01:07,079
+Koyuladığın evi.
+
+24
+00:01:07,340 --> 00:01:09,640
+A1, A2 şeylerine baktım.
+
+25
+00:01:09,900 --> 00:01:13,739
+Gayet güzeldi yani. Daha sayısına kadar her şey var yani.
+
+26
+00:01:14,000 --> 00:01:15,019
+Evet.
+
+27
+00:01:15,280 --> 00:01:16,560
+Bir şeyleri de koyduk.
+
+28
+00:01:17,019 --> 00:01:18,040
+Ömer geldi.
+
+29
+00:01:18,299 --> 00:01:20,079
+Ya da hep iyi oldu şimdi. Ömer'le abi.
+
+30
+00:01:20,659 --> 00:01:21,680
+Evet hocam.
+
+31
+00:01:21,939 --> 00:01:22,439
+Geliyor.
+
+32
+00:01:22,700 --> 00:01:23,980
+Kameram niye gelmedi?
+
+33
+00:01:24,239 --> 00:01:27,599
+Kameram fleşli değil herhalde benimkini.
+
+34
+00:01:27,859 --> 00:01:28,620
+O yüzden o zaman.
+
+35
+00:01:28,879 --> 00:01:30,920
+Hocam kameranız hakikaten.
+
+36
+00:01:31,180 --> 00:01:32,719
+Çok iyi.
+
+37
+00:01:32,980 --> 00:01:34,760
+Bunu daha değil sürdü. Bu ne diyor ya?
+
+38
+00:01:35,260 --> 00:01:39,359
+Hocam OLED teknolojisi mi hocam? Bu bir şey böyle geldi.
+
+39
+00:01:39,620 --> 00:01:43,459
+Abi Logi 1.505.
+
+40
+00:01:43,959 --> 00:01:46,280
+Şeye yaz bak. Çetki piteye yaz diyorlar.
+
+41
+00:01:46,540 --> 00:01:50,099
+Ofiste olsak zaten net göremeyiz sizi ya.
+
+42
+00:01:51,159 --> 00:01:52,939
+Araya sigara dumanı falan bir şey girer.
+
+43
+00:01:53,200 --> 00:01:53,840
+Bir şey olur yani.
+
+44
+00:01:54,099 --> 00:01:57,040
+Efekt onlar. Gerçekte içmiyorum aslında. Efekt şey var ya.
+
+45
+00:01:58,000 --> 00:01:59,700
+Batlattı falan gidiyor ya.
+
+46
+00:01:59,959 --> 00:02:05,780
+Evet sizi şimdi şu şehir göstereyimler de bu.
+
+47
+00:02:06,280 --> 00:02:07,819
+Gelen evrak gidenevrak.
+
+48
+00:02:08,080 --> 00:02:10,120
+Şimdi pardon bir şey.
+
+49
+00:02:11,379 --> 00:02:13,080
+Responsörün fokusak başlıyor tabii.
+
+50
+00:02:13,319 --> 00:02:16,060
+Kolay olanlar başlıyor. Bir kişiden başladım arkadaşlar.
+
+51
+00:02:17,319 --> 00:02:20,379
+Şu şehirlere birazcık cevaplar falan yazdım.
+
+52
+00:02:20,620 --> 00:02:21,379
+Fokusak.
+
+53
+00:02:22,659 --> 00:02:26,240
+Şey olacak biraz toparlanacak burası.
+
+54
+00:02:27,090 --> 00:02:29,729
+Menü skitli de şöyle değiştiriyorum.
+
+55
+00:02:31,270 --> 00:02:35,189
+Yani şu konuştuğumuz üzere bir şey ekledim şuraya.
+
+56
+00:02:35,430 --> 00:02:37,469
+O dediği makalediyle ekledim.
+
+57
+00:02:37,689 --> 00:02:40,530
+Şurada bir ilk başta bile anlaşılmıyor demişti.
+
+58
+00:02:40,990 --> 00:02:45,270
+Onu bir çok da bir şey değiştirelim yani biraz böyle değiştirdim aslında.
+
+59
+00:02:45,889 --> 00:02:53,199
+Ha şu şey diyor da ya hani amac kısmı çok net değilliyordu.
+
+60
+00:02:53,520 --> 00:02:55,039
+Olur böyle maddeler haline yazdım.
+
+61
+00:02:55,039 --> 00:02:59,319
+Aslında çok da bir şey değişmedi ama aynı şeyleri farklı farklı söyledim.
+
+62
+00:02:59,620 --> 00:03:02,960
+Hani Dementin Decayter'lere CVF'e göre karşılaştırmak.
+
+63
+00:03:03,319 --> 00:03:05,919
+Design Ruluları, Explorerektekan etkisini.
+
+64
+00:03:06,199 --> 00:03:12,520
+Bir de Highly Dactile Sistemi kullanmak o kadarı da gerek var mı diye getirdim.
+
+65
+00:03:12,699 --> 00:03:14,120
+Böyle üç tane şey yaptım.
+
+66
+00:03:14,620 --> 00:03:17,819
+Statik'i ekleyeceğimiz için buraya bir statikten bahsettim.
+
+67
+00:03:18,419 --> 00:03:21,199
+Gelime ekledim yani orayı biraz daha düzenledim belki.
+
+68
+00:03:21,620 --> 00:03:27,740
+Sonra şu dizaynı biraz daha anlattık kısmı var mı ya oraya bir dizaynın adımlarını yazdım.
+
+69
+00:03:28,729 --> 00:03:35,610
+Şurada CVF dizaynındaki o albiyala sporsörü falan anlattığım işi.
+
+70
+00:03:36,069 --> 00:03:41,409
+Şöyle bir pulut ekliyorum buraya işte hani analiz bir analiz iki nereledeyim geliyor falan.
+
+71
+00:03:41,909 --> 00:03:43,990
+İle şöyle Freeval Diagram'a ekledim.
+
+72
+00:03:44,210 --> 00:03:45,650
+Plastik Freeval Diagram'a.
+
+73
+00:03:45,889 --> 00:03:49,330
+Bunun üzerine bir şey yapıp ne dediği.
+
+74
+00:03:50,020 --> 00:03:58,699
+Discaking yazıp anlatıp yani şeye geçeceğim şu numerical modelinden sonra sizin o statikleri ekleyeceğim.
+
+75
+00:03:59,120 --> 00:04:02,379
+Statiklerin figürleri burada var hepsi.
+
+76
+00:04:03,939 --> 00:04:08,400
+Nerede dedi bunlar yok figür 7-10'da statikler neredeydin.
+
+77
+00:04:10,240 --> 00:04:10,759
+Aç şu.
+
+78
+00:04:13,919 --> 00:04:15,639
+Bunlar da çok güzel oldu bence.
+
+79
+00:04:16,899 --> 00:04:22,579
+Hangisiydi event versiyonu bir versiyonu.
+
+80
+00:04:22,579 --> 00:04:24,300
+Üstü versiyonu ki olanlar hocam.
+
+81
+00:04:24,579 --> 00:04:26,300
+Evet bu niksler değil mi aslında.
+
+82
+00:04:26,899 --> 00:04:34,740
+Yani bunu daha iyi yapamayız abi böyle olmak zorunda hani etkide şimdi dinlemikten gösteremeyeceğim için statikten gösterdik diye konuşacağız.
+
+83
+00:04:35,379 --> 00:04:41,379
+Buna böyle yeni bir section yazacağım yani şey değil bu artık böyle gayet güzel gözüküyor baksana.
+
+84
+00:04:41,939 --> 00:04:45,939
+Bunlar hocam metin içinde mi olacak efendim işte mi olacaklar.
+
+85
+00:04:46,810 --> 00:04:48,490
+Yok yok bunu ayrıca şey açacağım.
+
+86
+00:04:48,730 --> 00:04:50,170
+Neyimi yiyecek için açacağım.
+
+87
+00:04:50,529 --> 00:05:02,209
+Şuraya diyeceğim statik şu bölüm 3'de işte valide yaşadığından sonra şu saçlık risp olsa geçmeden işte şey statik analiz kısmı ekleyeceğim yeni bir kısım yazacağım oraya.
+
+88
+00:05:02,209 --> 00:05:10,170
+Ondan sonra saçlık risp olsa geçip öyle devam etmek zorunda çünkü bu bayağı bir şey burada bayağı malzeme var yani konuşacak şeyler var.
+
+89
+00:05:10,610 --> 00:05:18,009
+Mesela ne bileyim burada orası taktığındaki şeyleri bir de buradaki bulgulara göre o sonuçlara da bir şeyler söylemek lazım.
+
+90
+00:05:18,410 --> 00:05:22,490
+Hani işte diri böyle çıktı ama bak bunun olması sanitine böyleydi falan gibisinden.
+
+91
+00:05:22,930 --> 00:05:29,810
+Oraları bağlamak gerekecek yani birazcık iş olacak ama yapacak bir şey yok yani bir süre yemek var yiyecek yemesin bu paper.
+
+92
+00:05:31,449 --> 00:05:36,579
+Ondan sonra şu efendisi tabula ekleyeceğim işte şeyle beraber.
+
+93
+00:05:38,279 --> 00:05:50,569
+Şu tabula beraber işte A1, A2, A3 yapacağım tabula mı olacağım orayı şeyle beraber o grafikle beraber şu grafik var diye her şeyleri göstereyim.
+
+94
+00:06:00,500 --> 00:06:12,360
+Bayağı bir iş var ama yani sizin işiniz aslında büyük ölçüde bitti belki hani yardım isteyeceğim yerleri olabilir çünkü Mahmut ekne olacaktım daha haberi yok ama yapacağız.
+
+95
+00:06:13,360 --> 00:06:32,569
+Geçeceğiz yani neredeydi o grafik ya şu şeyleri işte bir katmak gerekecek yeni figürlerdeki şu %16, %84, A4, B4, B4 muhabbetine o merkezere eklenecek falan.
+
+96
+00:06:32,769 --> 00:06:40,370
+Aslında da şey demiş biz yani interstitüre diripler için ekleyin demiş ama ben diyeceğim ki biz konsistimat olsun diye hepsini ekledik.
+
+97
+00:06:41,050 --> 00:06:47,050
+Ne kadar iyi bir odam veririz biz yani falan çok düzgün çocuklarımız var, çok düzgün çocuklarımız var.
+
+98
+00:06:47,050 --> 00:06:54,050
+Review 2'den bir onay alırsak review'un bir gerekirse hani uzatmaya giderse de şey olur yani.
+
+99
+00:06:54,050 --> 00:07:04,050
+Abi bir de şey olacak yani zaten şimdi editör yapacak ulanacak anasının hikayesi, dünyayı eklemiş buraya bu herifle artık reddedilmez falan filan diyecekler.
+
+100
+00:07:04,730 --> 00:07:07,730
+Onun için şey bence toparlarız gibi geliyor.
+
+101
+00:07:07,730 --> 00:07:12,730
+Fıratçı şeyleri diye bile o yorumlardan daha bir şey yapacağım. Kaçakla üşücem işte.
+
+102
+00:07:12,730 --> 00:07:16,529
+Antik bir muhabbet.
+
+103
+00:07:16,529 --> 00:07:19,879
+Şey yapacağım yani muhabbeti gündürüyorum.
+
+104
+00:07:19,879 --> 00:07:21,879
+Onları aradayı bitireceğiz bir şekilde.
+
+105
+00:07:21,879 --> 00:07:25,879
+Onun dışında başka bir şey kalmadı herhalde yani.
+
+106
+00:07:26,720 --> 00:07:29,430
+Oğlum, hıh.
+
+107
+00:07:29,430 --> 00:07:31,430
+Herhalde bir kavdan var, anlaşamıyoruz herhalde.
+
+108
+00:07:31,430 --> 00:07:33,750
+Aramızı bozacak şey.
+
+109
+00:07:33,750 --> 00:07:35,750
+Nur'u aramızı bozdu.
+
+110
+00:07:35,750 --> 00:07:38,750
+Diyor ki işte breast-actility ben yanlış hesaplıyormuşum filan diyormuşum.
+
+111
+00:07:38,750 --> 00:07:40,750
+Kim diyor?
+
+112
+00:07:40,750 --> 00:07:42,750
+Eee?
+
+113
+00:07:42,750 --> 00:07:44,779
+Ya yanlış hesaplama değil de.
+
+114
+00:07:44,779 --> 00:07:46,779
+Şey eee?
+
+115
+00:07:46,779 --> 00:07:48,779
+Sıraları karışmış.
+
+116
+00:07:48,779 --> 00:07:50,779
+Arif aranızın düzelsin.
+
+117
+00:07:50,779 --> 00:07:57,259
+Arif aranız çok iyi, daha iyi bir çocuklar çok iyi.
+
+118
+00:07:57,259 --> 00:07:59,259
+Arif Hüseyin mi hocam?
+
+119
+00:08:02,689 --> 00:08:06,689
+Siz tanıştığınızı nereden biliyorsunuz hocam?
+
+120
+00:08:06,689 --> 00:08:08,689
+Geçen konuştuklar.
+
+121
+00:08:08,689 --> 00:08:10,689
+Ahmet Hoca'yla konuştuklar.
+
+122
+00:08:10,689 --> 00:08:12,689
+Kahve içmişsiniz beraber.
+
+123
+00:08:12,689 --> 00:08:14,689
+Evet.
+
+124
+00:08:14,689 --> 00:08:16,689
+Ya hocam inanılmaz bir adam ya.
+
+125
+00:08:16,689 --> 00:08:18,689
+Baskılıyor beni.
+
+126
+00:08:18,689 --> 00:08:21,399
+Ya vallahi.
+
+127
+00:08:21,399 --> 00:08:23,399
+Bakalım inşallah bitirir yani oğlum.
+
+128
+00:08:23,399 --> 00:08:25,399
+Ben tesislemesin diyeyim mi oğlum da?
+
+129
+00:08:25,399 --> 00:08:27,399
+Evet.
+
+130
+00:08:27,399 --> 00:08:29,399
+Bu şey de.
+
+131
+00:08:30,079 --> 00:08:37,070
+Arif'in ilk şeyini de tesislemesinde şöyle bir grafik vardı.
+
+132
+00:08:37,070 --> 00:08:39,960
+Eee nedir hadi?
+
+133
+00:08:39,960 --> 00:08:41,960
+Bir moment grafik var.
+
+134
+00:08:41,960 --> 00:08:45,960
+Moment grafikte değerlenen 10 dereekse 6 kilometre falan.
+
+135
+00:08:45,960 --> 00:08:47,960
+Hani 10 dereekse 12'ler falan var işte.
+
+136
+00:08:47,960 --> 00:08:49,960
+Parklarına çıkıyor işte.
+
+137
+00:08:49,960 --> 00:08:51,960
+Bunun işte altı katına çıktı.
+
+138
+00:08:51,960 --> 00:08:53,960
+Ama mertebe 10 dereekse 12 falan yani.
+
+139
+00:08:53,960 --> 00:08:56,759
+Tamam adam.
+
+140
+00:08:56,759 --> 00:08:58,759
+Adam da mertebe bilmiyor.
+
+141
+00:08:58,759 --> 00:09:03,710
+Hazlı bilmiyor.
+
+142
+00:09:03,710 --> 00:09:06,480
+Bak neyin yanlış hesaplıyormuş?
+
+143
+00:09:06,480 --> 00:09:10,480
+Eee şey ya yanlış hesaplarız ya.
+
+144
+00:09:10,480 --> 00:09:12,480
+Böyle hakikaten şeyden çıkıyor.
+
+145
+00:09:12,480 --> 00:09:14,480
+Atalım görürse bilir mi?
+
+146
+00:09:14,480 --> 00:09:17,480
+Ya şeyden performan çıktı alıyoruz ya.
+
+147
+00:09:17,480 --> 00:09:22,860
+Onların sırası şeyden farklıymış diyor.
+
+148
+00:09:22,860 --> 00:09:25,860
+Ya şöyle hocam ben onu baktım zaten.
+
+149
+00:09:25,860 --> 00:09:28,860
+Siz diğer review'a geçmeden hızlıca göstereyim isterseniz.
+
+150
+00:09:28,860 --> 00:09:33,429
+Ama bir tehditini yazacak.
+
+151
+00:09:33,429 --> 00:09:35,429
+Göstereyim mi?
+
+152
+00:09:35,429 --> 00:09:37,429
+Göstersen.
+
+153
+00:09:37,429 --> 00:09:39,429
+Şimdi hocam şimdi bu Chevron.
+
+154
+00:09:39,429 --> 00:09:44,259
+Eee Chevron'un işte IMF4 katının tasarımı hocam.
+
+155
+00:09:44,259 --> 00:09:49,320
+Eee şimdi birinci kat çaprazları.
+
+156
+00:09:49,320 --> 00:09:53,320
+İkisi işte yani sol ve sağ olarak burada.
+
+157
+00:09:53,320 --> 00:09:55,320
+Bu ikinci katın çaprazları.
+
+158
+00:09:55,320 --> 00:09:57,320
+Bu üçüncü kat bu şekilde.
+
+159
+00:09:57,320 --> 00:10:01,320
+Ben şimdi buradan eee tabi bizim çalıştığımız zaman
+
+160
+00:10:01,320 --> 00:10:04,320
+Arkistanlarımız yok diye yiyeceğim ya da ben de eski...
+
+161
+00:10:04,320 --> 00:10:06,320
+Hocamlarımız yoktu.
+
+162
+00:10:06,320 --> 00:10:09,320
+Evet hocam durumu.
+
+163
+00:10:09,320 --> 00:10:11,320
+Ben buradan tek tek hocam şey yapıyordum işte.
+
+164
+00:10:11,320 --> 00:10:14,320
+Burası minimum eee şey kısmı burası.
+
+165
+00:10:14,320 --> 00:10:15,320
+Pardon burası maksimum.
+
+166
+00:10:15,320 --> 00:10:17,320
+Burası çekme kısmı.
+
+167
+00:10:17,320 --> 00:10:19,320
+Gelen streini gidiyorum işte.
+
+168
+00:10:19,320 --> 00:10:21,320
+Şu ikisi ilk katın ikisini alıyorum.
+
+169
+00:10:21,320 --> 00:10:23,320
+Çekme streini de kıyaslıyorum.
+
+170
+00:10:23,320 --> 00:10:24,320
+Buraya yazıyorum.
+
+171
+00:10:24,320 --> 00:10:26,389
+Bu işte ikinci kat.
+
+172
+00:10:26,389 --> 00:10:29,389
+Eee maksimum dimende buluyorum.
+
+173
+00:10:29,389 --> 00:10:31,389
+Bu bir tane deprem analizi.
+
+174
+00:10:31,389 --> 00:10:33,389
+Bu aynısını kompleşin için yapıyorum.
+
+175
+00:10:33,389 --> 00:10:35,389
+Altyazıları da çevrunda.
+
+176
+00:10:35,389 --> 00:10:36,389
+Bunu alıyorum.
+
+177
+00:10:36,389 --> 00:10:39,769
+Sonra buradan alıp kopyalayıp direkt şeye.
+
+178
+00:10:39,769 --> 00:10:42,769
+Şuraya işte ilgili satırına.
+
+179
+00:10:42,769 --> 00:10:43,769
+Yapıştırıyorum.
+
+180
+00:10:43,769 --> 00:10:45,769
+Ben böyle büyük bir şey elde ettim işte.
+
+181
+00:10:45,769 --> 00:10:48,769
+Hani şu pikdi, displeşmen şeyleri böyle tek tek.
+
+182
+00:10:48,769 --> 00:10:49,769
+Buraya koydum.
+
+183
+00:10:49,769 --> 00:10:53,769
+Sonra da hani ovrulda yani burada şimdi kat bazında var.
+
+184
+00:10:53,769 --> 00:10:55,769
+Burada da ovrulda en maksimum.
+
+185
+00:10:55,769 --> 00:10:57,769
+Yani hani şey de zaten genelde.
+
+186
+00:10:58,769 --> 00:11:00,769
+Birinci, ikinci kat'tan gidiyorum yani.
+
+187
+00:11:00,769 --> 00:11:01,769
+İşte.
+
+188
+00:11:01,769 --> 00:11:03,769
+Burada mesela ikinci de gitmiş vesaire.
+
+189
+00:11:03,769 --> 00:11:04,769
+Çekme de.
+
+190
+00:11:04,769 --> 00:11:06,769
+Basın dış tarafına neredeyiz?
+
+191
+00:11:06,769 --> 00:11:09,769
+Burada en iyi bir şekilde bu son katta olmuş ama.
+
+192
+00:11:09,769 --> 00:11:11,840
+Bu.
+
+193
+00:11:11,840 --> 00:11:15,059
+İkse geldiğimizde ben.
+
+194
+00:11:15,059 --> 00:11:17,059
+İlk önce çevrunda tasarlayıp.
+
+195
+00:11:17,059 --> 00:11:20,059
+XT 10'dan regenerasyonu ürettiğim için.
+
+196
+00:11:20,059 --> 00:11:22,059
+Hani şeyde.
+
+197
+00:11:22,059 --> 00:11:24,090
+Bizim şeyler.
+
+198
+00:11:24,090 --> 00:11:25,090
+1-2-3-4.
+
+199
+00:11:25,090 --> 00:11:27,090
+Sonra 1-2-3-4 olarak gidiyor.
+
+200
+00:11:27,090 --> 00:11:29,090
+Yani 1-1-2-2.
+
+201
+00:11:29,090 --> 00:11:30,090
+Üçüçtü ya.
+
+202
+00:11:30,090 --> 00:11:31,090
+Böyleydi.
+
+203
+00:11:31,090 --> 00:11:33,090
+Yani benim aldığım data da bu şekilde geliyor.
+
+204
+00:11:33,090 --> 00:11:35,090
+Ben de o yüzden.
+
+205
+00:11:35,090 --> 00:11:37,090
+Ben ilk yanlış yaptım bunu.
+
+206
+00:11:37,090 --> 00:11:39,090
+Ben ilk yanlış yaptım zaten bunu.
+
+207
+00:11:39,090 --> 00:11:41,090
+Yani güzel bir yöre dediğim o yani.
+
+208
+00:11:41,090 --> 00:11:42,090
+Ben ilk başta yanlış yaptım bunu.
+
+209
+00:11:42,090 --> 00:11:43,090
+Gidiyorum.
+
+210
+00:11:43,090 --> 00:11:45,090
+Rakanlar çok abusup çıkıyor.
+
+211
+00:11:45,090 --> 00:11:47,090
+Hani bir yerde bir hata basıyor.
+
+212
+00:11:47,090 --> 00:11:48,090
+Originel şeydi ki.
+
+213
+00:11:48,090 --> 00:11:50,090
+Grafikten değişiyor mu yani?
+
+214
+00:11:50,090 --> 00:11:51,350
+Yok yok.
+
+215
+00:11:51,350 --> 00:11:54,350
+Ben bunu hani size sunmadan önce ben bir kere hata yaptım.
+
+216
+00:11:54,350 --> 00:11:56,350
+Kendim fark ettim.
+
+217
+00:11:56,350 --> 00:11:58,350
+Eee AI hani benim.
+
+218
+00:11:58,350 --> 00:12:00,350
+Peki şey diyeceğim.
+
+219
+00:12:00,350 --> 00:12:01,350
+Acaba ssssssss.
+
+220
+00:12:01,350 --> 00:12:03,350
+Benden iki versiyon.
+
+221
+00:12:03,350 --> 00:12:05,350
+Sendeki son halimi.
+
+222
+00:12:05,350 --> 00:12:06,350
+Egezer olarak.
+
+223
+00:12:06,350 --> 00:12:08,879
+Son halidir ya.
+
+224
+00:12:08,879 --> 00:12:11,879
+Ona bir sene çekedelim tekrar kendimizi de.
+
+225
+00:12:11,879 --> 00:12:13,879
+Bence AI şuna bakıyor.
+
+226
+00:12:13,879 --> 00:12:15,879
+AI çıktığıyi alıyor ya adam bunu.
+
+227
+00:12:15,879 --> 00:12:17,879
+AI bunu görüyor tekste.
+
+228
+00:12:17,879 --> 00:12:18,879
+AI tekste bunu görüyor.
+
+229
+00:12:18,879 --> 00:12:19,879
+Bir de buraya görüyor ya.
+
+230
+00:12:19,879 --> 00:12:22,590
+Hani gerçi buraya kendi.
+
+231
+00:12:22,590 --> 00:12:24,590
+İşte beni dediğim gibi kontrol ettiğinde aynı şeyi bulması lazım.
+
+232
+00:12:24,590 --> 00:12:27,590
+Hani burada hata olabiliri bulması güzel.
+
+233
+00:12:27,590 --> 00:12:35,590
+Hani ben ilk başta vakti zamanda hata yapmıştım ama onu zaten paylaştım yani gruba kendi aramıza yine
+
+234
+00:12:35,590 --> 00:12:41,590
+Yani burada şey yaptım. Bakın birbiri burada egzel alırken böyle alıyor. Doğru alıyor.
+
+235
+00:12:41,590 --> 00:12:48,360
+Bunu ya hatasızlık halkayla olmaz zaten yani şey. Olur mu? Fakat tahtalar olsa dokunuşuyorduk.
+
+236
+00:12:48,360 --> 00:12:52,360
+Anladım ben seni dediğin. Doğru alıyor ya burada.
+
+237
+00:12:52,360 --> 00:12:54,360
+Tamam tamam.
+
+238
+00:12:54,360 --> 00:12:57,360
+Ama bir mülahları tekrar çekeriz biz hani var mı sıkıntı diye.
+
+239
+00:12:57,360 --> 00:13:05,389
+Yüzde 16-80'de öldüğüm bu şey Ömer'in doğru dediği data üzerinden verdiğini bize.
+
+240
+00:13:05,389 --> 00:13:07,419
+Ola da bir tutar sazık yok.
+
+241
+00:13:07,419 --> 00:13:11,419
+İşte şöyle zaten bu sadece figür 11'e etkiliyordu.
+
+242
+00:13:11,419 --> 00:13:15,419
+Yani şey yani bu işte Ömer'in açtığı daktilitiği.
+
+243
+00:13:15,419 --> 00:13:23,419
+Onu düzeltip de verdi, normalde verdi. Ben şey düzeltim dediğini verdim size.
+
+244
+00:13:23,419 --> 00:13:27,419
+Ama Ömer şey diyor şu an yani o düzeltmeye gerek yok diyor.
+
+245
+00:13:27,419 --> 00:13:32,419
+O yüzden tam netleştirdik normal haline ekleriz yani şey olması gerekli.
+
+246
+00:13:32,419 --> 00:13:36,419
+Ben zaten şu an zaten yağını oturuyorum o statik kısmı yazacağım.
+
+247
+00:13:36,419 --> 00:13:40,419
+O zaman arkadaşlarlar verseniz o şeylere de minest daktilitlere deyince
+
+248
+00:13:40,419 --> 00:13:44,419
+84'e, 96'e ilgili bir not eklerim. Onlarla ilgili bir de conclusion eklerim.
+
+249
+00:13:44,419 --> 00:13:48,419
+Ondan sonra artık şey az diğerlerine de bakacağım.
+
+250
+00:13:48,419 --> 00:13:51,419
+Selam kelam falan bir şeyler yaparız yani.
+
+251
+00:13:51,419 --> 00:13:54,419
+Daha iyi zamanlığınız iyi bence şu an iyiyiz yani.
+
+252
+00:13:54,419 --> 00:13:58,419
+16'ın 28.000'e mi bitiyordu? Otur 1'in de bitiyordu. Oturduğunda.
+
+253
+00:13:58,419 --> 00:14:00,419
+Tamam yani gir aralarına kadar vakit var.
+
+254
+00:14:00,419 --> 00:14:04,419
+O aralarında işte ben her fırsatta onu şey yaparım.
+
+255
+00:14:04,419 --> 00:14:06,419
+Yazar tamamları yani.
+
+256
+00:14:06,419 --> 00:14:10,419
+İyi de bir şey olur. Detaylı bir ispons vermişte olacağız yani.
+
+257
+00:14:10,419 --> 00:14:12,419
+Bakıyorum şimdi durumu.
+
+258
+00:14:12,419 --> 00:14:14,419
+Fener değil.
+
+259
+00:14:14,419 --> 00:14:16,419
+İki kaçak döveceğimiz yer var.
+
+260
+00:14:16,419 --> 00:14:19,059
+Onun dışında iyi yani.
+
+261
+00:14:19,059 --> 00:14:21,059
+Adamların şeyini de detaylı falan yazdım.
+
+262
+00:14:21,059 --> 00:14:23,639
+Şeylerine.
+
+263
+00:14:23,639 --> 00:14:25,639
+Verdikleri şeyleri zaten biliyordum çoğun.
+
+264
+00:14:25,639 --> 00:14:27,639
+Bir iki tane yeni olan var da.
+
+265
+00:14:27,639 --> 00:14:29,639
+Onlara da baktım.
+
+266
+00:14:29,639 --> 00:14:32,340
+Şey değil.
+
+267
+00:14:32,340 --> 00:14:34,340
+Sorun yok yani.
+
+268
+00:14:34,340 --> 00:14:38,399
+Bizde bu 16'ı işte %84 muhabbeti ile ilgili
+
+269
+00:14:38,399 --> 00:14:41,399
+grafikleri şeyinle değiştirmiş ama.
+
+270
+00:14:41,399 --> 00:14:45,399
+Böyle körvünü tık tık tık yapmış mesela.
+
+271
+00:14:45,399 --> 00:14:47,399
+Evet hocam.
+
+272
+00:14:47,399 --> 00:14:53,470
+Onun farkındayım ama sanki doğat doğur gibi geldi bana yani.
+
+273
+00:14:53,470 --> 00:14:57,470
+Hayır yok bir şey daha böyle şey sunup geçiyordu.
+
+274
+00:14:57,470 --> 00:14:59,470
+Ama fark etmez.
+
+275
+00:14:59,470 --> 00:15:01,470
+Bizim şu an kullandığımız tarz açısında önemli yok.
+
+276
+00:15:01,470 --> 00:15:03,470
+Diriftiden değiştirmeyeyim dedim.
+
+277
+00:15:03,470 --> 00:15:05,470
+Hani ilk başta hani öyle değildi ya.
+
+278
+00:15:05,470 --> 00:15:07,470
+Tamam.
+
+279
+00:15:07,470 --> 00:15:09,470
+Bu tarz pilot ettik gibi olsun.
+
+280
+00:15:09,470 --> 00:15:11,470
+Onun dışında bir şey yok.
+
+281
+00:15:11,470 --> 00:15:13,470
+Yani elimizde sağlık.
+
+282
+00:15:13,470 --> 00:15:15,470
+Şeyleri bir kere dikkat edeceğim.
+
+283
+00:15:15,470 --> 00:15:17,470
+Biraz tot bende bir şey yaparım.
+
+284
+00:15:17,470 --> 00:15:19,470
+50 liriyum bir hale gelsin.
+
+285
+00:15:19,470 --> 00:15:21,470
+Ondan sonra size de bir yollarım.
+
+286
+00:15:21,470 --> 00:15:23,470
+Siz de bir bakarsınız.
+
+287
+00:15:23,470 --> 00:15:25,470
+Eksik bir şey varsa.
+
+288
+00:15:25,470 --> 00:15:27,470
+Ya da işte eklemek istediğiniz ne bileyim.
+
+289
+00:15:27,470 --> 00:15:29,470
+Ben mesela istatistikler çok çakmıyorum ya.
+
+290
+00:15:29,470 --> 00:15:31,470
+Nurullah bir baksın mesela.
+
+291
+00:15:31,470 --> 00:15:33,470
+100 don altı %84 açısından.
+
+292
+00:15:33,470 --> 00:15:35,470
+Oralara mesela bir şeyler yazmak istiyorsa.
+
+293
+00:15:35,470 --> 00:15:37,470
+Oralara eklesin.
+
+294
+00:15:37,470 --> 00:15:39,470
+Son haline getirelim.
+
+295
+00:15:39,470 --> 00:15:42,039
+Tamam.
+
+296
+00:15:42,039 --> 00:15:44,039
+Nurullah'ın biraz baktığı varsa.
+
+297
+00:15:44,039 --> 00:15:46,039
+Biz onun da bir son bir şey de bakarız hocam.
+
+298
+00:15:46,039 --> 00:15:48,039
+Sizi tutmamak için alacağım.
+
+299
+00:15:48,039 --> 00:15:50,039
+Yok.
+
+300
+00:15:50,039 --> 00:15:52,039
+Daha detaylı bakarsınız.
+
+301
+00:15:52,039 --> 00:15:54,039
+Ama şeyler de hani şu an.
+
+302
+00:15:54,039 --> 00:15:56,039
+Yani grafik ol ihtiyaç olan bütün grafikler var.
+
+303
+00:15:56,039 --> 00:15:58,039
+Herhangi zaten.
+
+304
+00:15:58,039 --> 00:16:00,039
+10 katlı da geldi.
+
+305
+00:16:00,039 --> 00:16:02,039
+10 kat bir biraz daha detaylı bakayım.
+
+306
+00:16:02,039 --> 00:16:04,039
+Şey arasında.
+
+307
+00:16:04,039 --> 00:16:06,039
+Ekranı.
+
+308
+00:16:06,039 --> 00:16:08,039
+Yani beraber görünüyorsunuz.
+
+309
+00:16:08,039 --> 00:16:10,460
+Ben çaldım işte.
+
+310
+00:16:10,460 --> 00:16:14,570
+Şuradan.
+
+311
+00:16:14,570 --> 00:16:16,570
+Stolik'imiz.
+
+312
+00:16:16,570 --> 00:16:19,049
+Şu ikisi değil mi?
+
+313
+00:16:19,049 --> 00:16:24,350
+Ya başka türlü yapamayız abi ya.
+
+314
+00:16:24,350 --> 00:16:26,350
+Bu fıstık gibi oldu bence şu an.
+
+315
+00:16:26,350 --> 00:16:30,080
+Ne diyorsun?
+
+316
+00:16:30,080 --> 00:16:32,080
+Bence şu an.
+
+317
+00:16:32,080 --> 00:16:34,720
+Hiçbir şey benzemez ya.
+
+318
+00:16:34,720 --> 00:16:36,720
+Yani onu...
+
+319
+00:16:36,720 --> 00:16:38,720
+Burası durmaz zaten.
+
+320
+00:16:38,720 --> 00:16:40,720
+Olabileceğim.
+
+321
+00:16:40,720 --> 00:16:42,720
+Görülüyor bence.
+
+322
+00:16:42,720 --> 00:16:44,720
+Yeterince değil mi yani?
+
+323
+00:16:44,720 --> 00:16:46,720
+Ya bir de genelde dediniz mi?
+
+324
+00:16:46,720 --> 00:16:48,720
+En son adım hocam çok fazla şey var.
+
+325
+00:16:48,720 --> 00:16:50,720
+Orada kolumlamaktan da yazınca.
+
+326
+00:16:50,720 --> 00:16:52,720
+Ne belli odur herhalde.
+
+327
+00:16:52,720 --> 00:16:56,720
+Son adımdaki şeylere biraz zor yakalanıyor gibi de.
+
+328
+00:16:56,720 --> 00:16:58,720
+Ama genel olarak şey.
+
+329
+00:16:58,720 --> 00:17:00,720
+Genel davranış görünüyor işte yani.
+
+330
+00:17:00,720 --> 00:17:02,720
+Evet.
+
+331
+00:17:02,720 --> 00:17:04,720
+SMF'lerin mesela her tarafı artmış.
+
+332
+00:17:04,720 --> 00:17:06,720
+İşte bütünlerdesi şeyler uykulmuş.
+
+333
+00:17:06,720 --> 00:17:08,720
+falan filan.
+
+334
+00:17:08,720 --> 00:17:10,720
+Ya da artmış şakrazlar.
+
+335
+00:17:10,720 --> 00:17:12,720
+Burada görünüyor yani.
+
+336
+00:17:12,720 --> 00:17:14,720
+Yeni formu dağıldı oldu mu oldu mu?
+
+337
+00:17:14,720 --> 00:17:16,720
+Hani büyük şişini şundan lafya ediliyorum.
+
+338
+00:17:16,720 --> 00:17:18,720
+Kendi durumda.
+
+339
+00:17:18,720 --> 00:17:22,720
+Şimdi burkulma ile post burkulma arasında bir şey var ya.
+
+340
+00:17:22,720 --> 00:17:26,940
+Bizim tabii tanımımızla ilgili o biraz.
+
+341
+00:17:26,940 --> 00:17:30,970
+Yüzde 30'a düşene kadar belli bir süre geçiyor ya.
+
+342
+00:17:30,970 --> 00:17:32,970
+Gerçek arada faktiye düşmüyor.
+
+343
+00:17:32,970 --> 00:17:34,970
+Geldi mi yani?
+
+344
+00:17:34,970 --> 00:17:36,970
+Düşmüyordur abi.
+
+345
+00:17:36,970 --> 00:17:38,970
+Ne yapalım?
+
+346
+00:17:38,970 --> 00:17:40,970
+Onu da yakacak bir şey.
+
+347
+00:17:40,970 --> 00:17:42,970
+Böyle bu kadar olur yani.
+
+348
+00:17:42,970 --> 00:17:44,970
+Gayet iyi.
+
+349
+00:17:44,970 --> 00:17:46,970
+Yorum yapılacak şeyden daha bilmiyorum.
+
+350
+00:17:46,970 --> 00:17:48,970
+Neyi yorum yapacağız sana?
+
+351
+00:17:48,970 --> 00:17:50,970
+Bu tutar mı o?
+
+352
+00:17:50,970 --> 00:17:52,970
+V-Design burada var mesela.
+
+353
+00:17:52,970 --> 00:17:54,970
+Şeyde yok.
+
+354
+00:17:54,970 --> 00:17:56,970
+Sanki var mıydı burada?
+
+355
+00:17:56,970 --> 00:17:58,970
+4 katlı o çizik yoktu.
+
+356
+00:17:58,970 --> 00:18:00,970
+Yani o çizik yoktu şuan.
+
+357
+00:18:00,970 --> 00:18:02,970
+Bilmiyorum.
+
+358
+00:18:02,970 --> 00:18:04,970
+Son versiyonu beklediyse.
+
+359
+00:18:05,970 --> 00:18:07,970
+Bir bakayım hocam.
+
+360
+00:18:10,970 --> 00:18:12,970
+Bir bakayım.
+
+361
+00:18:12,970 --> 00:18:14,970
+Ben sanki yoktu diye hatırlıyorum.
+
+362
+00:18:14,970 --> 00:18:16,970
+Ya da son versiyonuna bakmıştılar.
+
+363
+00:18:16,970 --> 00:18:19,390
+Yok bir yokunda.
+
+364
+00:18:19,390 --> 00:18:21,390
+Şeyler falan düzenli.
+
+365
+00:18:21,390 --> 00:18:23,390
+Hepsi 4.000'e gidiyor.
+
+366
+00:18:23,390 --> 00:18:25,390
+Gayet güzellerdi ama olsun.
+
+367
+00:18:25,390 --> 00:18:27,390
+3.5'de duran belki vardır ama.
+
+368
+00:18:27,390 --> 00:18:29,390
+Bunları da bilmiyorum.
+
+369
+00:18:29,390 --> 00:18:31,390
+Ne yapalım? Zorlayalım mı?
+
+370
+00:18:31,390 --> 00:18:33,390
+Tekrar da çıkarttırayım.
+
+371
+00:18:33,390 --> 00:18:35,390
+Sipri tekstarda hocam.
+
+372
+00:18:35,390 --> 00:18:37,390
+3.5'de duruyor.
+
+373
+00:18:37,390 --> 00:18:39,390
+Mesela burada 3.5'de duruyor.
+
+374
+00:18:39,390 --> 00:18:41,390
+Şimdi burada ama
+
+375
+00:18:41,390 --> 00:18:44,119
+kapasitesi tükendi diye düşündüm.
+
+376
+00:18:44,119 --> 00:18:46,119
+Evet. Öyle öyle değilse.
+
+377
+00:18:46,119 --> 00:18:48,190
+Öyle hocam.
+
+378
+00:18:48,190 --> 00:18:50,190
+Kapasitesi tükendi.
+
+379
+00:18:50,190 --> 00:18:52,190
+Onlar da mesela hepsinde tutar bir şekilde.
+
+380
+00:18:52,190 --> 00:18:54,190
+Burda ne oluyordu?
+
+381
+00:18:54,190 --> 00:18:56,190
+%5'in yanında burada ne oluyordu duruyor?
+
+382
+00:18:56,190 --> 00:18:58,190
+Şey mi?
+
+383
+00:18:58,190 --> 00:19:00,190
+Kapasitesi mi bitiyordu?
+
+384
+00:19:00,190 --> 00:19:02,569
+Ne oluyor?
+
+385
+00:19:02,569 --> 00:19:04,569
+%4'de duruyor.
+
+386
+00:19:04,569 --> 00:19:06,569
+Stop Pushover'ın
+
+387
+00:19:06,569 --> 00:19:08,569
+ben story drift'i
+
+388
+00:19:08,569 --> 00:19:10,569
+durmayı katlardaydı hocam.
+
+389
+00:19:10,569 --> 00:19:12,569
+Roof Drift'e %4'de kadar zorla dedim.
+
+390
+00:19:12,569 --> 00:19:14,569
+Orada ya
+
+391
+00:19:14,569 --> 00:19:16,569
+kolonlardan birinin
+
+392
+00:19:16,569 --> 00:19:18,569
+rotation kapasitesi bitiyor
+
+393
+00:19:18,569 --> 00:19:20,569
+veya sizin dediğiniz gibi
+
+394
+00:19:20,569 --> 00:19:22,569
+çakrazlardan birinin bitiyor.
+
+395
+00:19:22,569 --> 00:19:24,569
+D, X ve O.
+
+396
+00:19:24,569 --> 00:19:26,569
+En son artık %10 gibi bir şey verdik.
+
+397
+00:19:26,569 --> 00:19:28,569
+Böyle ek çok eksik.
+
+398
+00:19:28,569 --> 00:19:30,569
+Olur olur olur.
+
+399
+00:19:30,569 --> 00:19:32,569
+Tamam.
+
+400
+00:19:32,569 --> 00:19:34,569
+Görüştüğü bir şey görüştüğü için durmuş.
+
+401
+00:19:34,569 --> 00:19:36,569
+İyi tamam tamam.
+
+402
+00:19:36,569 --> 00:19:38,569
+Bunlar tutarlı hale getiririz.
+
+403
+00:19:38,569 --> 00:19:40,569
+Ben yazarken o bir dizaynın zaten burada yazıyor.
+
+404
+00:19:40,569 --> 00:19:42,569
+Benim açımdan bir sorun yok.
+
+405
+00:19:42,569 --> 00:19:44,569
+Onu ekleriz sonra.
+
+406
+00:19:44,569 --> 00:19:46,569
+Onu yazarken çıkacak şeyler mi olur?
+
+407
+00:19:46,569 --> 00:19:48,569
+Onun en son versiyonu mu düzenlediriz?
+
+408
+00:19:48,569 --> 00:19:50,569
+Gizliniz sizin etkilemez o yani.
+
+409
+00:19:50,569 --> 00:19:52,569
+Şahdını da etkilemez.
+
+410
+00:19:52,569 --> 00:19:54,640
+En son poyarken...
+
+411
+00:19:54,640 --> 00:19:56,640
+Bunu bakarak yazacağım için.
+
+412
+00:19:56,640 --> 00:19:58,640
+Burada her şey var.
+
+413
+00:19:58,640 --> 00:20:00,640
+Onu yine ekleriz falan filan yaparız.
+
+414
+00:20:00,640 --> 00:20:02,640
+Bunlar da soruyor.
+
+415
+00:20:02,640 --> 00:20:04,640
+Top şu an bende gibi.
+
+416
+00:20:04,640 --> 00:20:06,640
+O şey dizaynı ekleyeyim mi hocam?
+
+417
+00:20:06,640 --> 00:20:08,640
+Şey dedi 4 katlarda da.
+
+418
+00:20:08,640 --> 00:20:11,369
+Nasıl yani?
+
+419
+00:20:11,369 --> 00:20:13,369
+Dediğiniz ya yatay çiz birinde var.
+
+420
+00:20:13,369 --> 00:20:15,369
+Ben birinden çıkaracağız.
+
+421
+00:20:15,369 --> 00:20:17,369
+Birini ekleyeceğiz yani.
+
+422
+00:20:17,369 --> 00:20:19,369
+İkisinden biri. İkisi eşit olsun.
+
+423
+00:20:19,369 --> 00:20:21,369
+Şey.
+
+424
+00:20:21,369 --> 00:20:23,369
+Ama dediğim gibi şu an yapmanı gerek yok.
+
+425
+00:20:23,369 --> 00:20:25,369
+Bakarız.
+
+426
+00:20:25,369 --> 00:20:27,720
+Tamam.
+
+427
+00:20:27,720 --> 00:20:29,720
+Başka yorumlarınız falan da olursa.
+
+428
+00:20:29,720 --> 00:20:31,720
+Onlarla beraber şey yaparız.
+
+429
+00:20:31,720 --> 00:20:33,720
+Yani şey.
+
+430
+00:20:33,720 --> 00:20:35,720
+Kağıda atınca biraz şey gözüküyor.
+
+431
+00:20:35,720 --> 00:20:37,720
+Kağıtta nasıl gözükcek.
+
+432
+00:20:37,720 --> 00:20:39,720
+Onlara bir bakarım.
+
+433
+00:20:39,720 --> 00:20:41,720
+Mesela şeyleri belki.
+
+434
+00:20:41,720 --> 00:20:43,720
+Ufak tefek şeylerde yani.
+
+435
+00:20:43,720 --> 00:20:45,720
+Fon mesela işte.
+
+436
+00:20:45,720 --> 00:20:47,720
+Tek seferde.
+
+437
+00:20:47,720 --> 00:20:49,720
+Onları tek seferde düzenlesek.
+
+438
+00:20:49,720 --> 00:20:51,720
+Bu sefer sizin için de zor olacak.
+
+439
+00:20:51,720 --> 00:20:53,720
+Tekrar hangisi yeniydi?
+
+440
+00:20:53,720 --> 00:20:55,720
+Sonunda falan.
+
+441
+00:20:55,720 --> 00:20:57,720
+Bu nokalarım ben hepsine beraber bakarım.
+
+442
+00:20:57,720 --> 00:20:59,720
+Ama şey kozu etikişler yani.
+
+443
+00:20:59,720 --> 00:21:01,720
+Mesela şurada şu şey gözükmüyor.
+
+444
+00:21:01,720 --> 00:21:03,720
+Mesela onu bir daha yazmamı size.
+
+445
+00:21:03,720 --> 00:21:05,720
+Giderek yazmıyor.
+
+446
+00:21:05,720 --> 00:21:07,720
+Mesela şunlar biraz küçük kalmış.
+
+447
+00:21:07,720 --> 00:21:09,720
+Tamam mı? Tam gözükmüyor.
+
+448
+00:21:09,720 --> 00:21:11,720
+Onları falan büyütüyoruz.
+
+449
+00:21:11,720 --> 00:21:13,720
+Ufak tefek.
+
+450
+00:21:13,720 --> 00:21:15,720
+Fontu görünür, kıvacak şeyler yaparız.
+
+451
+00:21:15,720 --> 00:21:17,720
+Onun bir şeyinde tek bir şey yok.
+
+452
+00:21:17,720 --> 00:21:19,720
+Bunların zaten daha yüklemedim.
+
+453
+00:21:19,720 --> 00:21:21,720
+Tamam. Ben biraz bitireyim bunu.
+
+454
+00:21:21,720 --> 00:21:23,720
+Şey yapayım yazayım.
+
+455
+00:21:23,720 --> 00:21:25,720
+Yine bir kozu etikişlere beraber bakarız.
+
+456
+00:21:25,720 --> 00:21:27,720
+Yazıyla ilgili de dediğim gibi.
+
+457
+00:21:27,720 --> 00:21:29,720
+Bir şey yaparım.
+
+458
+00:21:29,720 --> 00:21:31,720
+Güzel bir yolu var mı?
+
+459
+00:21:31,720 --> 00:21:33,720
+Siz de bir bakarsınız.
+
+460
+00:21:33,720 --> 00:21:35,720
+Eksik bir yer var mı falan diye.
+
+461
+00:21:35,720 --> 00:21:37,720
+Üçüncülüğü okumam lazım.
+
+462
+00:21:37,720 --> 00:21:39,720
+Ne yazışlığı.
+
+463
+00:21:39,720 --> 00:21:41,720
+Bir bakayım.
+
+464
+00:21:41,720 --> 00:21:43,720
+Yardımlaşırız yani.
+
+465
+00:21:43,720 --> 00:21:45,720
+Ben hiçbir şey olmasa size yazarım.
+
+466
+00:21:45,720 --> 00:21:47,720
+Yine akşam saatlerinde müsait bir zaman ayarlarız.
+
+467
+00:21:47,720 --> 00:21:49,720
+Biraz önünden ben bir çalışayım.
+
+468
+00:21:49,720 --> 00:21:51,720
+Tamam canım.
+
+469
+00:21:51,720 --> 00:21:53,720
+Ya yetiştiniz ya.
+
+470
+00:21:53,720 --> 00:21:55,720
+Annenizi çözdüm.
+
+471
+00:21:55,720 --> 00:21:57,720
+Şimdi geri...
+
+472
+00:21:57,720 --> 00:21:59,720
+Performa geri döndüm ben de de.
+
+473
+00:21:59,720 --> 00:22:01,720
+Şey, büyük zahmet düşüneceğim ya.
+
+474
+00:22:01,720 --> 00:22:03,720
+Arkadan şimdi...
+
+475
+00:22:03,720 --> 00:22:05,720
+Tek tek işte klikle...
+
+476
+00:22:05,720 --> 00:22:07,720
+Yani şu an şovurlar kolaydı da.
+
+477
+00:22:07,720 --> 00:22:09,720
+Hani o zaman şey aklıma geldi.
+
+478
+00:22:09,720 --> 00:22:11,720
+40 tane deprimi tek tek her kaydına alıyordum hocam.
+
+479
+00:22:11,720 --> 00:22:13,720
+Böyle...
+
+480
+00:22:13,720 --> 00:22:15,720
+Tek size yazıyorum onlara.
+
+481
+00:22:15,720 --> 00:22:17,720
+Tek dosyasını...
+
+482
+00:22:17,720 --> 00:22:19,720
+Şey...
+
+483
+00:22:19,720 --> 00:22:21,720
+Yani filan yapıp açmak gerekiyor falan.
+
+484
+00:22:21,720 --> 00:22:23,720
+Şimdi işte mesela bu...
+
+485
+00:22:23,720 --> 00:22:25,720
+Eğer muhabbet o işlerde çok işimiz hızlandır yani.
+
+486
+00:22:25,720 --> 00:22:27,720
+Annenizi yapar.
+
+487
+00:22:27,720 --> 00:22:29,720
+Şey...
+
+488
+00:22:29,720 --> 00:22:32,140
+Hani bir interlektör...
+
+489
+00:22:32,140 --> 00:22:34,140
+Tatkın varsa...
+
+490
+00:22:34,140 --> 00:22:36,140
+Çok şeyi hızlandır yani.
+
+491
+00:22:36,140 --> 00:22:38,140
+Ücretin hızlandır.
+
+492
+00:22:38,140 --> 00:22:40,140
+Şu size gösterdiğim şey ben otokette tek tek çizdim abi ya.
+
+493
+00:22:40,140 --> 00:22:42,140
+Eğer onun 3 saniye de bir günüme aldı o ev.
+
+494
+00:22:42,140 --> 00:22:44,140
+Friba Diagram renklerini falan değiştiriyorum.
+
+495
+00:22:44,140 --> 00:22:46,140
+Friba Diagram renklerini falan değiştiriyorum.
+
+496
+00:22:46,140 --> 00:22:48,140
+Yani anladım.
+
+497
+00:22:48,140 --> 00:22:50,140
+Yani böyle 1-3 saniye de falan halledecekler.
+
+498
+00:22:50,140 --> 00:22:52,140
+Yani o açıdan çok faydalı olabilir.
+
+499
+00:22:52,140 --> 00:22:54,140
+Şey biz de kullan...
+
+500
+00:22:54,140 --> 00:22:56,140
+Attın değil mi sen o tek sosyalarını?
+
+501
+00:22:56,140 --> 00:22:58,140
+Allah.
+
+502
+00:22:58,140 --> 00:23:00,140
+Tek sosyalarını attın değil mi?
+
+503
+00:23:00,140 --> 00:23:02,140
+Tek saattı hocam bu valla.
+
+504
+00:23:02,140 --> 00:23:04,140
+Yani ben egzere tekrar atıcaktım.
+
+505
+00:23:04,140 --> 00:23:06,140
+Yani yapardım yani dedim.
+
+506
+00:23:06,140 --> 00:23:08,140
+Ne var yani?
+
+507
+00:23:08,140 --> 00:23:10,140
+Onu da bir sorun yok ya.
+
+508
+00:23:10,140 --> 00:23:12,140
+Şeyin ki o arif dediğim arkadaşın başka problemi var yani.
+
+509
+00:23:12,140 --> 00:23:14,140
+O şey adını bilmiyor.
+
+510
+00:23:14,140 --> 00:23:16,140
+O şey yok.
+
+511
+00:23:16,140 --> 00:23:18,140
+Yoksa aslında fikir...
+
+512
+00:23:18,140 --> 00:23:20,140
+Fikir varsa hani böyle mesajlı nasıl bir...
+
+513
+00:23:20,140 --> 00:23:22,140
+Doktor öğrencisi nasıl çalışıyorsun abi yani mesela?
+
+514
+00:23:22,140 --> 00:23:24,140
+Op'ın siz modelini kuruyor.
+
+515
+00:23:24,140 --> 00:23:26,140
+Anlarızı yapıyor değil mi?
+
+516
+00:23:26,140 --> 00:23:28,140
+Fikir varsa onu da aynı gibi soru yok da.
+
+517
+00:23:28,140 --> 00:23:30,140
+Yani...
+
+518
+00:23:30,140 --> 00:23:33,039
+Siz...
+
+519
+00:23:33,039 --> 00:23:35,039
+Evet, siz payla...
+
+520
+00:23:35,039 --> 00:23:37,039
+Belki bu...
+
+521
+00:23:37,039 --> 00:23:39,039
+Düşüne göreceğim de adam alışır bir çıkartalım da...
+
+522
+00:23:39,039 --> 00:23:41,039
+Bakalım mı ki?
+
+523
+00:23:41,039 --> 00:23:43,039
+Evet. Buna bir bakalım.
+
+524
+00:23:43,039 --> 00:23:45,039
+Alpleriniz inşallah.
+
+525
+00:23:45,039 --> 00:23:47,039
+Belki çalışın.
+
+526
+00:23:47,039 --> 00:23:49,039
+Çünkü şey de...
+
+527
+00:23:49,039 --> 00:23:51,039
+Adamların şeyleri de...
+
+528
+00:23:51,039 --> 00:23:53,039
+Hakim oldum birazcık şimdi.
+
+529
+00:23:53,039 --> 00:23:55,069
+Tamam.
+
+530
+00:23:55,069 --> 00:23:57,069
+Tamam hocam, biz normalde çok kısa bakalım.
+
+531
+00:23:57,069 --> 00:23:59,069
+Şu şey dedim.
+
+532
+00:23:59,069 --> 00:24:01,069
+Tamam hocam.
+
+533
+00:24:01,069 --> 00:24:03,069
+Sağ olun.
+
+534
+00:24:03,069 --> 00:24:06,220
+Var mı müsait...
+
+535
+00:24:06,220 --> 00:24:08,220
+Böyle şey yaptım.
+
+536
+00:24:08,220 --> 00:24:10,220
+15 dakika falan ya.
+
+537
+00:24:10,220 --> 00:24:12,990
+Daha fazla uzatmayız zaten.
+
+538
+00:24:12,990 --> 00:24:15,240
+Şimdi neye bakalım?
+
+539
+00:24:15,240 --> 00:24:17,240
+Şimdi şöyle ben...
+
+540
+00:24:17,240 --> 00:24:19,240
+Abi sen...
+
+541
+00:24:19,240 --> 00:24:21,240
+Ben de ki şeyi göstereyim istersen sana önce...
+
+542
+00:24:21,240 --> 00:24:23,240
+Yani...
+
+543
+00:24:23,240 --> 00:24:25,240
+Dost sayıyor.
+
+544
+00:24:25,240 --> 00:24:27,240
+O şimdi neredeydi? 4 kat dayı dedim.
+
+545
+00:24:27,240 --> 00:24:30,140
+4 kat...
+
+546
+00:24:30,140 --> 00:24:32,140
+Şey biz şimdi hangisine bakacağız?
+
+547
+00:24:32,140 --> 00:24:34,140
+Bu PD muhabbetine mi bakacağız?
+
+548
+00:24:34,140 --> 00:24:38,640
+Yoksa...
+
+549
+00:24:38,640 --> 00:24:40,640
+Evet ya bir şey...
+
+550
+00:24:40,640 --> 00:24:42,640
+Başka ne var bu konu?
+
+551
+00:24:42,640 --> 00:24:44,640
+Zaten abi elimizdeki...
+
+552
+00:24:44,640 --> 00:24:46,640
+Senin elindeki dosyalardan...
+
+553
+00:24:46,640 --> 00:24:48,640
+Ki böyle yaptık.
+
+554
+00:24:48,640 --> 00:24:50,640
+Yani tekrar tekrar oynamadım diye biliyorum ya.
+
+555
+00:24:50,640 --> 00:24:52,640
+10 katta şimdi bunda.
+
+556
+00:24:52,640 --> 00:24:54,640
+Şimdi şey...
+
+557
+00:24:54,640 --> 00:24:56,640
+Sorun dediği hangisiydi? 4 katta mıydı?
+
+558
+00:24:56,640 --> 00:24:58,859
+Yani...
+
+559
+00:24:58,859 --> 00:25:00,859
+Aslında bu genel bence söylüyor onu.
+
+560
+00:25:00,859 --> 00:25:02,859
+Yani 4 kat...
+
+561
+00:25:02,859 --> 00:25:04,859
+10 katı o zaman sen...
+
+562
+00:25:04,859 --> 00:25:06,960
+10 katı analizettirmiş miydin ki?
+
+563
+00:25:06,960 --> 00:25:09,079
+Sırt 4 katı özel mi söyledi onu?
+
+564
+00:25:09,079 --> 00:25:11,079
+Bir bakayım daha bir saniye.
+
+565
+00:25:11,079 --> 00:25:13,079
+Sadece figür 11.4 dedi.
+
+566
+00:25:13,079 --> 00:25:15,079
+Şey...
+
+567
+00:25:16,079 --> 00:25:18,720
+Figür 11 sahnesiydi.
+
+568
+00:25:18,720 --> 00:25:23,670
+Figür 11 bu.
+
+569
+00:25:23,670 --> 00:25:25,670
+4 kat bireymiş.
+
+570
+00:25:25,670 --> 00:25:27,670
+Hatta 10 kat var mı abi?
+
+571
+00:25:27,670 --> 00:25:28,670
+10 katında yok mu?
+
+572
+00:25:28,670 --> 00:25:30,670
+Bunun 10 katını şey...
+
+573
+00:25:30,670 --> 00:25:32,670
+Koymamış o zaman.
+
+574
+00:25:32,670 --> 00:25:34,670
+Koymuşuz. 10 katında yokmuş.
+
+575
+00:25:34,670 --> 00:25:37,599
+Yani 10 katında yokmuş diyor.
+
+576
+00:25:37,599 --> 00:25:39,630
+Aynen.
+
+577
+00:25:39,630 --> 00:25:41,630
+Hangisinde var?
+
+578
+00:25:41,630 --> 00:25:43,630
+Bunun da sipliteksinde diyor.
+
+579
+00:25:43,630 --> 00:25:45,630
+Bunun da sipliteksinde.
+
+580
+00:25:45,630 --> 00:25:47,630
+Aynen.
+
+581
+00:25:48,630 --> 00:25:50,630
+Yani doğru aynen.
+
+582
+00:25:50,630 --> 00:25:53,630
+Yani şöyle bak mesela o şeyi açayım ben.
+
+583
+00:25:53,630 --> 00:25:55,759
+Şimdi 4 kat...
+
+584
+00:25:55,759 --> 00:25:57,759
+Abi ben...
+
+585
+00:25:57,759 --> 00:26:00,430
+Efendim?
+
+586
+00:26:00,430 --> 00:26:02,460
+Yani elimle kontrol ettim.
+
+587
+00:26:02,460 --> 00:26:04,460
+Bir de...
+
+588
+00:26:04,460 --> 00:26:06,460
+Bak mesela ben de şöyle...
+
+589
+00:26:06,460 --> 00:26:08,559
+Bir de istaktırdı.
+
+590
+00:26:08,559 --> 00:26:10,559
+Yani şöyle şundan da olabilir abi.
+
+591
+00:26:10,559 --> 00:26:12,559
+Bir tanesini deneyelim abi.
+
+592
+00:26:12,559 --> 00:26:14,559
+Senin...
+
+593
+00:26:14,559 --> 00:26:17,799
+Sipitektif rızası dediğine...
+
+594
+00:26:17,799 --> 00:26:21,309
+Yani bu benim rızaslar.
+
+595
+00:26:21,309 --> 00:26:24,400
+Bu benimki.
+
+596
+00:26:24,400 --> 00:26:26,400
+Değil mi bu?
+
+597
+00:26:26,400 --> 00:26:28,400
+Şimdi bu...
+
+598
+00:26:28,400 --> 00:26:30,400
+Burada neydi?
+
+599
+00:26:30,400 --> 00:26:32,589
+Sipliteks...
+
+600
+00:26:32,589 --> 00:26:34,970
+Hangisini açtım ben ya.
+
+601
+00:26:34,970 --> 00:26:36,970
+Normal düz sipliteks açtım değil mi?
+
+602
+00:26:36,970 --> 00:26:38,970
+Şeysiz olan.
+
+603
+00:26:38,970 --> 00:26:40,970
+Tamam düz sipliteks açabiliriz.
+
+604
+00:26:40,970 --> 00:26:42,970
+İçiyorsun oradan bakalım.
+
+605
+00:26:42,970 --> 00:26:45,039
+Tamam.
+
+606
+00:26:45,039 --> 00:26:47,039
+Şimdi bu makalesi niye böyle? Onu anlamadım.
+
+607
+00:26:47,039 --> 00:26:49,200
+Bunu da farklı, onu da farklı.
+
+608
+00:26:49,200 --> 00:26:51,200
+Daktili değil mi?
+
+609
+00:26:51,200 --> 00:26:53,259
+Ha o yüzden diyorsun sen dur.
+
+610
+00:26:53,259 --> 00:26:55,640
+Aynen bir de ona bakalım.
+
+611
+00:26:55,640 --> 00:26:57,640
+Belki de hani...
+
+612
+00:26:57,640 --> 00:26:59,640
+Eski şey mi kaldı acaba sen de.
+
+613
+00:26:59,640 --> 00:27:01,640
+Oradan...
+
+614
+00:27:01,640 --> 00:27:03,640
+İşte bak yani...
+
+615
+00:27:03,640 --> 00:27:05,640
+Eğerle çalışman en şey de bu.
+
+616
+00:27:05,640 --> 00:27:07,640
+Biraz böyle dostaya kendini yapmayınca
+
+617
+00:27:07,640 --> 00:27:09,640
+hakimiyetini azalıyor ya.
+
+618
+00:27:09,640 --> 00:27:11,640
+Yani şöyle işte. Aynen.
+
+619
+00:27:11,640 --> 00:27:13,640
+Ben çizdiğim mi mi şimdi bunu?
+
+620
+00:27:13,640 --> 00:27:15,640
+Ben kendimde, ben de o yok.
+
+621
+00:27:15,640 --> 00:27:17,640
+Sen değil mi var acaba?
+
+622
+00:27:17,640 --> 00:27:19,640
+Orada mı oluşturduğum acaba?
+
+623
+00:27:19,640 --> 00:27:22,160
+Belki de sen...
+
+624
+00:27:22,160 --> 00:27:24,160
+Ha bak bu mesela şey...
+
+625
+00:27:24,160 --> 00:27:26,160
+Burda oluşturulmuş.
+
+626
+00:27:26,160 --> 00:27:28,160
+Şimdi doğru şey mi bakıyorum?
+
+627
+00:27:28,160 --> 00:27:30,569
+Doğru şey bakıyoruz.
+
+628
+00:27:30,569 --> 00:27:32,569
+Şimdi sipliteks'deyiz tamam mı?
+
+629
+00:27:32,569 --> 00:27:34,569
+Sipliteks'deyiz. Birestak birisi biz.
+
+630
+00:27:34,569 --> 00:27:36,569
+BD doğru.
+
+631
+00:27:36,569 --> 00:27:38,569
+Şimdi ha bizim...
+
+632
+00:27:38,569 --> 00:27:40,569
+Ekrandakiyle uyumsuz diyorsun sen.
+
+633
+00:27:40,569 --> 00:27:42,569
+Evet. Peki bunun...
+
+634
+00:27:42,569 --> 00:27:44,700
+Önerdiğine bir de bakayım.
+
+635
+00:27:44,700 --> 00:27:46,700
+Önerdiği doğruysuz ama belki...
+
+636
+00:27:46,700 --> 00:27:49,150
+Şu da var mesela.
+
+637
+00:27:49,150 --> 00:27:51,150
+Versiyon, versiyonlar...
+
+638
+00:27:51,150 --> 00:27:53,150
+Ne acaba? Bunu o da bakayım abi bir saniye.
+
+639
+00:27:53,150 --> 00:27:56,200
+Ya bu aynı zaten.
+
+640
+00:27:56,200 --> 00:27:58,299
+Bir de...
+
+641
+00:27:58,299 --> 00:28:00,299
+Şevronları bakmaya gerek yok.
+
+642
+00:28:00,299 --> 00:28:02,299
+Mesela şevronları...
+
+643
+00:28:02,299 --> 00:28:04,299
+Bakalım mesela şevronuna bakalım.
+
+644
+00:28:04,299 --> 00:28:06,839
+Ha şevronla mı kıyaslanıyorsun?
+
+645
+00:28:06,839 --> 00:28:08,839
+Tamam.
+
+646
+00:28:08,839 --> 00:28:10,839
+Şevronun bu görseliyle
+
+647
+00:28:10,839 --> 00:28:13,039
+makaledeki aynı mı mesela?
+
+648
+00:28:13,039 --> 00:28:15,609
+Şu. Bak bunlara aynı görüyor musun?
+
+649
+00:28:15,609 --> 00:28:19,180
+Şu.
+
+650
+00:28:19,180 --> 00:28:21,180
+Ama...
+
+651
+00:28:21,180 --> 00:28:24,299
+Bir de şeye bakalım abi.
+
+652
+00:28:24,299 --> 00:28:26,299
+Bu...
+
+653
+00:28:26,299 --> 00:28:28,299
+Bunun önerdiğine bir de bakayım şimdi.
+
+654
+00:28:28,299 --> 00:28:31,160
+Yeni önerdiği revision.
+
+655
+00:28:31,160 --> 00:28:34,920
+Figür on bir...
+
+656
+00:28:34,920 --> 00:28:37,279
+Şimdi yeni bunu önermiş mesela.
+
+657
+00:28:37,279 --> 00:28:39,279
+Yeni...
+
+658
+00:28:39,279 --> 00:28:41,279
+Yeni biraz keskin gidiyor.
+
+659
+00:28:41,279 --> 00:28:43,279
+Ya bak yeni bu abi işte.
+
+660
+00:28:43,279 --> 00:28:45,309
+Ha tamam.
+
+661
+00:28:45,309 --> 00:28:47,309
+Bizim Ekrandaki hangisini uyuyor?
+
+662
+00:28:47,309 --> 00:28:49,309
+Şimdi aslında şöyle bir durum var yani.
+
+663
+00:28:49,309 --> 00:28:51,309
+Şimdi bak yeni önerdiği de...
+
+664
+00:28:51,309 --> 00:28:53,309
+Bak yeni önerdiğiyle...
+
+665
+00:28:53,309 --> 00:28:55,309
+Makaledeki hangisini?
+
+666
+00:28:55,309 --> 00:28:57,309
+Yeni önerdiğiyle bu aynı şey.
+
+667
+00:28:57,309 --> 00:28:59,309
+Yani egzeldeki aynı.
+
+668
+00:28:59,309 --> 00:29:01,309
+Tamam mı?
+
+669
+00:29:01,309 --> 00:29:03,309
+Ama makaledeki farklı.
+
+670
+00:29:03,309 --> 00:29:05,309
+Makaledeki neden farklı?
+
+671
+00:29:05,309 --> 00:29:07,309
+Makaledeki...
+
+672
+00:29:07,309 --> 00:29:09,309
+Leri de ben yine şeyle elde etmiştim.
+
+673
+00:29:09,309 --> 00:29:11,599
+Kod yazarak elde etmiştim.
+
+674
+00:29:11,599 --> 00:29:13,819
+Muhtemelen orada benim hatam oldu.
+
+675
+00:29:13,819 --> 00:29:15,819
+Yani...
+
+676
+00:29:15,819 --> 00:29:17,819
+Bu sıralama mevzusu burada doğru.
+
+677
+00:29:17,819 --> 00:29:19,819
+Sen hani...
+
+678
+00:29:19,819 --> 00:29:21,819
+Anladım.
+
+679
+00:29:21,819 --> 00:29:24,589
+Ama yok...
+
+680
+00:29:24,589 --> 00:29:26,589
+Senin bu tablodaki değerlerin aslında...
+
+681
+00:29:26,589 --> 00:29:28,589
+Yani bizim tablodaki aynı ya...
+
+682
+00:29:28,589 --> 00:29:30,589
+Tabloda bir kaydırma yapmıyoruz.
+
+683
+00:29:30,589 --> 00:29:32,589
+Ben zaten o gerekli kaydırmayı...
+
+684
+00:29:32,589 --> 00:29:34,589
+Ben az önce bir kopyalama...
+
+685
+00:29:34,589 --> 00:29:36,589
+Sağ taraftan bir kopyalama yeri var ya ekzelde.
+
+686
+00:29:36,589 --> 00:29:38,589
+Ben ananı doğru yere kopyalayıp koydum.
+
+687
+00:29:38,589 --> 00:29:41,259
+Hani sen...
+
+688
+00:29:41,259 --> 00:29:43,259
+O yüzden...
+
+689
+00:29:43,259 --> 00:29:45,259
+Ha seninle bu zaten aynı dosyaya açık mı?
+
+690
+00:29:45,259 --> 00:29:47,259
+Yani sol üstte altı buçuk mu yazıyor?
+
+691
+00:29:47,259 --> 00:29:49,259
+Altı buçuk yazıyor.
+
+692
+00:29:49,259 --> 00:29:51,259
+Sadece aynı yani...
+
+693
+00:29:51,259 --> 00:29:53,319
+Aynı egzer...
+
+694
+00:29:53,319 --> 00:29:55,319
+Senin için bizim...
+
+695
+00:29:55,319 --> 00:29:57,710
+Gönderdiğimiz...
+
+696
+00:29:57,710 --> 00:29:59,710
+Gönderdiğimiz nasıl yanlış oldu?
+
+697
+00:29:59,710 --> 00:30:01,710
+Gönderdiğimiz nasıl yanlış oldu?
+
+698
+00:30:01,710 --> 00:30:03,710
+Şimdi...
+
+699
+00:30:03,710 --> 00:30:05,710
+O şımdan oldu muhtemelen.
+
+700
+00:30:05,710 --> 00:30:07,710
+Ya da ben sonradan mı öğrendim?
+
+701
+00:30:07,710 --> 00:30:09,710
+Sonradan mı düzelttim acaba?
+
+702
+00:30:09,710 --> 00:30:11,710
+Ya ben sonradan düzelttim.
+
+703
+00:30:11,710 --> 00:30:14,730
+Buraya doğrusunu attım falan.
+
+704
+00:30:14,730 --> 00:30:16,730
+Sipletek...
+
+705
+00:30:16,730 --> 00:30:18,730
+Bakayım abi bir saniye.
+
+706
+00:30:19,730 --> 00:30:22,119
+Şuralarda şey...
+
+707
+00:30:22,119 --> 00:30:24,119
+Yeni eskiye baktığım...
+
+708
+00:30:24,119 --> 00:30:25,630
+Progress...
+
+709
+00:30:25,630 --> 00:30:26,630
+Bak Nive var.
+
+710
+00:30:26,630 --> 00:30:29,009
+Şu an ben buna baktım.
+
+711
+00:30:29,009 --> 00:30:30,009
+Nive'e bakalım.
+
+712
+00:30:30,009 --> 00:30:32,359
+Orası Nive'ymiş ya.
+
+713
+00:30:32,359 --> 00:30:34,720
+Nive'e bakmıyorum.
+
+714
+00:30:34,720 --> 00:30:37,099
+Sipletek...
+
+715
+00:30:37,099 --> 00:30:40,480
+Şimdi bu aynısını açmıyorum diyor da...
+
+716
+00:30:40,480 --> 00:30:42,990
+Şimdi bu aynısını açmıyorum diyor da...
+
+717
+00:30:42,990 --> 00:30:44,990
+Şöyle yapalım.
+
+718
+00:30:44,990 --> 00:30:47,980
+Galiba SpaceX'ün bir tanesinde şey vardı ya...
+
+719
+00:30:47,980 --> 00:30:49,980
+Galiba SpaceX'ün bir tanesinde şey vardı ya...
+
+720
+00:30:49,980 --> 00:30:51,980
+Ha bak gördün mü?
+
+721
+00:30:51,980 --> 00:30:53,980
+Nive ile şey farklı.
+
+722
+00:30:53,980 --> 00:30:56,329
+O yüzden yani...
+
+723
+00:30:56,329 --> 00:30:57,329
+Bu eski hali...
+
+724
+00:30:57,329 --> 00:30:59,589
+Eski hali aslında doğruymuş.
+
+725
+00:30:59,589 --> 00:31:00,589
+Sonra ben de bir...
+
+726
+00:31:00,589 --> 00:31:01,589
+Nive geldim abi.
+
+727
+00:31:01,589 --> 00:31:02,589
+Nive var.
+
+728
+00:31:02,589 --> 00:31:04,589
+Bak Nive...
+
+729
+00:31:04,589 --> 00:31:05,589
+Nive...
+
+730
+00:31:05,589 --> 00:31:09,380
+Nive'e bu kadar farklı ya.
+
+731
+00:31:09,380 --> 00:31:11,720
+Dur.
+
+732
+00:31:11,720 --> 00:31:16,960
+Bize mi bu hata var diyorsun?
+
+733
+00:31:16,960 --> 00:31:19,369
+Bu hata bunda evet.
+
+734
+00:31:19,369 --> 00:31:28,990
+Sen Nive...
+
+735
+00:31:28,990 --> 00:31:30,309
+Şöyle...
+
+736
+00:31:30,309 --> 00:31:31,309
+Bir şey böyle bulunuyor.
+
+737
+00:31:31,309 --> 00:31:33,559
+Nive'in...
+
+738
+00:31:33,559 --> 00:31:34,559
+Ben de o Nive nerede ya?
+
+739
+00:31:34,559 --> 00:31:36,559
+Ben onu karışmasın diye galiba...
+
+740
+00:31:36,559 --> 00:31:37,559
+Sildim mi ya?
+
+741
+00:31:37,559 --> 00:31:39,450
+Sen benim...
+
+742
+00:31:39,450 --> 00:31:41,450
+Drive'i indirdin mi?
+
+743
+00:31:41,450 --> 00:31:44,059
+Ben indirdim de sonra anlayayım diye...
+
+744
+00:31:44,059 --> 00:31:45,059
+Biraz tadileştirdim.
+
+745
+00:31:45,059 --> 00:31:47,059
+4K'da çokla karıştırmadım.
+
+746
+00:31:47,059 --> 00:31:49,059
+Şimdi 4K'ın...
+
+747
+00:31:49,059 --> 00:31:50,059
+Splittex'inin...
+
+748
+00:31:50,059 --> 00:31:52,059
+4K Nive'e gelsene be.
+
+749
+00:31:52,059 --> 00:31:54,539
+4K'ın Nive.
+
+750
+00:31:54,539 --> 00:31:56,180
+Şimdi...
+
+751
+00:31:56,180 --> 00:31:58,880
+Nive olan ne ya?
+
+752
+00:31:58,880 --> 00:32:00,880
+4K şey buna girmeseler şimdi.
+
+753
+00:32:00,880 --> 00:32:03,460
+Bir şey değiştim anlamaya çalışıyorum.
+
+754
+00:32:03,460 --> 00:32:04,460
+Geri gidelim abi.
+
+755
+00:32:04,460 --> 00:32:05,460
+Yok geri gidelim.
+
+756
+00:32:05,460 --> 00:32:11,140
+Nive geldi geriye.
+
+757
+00:32:11,140 --> 00:32:13,480
+Acaba Nive...
+
+758
+00:32:13,480 --> 00:32:15,480
+Splittex'in bir şeyini istedim.
+
+759
+00:32:15,480 --> 00:32:19,650
+4K Nive.
+
+760
+00:32:19,650 --> 00:32:22,519
+Biz bütün rizalların Nive'den mi aldık acaba?
+
+761
+00:32:22,519 --> 00:32:24,799
+Nive'den mi koyduk belli ki.
+
+762
+00:32:24,799 --> 00:32:25,799
+Aynen öyle görünüyor evet.
+
+763
+00:32:25,799 --> 00:32:28,220
+4K Nive.
+
+764
+00:32:28,220 --> 00:32:31,920
+4K Nive.
+
+765
+00:32:31,920 --> 00:32:35,319
+Orada...
+
+766
+00:32:35,319 --> 00:32:38,319
+4K Nive'in içinden hemen bir kontrol edelim abi.
+
+767
+00:32:38,319 --> 00:32:39,319
+Orada yapmış mıyız diye.
+
+768
+00:32:39,319 --> 00:32:42,160
+4K Nive girsene abi.
+
+769
+00:32:42,160 --> 00:32:44,160
+4K Nive bir dakika.
+
+770
+00:32:47,599 --> 00:32:49,599
+4K Nive gir abi o işte.
+
+771
+00:32:49,599 --> 00:32:50,630
+Benimdeki.
+
+772
+00:32:50,630 --> 00:32:53,589
+Splittex'e gir.
+
+773
+00:32:53,589 --> 00:32:55,589
+Şimdi 4K Nive...
+
+774
+00:32:55,589 --> 00:32:57,589
+Splittex'e gir.
+
+775
+00:32:57,589 --> 00:33:01,319
+Şimdi...
+
+776
+00:33:01,319 --> 00:33:04,319
+Burada Breast Activity aç abi.
+
+777
+00:33:04,319 --> 00:33:07,400
+Breast Activity yani on aç.
+
+778
+00:33:07,400 --> 00:33:09,440
+İlk...
+
+779
+00:33:09,440 --> 00:33:11,630
+İlk...
+
+780
+00:33:11,630 --> 00:33:15,450
+İlk TX'teyi açsana be.
+
+781
+00:33:15,450 --> 00:33:16,450
+Öyle bir şey.
+
+782
+00:33:16,450 --> 00:33:22,940
+İlk TX'tenin şeyde farklı.
+
+783
+00:33:22,940 --> 00:33:27,240
+Benim maksimum farklı.
+
+784
+00:33:27,240 --> 00:33:30,240
+Bu Nive neden ihtiyaç duyduk acaba biz ya?
+
+785
+00:33:30,240 --> 00:33:33,240
+Ben bence ben bir şeyi hatalı girdim muhtemelen.
+
+786
+00:33:33,240 --> 00:33:37,240
+Perfom 3D'de bir şeyini bir reisini yanlış girmiş olabilirim.
+
+787
+00:33:37,240 --> 00:33:39,240
+Ben bir reisini yanlış girdim.
+
+788
+00:33:39,240 --> 00:33:41,240
+Tekrar aldım muhtemelen.
+
+789
+00:33:41,240 --> 00:33:43,240
+Şimdi mesela...
+
+790
+00:33:43,240 --> 00:33:44,240
+Şeye gel abi.
+
+791
+00:33:44,240 --> 00:33:46,240
+Mesela en sonucu...
+
+792
+00:33:46,240 --> 00:33:47,240
+Şeye gel.
+
+793
+00:33:47,240 --> 00:33:50,809
+En sonucu TX'teyi açalım.
+
+794
+00:33:50,809 --> 00:33:51,809
+Bunun...
+
+795
+00:33:51,809 --> 00:33:52,809
+Bunu en sonu diyorsun.
+
+796
+00:33:52,809 --> 00:33:59,640
+121.712.
+
+797
+00:33:59,640 --> 00:34:02,789
+Bu an çıktı mı?
+
+798
+00:34:02,789 --> 00:34:03,789
+Hadi bakalım.
+
+799
+00:34:03,789 --> 00:34:18,940
+CBF yazmışım.
+
+800
+00:34:18,940 --> 00:34:19,940
+An çıktı ya.
+
+801
+00:34:19,940 --> 00:34:22,940
+Acaba birkaç defrem kaydında problem mi vardı?
+
+802
+00:34:23,940 --> 00:34:27,610
+Abi ortadan bir yerden bir şey seçelim bir de.
+
+803
+00:34:27,610 --> 00:34:30,610
+Çünkü ilk de ilkki farklıydı mesela bu aynı çıktı gibi.
+
+804
+00:34:33,699 --> 00:34:34,699
+Bir adını söylesene.
+
+805
+00:34:34,699 --> 00:34:36,699
+121.712.
+
+806
+00:34:36,699 --> 00:34:39,630
+121.712.
+
+807
+00:34:39,630 --> 00:34:49,530
+Refrem'de hata vardı muhtemelen.
+
+808
+00:34:49,530 --> 00:34:50,530
+Olabilir abi evet.
+
+809
+00:34:50,530 --> 00:34:51,530
+Ama...
+
+810
+00:34:51,530 --> 00:34:53,530
+Ama yine de o durumda...
+
+811
+00:34:54,530 --> 00:34:55,530
+Şeye bakalım abi.
+
+812
+00:34:57,079 --> 00:35:00,079
+Senin buradaki excelde şey kıyasıt yazdığımız zaman.
+
+813
+00:35:01,809 --> 00:35:02,809
+Benim en...
+
+814
+00:35:02,809 --> 00:35:03,809
+İlk kin açsana.
+
+815
+00:35:03,809 --> 00:35:04,809
+İlk TX'teyi açsana.
+
+816
+00:35:04,809 --> 00:35:08,360
+Bunun TX'in altına aç doğru yerdeyiz değil mi?
+
+817
+00:35:08,360 --> 00:35:09,360
+O Nive'deyiz şu an.
+
+818
+00:35:09,360 --> 00:35:10,360
+Ha ha Nive'deyiz.
+
+819
+00:35:10,360 --> 00:35:12,420
+Nive aç abi.
+
+820
+00:35:12,420 --> 00:35:23,500
+BDS'in kim oluşturdu?
+
+821
+00:35:23,500 --> 00:35:25,500
+Ben onu oluşturup vermedim mi acaba ya?
+
+822
+00:35:25,500 --> 00:35:29,500
+Ya işte belki de ben oluşturmuş da olabilirim bilmiyorum.
+
+823
+00:35:29,500 --> 00:35:32,500
+Şey yani hani sen yine...
+
+824
+00:35:32,500 --> 00:35:34,500
+Biden'dan mı yoksa şey mi?
+
+825
+00:35:34,500 --> 00:35:37,500
+Şu TX'tileri vermişsindir mesela.
+
+826
+00:35:37,500 --> 00:35:38,500
+Bunları.
+
+827
+00:35:38,500 --> 00:35:40,780
+Sonra ben bunu...
+
+828
+00:35:40,780 --> 00:35:43,780
+Bak çünkü ben burada bir şeyler de yapmışım.
+
+829
+00:35:43,780 --> 00:35:46,780
+Şu mesela bunda ne var acaba bir bakayım.
+
+830
+00:35:46,780 --> 00:35:48,099
+Hani otobü...
+
+831
+00:35:48,099 --> 00:35:49,099
+Şey ettin.
+
+832
+00:35:49,099 --> 00:35:52,099
+Eller çekmeyeyim diye otomatik egizel oluşturma mı yaptım acaba?
+
+833
+00:35:52,099 --> 00:35:54,449
+Aynen bak evet evet.
+
+834
+00:35:54,449 --> 00:35:56,449
+Bak şurada şey yapmışım abi.
+
+835
+00:35:56,449 --> 00:36:00,449
+Tek tek hani gidip popyalı yapıştır yapmamak için.
+
+836
+00:36:00,449 --> 00:36:02,519
+Şey yapmışım.
+
+837
+00:36:02,519 --> 00:36:05,519
+Iıı işte Cahit'in jurtunu buraya yazmışım.
+
+838
+00:36:06,610 --> 00:36:08,610
+Bunları böyle yapmışım falan.
+
+839
+00:36:08,610 --> 00:36:09,610
+Evet evet.
+
+840
+00:36:09,610 --> 00:36:10,610
+Evet o var ya.
+
+841
+00:36:10,610 --> 00:36:15,849
+Yani burada bak 4QK ID'ler mesela buradan bakalım abi.
+
+842
+00:36:15,849 --> 00:36:16,849
+Aynen.
+
+843
+00:36:16,849 --> 00:36:18,849
+Burada zaten hani öyle bir...
+
+844
+00:36:18,849 --> 00:36:19,849
+Evet.
+
+845
+00:36:19,849 --> 00:36:21,849
+Ayrım yapacağımı hiç sanmıyorum.
+
+846
+00:36:21,849 --> 00:36:22,849
+Yok yok.
+
+847
+00:36:22,849 --> 00:36:24,849
+Sen Chevron'la aynı gibi davranmışsın.
+
+848
+00:36:24,849 --> 00:36:25,849
+Aynen.
+
+849
+00:36:25,849 --> 00:36:27,849
+Çünkü bir fark yok gibi düşünmüşsün.
+
+850
+00:36:27,849 --> 00:36:29,269
+Evet.
+
+851
+00:36:29,269 --> 00:36:32,269
+Ben de kendim ben ellerim onu yaparken...
+
+852
+00:36:32,269 --> 00:36:33,269
+Zaten baksana bak bak.
+
+853
+00:36:33,269 --> 00:36:34,269
+Şurada var.
+
+854
+00:36:34,269 --> 00:36:35,269
+Çok pardo.
+
+855
+00:36:35,269 --> 00:36:36,269
+Zaten baksana bak bak.
+
+856
+00:36:36,269 --> 00:36:37,269
+Şurada var.
+
+857
+00:36:37,269 --> 00:36:38,269
+Çok pardo.
+
+858
+00:36:38,269 --> 00:36:40,300
+Namro story artı bir.
+
+859
+00:36:40,300 --> 00:36:41,300
+Yani...
+
+860
+00:36:41,300 --> 00:36:43,300
+Hep öyle ilerlemiş şey.
+
+861
+00:36:43,300 --> 00:36:44,300
+Aynen aynen.
+
+862
+00:36:44,300 --> 00:36:45,300
+Yok işte.
+
+863
+00:36:45,300 --> 00:36:47,300
+Ben de bunu elle yaptım.
+
+864
+00:36:47,300 --> 00:36:50,300
+Ben elle yaparken yanlış olduğunu hani değerlerden biraz da...
+
+865
+00:36:50,300 --> 00:36:53,300
+Şimdi ben analiz yapan benim ya ben biraz değerleri anlayabiliyorum yani.
+
+866
+00:36:53,300 --> 00:36:55,300
+Bu saçma bu değil falan.
+
+867
+00:36:55,300 --> 00:36:57,300
+Hani sen onu öyle çalışırken onu...
+
+868
+00:36:57,300 --> 00:36:58,300
+Fark etme şansın yok yani.
+
+869
+00:36:58,300 --> 00:36:59,300
+İmkânı yok.
+
+870
+00:36:59,300 --> 00:37:00,300
+Gerçi şey çok iyi.
+
+871
+00:37:00,300 --> 00:37:01,300
+O nasıl yakalamış.
+
+872
+00:37:01,300 --> 00:37:04,300
+Ha o direkt performundan çıkan data ile yakalıyor.
+
+873
+00:37:04,300 --> 00:37:05,300
+Aynen abi oğlan.
+
+874
+00:37:05,300 --> 00:37:10,300
+Yani şunlarla çapraz doğrulama yapınca şey oluyor.
+
+875
+00:37:10,300 --> 00:37:11,300
+Evet.
+
+876
+00:37:11,300 --> 00:37:12,300
+Tamam.
+
+877
+00:37:12,300 --> 00:37:13,300
+Eee...
+
+878
+00:37:13,300 --> 00:37:14,300
+Hatta o zaman hocaya...
+
+879
+00:37:14,300 --> 00:37:16,329
+O zaman yettiğin doğru zaman.
+
+880
+00:37:16,329 --> 00:37:17,329
+Hocaya yettiğin doğru zaman.
+
+881
+00:37:17,329 --> 00:37:18,329
+Aynen.
+
+882
+00:37:18,329 --> 00:37:19,329
+O zaman şu an...
+
+883
+00:37:19,329 --> 00:37:20,329
+Hocanın reviziyeti...
+
+884
+00:37:20,329 --> 00:37:21,329
+Drive'daki mesela...
+
+885
+00:37:21,329 --> 00:37:22,329
+Bakalım bir Drive en son...
+
+886
+00:37:22,329 --> 00:37:23,329
+Onu koyduk mu diye.
+
+887
+00:37:23,329 --> 00:37:24,329
+Eee...
+
+888
+00:37:24,329 --> 00:37:25,329
+The Vision...
+
+889
+00:37:25,329 --> 00:37:26,329
+Figürs.
+
+890
+00:37:26,329 --> 00:37:27,329
+Figür 11.
+
+891
+00:37:27,329 --> 00:37:28,460
+Aynen.
+
+892
+00:37:28,460 --> 00:37:29,460
+Bak bu doğru olan işte.
+
+893
+00:37:29,460 --> 00:37:30,460
+Aynen.
+
+894
+00:37:30,460 --> 00:37:33,489
+Bu doğru olan neleri değiştirdi, hepsini değiştirdi.
+
+895
+00:37:33,489 --> 00:37:35,360
+Bu da işte.
+
+896
+00:37:35,360 --> 00:37:37,960
+Burada notta şey yazıyor.
+
+897
+00:37:37,960 --> 00:37:38,960
+Eee...
+
+898
+00:37:38,960 --> 00:37:39,960
+İşte.
+
+899
+00:37:39,960 --> 00:37:43,960
+Ama hocaya bunu ama revibura anlatmamız gerekecek ama.
+
+900
+00:37:43,960 --> 00:37:44,960
+Evet işte.
+
+901
+00:37:44,960 --> 00:37:46,960
+Dikkat etmek çekerse şey olur.
+
+902
+00:37:46,960 --> 00:37:47,960
+Eee...
+
+903
+00:37:47,960 --> 00:37:49,960
+Bu sefer veriyi değiştirmekten ziyade...
+
+904
+00:37:49,960 --> 00:37:52,960
+Yani bu sefer hem veriyi değiştirmekten ziyade...
+
+905
+00:37:52,960 --> 00:37:56,760
+Bizim bazı cümleler direkt şey yapıyoruz.
+
+906
+00:37:57,760 --> 00:38:00,760
+Yani bu sefer hem veriyi değiştirmekten ziyade...
+
+907
+00:38:00,760 --> 00:38:02,760
+Bizim bazı cümleler direkt şey yapıyor.
+
+908
+00:38:02,760 --> 00:38:04,800
+Buna...
+
+909
+00:38:04,800 --> 00:38:06,800
+Ekin veler de yanlış.
+
+910
+00:38:06,800 --> 00:38:07,800
+Çünkü...
+
+911
+00:38:07,800 --> 00:38:09,800
+Bu figür 4 ile ilgili atıyorum.
+
+912
+00:38:09,800 --> 00:38:13,019
+Figür 11 ile alakalı bir şeyler yazıyor ya.
+
+913
+00:38:13,019 --> 00:38:15,019
+O da hatalıdır da.
+
+914
+00:38:15,019 --> 00:38:16,019
+Adam bile çok...
+
+915
+00:38:16,019 --> 00:38:19,019
+Hani veri çok değişsizi de adam güveni sarsabilir.
+
+916
+00:38:19,019 --> 00:38:21,019
+Abi şöyle olmuş bak.
+
+917
+00:38:21,019 --> 00:38:23,019
+Yani şu şeyler...
+
+918
+00:38:23,019 --> 00:38:25,119
+Eskiler...
+
+919
+00:38:25,119 --> 00:38:27,119
+Eskiler daha ortalığı...
+
+920
+00:38:27,119 --> 00:38:28,119
+Tamam bu mantıklı aslında.
+
+921
+00:38:28,119 --> 00:38:30,119
+Evet, davranış daha mantıklı.
+
+922
+00:38:30,119 --> 00:38:32,119
+Zaten birikme oluyor yani genelde spitaksa.
+
+923
+00:38:32,119 --> 00:38:34,119
+Bu davranış daha gerçekçi.
+
+924
+00:38:34,119 --> 00:38:35,119
+Doğrusu bu.
+
+925
+00:38:35,119 --> 00:38:36,119
+Senin aklın doğru.
+
+926
+00:38:36,119 --> 00:38:37,119
+Ben çünkü...
+
+927
+00:38:37,119 --> 00:38:38,119
+Ben niye biraz isyan ettim?
+
+928
+00:38:38,119 --> 00:38:39,119
+Ben bunu yapmıştım.
+
+929
+00:38:39,119 --> 00:38:41,150
+Evet, doğru versiyon.
+
+930
+00:38:41,150 --> 00:38:45,150
+Ama senin sana edebdiğini tekrar çalıştığımızı bilmiyordum.
+
+931
+00:38:45,150 --> 00:38:46,150
+Eee...
+
+932
+00:38:46,150 --> 00:38:47,340
+Ben...
+
+933
+00:38:47,340 --> 00:38:49,340
+Ya ben bir...
+
+934
+00:38:49,340 --> 00:38:50,340
+Ben bir...
+
+935
+00:38:50,340 --> 00:38:51,340
+Yani normal yani.
+
+936
+00:38:51,340 --> 00:38:53,340
+Hani kapalarda dağıldı.
+
+937
+00:38:53,340 --> 00:38:54,340
+Herkesin başka konsantrasyonu var.
+
+938
+00:38:54,340 --> 00:38:57,340
+Ben başka küçük hatalar da buldum da...
+
+939
+00:38:57,340 --> 00:38:59,340
+Artık çok şey yapmıyorum artık.
+
+940
+00:38:59,340 --> 00:39:00,340
+Hayır.
+
+941
+00:39:00,340 --> 00:39:02,340
+Çok gündeme getirmiyorum yani.
+
+942
+00:39:02,340 --> 00:39:03,340
+Abi...
+
+943
+00:39:03,340 --> 00:39:05,340
+Aman review'larda şey yapmadıysa...
+
+944
+00:39:05,340 --> 00:39:07,469
+Yok yok.
+
+945
+00:39:07,469 --> 00:39:09,469
+Yapabileceği bir şey değil zaten.
+
+946
+00:39:09,469 --> 00:39:10,469
+Şey...
+
+947
+00:39:10,469 --> 00:39:11,469
+Şey oluyor ya.
+
+948
+00:39:11,469 --> 00:39:12,469
+Çok bir şey etkilemiyor.
+
+949
+00:39:12,469 --> 00:39:13,469
+Hepsini öyle...
+
+950
+00:39:13,469 --> 00:39:14,469
+On katlılarda abi...
+
+951
+00:39:14,469 --> 00:39:16,469
+Ya bir o katlarımız çok gazeteli.
+
+952
+00:39:16,469 --> 00:39:18,469
+On katlarda şey hatası yaptı.
+
+953
+00:39:18,469 --> 00:39:20,400
+Eee...
+
+954
+00:39:22,199 --> 00:39:25,199
+Atıyorum gravity frame veya çaprazın üzerine kendi...
+
+955
+00:39:25,199 --> 00:39:27,199
+İstimde bir basit bir ağırlığı var ya.
+
+956
+00:39:27,199 --> 00:39:28,199
+Kendi ağırlığı.
+
+957
+00:39:28,199 --> 00:39:29,199
+Evet.
+
+958
+00:39:29,199 --> 00:39:31,769
+Yani kendi ağırlığı derken.
+
+959
+00:39:31,769 --> 00:39:32,769
+Self-weight'i bahsetmiyorum.
+
+960
+00:39:32,769 --> 00:39:33,769
+Self-weight zaten hiçbir şey etki etmez.
+
+961
+00:39:33,769 --> 00:39:35,769
+Bu mertebeden çalışmalı da.
+
+962
+00:39:35,769 --> 00:39:36,769
+Eee...
+
+963
+00:39:36,769 --> 00:39:38,840
+Elemanın self-weight'i de edilemez.
+
+964
+00:39:38,840 --> 00:39:40,840
+Üstüne normalde...
+
+965
+00:39:40,840 --> 00:39:43,840
+Dösemeden gelen yükü de etkiltmen gerekiyor.
+
+966
+00:39:43,840 --> 00:39:45,840
+Mesela o kiriş normalde düşeyi taşıyacağı.
+
+967
+00:39:45,840 --> 00:39:47,840
+Aynı zamanda bir kısmını düşeyi olarak taşıyacağı.
+
+968
+00:39:47,840 --> 00:39:48,840
+Hı hı.
+
+969
+00:39:48,840 --> 00:39:49,840
+Onu...
+
+970
+00:39:49,840 --> 00:39:50,840
+Eee...
+
+971
+00:39:50,840 --> 00:39:51,840
+4 katlarda eklemişim.
+
+972
+00:39:51,840 --> 00:39:53,840
+10 katlarda eklememişim.
+
+973
+00:39:53,840 --> 00:39:54,840
+Ama...
+
+974
+00:39:54,840 --> 00:39:55,840
+Tüm...
+
+975
+00:39:55,840 --> 00:39:56,840
+Şeriyi de eklemediğim için...
+
+976
+00:39:56,840 --> 00:39:57,840
+Hani ciddi bir...
+
+977
+00:39:57,840 --> 00:39:59,840
+Komperizmde çok bir şey etkileyen bir şey yok yani.
+
+978
+00:39:59,840 --> 00:40:01,840
+Onlar kendi içinde...
+
+979
+00:40:01,840 --> 00:40:02,840
+Şey yani...
+
+980
+00:40:02,840 --> 00:40:03,840
+Consistent...
+
+981
+00:40:03,840 --> 00:40:04,840
+Denebilirim.
+
+982
+00:40:04,840 --> 00:40:05,840
+Aynen. Consistent olduğu sözü yani.
+
+983
+00:40:05,840 --> 00:40:07,840
+Major bir şey değil.
+
+984
+00:40:07,840 --> 00:40:08,840
+Hatadi...
+
+985
+00:40:08,840 --> 00:40:09,840
+Eee...
+
+986
+00:40:09,840 --> 00:40:11,409
+Öyle yani...
+
+987
+00:40:11,409 --> 00:40:12,409
+Birkaç öyle hatamı fark ettim.
+
+988
+00:40:12,409 --> 00:40:14,409
+O kapa pısı ile şöyle...
+
+989
+00:40:14,409 --> 00:40:16,639
+Eee...
+
+990
+00:40:16,639 --> 00:40:18,699
+Onlar o kadar olacak yine artık.
+
+991
+00:40:19,699 --> 00:40:21,050
+Aynen.
+
+992
+00:40:21,050 --> 00:40:22,050
+Tamam abi o zaman.
+
+993
+00:40:22,050 --> 00:40:23,050
+Eee şey...
+
+994
+00:40:23,050 --> 00:40:24,050
+Bir yazarız hocaya.
+
+995
+00:40:24,050 --> 00:40:25,050
+Şey...
+
+996
+00:40:25,050 --> 00:40:26,050
+Sen istersen daha...
+
+997
+00:40:26,050 --> 00:40:27,050
+Hocayı gittiğimiz doğru.
+
+998
+00:40:27,050 --> 00:40:28,050
+Aynen.
+
+999
+00:40:28,050 --> 00:40:29,050
+Hocaya şey yazalım işte.
+
+1000
+00:40:29,050 --> 00:40:30,050
+Doğrum yazacağız.
+
+1001
+00:40:30,050 --> 00:40:31,050
+Aynen.
+
+1002
+00:40:31,050 --> 00:40:32,050
+Şunu da...
+
+1003
+00:40:32,050 --> 00:40:33,050
+Şurayı incelerse zaten.
+
+1004
+00:40:33,050 --> 00:40:34,050
+Hocaya...
+
+1005
+00:40:34,050 --> 00:40:35,050
+Eee...
+
+1006
+00:40:35,050 --> 00:40:36,050
+Ne yapması gerektiğini...
+
+1007
+00:40:36,050 --> 00:40:37,050
+Yani...
+
+1008
+00:40:37,050 --> 00:40:38,050
+İnternet çok gıcıyor ya.
+
+1009
+00:40:38,050 --> 00:40:39,050
+Benim internet niye böyle ya?
+
+1010
+00:40:39,050 --> 00:40:41,050
+Şu an geliyor mu sesim?
+
+1011
+00:40:41,050 --> 00:40:42,150
+Yo geliyor.
+
+1012
+00:40:42,150 --> 00:40:43,150
+Ha.
+
+1013
+00:40:43,150 --> 00:40:45,150
+Abi son çekiyor internet ama böyle bir donuyor.
+
+1014
+00:40:45,150 --> 00:40:46,150
+Çok saçma.
+
+1015
+00:40:46,150 --> 00:40:47,150
+Yo çek...
+
+1016
+00:40:47,150 --> 00:40:48,150
+Şunu da...
+
+1017
+00:40:48,150 --> 00:40:49,309
+Bir garip yani.
+
+1018
+00:40:49,309 --> 00:40:50,309
+Eee...
+
+1019
+00:40:50,309 --> 00:40:51,309
+Tamam yani...
+
+1020
+00:40:51,309 --> 00:40:53,309
+Hocayı bunda incelerse anlar zaten olayı.
+
+1021
+00:40:53,309 --> 00:40:55,309
+Sen de bir açıklayıcı yaz istersen.
+
+1022
+00:40:55,309 --> 00:40:56,309
+Ben şu an...
+
+1023
+00:40:56,309 --> 00:40:57,309
+Hani sen daha hakimsin yani.
+
+1024
+00:40:57,309 --> 00:40:58,309
+Tamam.
+
+1025
+00:40:58,309 --> 00:40:59,309
+Eee...
+
+1026
+00:40:59,309 --> 00:41:00,309
+Tamam.
+
+1027
+00:41:00,309 --> 00:41:01,309
+Eee...
+
+1028
+00:41:01,309 --> 00:41:02,309
+Bunu at istersen.
+
+1029
+00:41:02,309 --> 00:41:03,309
+Bunu gruba at.
+
+1030
+00:41:03,309 --> 00:41:04,309
+Bu...
+
+1031
+00:41:04,309 --> 00:41:06,440
+Şu dosyayı mı?
+
+1032
+00:41:06,440 --> 00:41:07,440
+Bu gördü.
+
+1033
+00:41:07,440 --> 00:41:09,440
+Doğruya karışık değil de sırf bu gördü.
+
+1034
+00:41:09,440 --> 00:41:10,440
+Tamam.
+
+1035
+00:41:10,440 --> 00:41:11,440
+Eee...
+
+1036
+00:41:11,440 --> 00:41:12,760
+Tamam.
+
+1037
+00:41:12,760 --> 00:41:14,760
+Ben niye o değişikliği yaptığımı hatırlamıyor muyum?
+
+1038
+00:41:14,760 --> 00:41:16,760
+Ben yazarım hocam.
+
+1039
+00:41:16,760 --> 00:41:19,760
+Ben 4 katın spitaksını yenilemişim.
+
+1040
+00:41:19,760 --> 00:41:21,760
+Yenilerken de işte...
+
+1041
+00:41:21,760 --> 00:41:25,170
+Bu sefer paytından çıkartırken...
+
+1042
+00:41:25,170 --> 00:41:27,170
+AI oğlum da bakıyor yani.
+
+1043
+00:41:27,170 --> 00:41:30,170
+AI paytından çıkarttığını sen kontrol etmek zorundasın ya.
+
+1044
+00:41:30,170 --> 00:41:32,170
+AI kendi çıktısını ve değerlendiririz.
+
+1045
+00:41:32,170 --> 00:41:33,170
+Çok iyi bir şeymiş ya.
+
+1046
+00:41:33,170 --> 00:41:34,170
+Aynen abi.
+
+1047
+00:41:34,170 --> 00:41:37,170
+Arka planında bunlar da olduğu için şey yaptı yani.
+
+1048
+00:41:37,170 --> 00:41:38,170
+Aynen.
+
+1049
+00:41:38,170 --> 00:41:39,489
+Eee...
+
+1050
+00:41:39,489 --> 00:41:40,489
+Öyle.
+
+1051
+00:41:40,489 --> 00:41:41,909
+Güzel güzel.
+
+1052
+00:41:41,909 --> 00:41:42,909
+Enes Alkar abi.
+
+1053
+00:41:42,909 --> 00:41:44,909
+Valla çok iyi oldu.
+
+1054
+00:41:44,909 --> 00:41:46,909
+Başka türlü.
+
+1055
+00:41:46,909 --> 00:41:49,099
+Ben yine bir yara korktum.
+
+1056
+00:41:49,099 --> 00:41:50,099
+10 katı bulamasaydım var ya.
+
+1057
+00:41:50,099 --> 00:41:51,099
+Büyük patlaması.
+
+1058
+00:41:51,099 --> 00:41:53,099
+O zaman Arka'da patlardık ya.
+
+1059
+00:41:53,099 --> 00:41:55,099
+Abi o zaman ben de o...
+
+1060
+00:41:55,099 --> 00:41:58,099
+Tek tek böyle geceleri böyle şey alacaktım yani.
+
+1061
+00:41:58,099 --> 00:42:00,099
+Ya ben şey hatırlıyorum bu.
+
+1062
+00:42:00,099 --> 00:42:01,099
+TX deliri.
+
+1063
+00:42:01,099 --> 00:42:02,099
+Şey oldu.
+
+1064
+00:42:02,099 --> 00:42:03,099
+Eee...
+
+1065
+00:42:03,099 --> 00:42:05,099
+Biz 4 katları tekrar aldık.
+
+1066
+00:42:05,099 --> 00:42:08,099
+Hatta sen bana göstermiştin nasıl alıyoruz tek tek diye.
+
+1067
+00:42:08,099 --> 00:42:11,099
+Ben bir sefer tek tek şey yapmıştım.
+
+1068
+00:42:11,099 --> 00:42:12,099
+Eee...
+
+1069
+00:42:12,099 --> 00:42:13,099
+Çekmiştim.
+
+1070
+00:42:13,099 --> 00:42:14,099
+Tamam tamam.
+
+1071
+00:42:14,099 --> 00:42:16,099
+Belki de o yüzden bunlar sende olmaya da bilir.
+
+1072
+00:42:16,099 --> 00:42:19,099
+Hani yeni şeyler anlatabildi mi?
+
+1073
+00:42:19,099 --> 00:42:22,099
+Senin lokalette falan olmaya bilir yani.
+
+1074
+00:42:22,099 --> 00:42:24,869
+Tamam ben buradan bir şey biliyorum.
+
+1075
+00:42:24,869 --> 00:42:25,869
+Buraya gitmiştim de.
+
+1076
+00:42:25,869 --> 00:42:26,869
+Aynen.
+
+1077
+00:42:26,869 --> 00:42:28,030
+Öyle abi.
+
+1078
+00:42:28,030 --> 00:42:29,030
+Tamam tamam.
+
+1079
+00:42:29,030 --> 00:42:30,030
+Enes Alkar abi.
+
+1080
+00:42:30,030 --> 00:42:31,030
+Çok iyi oldu.
+
+1081
+00:42:31,030 --> 00:42:33,760
+Fakat ettiğiniz bir önemli bir şey.
+
+1082
+00:42:33,760 --> 00:42:34,760
+Neyse.
+
+1083
+00:42:34,760 --> 00:42:36,760
+Ben yattım diye kendimi rahatsız ediyordum.
+
+1084
+00:42:36,760 --> 00:42:38,760
+Eğer zamanı tekrar atmışız.
+
+1085
+00:42:38,760 --> 00:42:39,760
+Evet.
+
+1086
+00:42:39,760 --> 00:42:40,760
+Aynen.
+
+1087
+00:42:40,760 --> 00:42:41,760
+Güzel oldu ama iyi.
+
+1088
+00:42:41,760 --> 00:42:42,760
+Direktin de iyi oldu.
+
+1089
+00:42:42,760 --> 00:42:43,760
+Sağ olasın.
+
+1090
+00:42:46,679 --> 00:42:47,679
+Görüşürüz.
+
+1091
+00:42:47,679 --> 00:42:49,679
+O zaman biz işleri bitirdik ya.
+
+1092
+00:42:49,679 --> 00:42:50,679
+Bu şeyde artık.
+
+1093
+00:42:50,679 --> 00:42:52,679
+Evet evet biz bitirdik.
+
+1094
+00:42:52,679 --> 00:42:53,679
+Oca da top ya.
+
+1095
+00:42:53,679 --> 00:42:54,679
+Tamamıyla oca da.
+
+1096
+00:42:54,679 --> 00:42:58,679
+On katları bulduğun için de beni işte bir hafta mutluttardık.
+
+1097
+00:42:58,679 --> 00:42:59,880
+Eee...
+
+1098
+00:42:59,880 --> 00:43:02,880
+Tekrar buluşursa geneye buluşuruz artık.
+
+1099
+00:43:02,880 --> 00:43:03,880
+Şimdi şey neredeydi?
+
+1100
+00:43:03,880 --> 00:43:06,880
+Abi benim çekmek öyle şeyde benim ya.
+
+1101
+00:43:06,880 --> 00:43:09,869
+Çavuş başında biliyor musun oraları?
+
+1102
+00:43:09,869 --> 00:43:10,869
+Boşunuyoruz.
+
+1103
+00:43:10,869 --> 00:43:11,869
+Beykoz da doğru.
+
+1104
+00:43:11,869 --> 00:43:12,869
+Aynen.
+
+1105
+00:43:12,869 --> 00:43:15,250
+Beykoza doğru zaten bizim.
+
+1106
+00:43:15,250 --> 00:43:16,250
+Siz neydi bu oradayla?
+
+1107
+00:43:16,250 --> 00:43:17,250
+Ümraniye'de.
+
+1108
+00:43:17,250 --> 00:43:19,699
+Eee evin Ümraniye'de.
+
+1109
+00:43:19,699 --> 00:43:20,699
+Tamam.
+
+1110
+00:43:20,699 --> 00:43:22,699
+Siz neredesiniz abi?
+
+1111
+00:43:22,699 --> 00:43:25,920
+Abi biz bari İstanbul tam testek arasında galiba.
+
+1112
+00:43:25,920 --> 00:43:27,920
+Ben Olimpiyasta'nın oradayım.
+
+1113
+00:43:27,920 --> 00:43:31,920
+İstersinde de Olimpiyasta'da var biliyorsunuz İstanbul'a çıkarken.
+
+1114
+00:43:33,690 --> 00:43:36,789
+Benim eşirin diş ekimi şeyde burada çalışıyor.
+
+1115
+00:43:36,789 --> 00:43:38,789
+Başak şey tıp merkezi var burada.
+
+1116
+00:43:40,789 --> 00:43:44,789
+Yani iş yerimde sanayi maalesef 4. evente.
+
+1117
+00:43:45,789 --> 00:43:47,789
+Yolun bir şekilde düşersen aklımda olsun.
+
+1118
+00:43:47,789 --> 00:43:49,789
+Orası yakınmış abi aynen.
+
+1119
+00:43:50,849 --> 00:43:52,849
+Tamam abi haberleşiriz yine.
+
+1120
+00:43:52,849 --> 00:43:54,849
+Sen gelin çıkıyorsun yani de çok sağlık.
+
+1121
+00:43:54,849 --> 00:43:56,849
+Ben şey yapacağım ya aynen.
+
+1122
+00:43:57,849 --> 00:43:59,849
+Ben de bu eczanedeydim.
+
+1123
+00:44:00,849 --> 00:44:02,849
+Şey nedir adı?
+
+1124
+00:44:02,849 --> 00:44:04,849
+İçin eczanedeydim.
+
+1125
+00:44:04,849 --> 00:44:06,849
+İşte bir eczane açtık.
+
+1126
+00:44:06,849 --> 00:44:08,849
+Kolan bir kaçıyor önce.
+
+1127
+00:44:08,849 --> 00:44:10,849
+Şimdi ben de buradan çalıştım.
+
+1128
+00:44:10,849 --> 00:44:12,849
+Aynen eyvallah.
+
+1129
+00:44:13,849 --> 00:44:15,849
+Öyle bir şey çıkacağız.
+
+1130
+00:44:15,849 --> 00:44:17,849
+Üç gün arkası tıkladı abi.
+

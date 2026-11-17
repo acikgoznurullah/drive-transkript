@@ -507,5 +507,16 @@
     "transcribed_at": "2026-11-16T18:05:04",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1Lge_lTseU5l9pH-OQMEfpx_Oagf0xMq5": {
+    "status": "transcribed",
+    "source": "Ses 261116_183202 -OnurŞeker ÖmerAsım NA.m4a",
+    "category": "Doktora",
+    "txt": "outputs/Doktora/Ses 261116_183202 -OnurŞeker ÖmerAsım NA.txt",
+    "duration": "0:44:18",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T18:44:06",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
