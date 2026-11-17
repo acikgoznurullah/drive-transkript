@@ -694,5 +694,12 @@
     "transcribed_at": "2026-11-17T20:42:22",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1k2akM5f34zAir4o0W-nOxpzA4uGDNTBs": {
+    "status": "retry",
+    "source": "Ses 261113_150051 -NA-DSA Görüşme.m4a",
+    "category": "İş",
+    "attempts": 1,
+    "error": "İndirme hatası: İndirme başarısız ya da dosya boş."
   }
 }
