@@ -543,7 +543,7 @@
     "report_url": "https://docs.google.com/document/d/1pAVMdRTSGeVu3hPINPlU4h8r2MT0sSef/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1sn8pyCFDCBhMHv3OwglYV75SlfBZXdXz": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260706_152051 - Parametrik.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 260706_152051 - Parametrik.txt",
@@ -551,7 +551,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T19:02:39",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 260706_152051 - Parametrik_Rapor.docx",
+    "reported_at": "2026-11-17T21:14:28",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1wYGTCKD1Ie8me8PeecDfN9u0CDHSmKXw/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1dH6zwughyS6ws3N92t7iQxXrBKRSwhn_": {
     "status": "reported",
