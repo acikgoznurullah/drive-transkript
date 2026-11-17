@@ -528,7 +528,7 @@
     "report_url": "https://docs.google.com/document/d/12OKKvAmNjDIEbtGZ03PwPk9zmPqmHlof/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1EWzlD7i_eqJga7dQ6L25aGbTn631rNc9": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261113_150051 -NA-DSA Görüşme.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261113_150051 -NA-DSA Görüşme.txt",
@@ -536,7 +536,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T18:51:43",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261113_150051 -NA-DSA Görüşme_Rapor.docx",
+    "reported_at": "2026-11-17T21:14:05",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1pAVMdRTSGeVu3hPINPlU4h8r2MT0sSef/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1sn8pyCFDCBhMHv3OwglYV75SlfBZXdXz": {
     "status": "transcribed",
