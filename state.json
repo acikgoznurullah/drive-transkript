@@ -683,5 +683,16 @@
     "transcribed_at": "2026-11-17T20:31:56",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1kteCQc8wPoDKpRbdcoS6CG0QYezF65AZ": {
+    "status": "transcribed",
+    "source": "Ses 261110_163911 - Usgs Bias NA-DSA-NMÇ-SA.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261110_163911 - Usgs Bias NA-DSA-NMÇ-SA.txt",
+    "duration": "1:00:28",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:42:22",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

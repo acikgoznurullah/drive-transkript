@@ -1,0 +1,4944 @@
+1
+00:00:06,059 --> 00:00:37,229
+Evet arkadaşlar ben şuradan ne uğruna uğundu, pildedeyim, iknaçundaya.
+
+2
+00:00:37,229 --> 00:00:48,609
+Buyurun arkadaşlar.
+
+3
+00:00:48,609 --> 00:00:52,750
+Nasıl söylemek istiyoruz?
+
+4
+00:00:52,750 --> 00:00:54,750
+İyice şeysen,
+
+5
+00:00:54,750 --> 00:00:59,750
+İyice şeysen şimdi yapacağımı baya sahnede değil, ilgili konuşmak istiyorum.
+
+6
+00:00:59,750 --> 00:01:00,750
+Sımahtan uzurttukum.
+
+7
+00:01:00,750 --> 00:01:05,200
+Tükeller var ama hani siz nasıl bir modada gidiyorsunuz?
+
+8
+00:01:06,200 --> 00:01:09,200
+Çünkü mesela biz karşılaştırdığımız zaman,
+
+9
+00:01:09,200 --> 00:01:12,200
+hani sarcağındaki kendisi karşılaştırmış, onları anlatabilir.
+
+10
+00:01:12,200 --> 00:01:15,200
+Ben kendi dilimi anlıyorum.
+
+11
+00:01:15,200 --> 00:01:17,200
+Ben bizim veriyle,
+
+12
+00:01:17,200 --> 00:01:20,200
+yarışıcısını ve ismini karşılaştırdığım zaman,
+
+13
+00:01:20,200 --> 00:01:22,200
+sanki iznit deprimi için yattım.
+
+14
+00:01:22,200 --> 00:01:27,200
+Bizim verimiz 193 over-predict edemiş durumda.
+
+15
+00:01:27,200 --> 00:01:34,200
+Yani bizim kullandığım zaten 193 ortağından kabaca over-predicked ediyormuş gibi gördüm.
+
+16
+00:01:34,200 --> 00:01:37,200
+Ama tabii ki ben sadece bir tane de yapacağımı kullandım.
+
+17
+00:01:37,200 --> 00:01:41,769
+Hani bir modaya oluşturmak için.
+
+18
+00:01:41,769 --> 00:01:43,769
+Ben şöyle bir şey düşünmüştüm Merve.
+
+19
+00:01:43,769 --> 00:01:46,769
+Sarcağın galiba şeyi çıkarttı.
+
+20
+00:01:46,769 --> 00:01:51,989
+İşte göstericisinin elimizdeki aritalar için, elimizdeki depremler için.
+
+21
+00:01:51,989 --> 00:01:56,689
+Ground Ocean modelini çıkarttı.
+
+22
+00:01:56,689 --> 00:02:03,689
+Son iki depremde Kota'yı kullanmışlar, diğer depremlerde bir böyle şey kullanmışlar.
+
+23
+00:02:03,689 --> 00:02:07,620
+Bir logic tree kullanmışlar.
+
+24
+00:02:07,620 --> 00:02:09,620
+Ondan sonra ben de şöyle bir şey düşünmüştüm.
+
+25
+00:02:09,620 --> 00:02:12,620
+Dedim ki çok genelleştirelim bunu.
+
+26
+00:02:12,620 --> 00:02:16,620
+O logic tree'deki kota zaten bizde var.
+
+27
+00:02:16,620 --> 00:02:24,090
+Diğer logic tree'deki bizde olmayalde ground-motion modeli var.
+
+28
+00:02:24,090 --> 00:02:30,849
+Yani tek tek bakmadım açıkçası ama isterseniz hızlı bir kontrol ederim.
+
+29
+00:02:30,849 --> 00:02:32,849
+Kota'nın da şeydir.
+
+30
+00:02:32,849 --> 00:02:34,849
+15'li perenç hali var.
+
+31
+00:02:35,849 --> 00:02:41,139
+Yani sonuçta şöyle düşünmüştüm.
+
+32
+00:02:41,139 --> 00:02:52,259
+Orada biz USGS'in given a magnitude ve distance için medyan tahminlerini şey yapabiliriz.
+
+33
+00:02:52,259 --> 00:02:55,610
+Hesaplayabiliriz.
+
+34
+00:02:55,610 --> 00:02:59,060
+Bizim medyan tahminlerimizin hesaplayabileceğini.
+
+35
+00:02:59,919 --> 00:03:03,719
+İkisinin tahminlerini hesaplayabiliyor muyuz?
+
+36
+00:03:03,719 --> 00:03:11,479
+Bir fark, yani residual bir şey fark veya rejü olarak bias oluyor.
+
+37
+00:03:11,479 --> 00:03:16,930
+Ben de dedim ki magnitude ve mesela şöyle bir şey yapılabilir diye düşünüyorum.
+
+38
+00:03:16,930 --> 00:04:27,459
+Kendime kendime acaba şöyle bir şey yapsak ne olur.
+
+39
+00:04:27,459 --> 00:04:35,040
+Bir sürü şey var. Distance'de öyle yani.
+
+40
+00:04:35,040 --> 00:04:41,189
+Ondan sonra buradayım istirah ve rejü.
+
+41
+00:04:41,189 --> 00:04:56,610
+Playın çıkartabiliriz.
+
+42
+00:04:58,120 --> 00:04:59,600
+Ortalama şey olacak.
+
+43
+00:04:59,600 --> 00:05:02,600
+Biz birader burada bunun etrafında gezinecek aslında.
+
+44
+00:05:02,600 --> 00:05:05,850
+Ve şu etrafında gezinecek.
+
+45
+00:05:05,850 --> 00:05:10,850
+Ondan sonra ben bu plane'i çıkartırsam eğer bu plane gerçekten USGS,
+
+46
+00:05:10,850 --> 00:05:20,569
+böyle CM, Eşittir, F Functional Magnitude Distance'a tamam mı?
+
+47
+00:05:20,569 --> 00:05:23,569
+O zaman ben şiitli Kelt Mode'u biliyorum.
+
+48
+00:05:23,569 --> 00:05:31,569
+USGS, Eşittir, Buradan Kelt Mode, Çarpı, F Functional Magnitude Distance.
+
+49
+00:05:31,569 --> 00:05:39,230
+Şey yapabilirim diye böyle bir basit olabildiğince basit bir fonksiyon tamam mı?
+
+50
+00:05:39,230 --> 00:05:41,620
+Yani bu ortalamada tutar.
+
+51
+00:05:41,620 --> 00:05:43,620
+Tabii burada şey de yapabiliriz.
+
+52
+00:05:43,620 --> 00:05:51,339
+Yani şurada herhangi bir kesit içi, bir joint dağılımda
+
+53
+00:05:51,339 --> 00:05:54,339
+gezeyiklerimiz her zaman mümkün olur bir türlü.
+
+54
+00:05:54,339 --> 00:05:58,970
+Sanıyorum ki ben anlatamayacağım sizin nereye eklediğinizi.
+
+55
+00:05:58,970 --> 00:06:01,970
+Kendi kaygılarımı anlatmak istiyorum.
+
+56
+00:06:01,970 --> 00:06:05,970
+Bizim, biz deprenleri afaklım diyoruz.
+
+57
+00:06:05,970 --> 00:06:11,970
+Dolayısıyla bizim mangi hıtlarımızla USGS'in mangi hıtları her zaman şinerine değil.
+
+58
+00:06:11,970 --> 00:06:15,970
+Kezaf, mesela şey düşünün, foldplay'ini düşünün.
+
+59
+00:06:15,970 --> 00:06:19,970
+USGS'in foldplay'iniyle bizim foldplay'iniz farklı olabiliyor.
+
+60
+00:06:19,970 --> 00:06:25,970
+Noktasal bir kaynak kullansak bile onların hipocentri ve rizmi hipocentrimi farklı olabiliyor.
+
+61
+00:06:25,970 --> 00:06:33,970
+Buna ek olarak rizmi kullandığımız vies okullarla USGS'in kullandığı vies okuzlar aynı değil.
+
+62
+00:06:33,970 --> 00:06:39,970
+Hani eğer biz sadece olmuş olan depremler üzerinden bir şey yapacağız
+
+63
+00:06:39,970 --> 00:06:45,970
+ve hani bundan sonraki tahminlerimizi bunu sirayet etmeyeceksek,
+
+64
+00:06:45,970 --> 00:06:47,970
+hani şey yapabiliriz.
+
+65
+00:06:47,970 --> 00:06:52,970
+İşte biz kendi mangi hıtladığımızı USGS'in mangi hıtladığına çekebiliriz.
+
+66
+00:06:52,970 --> 00:06:56,970
+Onların rapçıtlarını, onların basantre lokasyonunu kullanabiliriz.
+
+67
+00:06:56,970 --> 00:06:58,970
+Onların vies okusunu kullanabiliriz.
+
+68
+00:06:58,970 --> 00:07:05,000
+Böyle bir şekilde gerçekten işte mangi hıt ve de olarak ne fark ettiği görebiliriz.
+
+69
+00:07:05,000 --> 00:07:08,000
+Ben size tahmin veriyorum.
+
+70
+00:07:08,000 --> 00:07:16,000
+Ama hani ben bu özellikle üç şu an öngere bildiğim, üç etkenler dolayı
+
+71
+00:07:16,000 --> 00:07:22,569
+hani mantürtler ortak olmayacak.
+
+72
+00:07:22,569 --> 00:07:25,569
+Bizsatları ortak olmayacak ve vies tortları ortak olmayacak.
+
+73
+00:07:25,569 --> 00:07:30,790
+Dolayısıyla ben şöyle bir şey düşünürdüm kendimince.
+
+74
+00:07:30,790 --> 00:07:34,790
+Ben ona böyle bir cevap verebilir miyim, benim düşündüğümden.
+
+75
+00:07:34,790 --> 00:07:38,790
+Şimdi şöyle bir şey nurlan, geliştirdiğin düşündüğümde tamam mı?
+
+76
+00:07:38,790 --> 00:07:40,790
+Bunu ne alırız bilmiyorum ben.
+
+77
+00:07:40,790 --> 00:07:43,790
+Mesela yani bu peyat yapısını gitti.
+
+78
+00:07:43,790 --> 00:07:46,790
+Sabah konuştuk işte, bu şeyle alakalı.
+
+79
+00:07:46,790 --> 00:07:48,790
+Böyle bir şey gelişti.
+
+80
+00:07:48,790 --> 00:07:50,790
+Burada aslında bir süre bir dağılım var.
+
+81
+00:07:50,790 --> 00:07:53,889
+O dağılım üstünden gitti.
+
+82
+00:07:53,889 --> 00:07:57,889
+İşte bir böyle min alabilirim, medya alabilirim.
+
+83
+00:07:57,889 --> 00:07:59,889
+Ama bir peyat yapısı geliştirdim.
+
+84
+00:07:59,889 --> 00:08:02,980
+Ondan sonra ben bunu justifiye etmem lazım.
+
+85
+00:08:02,980 --> 00:08:08,980
+Bunu justifiye ederken, şimdiye kadar yapılan bütün çalışmalarında şey var.
+
+86
+00:08:08,980 --> 00:08:12,560
+Tarihsel depremler ve hatta senaryo depremler.
+
+87
+00:08:12,560 --> 00:08:16,740
+Ya tarihsel depremler, ya senaryo depremler.
+
+88
+00:08:16,740 --> 00:08:20,740
+Şimdi tarihsel depremler içerisinde, USGS'in çözdüklerini, eyvallah.
+
+89
+00:08:20,740 --> 00:08:24,740
+Yani onların zaten grand shake, shakebapları var.
+
+90
+00:08:24,740 --> 00:08:29,899
+Ama benim bir de mesela işte Marmara Deniz'e çınarcık bilmem ne, bilmem ne, bu şey.
+
+91
+00:08:29,899 --> 00:08:34,899
+Şimdi bunu da ben, tam Kat Mode'un Cemi ile hesaplıyorum.
+
+92
+00:08:34,899 --> 00:08:42,740
+Ben oradan şu basit şeyle, burada USGS'in kini tahminlemeye çalışacağım.
+
+93
+00:08:42,740 --> 00:08:51,600
+Yani aynı, ben bunu justifiye etmek için, tamam mı?
+
+94
+00:08:51,600 --> 00:08:53,600
+Anladım, anladım.
+
+95
+00:08:53,600 --> 00:09:02,730
+Ama hani Mantra'da ve şey, bence distansı, yani Mantra şun yüzden tebrikini diyor.
+
+96
+00:09:03,730 --> 00:09:06,730
+Çünkü bizim mantradığımızda USGS'in mantradığı da aynı değil.
+
+97
+00:09:06,730 --> 00:09:08,730
+Ben bir dakika, bir şey söyleyeceğim.
+
+98
+00:09:08,730 --> 00:09:16,139
+Şurada bakın, ben USGS'e rakip event olduktan sonra bir shakebap yaratmaya çalışmıyor muyum?
+
+99
+00:09:16,139 --> 00:09:23,990
+Böyle bir derdim yok.
+
+100
+00:09:23,990 --> 00:09:29,990
+Ama bizim şeylerimizin, PGA'lilerinizin USGS'e göre nasıl değiştirdiğini bulmak için...
+
+101
+00:09:29,990 --> 00:09:32,990
+Event Dispans, event dispans için ne yapmak istedim mi?
+
+102
+00:09:32,990 --> 00:09:37,549
+Ya benim, tamam mı?
+
+103
+00:09:37,549 --> 00:09:40,159
+Historical depremler var.
+
+104
+00:09:40,159 --> 00:09:44,159
+Bu historical depremlerin kesinlikle, USGS'in şeyleri varsa.
+
+105
+00:09:44,159 --> 00:09:46,159
+Mesela biraz önce, grullarla konuştum.
+
+106
+00:09:46,159 --> 00:09:52,159
+Onların shakebaplerini, yani shakebaplarında ben o hesap konuşuldum.
+
+107
+00:09:52,159 --> 00:09:57,269
+PGA'yı, uslu uslu mu, hesap ben bulabiliyordum.
+
+108
+00:09:57,269 --> 00:10:00,269
+Bir de, mesela benim Marmara Deniz'e dört tane senaryo.
+
+109
+00:10:00,269 --> 00:10:03,970
+Dört tane senaryo.
+
+110
+00:10:03,970 --> 00:10:12,029
+Ben şu anda ancak ve ancak bunlar Begum Tutu beyleri, Rob Chet Lane'i beyleri, Uslu Uslu hepsi beyleri.
+
+111
+00:10:12,029 --> 00:10:16,029
+Ben şu anda bunları ancak ve ancak Katmokran Mosul'un modeli üstünden buluyorum.
+
+112
+00:10:16,029 --> 00:10:22,570
+Tamam, ben diyorum ki bunlar aynı şeyler olsun.
+
+113
+00:10:22,570 --> 00:10:30,340
+Üçeşer ve Şükrü, USGS ne buluyor bu medyanda?
+
+114
+00:10:30,340 --> 00:10:32,340
+Ben onunla, on peşindeyim.
+
+115
+00:10:32,340 --> 00:10:34,340
+Hocam, bir şey söyleyebilir miyim?
+
+116
+00:10:34,340 --> 00:10:36,409
+Şey, pardon.
+
+117
+00:10:36,409 --> 00:10:44,409
+Şey ya, bu, şu an USGS, sanırım son birkaç depremde kota'yı kullanmış gibi bir gözlemimiz olmuştu.
+
+118
+00:10:44,409 --> 00:10:52,409
+Acaba kota'yı bu anlamda, 2020'de zaten kota çalışması.
+
+119
+00:10:52,409 --> 00:10:56,409
+Atıyorum, bir yerden sonra hep kota'yı kullandılar ve kullanacaklarsa,
+
+120
+00:10:56,409 --> 00:11:00,409
+biz bu sizin bahsettiğiniz, mesela marmara senaryoları olursa,
+
+121
+00:11:00,409 --> 00:11:04,409
+noktasında da kota'yla direkt acaba çalışabilir miyiz?
+
+122
+00:11:04,409 --> 00:11:09,409
+Yani hesapla birebir aile tutuyorsa yap.
+
+123
+00:11:09,409 --> 00:11:12,340
+Yani ben canını tutmayacağım.
+
+124
+00:11:12,340 --> 00:11:13,340
+Neyleri öyle hocam?
+
+125
+00:11:13,340 --> 00:11:23,350
+Şey, şu içinde, USGS'in 1913, 2023 değil mi Sercan?
+
+126
+00:11:23,350 --> 00:11:26,110
+Bir daha inisiydi.
+
+127
+00:11:26,110 --> 00:11:29,110
+Şükrü hocam, bir saniye, tabloyu açıyorum ona.
+
+128
+00:11:29,110 --> 00:11:31,370
+Bir tane daha var değil mi?
+
+129
+00:11:31,370 --> 00:11:37,389
+Evet, iki tane.
+
+130
+00:11:37,389 --> 00:11:39,389
+Marmara 2026.
+
+131
+00:11:39,389 --> 00:11:40,389
+Evet.
+
+132
+00:11:40,389 --> 00:11:44,389
+Marmara'daki yüklü yüklü yüklü yüklü sen depre mi?
+
+133
+00:11:44,389 --> 00:11:50,899
+Ve şey, onların bir de bir şeyleri de alın, sağa söylediğini.
+
+134
+00:11:50,899 --> 00:11:55,080
+USGS, Rapture, Playland'ı alın.
+
+135
+00:11:55,080 --> 00:11:57,750
+Kota'da var.
+
+136
+00:11:57,750 --> 00:12:00,850
+Hesapla'yı birebir tutmayacak.
+
+137
+00:12:00,850 --> 00:12:03,850
+Çünkü USGS başka türlü hesaplar değil.
+
+138
+00:12:05,679 --> 00:12:08,679
+Tam olarak ondan dolayı nasıl yapalım diye soruyorum.
+
+139
+00:12:08,679 --> 00:12:10,679
+Çünkü şeyler de kullanıyorlar.
+
+140
+00:12:10,679 --> 00:12:12,679
+MMA'ları da kullanıyorlar.
+
+141
+00:12:12,679 --> 00:12:14,679
+MMA'ları da konuşuyorlar.
+
+142
+00:12:14,679 --> 00:12:16,679
+Sadece istasyonlara değil.
+
+143
+00:12:16,679 --> 00:12:18,679
+Evet.
+
+144
+00:12:18,679 --> 00:12:20,679
+Evet, evet.
+
+145
+00:12:20,679 --> 00:12:22,679
+Ama biz bunun şeyi yapamayız ki.
+
+146
+00:12:22,679 --> 00:12:25,679
+Yani demek istediğim benim.
+
+147
+00:12:25,679 --> 00:12:30,320
+Ben USGS'i limit etmek istemiyorum.
+
+148
+00:12:30,320 --> 00:12:35,740
+USGS'i ıveret rispası da rakip olmak da istemiyorum.
+
+149
+00:12:35,740 --> 00:12:39,220
+Ben üç aşağı beş yukarı USGS.
+
+150
+00:12:39,220 --> 00:12:45,049
+Şimdi ben o kendi senaryolarımdan,
+
+151
+00:12:45,049 --> 00:12:47,049
+ben kendi senaryolarımdan,
+
+152
+00:12:47,049 --> 00:12:49,139
+stokastik senaryolarımdan,
+
+153
+00:12:49,139 --> 00:12:51,139
+kendi ground motion'u tutuyordum.
+
+154
+00:12:51,139 --> 00:12:52,690
+Bana bak.
+
+155
+00:12:52,690 --> 00:12:54,940
+Biz zaten payout yapısı oluşturuyor.
+
+156
+00:12:54,940 --> 00:13:01,190
+Burada hiçbir USGS'in kotası, motosu hikayesi yoksa.
+
+157
+00:13:01,190 --> 00:13:04,190
+Yani ben kendi ground motion'u,
+
+158
+00:13:04,190 --> 00:13:06,190
+bunu şey de aynısını yapıyorum.
+
+159
+00:13:06,190 --> 00:13:12,070
+Yani bunu şey kullanarak,
+
+160
+00:13:12,070 --> 00:13:15,159
+aramesin sonu senaryolarımdan,
+
+161
+00:13:15,159 --> 00:13:18,860
+daha da kötüsünü yapıyorum.
+
+162
+00:13:18,860 --> 00:13:20,019
+Ulan tabii.
+
+163
+00:13:20,019 --> 00:13:24,279
+O ground motion modelim ben dolayı çıkıp yapıyorum.
+
+164
+00:13:24,279 --> 00:13:26,279
+Sonra bunu justification'u.
+
+165
+00:13:26,279 --> 00:13:28,279
+Yani adam bunu justification'u,
+
+166
+00:13:28,279 --> 00:13:31,759
+o payout yapısını bir şekilde gösterecek.
+
+167
+00:13:31,759 --> 00:13:34,950
+Bunu yaparken iki tane source kullanıyor.
+
+168
+00:13:34,950 --> 00:13:37,269
+Bir tanesi olduğu gibi,
+
+169
+00:13:37,269 --> 00:13:39,269
+USGS survey'i,
+
+170
+00:13:39,269 --> 00:13:45,820
+ground motion'u,
+
+171
+00:13:45,820 --> 00:13:48,460
+checkman filter'i.
+
+172
+00:13:48,460 --> 00:13:50,029
+Yani o da bir şey.
+
+173
+00:13:50,029 --> 00:13:54,759
+İlkincisi de bunu biz yaptık.
+
+174
+00:13:54,759 --> 00:13:55,759
+Bizim senaryolarımız var.
+
+175
+00:13:55,759 --> 00:13:56,759
+Yani istersen,
+
+176
+00:13:56,759 --> 00:13:57,759
+istoryfesi senaryoları değil.
+
+177
+00:13:57,759 --> 00:13:59,759
+Ama ben bunları ground motion'u,
+
+178
+00:13:59,759 --> 00:14:00,759
+ground motion'u,
+
+179
+00:14:00,759 --> 00:14:01,759
+ground motion'u,
+
+180
+00:14:01,759 --> 00:14:03,299
+ground motion'u yapıyorum.
+
+181
+00:14:03,299 --> 00:14:04,299
+Ya onun, tamam mı?
+
+182
+00:14:04,299 --> 00:14:05,299
+Onun,
+
+183
+00:14:05,299 --> 00:14:07,710
+ground motion'u,
+
+184
+00:14:07,710 --> 00:14:08,710
+pardon,
+
+185
+00:14:08,710 --> 00:14:09,710
+ground motion'u hepsi belli.
+
+186
+00:14:09,710 --> 00:14:10,710
+ground motion'u,
+
+187
+00:14:10,710 --> 00:14:11,710
+ground motion'u,
+
+188
+00:14:11,710 --> 00:14:12,710
+ground motion'u,
+
+189
+00:14:12,710 --> 00:14:13,710
+ground motion'u,
+
+190
+00:14:13,710 --> 00:14:14,710
+ground motion'u,
+
+191
+00:14:14,710 --> 00:14:15,710
+ground motion'u,
+
+192
+00:14:15,710 --> 00:14:16,710
+ground motion'u,
+
+193
+00:14:16,710 --> 00:14:17,710
+ground motion'u,
+
+194
+00:14:17,710 --> 00:14:18,740
+ground motion'u,
+
+195
+00:14:18,740 --> 00:14:19,740
+ground motion'u,
+
+196
+00:14:19,740 --> 00:14:20,740
+ground motion'u,
+
+197
+00:14:20,740 --> 00:14:21,740
+ground motion'u,
+
+198
+00:14:21,740 --> 00:14:22,740
+ground motion'u,
+
+199
+00:14:22,740 --> 00:14:24,419
+ground motion'u,
+
+200
+00:14:24,419 --> 00:14:25,419
+ground motion'u,
+
+201
+00:14:25,419 --> 00:14:26,419
+ground motion'u,
+
+202
+00:14:26,419 --> 00:14:27,419
+ground motion'u,
+
+203
+00:14:27,419 --> 00:14:42,019
+ground motion'u,
+
+204
+00:14:42,019 --> 00:14:43,019
+ground motion'u,
+
+205
+00:14:43,019 --> 00:14:44,299
+ground motion'u,
+
+206
+00:14:44,299 --> 00:14:45,299
+ground motion'u,
+
+207
+00:14:45,299 --> 00:14:46,370
+ground motion'u,
+
+208
+00:14:46,370 --> 00:14:48,389
+ground motion'u,
+
+209
+00:14:48,389 --> 00:14:49,389
+ground motion'u,
+
+210
+00:14:49,389 --> 00:14:51,289
+ground motion'u,
+
+211
+00:14:51,289 --> 00:14:53,250
+ground motion'u,
+
+212
+00:14:53,250 --> 00:14:54,250
+ground motion'u,
+
+213
+00:14:54,250 --> 00:14:57,009
+ground motion'u,
+
+214
+00:14:57,009 --> 00:14:58,009
+ground motion'u,
+
+215
+00:14:58,009 --> 00:14:59,009
+ground motion'u,
+
+216
+00:14:59,009 --> 00:15:00,970
+ground motion'u,
+
+217
+00:15:00,970 --> 00:15:01,970
+ground motion'u,
+
+218
+00:15:01,970 --> 00:15:02,970
+ground motion'u,
+
+219
+00:15:02,970 --> 00:15:11,620
+İmari infantiyonu diye bizim pgb gram motion fiyatlarımızı kullanılan birisi var ki ortamı yani hani
+
+220
+00:15:11,620 --> 00:15:20,509
+o kadar böyle atla deve değil yani yani ortamı da çok yakın %30 bir bias var.
+
+221
+00:15:20,509 --> 00:15:26,590
+Catmode pgb ile uscs pgb raporundan masaresinde ortamı %30 bir bias var.
+
+222
+00:15:26,590 --> 00:15:33,860
+Biz bunu kattık dedik, onda distans'a bağlı yaptık ve çok belli çünkü bir yer böyle
+
+223
+00:15:33,860 --> 00:15:43,190
+daha şey alacağı, bulacağı bir şey yaptık. Distans'a bağlı bir şey üstünler yapmıştık, keşfede.
+
+224
+00:15:43,190 --> 00:16:03,409
+O da bir gönlük daha üst seviyeye, mehemberdik ve deniz distans, şey yapmayı çok genelleştirmeye çalıştık.
+
+225
+00:16:03,409 --> 00:16:07,659
+O yüzden.
+
+226
+00:16:07,659 --> 00:16:13,769
+Spans'ta uscs'i falan şey yapmaya çalışmayacak, oraklık çalışmayacak.
+
+227
+00:16:13,769 --> 00:16:20,409
+Sana bir problemi anlatamadım hocam. Ben uscs'e rakip vesaire öyle bir şey söylemeye çalışmayayım.
+
+228
+00:16:20,529 --> 00:16:35,409
+Demi söylemeye çalıştım şey. Mesela şimdi görüyoruz ki uscs'le benim de hani sadece bir tanesi depo üzerinden denimin bu %30 civarında bir fark vardı,
+
+229
+00:16:35,409 --> 00:16:41,570
+bias vardı pgb üzerinde. Bu bias modellemem gerekiyor.
+
+230
+00:16:41,570 --> 00:16:46,610
+Ama uscs'in mantül, magnitude'uyla benim mantülüm aynı değil.
+
+231
+00:16:46,610 --> 00:16:53,370
+Distans'ıyla benim distans'ın aynı değil. Çünkü kabülerimiz farklı. Sos ile ilgili farklı kabülerimiz var.
+
+232
+00:16:53,370 --> 00:16:57,830
+Onlar renkendi sos modelleri var. Biz afadenkil'e kullanıyoruz.
+
+233
+00:16:57,830 --> 00:17:04,230
+Tamam, ben bir dakika bir şey söyleyeceğim. Şu Kent modeli yazdığımı ben zaten bir dakika.
+
+234
+00:17:04,230 --> 00:17:07,440
+Bir yerlerde bu kısmı karışık kaçırdım.
+
+235
+00:17:07,440 --> 00:17:14,140
+Kendi gran moşum pardon, kendi geometrinle bulmayacağım onları.
+
+236
+00:17:14,140 --> 00:17:17,039
+Kendi mehri çocuğuna da bulmayacağım.
+
+237
+00:17:17,200 --> 00:17:20,200
+Kendi geometrinle, kendi mantırımızla bulmayacağım.
+
+238
+00:17:20,200 --> 00:17:28,230
+Bulmayacağım. Ben uscs'in bulan uscs'in vermiş olduğum mehri ki o kadar da fark etmiyor artık bu arada ben de ben.
+
+239
+00:17:28,230 --> 00:17:46,509
+Ve ki onları çırklayın üstüne gördüğüm mehri mutluluk, onları şu durab çırklayın ile gidip o gran moşum filmi, gran moşum modeli kullanacağım.
+
+240
+00:17:46,509 --> 00:17:53,339
+Onlarınki zaten hazırda var. İki serisindeki şey, yani kaç tane yapıyan var? 10 tane, kaç tane şey var?
+
+241
+00:17:53,380 --> 00:17:58,599
+10 tane, 10 tane, 10 tane. Bunun mehri çırklayıncını 6,5'la bilmem ne yetimekte bilmem ne.
+
+242
+00:17:58,599 --> 00:18:06,390
+Bunlar arasında ben diyorum ki rapçil play'in aile, mehri çırklı aile, bir tek gran moşum modeli yapardım.
+
+243
+00:18:06,390 --> 00:18:16,670
+Arasında ortamada bir şey, o çünkü sen neydin? Bir işte ya koteyi kullanıyor, aile onları, mehri play'in aile, gücü filmi kullanıyor, ismini kullanıyor.
+
+244
+00:18:16,670 --> 00:18:31,750
+Hepsini bir şey yapıyorum, bir öbre şeyim, bir tek şey var.
+
+245
+00:18:31,750 --> 00:18:39,980
+Bunları şey yapmaya çalışıyorum. Yani zaten yine göstereceksin rapçil play'ini falan.
+
+246
+00:18:40,019 --> 00:18:50,099
+Tamam yani benim tek buradaki sıkıntı, hani mesela gelecekteki bir deprem için bunu yapmak istersen,
+
+247
+00:18:50,099 --> 00:18:54,099
+GSEC'yi malzulu mu duymuyor, GSEC'yi isimsini duymuyor.
+
+248
+00:18:54,099 --> 00:18:56,609
+Gelecekteki bir deprem.
+
+249
+00:18:56,609 --> 00:19:00,470
+Gelecekteki bir deprem.
+
+250
+00:19:00,470 --> 00:19:02,470
+Olacak bir deprem mi?
+
+251
+00:19:02,470 --> 00:19:04,470
+Olacak bir deprem için.
+
+252
+00:19:04,470 --> 00:19:10,619
+Olacak bir deprem için yapmaya çalışmıyor, işte ben ona GSEC'e verip çıkmaya çalışmıyorum.
+
+253
+00:19:10,660 --> 00:19:16,759
+Gelecekteki, pardon, gelecekteki olacak bir deprem değil.
+
+254
+00:19:16,759 --> 00:19:20,759
+GSEC'ye iskinli grand motion, fiyat ve çekme üretirse,
+
+255
+00:19:20,759 --> 00:19:24,529
+ben kendi bu modelimi bir kere daha çalışıyorum.
+
+256
+00:19:24,529 --> 00:19:26,529
+Nasıl çalışıyorum?
+
+257
+00:19:26,529 --> 00:19:33,670
+Yeni onun şey yaptığı grand motion rapçil play'ini ve onun vermiş olduğu mehri yaptıklar.
+
+258
+00:19:33,670 --> 00:19:37,799
+Bir, kendi şey yaparım, beden estime şey yaparım.
+
+259
+00:19:37,799 --> 00:19:41,380
+Gene burayı tutuyorum, tutmamalı bakarım.
+
+260
+00:19:41,420 --> 00:19:44,420
+Diğer bir problemdi, vs tortiler.
+
+261
+00:19:44,420 --> 00:19:47,450
+Onların vs tortüsünü kullanacağız.
+
+262
+00:19:47,450 --> 00:19:55,500
+O vs tortüsü var.
+
+263
+00:19:55,500 --> 00:19:57,500
+Ben böyle basit bir şey düşündüm arkadaşlar.
+
+264
+00:19:57,500 --> 00:20:06,890
+Yani hani kesinlikle geçmeyi düşünmedik kafamı.
+
+265
+00:20:06,890 --> 00:20:12,079
+Ama yani ben o bahsetmiş olduğun şekilde gelecekti olan bir deprem için
+
+266
+00:20:12,079 --> 00:20:14,079
+ben GSEC'ye taktirtmeye çalışmıyorum.
+
+267
+00:20:14,079 --> 00:20:16,079
+Amaç o değil kesinlikle.
+
+268
+00:20:16,079 --> 00:20:20,140
+Ben zaten yani bu öteki türlü olmasına imkan yok.
+
+269
+00:20:20,180 --> 00:20:24,180
+Kendi grand motion modelim, kendi stokastik katalı olma
+
+270
+00:20:24,180 --> 00:20:26,599
+bir peyant yapısı üreteceğim yani.
+
+271
+00:20:26,599 --> 00:20:29,720
+Amaç yani.
+
+272
+00:20:29,720 --> 00:20:31,750
+Çünkü bunu yapmak zorundayım.
+
+273
+00:20:31,750 --> 00:20:37,819
+Çünkü ben bir mark olmaya çalışıyorum.
+
+274
+00:20:37,819 --> 00:20:38,819
+Yani USGS'in,
+
+275
+00:20:38,819 --> 00:20:45,740
+ben USGS'in yer hareketi modeli ve USGS'in rapçil play'in,
+
+276
+00:20:45,740 --> 00:20:50,740
+rapçil play'in bakış açısıyla bir şey yaparsam o zaman mark olamam.
+
+277
+00:20:50,740 --> 00:20:52,740
+Mark olmaya çalışıyorum.
+
+278
+00:20:52,779 --> 00:21:06,240
+Evet.
+
+279
+00:21:06,240 --> 00:21:08,720
+USGS'dan geçecek.
+
+280
+00:21:08,720 --> 00:21:09,720
+Bantu'dar.
+
+281
+00:21:09,720 --> 00:21:11,720
+Hepsi USGS'tan alacağız.
+
+282
+00:21:11,720 --> 00:21:13,720
+USGS'i nasıl bulacağız senin?
+
+283
+00:21:13,720 --> 00:21:16,720
+O şey tabluda vardı Sercan.
+
+284
+00:21:16,720 --> 00:21:20,029
+Biri gösterir misin tabloyu?
+
+285
+00:21:20,029 --> 00:21:22,029
+Ekran paylaşıyor.
+
+286
+00:21:22,029 --> 00:21:26,650
+Deşti.
+
+287
+00:21:26,650 --> 00:21:27,650
+Yok.
+
+288
+00:21:27,650 --> 00:21:29,650
+Koca yedi pazarttı.
+
+289
+00:21:31,650 --> 00:21:35,940
+Marmara'yı işte kaçsa o yer değil mi?
+
+290
+00:21:35,940 --> 00:21:38,769
+Şurada sadece dediğim gibi.
+
+291
+00:21:38,809 --> 00:21:42,809
+Kauzi etol ve hocam zav etol modelleri şeyde yoklar.
+
+292
+00:21:42,809 --> 00:21:44,809
+Elimizde yoklar şu an.
+
+293
+00:21:44,809 --> 00:21:46,380
+Ne olsun?
+
+294
+00:21:46,380 --> 00:21:47,380
+Onlar çok basit modeller.
+
+295
+00:21:47,380 --> 00:21:48,380
+Kauzi.
+
+296
+00:21:48,380 --> 00:21:50,380
+Kauzi 2014.
+
+297
+00:21:50,380 --> 00:21:53,829
+Ve zav etol 2016'da çok basit modelleri.
+
+298
+00:21:53,829 --> 00:21:54,829
+Evet.
+
+299
+00:21:54,829 --> 00:21:56,829
+Yani bak burada şunu dikkat et lütfen.
+
+300
+00:21:56,829 --> 00:21:57,829
+Şurada çok önemli.
+
+301
+00:21:57,829 --> 00:22:02,250
+Bu etol, bu oraya 2014'de LOLQ diyor.
+
+302
+00:22:02,250 --> 00:22:03,250
+Bu da LOLQ diyor.
+
+303
+00:22:03,250 --> 00:22:05,250
+Yani demek ki Türkiye için
+
+304
+00:22:05,289 --> 00:22:10,289
+LOLQ ile bir orda justifikaya
+
+305
+00:22:10,289 --> 00:22:12,670
+bir şey yapmışlar.
+
+306
+00:22:12,670 --> 00:22:18,099
+Scanning yapmışlar.
+
+307
+00:22:18,099 --> 00:22:20,099
+Bunu ama kesin kendiler aralarında vardır.
+
+308
+00:22:20,099 --> 00:22:24,140
+Bunların kendi grand motion modelleri
+
+309
+00:22:24,140 --> 00:22:26,140
+opul source'da vardır zaten.
+
+310
+00:22:26,140 --> 00:22:28,140
+Buradan sen Türkiye ve Çinçinç'in şeyleri
+
+311
+00:22:28,140 --> 00:22:30,140
+LOLQ'leri.
+
+312
+00:22:30,140 --> 00:22:31,140
+Evet.
+
+313
+00:22:31,140 --> 00:22:33,140
+Bunun kendi modellerinden kaynaklanacak.
+
+314
+00:22:33,140 --> 00:22:35,140
+O doğru kendi modelleri.
+
+315
+00:22:35,140 --> 00:22:37,140
+Yani oradaki Delta diye bir faktör var.
+
+316
+00:22:37,140 --> 00:22:38,339
+Olmuyor.
+
+317
+00:22:38,380 --> 00:22:41,380
+LOLQ'yu Türkiye ve Çinçin'leri
+
+318
+00:22:41,380 --> 00:22:43,380
+HQ'da İtalya ve Japon olarak veriyor.
+
+319
+00:22:43,380 --> 00:22:45,380
+Zaten modellerin şeyleri farklı.
+
+320
+00:22:45,380 --> 00:22:47,380
+Regressörün şeyleri.
+
+321
+00:22:47,380 --> 00:22:49,380
+Konfisyonları farklı.
+
+322
+00:22:49,380 --> 00:22:51,380
+Ve bir daha Delta diye bir faktör var ama.
+
+323
+00:22:51,380 --> 00:22:53,380
+Delta diye bir şey.
+
+324
+00:22:53,380 --> 00:22:55,380
+Tüm regional faktör mü neye
+
+325
+00:22:55,380 --> 00:22:57,380
+öyle bir şey geçirdiniz.
+
+326
+00:22:57,380 --> 00:22:59,380
+Olabilir mi hocam?
+
+327
+00:22:59,380 --> 00:23:07,490
+Ya şöyle bir şey.
+
+328
+00:23:07,490 --> 00:23:09,490
+Bunu alıp oturup yapın demiyorum.
+
+329
+00:23:09,490 --> 00:23:11,490
+Ben tekrarlamak istediğim şey şu.
+
+330
+00:23:11,490 --> 00:23:13,519
+Ben o
+
+331
+00:23:13,559 --> 00:23:15,559
+sarı cengiz 10 tane deprem var.
+
+332
+00:23:15,559 --> 00:23:17,559
+O 10 tane mesela.
+
+333
+00:23:17,559 --> 00:23:20,069
+10 tane deprem için
+
+334
+00:23:20,069 --> 00:23:23,740
+ayda
+
+335
+00:23:23,740 --> 00:23:26,339
+Rapture Play'in,
+
+336
+00:23:26,339 --> 00:23:28,339
+aynı merkezi kullanarak
+
+337
+00:23:28,339 --> 00:23:30,819
+kendi
+
+338
+00:23:30,819 --> 00:23:32,819
+yer hareketi modelim ile
+
+339
+00:23:32,819 --> 00:23:35,460
+USCS'in
+
+340
+00:23:35,460 --> 00:23:39,420
+şey yapmış olduğuna
+
+341
+00:23:39,420 --> 00:23:41,450
+açıklamış olduğuna
+
+342
+00:23:41,450 --> 00:23:43,450
+interstimeltikler arasında
+
+343
+00:23:43,450 --> 00:23:45,450
+yani
+
+344
+00:23:45,450 --> 00:23:47,450
+merkezi tutamaya distası bağlı
+
+345
+00:23:47,450 --> 00:23:50,630
+bir
+
+346
+00:23:50,630 --> 00:23:52,630
+işte göstermelik
+
+347
+00:23:52,630 --> 00:23:54,630
+bir şey
+
+348
+00:23:54,630 --> 00:23:56,630
+kalibrasyon denklemi bulmaya
+
+349
+00:23:56,630 --> 00:24:00,230
+başka bir şey
+
+350
+00:24:00,230 --> 00:24:02,230
+bunun haricinde daha elegant ne olabilir.
+
+351
+00:24:02,230 --> 00:24:04,230
+Bir de
+
+352
+00:24:04,230 --> 00:24:06,680
+şöyle bir şey var.
+
+353
+00:24:06,680 --> 00:24:09,289
+Ben
+
+354
+00:24:09,289 --> 00:24:11,289
+dati'yi gördüm de sadece
+
+355
+00:24:11,289 --> 00:24:13,289
+İzmit Datası için balktığımda
+
+356
+00:24:13,289 --> 00:24:15,289
+çok basit bir şekilde çok bilebilecek bir yer bana.
+
+357
+00:24:15,289 --> 00:24:17,289
+Affemin correction yapsak
+
+358
+00:24:17,289 --> 00:24:19,289
+yine toplarmış gibi geldi.
+
+359
+00:24:20,609 --> 00:24:22,640
+Affemin correction ile birlikte
+
+360
+00:24:22,640 --> 00:24:24,640
+şey
+
+361
+00:24:24,640 --> 00:24:26,640
+USCS'e yaklaşırmışız gibi geldi.
+
+362
+00:24:26,640 --> 00:24:28,640
+Çünkü
+
+363
+00:24:28,640 --> 00:24:30,640
+çok net bir şekilde yer üstünde yani
+
+364
+00:24:30,640 --> 00:24:32,640
+üstünde kalıyor.
+
+365
+00:24:32,640 --> 00:24:34,640
+Şöyle bir tane
+
+366
+00:24:34,640 --> 00:24:35,640
+X tane Y
+
+367
+00:24:35,640 --> 00:24:37,640
+X Y'e X'in düşünüm
+
+368
+00:24:37,640 --> 00:24:39,640
+X'de bizim şeyler var
+
+369
+00:24:39,640 --> 00:24:41,640
+pc'liler var.
+
+370
+00:24:41,640 --> 00:24:43,640
+Yerde USCS'in pc'lileri var.
+
+371
+00:24:43,640 --> 00:24:45,640
+Bir bir
+
+372
+00:24:45,640 --> 00:24:47,640
+perfect city düşünüm.
+
+373
+00:24:47,640 --> 00:24:49,670
+35 derece
+
+374
+00:24:49,670 --> 00:24:51,799
+35 derece
+
+375
+00:24:51,799 --> 00:24:53,799
+düşünüm
+
+376
+00:24:53,799 --> 00:24:55,799
+ve sürekli şekilde
+
+377
+00:24:55,799 --> 00:24:57,799
+ya üstünde kalıyor ya altında kalıyor.
+
+378
+00:24:57,799 --> 00:24:59,799
+Benim gördüğüm buydu.
+
+379
+00:24:59,799 --> 00:25:01,799
+Biz 3 daha fazla şey yapıyoruz.
+
+380
+00:25:01,799 --> 00:25:03,799
+Daha fazla
+
+381
+00:25:03,799 --> 00:25:05,799
+hesaplıyorduk.
+
+382
+00:25:05,799 --> 00:25:07,799
+Dolayısıyla altında kalıyorduk.
+
+383
+00:25:07,799 --> 00:25:09,900
+Distance var mı?
+
+384
+00:25:09,900 --> 00:25:11,900
+Distance.
+
+385
+00:25:11,900 --> 00:25:13,900
+Yani bütün sette ayneye de benim gördüm.
+
+386
+00:25:13,900 --> 00:25:15,900
+Şey, sen anladın.
+
+387
+00:25:15,900 --> 00:25:17,900
+Distance'dan
+
+388
+00:25:17,900 --> 00:25:19,900
+bağımsız o 45 derecesinin üstünde
+
+389
+00:25:19,900 --> 00:25:21,900
+bir üstünde diyorsun.
+
+390
+00:25:21,900 --> 00:25:23,900
+Ya da böyle aşağısında sabit giden bir şey.
+
+391
+00:25:23,900 --> 00:25:25,900
+Yani benim gördüğüm buydu.
+
+392
+00:25:25,900 --> 00:25:27,900
+Ama söyledim gibi çok ısrarlı bir
+
+393
+00:25:27,900 --> 00:25:29,900
+defa. Bir tane depremle uğraştım.
+
+394
+00:25:29,900 --> 00:25:31,900
+Ondan dolayı hani
+
+395
+00:25:31,900 --> 00:25:33,900
+modelin kurulmasındaki
+
+396
+00:25:33,900 --> 00:25:35,900
+zorluk şey değil.
+
+397
+00:25:35,900 --> 00:25:37,900
+Benim modem kurulmasıyla ilgili
+
+398
+00:25:37,900 --> 00:25:39,900
+bu işte
+
+399
+00:25:39,900 --> 00:25:41,900
+VS Turkten Mankih'tan
+
+400
+00:25:41,900 --> 00:25:43,900
+ve Distance'dan kaynaklı
+
+401
+00:25:43,900 --> 00:25:45,900
+ve diğer bir şeytan da
+
+402
+00:25:45,900 --> 00:25:47,900
+10 tane deprem gerçekten yetecek mi
+
+403
+00:25:47,900 --> 00:25:50,440
+böyle bir model kurmaya?
+
+404
+00:25:50,440 --> 00:25:52,440
+Genel geçer.
+
+405
+00:25:52,440 --> 00:25:54,569
+Bu bizde şey yok değil mi?
+
+406
+00:25:54,569 --> 00:25:56,569
+Hani bizim özgürlüğüm
+
+407
+00:25:56,569 --> 00:25:58,569
+şey yok değil mi?
+
+408
+00:25:58,569 --> 00:26:00,569
+Mesela VSC'sin şekmeplerine
+
+409
+00:26:00,569 --> 00:26:02,569
+bir bakıp hani
+
+410
+00:26:02,569 --> 00:26:04,569
+Türkiye için hangi şekmefleri varmışlar.
+
+411
+00:26:04,569 --> 00:26:06,569
+Hani depremlerin şekmeflerini varmışlar.
+
+412
+00:26:06,569 --> 00:26:08,569
+Onları görüp
+
+413
+00:26:08,569 --> 00:26:10,569
+daha genel geçer bir
+
+414
+00:26:10,569 --> 00:26:12,700
+model geçiyorlar gibi geldi bana.
+
+415
+00:26:12,700 --> 00:26:14,700
+Onun için hani sanki
+
+416
+00:26:14,700 --> 00:26:16,700
+Daha babacı değil mi?
+
+417
+00:26:16,700 --> 00:26:19,779
+Evet.
+
+418
+00:26:19,779 --> 00:26:21,779
+Çünkü mesela
+
+419
+00:26:21,779 --> 00:26:23,779
+şey diyelim ki
+
+420
+00:26:23,779 --> 00:26:25,779
+VS'de altı bin tane data point'imiz var ama
+
+421
+00:26:25,779 --> 00:26:27,779
+altı bin tane data point aslında
+
+422
+00:26:27,779 --> 00:26:29,779
+altı bin tane data point değil mi?
+
+423
+00:26:29,779 --> 00:26:31,779
+istatistiksel bir şekilde
+
+424
+00:26:31,779 --> 00:26:33,779
+işitleme soktuğunuz zaman onları
+
+425
+00:26:33,779 --> 00:26:35,779
+onların aslında korilasyon var.
+
+426
+00:26:35,779 --> 00:26:37,779
+Korilasyonundan dolu değil.
+
+427
+00:26:37,779 --> 00:26:39,779
+Data point sayımız inanılmaz şekilde
+
+428
+00:26:39,779 --> 00:26:42,420
+şey yapacak.
+
+429
+00:26:42,420 --> 00:26:44,420
+Bir şey düşündü.
+
+430
+00:26:44,420 --> 00:26:46,420
+Siz yani bunu çünkü
+
+431
+00:26:46,420 --> 00:26:54,599
+bir milyon değil mi?
+
+432
+00:26:54,599 --> 00:26:56,599
+Çok farklı farklı şeyler geliyor.
+
+433
+00:26:56,599 --> 00:26:58,599
+Bu günaydın onu.
+
+434
+00:26:58,599 --> 00:27:02,710
+Ben o özgür koca
+
+435
+00:27:02,710 --> 00:27:04,710
+nasıl mı alman aradığım başında
+
+436
+00:27:04,710 --> 00:27:08,700
+bitiririz diye.
+
+437
+00:27:08,700 --> 00:27:10,890
+Yirmi gününüz var.
+
+438
+00:27:10,890 --> 00:27:13,269
+Yirmi gün de isterseniz
+
+439
+00:27:13,269 --> 00:27:15,430
+acayip kompleks bir şey yapın.
+
+440
+00:27:15,430 --> 00:27:17,430
+İsterseniz o türlü bir şey yapın.
+
+441
+00:27:17,430 --> 00:27:19,430
+Ama ben bunu
+
+442
+00:27:19,430 --> 00:27:21,460
+norulların hazırlanış olduğu
+
+443
+00:27:21,460 --> 00:27:23,460
+yani ondan sonra
+
+444
+00:27:23,460 --> 00:27:25,460
+işte şu anda
+
+445
+00:27:25,460 --> 00:27:28,140
+baskı için yaptığımız çekildi
+
+446
+00:27:28,140 --> 00:27:30,140
+ama eksik olarak kendi senaryonumuz için
+
+447
+00:27:30,140 --> 00:27:33,900
+bir dakika maruz ve senaryon için
+
+448
+00:27:33,900 --> 00:27:38,519
+bir şey falan da dikkatimiz.
+
+449
+00:27:38,519 --> 00:27:47,559
+Altı noktun için falan.
+
+450
+00:27:47,559 --> 00:27:49,849
+Yirmi üç yıl sen beklemiyorsun.
+
+451
+00:27:49,849 --> 00:27:56,069
+Yirmi üç yıl sen beklemiyorsun.
+
+452
+00:27:56,069 --> 00:28:02,009
+Normalde USGS maklemini mimik ederek
+
+453
+00:28:02,009 --> 00:28:27,779
+kendi deprem senaryonumuz.
+
+454
+00:28:27,779 --> 00:28:32,180
+En azından umutlaması
+
+455
+00:28:32,180 --> 00:28:34,180
+gerekliydi şu anda.
+
+456
+00:28:34,180 --> 00:28:43,700
+Unutacağını düşündüm.
+
+457
+00:28:43,700 --> 00:28:46,630
+Şeyi rampayı çıkartırken
+
+458
+00:28:46,630 --> 00:28:52,789
+tamamlarsanız birbirine.
+
+459
+00:28:52,789 --> 00:29:16,009
+Modun içerisine yazmak, kregrisyon,
+
+460
+00:29:16,009 --> 00:29:18,009
+patveks vesaire. Hani uzun bir süreç.
+
+461
+00:29:18,009 --> 00:29:20,009
+Hani bunlar en kısa dışarıda
+
+462
+00:29:20,009 --> 00:29:22,200
+bu 10 küfür senaryon için
+
+463
+00:29:22,200 --> 00:29:24,420
+dışarıda hesaplamak oldu.
+
+464
+00:29:24,420 --> 00:29:31,900
+Kavuzu ve zavayet olucı.
+
+465
+00:29:31,900 --> 00:29:34,759
+Sercan bunlar
+
+466
+00:29:34,759 --> 00:29:36,890
+bir tanesi iki bin kaçtı.
+
+467
+00:29:36,890 --> 00:29:38,890
+Zavayet ol, 2016.
+
+468
+00:29:38,890 --> 00:29:41,400
+Kavuzu iki bin on dört.
+
+469
+00:29:41,400 --> 00:29:44,259
+Bunlar çok basit de eklemler.
+
+470
+00:29:44,259 --> 00:29:46,839
+Yok şey zediğim hani
+
+471
+00:29:46,839 --> 00:29:48,970
+sen bir de bir tek PG
+
+472
+00:29:48,970 --> 00:29:52,410
+PG.
+
+473
+00:29:52,410 --> 00:29:54,789
+Bir şey yazacaksın.
+
+474
+00:29:54,789 --> 00:29:56,789
+Ya şey yok yazın, yazarım hocam onu söyledim.
+
+475
+00:29:56,789 --> 00:29:58,789
+Sadece catmoda entegreme edelim.
+
+476
+00:29:58,789 --> 00:30:01,299
+Hani bunları normal
+
+477
+00:30:01,299 --> 00:30:03,299
+GMM setimizin içerisine sokağı mı yoksa
+
+478
+00:30:03,299 --> 00:30:05,299
+onları dışarıda mı hesaplıyım yani.
+
+479
+00:30:05,299 --> 00:30:07,299
+Sadece sorum şeydi yani aslında.
+
+480
+00:30:07,299 --> 00:30:10,230
+İkisi de olur benim için.
+
+481
+00:30:10,230 --> 00:30:12,230
+Sadece bir gününüzü almasın.
+
+482
+00:30:12,230 --> 00:30:14,230
+Çünkü catmoda
+
+483
+00:30:14,230 --> 00:30:16,230
+ben kendi grammoşun modelimi
+
+484
+00:30:16,230 --> 00:30:18,230
+çalıştıracağım. İyiyim ona.
+
+485
+00:30:18,230 --> 00:30:21,609
+Eğer benim düşünüyorum yöntemi
+
+486
+00:30:21,609 --> 00:30:23,609
+uygulamak isterseniz
+
+487
+00:30:23,609 --> 00:30:25,609
+İyiyim ona.
+
+488
+00:30:25,609 --> 00:30:27,609
+Catmoda
+
+489
+00:30:27,609 --> 00:30:31,400
+ben alacağım şey kendi grammoşun modelim.
+
+490
+00:30:31,400 --> 00:30:33,400
+Ama orada tabi
+
+491
+00:30:33,400 --> 00:30:35,400
+şey yapmak lazım.
+
+492
+00:30:35,400 --> 00:30:38,420
+Rapçapırenleri, USGS
+
+493
+00:30:38,420 --> 00:30:40,420
+şey yaptığı rapçapırenlerle
+
+494
+00:30:40,420 --> 00:30:42,869
+beraber.
+
+495
+00:30:42,869 --> 00:30:46,950
+Onların birisi otuz yapısıyla
+
+496
+00:30:46,950 --> 00:31:01,079
+çünkü onlar onu kullanıyor.
+
+497
+00:31:01,079 --> 00:31:03,079
+Eğer USGS mimik etmek istiyorsa
+
+498
+00:31:03,079 --> 00:31:07,160
+dışarıda
+
+499
+00:31:07,160 --> 00:31:09,160
+amirim ben dışarıda çalıştırıyorsan
+
+500
+00:31:09,160 --> 00:31:12,440
+baksana.
+
+501
+00:31:12,440 --> 00:31:18,019
+Dışarıda çalıştırmak
+
+502
+00:31:18,019 --> 00:31:20,920
+evet ama zaten bir şey söyleyeceğim.
+
+503
+00:31:20,920 --> 00:31:22,920
+Şimdi konuşuyoruz da kollar karışıyor galiba
+
+504
+00:31:22,920 --> 00:31:24,920
+bir şey söyleyeceğim.
+
+505
+00:31:24,920 --> 00:31:27,819
+Bir dakika şimdi nasıl söyleyeceğim.
+
+506
+00:31:27,819 --> 00:31:29,819
+Tamam tabi tabi, pardon.
+
+507
+00:31:29,819 --> 00:31:31,910
+Çünkü bir dakikaya.
+
+508
+00:31:31,910 --> 00:31:34,519
+Yani o zaten
+
+509
+00:31:34,519 --> 00:31:37,990
+şey maplık olan
+
+510
+00:31:37,990 --> 00:31:39,990
+kayıtlardan biz gitmeyecek miyiz?
+
+511
+00:31:39,990 --> 00:31:41,990
+Onların da zaten grammoşun
+
+512
+00:31:41,990 --> 00:31:47,480
+filmleri var.
+
+513
+00:31:47,480 --> 00:31:49,480
+Yani biz nasıl
+
+514
+00:31:49,480 --> 00:31:51,480
+olmayan
+
+515
+00:31:51,480 --> 00:31:53,480
+USGS'de grammoşun kayıtları
+
+516
+00:31:53,480 --> 00:31:55,480
+olmayan takım depremler var.
+
+517
+00:31:55,480 --> 00:31:57,480
+Biz bu depremler için
+
+518
+00:31:57,480 --> 00:31:59,480
+USGS modeleseydin, nasıl
+
+519
+00:31:59,480 --> 00:32:01,480
+modeller diye
+
+520
+00:32:01,480 --> 00:32:03,480
+cevaplamaya çalışıyoruz.
+
+521
+00:32:03,480 --> 00:32:05,480
+Bunu bilmek için bir
+
+522
+00:32:05,480 --> 00:32:07,480
+araç olarak bir modeli ihtiyacımız var.
+
+523
+00:32:07,480 --> 00:32:09,480
+Bu modeli de geliştirebilmek için
+
+524
+00:32:09,480 --> 00:32:11,480
+USGS'in
+
+525
+00:32:11,480 --> 00:32:13,480
+ürettiği grammoşun
+
+526
+00:32:13,480 --> 00:32:15,480
+piyatlarla
+
+527
+00:32:15,480 --> 00:32:17,480
+grammoşun piyatları
+
+528
+00:32:17,480 --> 00:32:19,480
+karşılaştırmamız gerekiyor.
+
+529
+00:32:19,480 --> 00:32:21,480
+Bizim kendi grammoşun filmlerimiz
+
+530
+00:32:21,480 --> 00:32:23,480
+kendi bir rakit modelimizden
+
+531
+00:32:23,480 --> 00:32:25,579
+gerçekleştireceğiz.
+
+532
+00:32:25,579 --> 00:32:27,579
+On adet deprem için
+
+533
+00:32:27,579 --> 00:32:31,180
+da USGS'in yeri rakit modeli
+
+534
+00:32:31,180 --> 00:32:33,210
+paylaşılıyor aslında.
+
+535
+00:32:33,210 --> 00:32:35,210
+Yani bir
+
+536
+00:32:35,210 --> 00:32:37,819
+eksik yok gibi geliyor.
+
+537
+00:32:37,819 --> 00:32:40,839
+Bir de Berbat
+
+538
+00:32:40,839 --> 00:32:43,099
+ben başkada bulurum.
+
+539
+00:32:43,099 --> 00:32:45,099
+Türkiye için.
+
+540
+00:32:45,099 --> 00:32:47,099
+Hocam, sorun şuradan
+
+541
+00:32:47,099 --> 00:32:49,099
+bir model oluştuğumuzu
+
+542
+00:32:49,099 --> 00:32:51,099
+istiyorsunuz ya.
+
+543
+00:32:51,099 --> 00:32:53,099
+Ben bunu biz kendi grammoşun modellerimize
+
+544
+00:32:53,099 --> 00:32:55,130
+hesaplayacağız.
+
+545
+00:32:55,130 --> 00:32:57,289
+Ama o zaman
+
+546
+00:32:57,289 --> 00:32:59,289
+tam USGS'ine
+
+547
+00:32:59,289 --> 00:33:01,289
+vardıysa biz kendi grammoşun modellerimizle
+
+548
+00:33:01,289 --> 00:33:03,289
+hesapladık. Aynı mantıklardık.
+
+549
+00:33:03,289 --> 00:33:05,289
+Aynı distansı, aynı
+
+550
+00:33:05,289 --> 00:33:07,289
+DS3'i aldık.
+
+551
+00:33:07,289 --> 00:33:12,069
+Yani distansları aynı
+
+552
+00:33:12,069 --> 00:33:14,069
+hesaplayacağınızı düşünüyorum.
+
+553
+00:33:14,069 --> 00:33:16,140
+Yani o zaman
+
+554
+00:33:16,140 --> 00:33:18,140
+benim anladığım şu.
+
+555
+00:33:18,140 --> 00:33:20,140
+Şu an
+
+556
+00:33:20,140 --> 00:33:23,380
+mantıklı
+
+557
+00:33:23,380 --> 00:33:26,859
+distansı
+
+558
+00:33:26,859 --> 00:33:28,859
+USGS'den alıyoruz.
+
+559
+00:33:28,859 --> 00:33:31,980
+DS3'da
+
+560
+00:33:31,980 --> 00:33:34,549
+USGS'i alıyoruz.
+
+561
+00:33:34,549 --> 00:33:36,549
+Fullplay'in çözümünü de oradan alıyoruz
+
+562
+00:33:36,549 --> 00:33:39,420
+aynı şekilde.
+
+563
+00:33:39,420 --> 00:33:42,569
+Fullplay'in çözümünü de oradan alıyoruz.
+
+564
+00:33:42,569 --> 00:33:44,569
+Ama zaten
+
+565
+00:33:44,569 --> 00:33:46,569
+USGS'da olmayan senaryoda için
+
+566
+00:33:46,569 --> 00:33:48,569
+gizlini yapacağız. Dolayısıyla
+
+567
+00:33:48,569 --> 00:33:50,569
+bunlar hiç bir USGS'da olmayacak.
+
+568
+00:33:50,569 --> 00:33:52,569
+Zaten benim mantıklı
+
+569
+00:33:52,569 --> 00:33:54,569
+devrim olaya
+
+570
+00:33:54,569 --> 00:33:56,569
+zaten main tutu distansı
+
+571
+00:33:56,569 --> 00:33:58,569
+kalbime oradan çıktı.
+
+572
+00:33:58,569 --> 00:34:00,569
+USGS'da olmayanları
+
+573
+00:34:00,569 --> 00:34:02,569
+modellerimiz için.
+
+574
+00:34:02,569 --> 00:34:04,569
+USGS'i niye öyle bir şey?
+
+575
+00:34:04,569 --> 00:34:06,569
+Şimdi
+
+576
+00:34:06,569 --> 00:34:08,570
+biz USGS bir adam
+
+577
+00:34:08,570 --> 00:34:10,570
+bir sürü bir takım değerler
+
+578
+00:34:10,570 --> 00:34:12,570
+yani bir takım yaklaşımlar
+
+579
+00:34:12,570 --> 00:34:14,570
+kullanarak
+
+580
+00:34:14,570 --> 00:34:16,570
+IPC'ye hesaplarıyoruz.
+
+581
+00:34:16,570 --> 00:34:18,860
+IPC'ye hesaplamıyoruz.
+
+582
+00:34:18,860 --> 00:34:20,860
+Tamam. O var.
+
+583
+00:34:20,860 --> 00:34:22,860
+Sonuç itibariyle
+
+584
+00:34:22,860 --> 00:34:26,679
+ben bu depremler için
+
+585
+00:34:26,679 --> 00:34:28,679
+ilk önce CAT modelleri vermiştim.
+
+586
+00:34:28,679 --> 00:34:30,679
+Bir tanesi de yapmışsın zaten.
+
+587
+00:34:30,679 --> 00:34:32,679
+99% depremini yaptım diyorsun.
+
+588
+00:34:32,679 --> 00:34:34,679
+Tamam.
+
+589
+00:34:34,679 --> 00:34:36,679
+E şimdiki
+
+590
+00:34:36,679 --> 00:34:38,679
+burada
+
+591
+00:34:38,679 --> 00:34:40,679
+sen bir tane deprem için
+
+592
+00:34:40,679 --> 00:34:42,679
+bir şey yapsaydın
+
+593
+00:34:42,679 --> 00:34:44,679
+distansı bağlı
+
+594
+00:34:44,679 --> 00:34:46,679
+o main tutu
+
+595
+00:34:46,679 --> 00:34:49,000
+bir tane modellerin
+
+596
+00:34:49,000 --> 00:34:51,000
+bir tane modellerin
+
+597
+00:34:51,000 --> 00:34:53,130
+evet. Bu main tutu
+
+598
+00:34:53,130 --> 00:34:55,130
+bir tane modellerin için kalbim gitmez.
+
+599
+00:34:55,130 --> 00:34:57,130
+Main tutu tabağa bir bias trendi
+
+600
+00:34:57,130 --> 00:34:59,130
+elde edecektim. Hiç nefes edecektim.
+
+601
+00:34:59,130 --> 00:35:01,130
+CAT mod, böyle
+
+602
+00:35:01,130 --> 00:35:03,130
+USGS bir hatta USGS bunu CAT mod
+
+603
+00:35:03,130 --> 00:35:06,699
+değil mi?
+
+604
+00:35:06,699 --> 00:35:09,590
+Şimdi bunu 10 tane daha olsun.
+
+605
+00:35:09,590 --> 00:35:11,590
+Böyle USGS'in
+
+606
+00:35:11,590 --> 00:35:15,480
+şeklini döndü.
+
+607
+00:35:15,480 --> 00:35:17,699
+Aynı görmediler.
+
+608
+00:35:17,699 --> 00:35:19,699
+Ve aynı VS30
+
+609
+00:35:19,699 --> 00:35:22,730
+şeyi için USGS'in kullandı.
+
+610
+00:35:22,730 --> 00:35:24,730
+Yine CAT modten
+
+611
+00:35:24,730 --> 00:35:28,099
+o ikisini o zaman
+
+612
+00:35:28,099 --> 00:35:30,099
+bu sefer main tutu versin distance
+
+613
+00:35:30,099 --> 00:35:32,489
+uzayında
+
+614
+00:35:32,489 --> 00:35:34,550
+oklayını oturtacaksın.
+
+615
+00:35:34,550 --> 00:35:36,550
+Şöyle söylemeyeceğim. İzmit depreminin üzerinden konuşuyorum.
+
+616
+00:35:36,550 --> 00:35:38,550
+Şimdi sadece İzmit depremi üzerinden konuşuyorum.
+
+617
+00:35:38,550 --> 00:35:40,550
+İzmit'in
+
+618
+00:35:40,550 --> 00:35:42,550
+main tutuyordu. USGS de 7.4
+
+619
+00:35:42,550 --> 00:35:45,059
+İze göre
+
+620
+00:35:45,059 --> 00:35:47,059
+main tutuyordu. 7.6
+
+621
+00:35:47,059 --> 00:35:49,610
+Ben 7.4 kullanıyorum.
+
+622
+00:35:49,610 --> 00:35:54,420
+Tamam 7.4 kullanıyorum.
+
+623
+00:35:54,420 --> 00:35:56,420
+Ben sitemi
+
+624
+00:35:56,420 --> 00:35:58,420
+öyle yaptığını düşünüyorum.
+
+625
+00:35:58,420 --> 00:36:00,650
+7.4 kullanıyorum.
+
+626
+00:36:00,650 --> 00:36:03,480
+USGS'in
+
+627
+00:36:03,480 --> 00:36:05,480
+2 mod yapmamız.
+
+628
+00:36:05,480 --> 00:36:07,739
+USGS'in Rapture Play'in neyse
+
+629
+00:36:07,739 --> 00:36:09,739
+onu kullan.
+
+630
+00:36:09,739 --> 00:36:11,739
+7.4 kullanıyorum.
+
+631
+00:36:11,739 --> 00:36:13,739
+CAT mod medyan değerliğini yazın.
+
+632
+00:36:13,739 --> 00:36:15,739
+Bir de zaten
+
+633
+00:36:15,739 --> 00:36:17,739
+öteki tarafta değerler var.
+
+634
+00:36:17,739 --> 00:36:19,739
+Bunlar arasındaki farkı
+
+635
+00:36:19,739 --> 00:36:21,739
+ve hatta oyuna
+
+636
+00:36:21,739 --> 00:36:23,739
+bir tarafa koy. Aynı şeyi
+
+637
+00:36:23,739 --> 00:36:25,739
+öteki depremler içinde.
+
+638
+00:36:25,739 --> 00:36:27,739
+Ben bir şey sorabilir miyim? Şimdi hocam
+
+639
+00:36:27,739 --> 00:36:29,739
+biraz şey oluyor.
+
+640
+00:36:29,739 --> 00:36:31,739
+Burada örneğin
+
+641
+00:36:31,739 --> 00:36:33,739
+yine koca eli depremi için USGS'in
+
+642
+00:36:33,739 --> 00:36:35,739
+bir şek mepi zaten elimizde var.
+
+643
+00:36:35,739 --> 00:36:37,739
+Bizim amacımız
+
+644
+00:36:37,739 --> 00:36:39,739
+USGS'in şek, yani eski bir
+
+645
+00:36:39,739 --> 00:36:41,739
+depremi için oluşturduğu şek mepi
+
+646
+00:36:41,739 --> 00:36:43,739
+tekrardan CAT mod modelliği ile
+
+647
+00:36:43,739 --> 00:36:45,739
+bayis
+
+648
+00:36:45,739 --> 00:36:47,739
+modelini de kullanarak
+
+649
+00:36:47,739 --> 00:36:49,989
+üretmek mi?
+
+650
+00:36:49,989 --> 00:36:51,989
+Benim Marmara'dan denizliğin içerisinde
+
+651
+00:36:51,989 --> 00:36:53,989
+senaryolarım var ya.
+
+652
+00:36:53,989 --> 00:36:55,989
+Onu ben
+
+653
+00:36:55,989 --> 00:36:57,989
+işte o noktalı
+
+654
+00:36:57,989 --> 00:36:59,989
+Merve'nin dediği hani gelecek depremler için
+
+655
+00:36:59,989 --> 00:37:01,989
+bunu kullanacaksam
+
+656
+00:37:01,989 --> 00:37:03,989
+gelecek deprem işte Marmara'daki
+
+657
+00:37:03,989 --> 00:37:05,989
+senaryolar. Marmara denizliğindeki
+
+658
+00:37:05,989 --> 00:37:08,340
+senaryolarım var yanımda.
+
+659
+00:37:08,340 --> 00:37:10,340
+Marmara denizliğindeki senaryolarım var
+
+660
+00:37:10,340 --> 00:37:12,340
+işte evet
+
+661
+00:37:12,340 --> 00:37:14,860
+tamam. Ben onları
+
+662
+00:37:14,860 --> 00:37:16,860
+kendim bir medyan estimeşin yapıyorum.
+
+663
+00:37:16,860 --> 00:37:18,860
+Tirac, Kralmoşu modelliği
+
+664
+00:37:18,860 --> 00:37:20,860
+bir estimeşin yapıyorum.
+
+665
+00:37:20,860 --> 00:37:22,860
+Magnitude belli. O su belli. Bu su
+
+666
+00:37:22,860 --> 00:37:24,860
+belli. Ben de
+
+667
+00:37:24,860 --> 00:37:26,860
+sanki kültü renglerinde
+
+668
+00:37:26,860 --> 00:37:28,860
+bir bayis
+
+669
+00:37:28,860 --> 00:37:30,860
+funksiyonu bulursam, oradan ortalama da
+
+670
+00:37:30,860 --> 00:37:32,860
+ne kadar bir bayis olduğunu
+
+671
+00:37:32,860 --> 00:37:34,860
+ratio olarak
+
+672
+00:37:34,860 --> 00:37:36,860
+ve hatta logaritmic difference olarak bilirsem
+
+673
+00:37:36,860 --> 00:37:38,860
+ben oradan giderim, bunu eklerim ya.
+
+674
+00:37:38,860 --> 00:37:40,860
+Bu muyum yani? Bu çok acayip
+
+675
+00:37:40,860 --> 00:37:42,860
+bir şey değil mi?
+
+676
+00:37:42,860 --> 00:37:44,860
+Yani aynı şey.
+
+677
+00:37:44,860 --> 00:37:46,860
+Bir şey değil ki bu. Ben
+
+678
+00:37:46,860 --> 00:37:48,860
+oluşacak bundan sonra
+
+679
+00:37:48,860 --> 00:37:50,860
+Marmara'da
+
+680
+00:37:50,860 --> 00:37:52,860
+Çanakkale'de
+
+681
+00:37:52,860 --> 00:37:54,860
+Ege'de, İzmir'de
+
+682
+00:37:54,860 --> 00:37:56,860
+oluşacak bir depremin
+
+683
+00:37:56,860 --> 00:37:59,239
+sonuçlarını USCS'e
+
+684
+00:37:59,239 --> 00:38:01,239
+benzetmeye çalışmıyorum ki.
+
+685
+00:38:01,239 --> 00:38:03,239
+Benim tek yapmayacak.
+
+686
+00:38:03,239 --> 00:38:05,239
+Sen DAS için yaparken Marmara denizi
+
+687
+00:38:05,239 --> 00:38:07,239
+deprem serviyonu USCS üstünden yapabildin mi?
+
+688
+00:38:07,239 --> 00:38:09,239
+Yok hayır.
+
+689
+00:38:09,239 --> 00:38:11,239
+Onlar da sanışta o senaryolar da
+
+690
+00:38:11,239 --> 00:38:13,239
+oluşacak depremler.
+
+691
+00:38:13,239 --> 00:38:15,239
+Yani oluşması beklenen
+
+692
+00:38:15,239 --> 00:38:17,239
+senaryolarım.
+
+693
+00:38:17,239 --> 00:38:19,239
+Emin ol çok basit.
+
+694
+00:38:19,239 --> 00:38:21,239
+Yok dediğinizi anladım
+
+695
+00:38:21,239 --> 00:38:23,239
+zaten sadece
+
+696
+00:38:23,239 --> 00:38:25,239
+yok Merve'nin demek istediği
+
+697
+00:38:25,239 --> 00:38:27,239
+nokta hani orada sanki
+
+698
+00:38:27,239 --> 00:38:29,239
+biz şey
+
+699
+00:38:29,239 --> 00:38:31,239
+yani amacımız zaten Marmara
+
+700
+00:38:31,239 --> 00:38:33,239
+yazsın da şey yapmak.
+
+701
+00:38:33,239 --> 00:38:35,239
+Marmara ve yazdı başkanım
+
+702
+00:38:35,239 --> 00:38:37,239
+evet yani ben hani burada
+
+703
+00:38:37,239 --> 00:38:39,239
+net miyiz onu şey yapmak için
+
+704
+00:38:39,239 --> 00:38:41,239
+söyledim. Zaten amacımız bu yani
+
+705
+00:38:41,239 --> 00:38:43,239
+bence de.
+
+706
+00:38:43,239 --> 00:38:45,239
+Yoksa koca eli veya eski depremler
+
+707
+00:38:45,239 --> 00:38:47,239
+zaten USCS de var yani.
+
+708
+00:38:47,239 --> 00:38:49,239
+Var zaten.
+
+709
+00:38:49,239 --> 00:38:51,239
+Onu ben de vurgulamak istedim.
+
+710
+00:38:51,239 --> 00:38:53,239
+Evet yani Marmara'yı
+
+711
+00:38:53,239 --> 00:38:55,239
+yani Marmara denizdeki kendi
+
+712
+00:38:55,239 --> 00:38:57,239
+senaryolarımız stress test'i
+
+713
+00:38:57,239 --> 00:38:59,909
+senaryolarımız stress test'i.
+
+714
+00:39:01,909 --> 00:39:04,070
+Stochastik içerisinde
+
+715
+00:39:04,070 --> 00:39:08,250
+benim stochastik
+
+716
+00:39:08,250 --> 00:39:12,170
+deprem setim içinde
+
+717
+00:39:12,170 --> 00:39:16,570
+Merve Türk mesela
+
+718
+00:39:16,570 --> 00:39:19,849
+altı, altı buçuk
+
+719
+00:39:19,849 --> 00:39:22,679
+arası Marmara denizin
+
+720
+00:39:22,679 --> 00:39:27,139
+senaryoları.
+
+721
+00:39:27,139 --> 00:39:29,269
+Neden?
+
+722
+00:39:29,269 --> 00:39:31,460
+Yani benim elimde
+
+723
+00:39:31,460 --> 00:39:33,460
+on tane deprem var işte.
+
+724
+00:39:33,460 --> 00:39:35,460
+Herkesin yapayatı
+
+725
+00:39:35,460 --> 00:39:37,460
+onda boş ver. Koca eli doksan
+
+726
+00:39:37,460 --> 00:39:39,590
+dokuz. Ondan sonra ne bileyim
+
+727
+00:39:39,590 --> 00:39:41,590
+işte Marmara
+
+728
+00:39:41,590 --> 00:39:44,199
+yirmi beş
+
+729
+00:39:44,199 --> 00:39:46,389
+bir iki tane daha deprem
+
+730
+00:39:46,389 --> 00:39:48,389
+şey yapıyorlar.
+
+731
+00:39:48,389 --> 00:39:50,389
+Şey
+
+732
+00:39:50,389 --> 00:39:52,389
+kahraman maraş bir
+
+733
+00:39:52,389 --> 00:39:54,389
+kahraman maraş iki
+
+734
+00:39:54,389 --> 00:39:56,389
+bunlarla yapıyorlar zaten adamım.
+
+735
+00:39:56,389 --> 00:39:58,519
+Bunlarla ben de yapıyorum.
+
+736
+00:39:58,519 --> 00:40:01,219
+USTS çekmekleri var.
+
+737
+00:40:01,219 --> 00:40:03,219
+Var bunlar. Ama şunlarım yok Marmara.
+
+738
+00:40:03,219 --> 00:40:05,380
+Bunları yok.
+
+739
+00:40:05,380 --> 00:40:07,380
+Bunu yok.
+
+740
+00:40:07,380 --> 00:40:09,380
+Ben bunları nasıl yapıyorum?
+
+741
+00:40:09,380 --> 00:40:11,380
+Kent Mode, Kent Mode medyan
+
+742
+00:40:11,380 --> 00:40:13,380
+değerliğiyle yapıyorum.
+
+743
+00:40:13,380 --> 00:40:15,380
+Ama şey nasıl yapmış
+
+744
+00:40:15,380 --> 00:40:17,380
+Maria Infantino
+
+745
+00:40:17,380 --> 00:40:19,380
+nasıl yapmış adamım.
+
+746
+00:40:19,380 --> 00:40:21,380
+Diyor ki sen bana PGB'leri verdin.
+
+747
+00:40:21,380 --> 00:40:23,380
+Ben de kendim baktım. Hatta bir tane
+
+748
+00:40:23,380 --> 00:40:25,380
+depremi bakmış.
+
+749
+00:40:25,380 --> 00:40:27,380
+Şey yirmi üç insan depremine bakmış.
+
+750
+00:40:27,380 --> 00:40:29,380
+Senin vermiş olduğun PGB'lerle
+
+751
+00:40:29,380 --> 00:40:31,380
+çekmek
+
+752
+00:40:31,380 --> 00:40:33,380
+vermiş olduğun PGB'ler arasında
+
+753
+00:40:33,380 --> 00:40:35,380
+yüzde otuz fark vardı.
+
+754
+00:40:35,380 --> 00:40:37,380
+Ben senin PGB'lerini kafadan da
+
+755
+00:40:37,380 --> 00:40:39,380
+yüzde otuz bir şey için.
+
+756
+00:40:39,380 --> 00:40:41,380
+Şurası shoreline.
+
+757
+00:40:41,380 --> 00:40:43,380
+Şuralarda bir yer için.
+
+758
+00:40:43,380 --> 00:40:46,059
+Bitti yani.
+
+759
+00:40:46,059 --> 00:40:49,210
+Bu kadar yapmıştım.
+
+760
+00:40:49,210 --> 00:40:51,210
+Ben bunun daha karmaşık halini
+
+761
+00:40:51,210 --> 00:40:53,210
+daha elegan talini yapayım.
+
+762
+00:40:53,210 --> 00:40:58,500
+Daha genelleştirmeye çalışıyorum.
+
+763
+00:40:58,500 --> 00:41:00,500
+Bunu da
+
+764
+00:41:00,500 --> 00:41:02,500
+vermiş olduğun PGB yapısını
+
+765
+00:41:02,500 --> 00:41:06,809
+justify etmek için kullanıyorum.
+
+766
+00:41:06,809 --> 00:41:08,940
+Böyle bir deprem olursa
+
+767
+00:41:08,940 --> 00:41:10,940
+geçmiş zamanlarda yaşamıştım.
+
+768
+00:41:10,940 --> 00:41:12,940
+Böyle bir deprem olursa ben PGB yapım sana
+
+769
+00:41:12,940 --> 00:41:16,889
+bunu verecek demek için kullanıyorum.
+
+770
+00:41:16,889 --> 00:41:18,889
+Tamam.
+
+771
+00:41:18,889 --> 00:41:20,889
+Eğer başka bir soru yoksa hocam şey bu
+
+772
+00:41:20,889 --> 00:41:22,889
+Maria Infantino'dan biz onu
+
+773
+00:41:22,889 --> 00:41:24,889
+istemiştik ama
+
+774
+00:41:24,889 --> 00:41:26,889
+attı mı acaba size?
+
+775
+00:41:26,889 --> 00:41:28,889
+Hiç vermedi.
+
+776
+00:41:28,889 --> 00:41:30,889
+Ben de yok da çünkü.
+
+777
+00:41:30,889 --> 00:41:32,889
+Evet.
+
+778
+00:41:32,889 --> 00:41:34,889
+Sunu mu verdi?
+
+779
+00:41:34,889 --> 00:41:37,750
+Sunu mu hiç bir şey vermedi?
+
+780
+00:41:37,750 --> 00:41:39,750
+Belki unutmuş olabilir.
+
+781
+00:41:39,750 --> 00:41:53,340
+Bundan daha güzel bir yöntem
+
+782
+00:41:53,340 --> 00:41:55,340
+aklınıza gelirse yapınız arkadaşlar.
+
+783
+00:41:55,340 --> 00:41:59,289
+Peki hocam.
+
+784
+00:41:59,289 --> 00:42:01,289
+Yani bundan daha güzel bir yöntem varsa
+
+785
+00:42:01,289 --> 00:42:03,539
+onda
+
+786
+00:42:03,539 --> 00:42:05,539
+öğrendik isterim yani.
+
+787
+00:42:05,539 --> 00:42:09,079
+Siz pek kişiye bakabildiniz mi?
+
+788
+00:42:09,079 --> 00:42:11,079
+Hocam ben şu an bunu kafamda tutamıyorum.
+
+789
+00:42:11,079 --> 00:42:13,079
+O yüzden hepsi bir şey konuşabilecek.
+
+790
+00:42:13,079 --> 00:42:15,079
+Benimle çıkacağız.
+
+791
+00:42:15,079 --> 00:42:17,079
+Çünkü benim kafama yatmıyorum.
+
+792
+00:42:17,079 --> 00:42:19,079
+Bir şey yapmam lazım.
+
+793
+00:42:19,079 --> 00:42:21,079
+Çünkü
+
+794
+00:42:21,079 --> 00:42:23,079
+eğer ben olmayan bir deprem için
+
+795
+00:42:23,079 --> 00:42:25,079
+PSG'sini tahmin edeceğini
+
+796
+00:42:25,079 --> 00:42:27,079
+hesaplamaya çalışıyorsam
+
+797
+00:42:27,079 --> 00:42:29,079
+bayasının ne olacağını
+
+798
+00:42:29,079 --> 00:42:31,079
+hesaplamaya çalışıyorsam
+
+799
+00:42:31,079 --> 00:42:33,079
+o bayasının için bir modeli olması lazım.
+
+800
+00:42:33,079 --> 00:42:35,079
+O bayas için olan modeli de
+
+801
+00:42:35,079 --> 00:42:37,079
+mesela işte
+
+802
+00:42:37,079 --> 00:42:39,079
+hem mankut hem distance
+
+803
+00:42:39,079 --> 00:42:41,079
+kullanacaksa
+
+804
+00:42:41,079 --> 00:42:43,079
+en basitinden 99 oranelinde olduğu gibi
+
+805
+00:42:43,079 --> 00:42:45,079
+bir tanesinin mankutu
+
+806
+00:42:45,079 --> 00:42:49,079
+orada niye takıldığını anlayamıyorum ben.
+
+807
+00:42:49,079 --> 00:42:51,139
+Çünkü hocam
+
+808
+00:42:51,139 --> 00:42:53,139
+hangi mankutu kullanacağım?
+
+809
+00:42:53,139 --> 00:42:55,139
+Abi
+
+810
+00:42:55,139 --> 00:42:57,139
+US Geological Survey'in
+
+811
+00:42:57,139 --> 00:42:59,139
+mankututunu kullanacaksın.
+
+812
+00:42:59,139 --> 00:43:01,139
+US Geological Survey'in
+
+813
+00:43:01,139 --> 00:43:03,139
+sana vermiş olduğu
+
+814
+00:43:03,139 --> 00:43:05,139
+Rapture Play'ini kullanacaksın.
+
+815
+00:43:05,139 --> 00:43:07,139
+Grand Motion modelin değiştiği.
+
+816
+00:43:07,139 --> 00:43:09,849
+Sen o zaman takarsın diyorsan
+
+817
+00:43:09,849 --> 00:43:11,849
+keyfini yapabilirsin.
+
+818
+00:43:11,849 --> 00:43:14,170
+Yapacak evet yapılacak.
+
+819
+00:43:14,170 --> 00:43:16,170
+Bunu yapıyoruz zaten adam.
+
+820
+00:43:16,170 --> 00:43:18,170
+Yani bunu yapıyor.
+
+821
+00:43:18,170 --> 00:43:20,170
+Tamam bunlar o zaman tekrar simile etmek gerekiyor.
+
+822
+00:43:20,170 --> 00:43:22,170
+Yani bunu hep yapıyoruz biz.
+
+823
+00:43:22,170 --> 00:43:25,380
+Anlayacağım.
+
+824
+00:43:25,380 --> 00:43:27,380
+Anlayamıyorum.
+
+825
+00:43:27,380 --> 00:43:29,380
+Şuan tam olarak ne olduğunu anlayacağım.
+
+826
+00:43:29,380 --> 00:43:31,380
+Eğer sadece
+
+827
+00:43:31,380 --> 00:43:33,380
+mankut ve distance'a bağlı bir şey istiyorsak
+
+828
+00:43:33,380 --> 00:43:35,380
+mankut ve distance'in aşağı yukarı
+
+829
+00:43:35,380 --> 00:43:37,380
+aynı olması lazım.
+
+830
+00:43:37,380 --> 00:43:39,380
+Aşağı yukarı bir de aynı olması lazım.
+
+831
+00:43:39,380 --> 00:43:41,380
+Yani bir de aynı olması lazım.
+
+832
+00:43:41,380 --> 00:43:43,380
+O yüzden mesela en basitinden 99 oranelinde
+
+833
+00:43:43,380 --> 00:43:45,380
+son resmin edilmesi lazım.
+
+834
+00:43:45,380 --> 00:43:47,380
+USGS'in şeyleri kullanarak
+
+835
+00:43:47,380 --> 00:43:49,639
+adın elif
+
+836
+00:43:49,639 --> 00:43:51,639
+fay parametreleri vesaire
+
+837
+00:43:51,639 --> 00:43:53,639
+site parametreleri.
+
+838
+00:43:53,639 --> 00:43:55,639
+Ve sadece burada bize ait olan tek şey
+
+839
+00:43:55,639 --> 00:43:57,639
+bizim Grand Motion modelimiz
+
+840
+00:43:57,639 --> 00:43:59,639
+o zaman.
+
+841
+00:43:59,639 --> 00:44:01,639
+Ama hani neden zaten bunlar var.
+
+842
+00:44:01,639 --> 00:44:03,639
+Hani USGS'da bunlar var.
+
+843
+00:44:03,639 --> 00:44:05,639
+Bunları neden yapıyoruz dediğiniz zaman
+
+844
+00:44:05,639 --> 00:44:07,639
+benim kafam karıştı.
+
+845
+00:44:07,639 --> 00:44:09,639
+O zaman tamam USGS hiç kullanmadan biz
+
+846
+00:44:09,639 --> 00:44:11,639
+hani şey giriyoruz.
+
+847
+00:44:11,639 --> 00:44:13,639
+O zaman USGS hiç kullanmadan biz
+
+848
+00:44:13,639 --> 00:44:15,639
+elimizde var olan modellerle
+
+849
+00:44:15,639 --> 00:44:17,639
+USGS'i
+
+850
+00:44:17,639 --> 00:44:19,639
+tahmin etmeye çalışıyoruz, bias modelini
+
+851
+00:44:19,639 --> 00:44:21,639
+kumaya çalışıyoruz gibi anlaşılıyor.
+
+852
+00:44:21,639 --> 00:44:23,639
+Dolayısıyla
+
+853
+00:44:23,639 --> 00:44:25,639
+hani algılamakla düşük çektik.
+
+854
+00:44:25,639 --> 00:44:27,639
+Tamam erkek arasında şöyle koyacaksa
+
+855
+00:44:27,639 --> 00:44:29,639
+mankut ve distance'a bağlı bir model
+
+856
+00:44:29,639 --> 00:44:31,639
+oluşturuyor.
+
+857
+00:44:31,639 --> 00:44:34,860
+Bu da istaribe.
+
+858
+00:44:34,860 --> 00:44:36,860
+Yani o şekilde.
+
+859
+00:44:36,860 --> 00:44:38,860
+Peki siz ki
+
+860
+00:44:38,860 --> 00:44:40,860
+sizin anardınız mankut ve distance'in
+
+861
+00:44:40,860 --> 00:44:43,079
+adıydın mı?
+
+862
+00:44:43,079 --> 00:44:45,079
+Peki siz şeye bakabildiniz mi?
+
+863
+00:44:45,079 --> 00:44:49,320
+Hani sarjan da
+
+864
+00:44:49,320 --> 00:44:51,320
+baktı. Ben de kendimce
+
+865
+00:44:51,320 --> 00:44:53,320
+baktım.
+
+866
+00:44:53,320 --> 00:44:55,320
+İsterseniz sarjan sen
+
+867
+00:44:55,320 --> 00:44:57,320
+mi göstermek istersin.
+
+868
+00:44:57,320 --> 00:44:59,320
+Oldu ben bir noktaya kadar
+
+869
+00:44:59,320 --> 00:45:01,320
+bulgularımı paylaşayım.
+
+870
+00:45:01,320 --> 00:45:06,070
+Üzerinden en azından konuşabiliriz.
+
+871
+00:45:06,070 --> 00:45:08,360
+Ekran paylaşıyorum.
+
+872
+00:45:08,360 --> 00:45:10,360
+Konu neyere
+
+873
+00:45:10,360 --> 00:45:12,360
+geçtik ben tam. İşte bu şey ya
+
+874
+00:45:12,360 --> 00:45:14,360
+sabah konuştuğumuz menizi var ya
+
+875
+00:45:14,360 --> 00:45:16,360
+ne gerçek yani
+
+876
+00:45:16,360 --> 00:45:18,360
+şey var diyelim.
+
+877
+00:45:18,360 --> 00:45:20,360
+Hazır başlamışken biz bunu nasıl
+
+878
+00:45:20,360 --> 00:45:22,360
+yapalım? Evet evet.
+
+879
+00:45:22,360 --> 00:45:24,650
+Örneğin çok basitçamlık değil mi?
+
+880
+00:45:24,650 --> 00:45:26,650
+Ne yaptığımı da şey olmasın
+
+881
+00:45:26,650 --> 00:45:28,650
+sonra bir tane faiz seçtim hocam
+
+882
+00:45:28,650 --> 00:45:30,650
+gemlik üzerinde.
+
+883
+00:45:30,650 --> 00:45:32,650
+Bir tane de gemlikte lokasyon
+
+884
+00:45:32,650 --> 00:45:34,650
+seçtim kendime.
+
+885
+00:45:34,650 --> 00:45:36,650
+Fay'ım bu. Fay'da herhangi bir şey
+
+886
+00:45:36,650 --> 00:45:38,650
+kapattım. Style of vaulting'de
+
+887
+00:45:38,650 --> 00:45:40,650
+bir lojik türü yok. Detangle'da bir lojik türü yok.
+
+888
+00:45:40,650 --> 00:45:42,650
+Sadece GM'den bir lojik türü gelecek.
+
+889
+00:45:42,650 --> 00:45:44,650
+Bir şekilde basitleştirdim problemi.
+
+890
+00:45:44,650 --> 00:45:46,650
+İşte 10.000 yıllık bir katolok
+
+891
+00:45:46,650 --> 00:45:48,650
+ürettim bu faiz üzerinde. Burada
+
+892
+00:45:48,650 --> 00:45:50,650
+MAC lütutları
+
+893
+00:45:50,650 --> 00:45:52,650
+distansları ve yıllarını vs.
+
+894
+00:45:52,650 --> 00:45:54,650
+gösterdim. Burada bizi ilgilendiren
+
+895
+00:45:54,650 --> 00:45:56,940
+kritik bir şey yok.
+
+896
+00:45:56,940 --> 00:45:58,940
+Sonrasında burada
+
+897
+00:45:58,940 --> 00:46:00,940
+tek bir event ve tek bir
+
+898
+00:46:00,940 --> 00:46:02,940
+zaten tek lokasyonumuz var.
+
+899
+00:46:02,940 --> 00:46:04,940
+Sabah uğrulluğumda gösterdiği sizin de
+
+900
+00:46:04,940 --> 00:46:06,940
+çizdiğiniz hocam pdf ve cdf
+
+901
+00:46:06,940 --> 00:46:08,940
+üzerinden birençlerin birleştirilmesi
+
+902
+00:46:08,940 --> 00:46:10,940
+bu şekilde.
+
+903
+00:46:10,940 --> 00:46:12,940
+Dirençler şu düz çizgiler
+
+904
+00:46:12,940 --> 00:46:14,940
+kesikliği olan da bunların
+
+905
+00:46:14,940 --> 00:46:16,940
+combine talleri.
+
+906
+00:46:16,940 --> 00:46:21,050
+Burada bir sürpriz yok zaten.
+
+907
+00:46:21,050 --> 00:46:23,050
+Bunlar direkt catmod
+
+908
+00:46:23,050 --> 00:46:25,050
+sonuçlarını aldım zaten.
+
+909
+00:46:25,050 --> 00:46:27,050
+Kendim bir hesap yapmadım.
+
+910
+00:46:27,050 --> 00:46:29,369
+Şey görebiliyoruz zaten
+
+911
+00:46:29,369 --> 00:46:31,369
+medyanda 3 tane modelimiz var
+
+912
+00:46:31,369 --> 00:46:33,369
+birenç
+
+913
+00:46:33,369 --> 00:46:35,369
+sigmada da 2 tane
+
+914
+00:46:35,369 --> 00:46:37,369
+lower ve upper modelimiz var.
+
+915
+00:46:37,369 --> 00:46:39,369
+Burada da bir soru işaretiyor.
+
+916
+00:46:39,369 --> 00:46:41,369
+Ve her birinin probability'larını
+
+917
+00:46:41,369 --> 00:46:43,369
+zaten biliyoruz.
+
+918
+00:46:43,369 --> 00:46:45,369
+Sonrasında da
+
+919
+00:46:45,369 --> 00:46:47,369
+şeye geçtim hocam
+
+920
+00:46:47,369 --> 00:46:49,369
+her bir birenç
+
+921
+00:46:49,369 --> 00:46:51,369
+her bir birenç bir gmm
+
+922
+00:46:51,369 --> 00:46:53,500
+gibi düşünüp
+
+923
+00:46:53,500 --> 00:46:55,500
+hazard curve'lerini çizdirdim.
+
+924
+00:46:55,500 --> 00:46:57,500
+Ve tabi her bir hazard curve'ı
+
+925
+00:46:57,500 --> 00:46:59,500
+şey probability
+
+926
+00:46:59,500 --> 00:47:01,500
+ile
+
+927
+00:47:01,500 --> 00:47:04,039
+şey yaptım probability'leri
+
+928
+00:47:04,039 --> 00:47:06,039
+oranınca scale ettirdim.
+
+929
+00:47:06,039 --> 00:47:10,340
+Soldaki taraf
+
+930
+00:47:10,340 --> 00:47:12,340
+toplamda 29 deprem vardı
+
+931
+00:47:12,340 --> 00:47:14,340
+29 x 6
+
+932
+00:47:14,340 --> 00:47:16,340
+174 tane curve oluşuyor.
+
+933
+00:47:16,340 --> 00:47:18,340
+Sağdakini de ise
+
+934
+00:47:18,340 --> 00:47:20,340
+burada gmm birençler yok.
+
+935
+00:47:20,340 --> 00:47:22,340
+Bunlar combine'ki üzerinden aynı
+
+936
+00:47:22,340 --> 00:47:24,340
+hazard curve
+
+937
+00:47:24,340 --> 00:47:27,590
+çizimlerini gerçekleştirdim.
+
+938
+00:47:27,590 --> 00:47:29,590
+Kısım anlaşıldı mı yoksa
+
+939
+00:47:29,590 --> 00:47:31,590
+biraz şey anlattım, parçadan anlattım ama
+
+940
+00:47:31,590 --> 00:47:33,590
+sonuçları kaybada ediyor.
+
+941
+00:47:33,590 --> 00:47:35,590
+Soldaki sadece her bir birenç
+
+942
+00:47:35,590 --> 00:47:37,590
+gmm'miş gibi düşünüp
+
+943
+00:47:37,590 --> 00:47:39,590
+174 tane hazard curve
+
+944
+00:47:39,590 --> 00:47:41,590
+oluşurken sağda
+
+945
+00:47:41,590 --> 00:47:43,590
+gmm birenç için
+
+946
+00:47:43,590 --> 00:47:45,590
+tek gmm modeli
+
+947
+00:47:45,590 --> 00:47:47,590
+çalıştığı için 29 tane curve
+
+948
+00:47:47,590 --> 00:47:49,590
+çıkıyor. Her bir birençten
+
+949
+00:47:49,590 --> 00:47:51,590
+kendi bir curve'u oluyor.
+
+950
+00:47:51,590 --> 00:47:53,590
+Bunları birleştirdiğimde ikisine de
+
+951
+00:47:53,590 --> 00:47:55,590
+mavi kalın olan curve elde ediyorum.
+
+952
+00:47:55,590 --> 00:47:57,590
+Bir de bu mavi curve'leri kıyasettim.
+
+953
+00:47:57,590 --> 00:47:59,880
+Orada da zaten
+
+954
+00:47:59,880 --> 00:48:02,550
+neredeyse bire bir fit
+
+955
+00:48:02,550 --> 00:48:04,679
+ediyor.
+
+956
+00:48:04,679 --> 00:48:07,059
+mean hazard curve
+
+957
+00:48:07,059 --> 00:48:09,059
+dediğimiz hocam.
+
+958
+00:48:09,059 --> 00:48:11,059
+10.000 yılda da fark %1'in altında
+
+959
+00:48:11,059 --> 00:48:13,059
+mean hazard curve'leri
+
+960
+00:48:13,059 --> 00:48:16,280
+iki türlü boyunmuşsunuz.
+
+961
+00:48:16,280 --> 00:48:18,280
+Benim düşündüğüm şey.
+
+962
+00:48:18,280 --> 00:48:20,280
+Bir tanesi
+
+963
+00:48:20,280 --> 00:48:23,019
+bir sayttaki
+
+964
+00:48:23,019 --> 00:48:25,019
+ground motion dağılımlarının
+
+965
+00:48:25,019 --> 00:48:27,019
+meanini alarak bulmuşsun.
+
+966
+00:48:27,019 --> 00:48:29,019
+Bir de ondan sonra
+
+967
+00:48:29,019 --> 00:48:31,019
+her derine bir branch olarak
+
+968
+00:48:31,019 --> 00:48:33,019
+her birine bir hazard curve'ini çizip
+
+969
+00:48:33,019 --> 00:48:35,019
+onların weighted average'ini alınırsın.
+
+970
+00:48:35,019 --> 00:48:37,619
+mean hazard curve.
+
+971
+00:48:37,619 --> 00:48:39,619
+Sağdaki de birleştirilmiş her yer.
+
+972
+00:48:39,619 --> 00:48:41,619
+Birleştirilmiş her yer.
+
+973
+00:48:41,619 --> 00:48:45,320
+Bu bunu şey yapıyor.
+
+974
+00:48:45,320 --> 00:48:47,510
+Ama
+
+975
+00:48:47,510 --> 00:48:49,510
+şurada bir farklı konuşması lazım.
+
+976
+00:48:49,510 --> 00:48:51,510
+İyi mi sen orada
+
+977
+00:48:51,510 --> 00:48:53,510
+her bir
+
+978
+00:48:53,510 --> 00:48:55,510
+branch için
+
+979
+00:48:55,510 --> 00:48:57,510
+ayrı bir hazard curve'i çıkarttığında
+
+980
+00:48:57,510 --> 00:48:59,510
+rate'lere bağlı
+
+981
+00:48:59,510 --> 00:49:01,510
+dağılımda
+
+982
+00:49:01,510 --> 00:49:03,510
+mesela 75 %
+
+983
+00:49:03,510 --> 00:49:05,510
+84 %
+
+984
+00:49:05,510 --> 00:49:07,510
+95 %
+
+985
+00:49:07,510 --> 00:49:09,510
+Bunların
+
+986
+00:49:09,510 --> 00:49:11,960
+hesabını yaparken
+
+987
+00:49:11,960 --> 00:49:13,960
+kırmızı dağışlı curve'in
+
+988
+00:49:13,960 --> 00:49:15,960
+75 %
+
+989
+00:49:15,960 --> 00:49:17,960
+95 %
+
+990
+00:49:17,960 --> 00:49:19,960
+84 % alarak bir şey yapmaya çalışan onu
+
+991
+00:49:19,960 --> 00:49:25,769
+evli demezsin.
+
+992
+00:49:25,769 --> 00:49:28,250
+Ben bir de onu şey yapmışım.
+
+993
+00:49:28,250 --> 00:49:31,050
+Ben
+
+994
+00:49:31,050 --> 00:49:33,050
+çok ufak bir
+
+995
+00:49:33,050 --> 00:49:35,179
+problem yaptım.
+
+996
+00:49:35,179 --> 00:49:37,179
+Bir tane start'im var.
+
+997
+00:49:37,179 --> 00:49:39,179
+Bir tane
+
+998
+00:49:39,179 --> 00:49:41,179
+deprimim var.
+
+999
+00:49:41,179 --> 00:49:43,179
+7 büyüklüğünde diyelim.
+
+1000
+00:49:43,179 --> 00:49:45,179
+15 km uzaklıktı.
+
+1001
+00:49:45,179 --> 00:49:47,179
+Grand Motion modelim var.
+
+1002
+00:49:47,179 --> 00:49:49,179
+Şey yani
+
+1003
+00:49:49,179 --> 00:49:51,179
+ya işte
+
+1004
+00:49:51,179 --> 00:49:53,179
+bundaki ASK
+
+1005
+00:49:53,179 --> 00:49:55,179
+alt tane branch'ın
+
+1006
+00:49:55,179 --> 00:49:57,179
+veya şey gibi bir şey.
+
+1007
+00:49:57,179 --> 00:49:59,179
+Ben komersible Grand Motion modelleri
+
+1008
+00:49:59,179 --> 00:50:01,179
+kullandım.
+
+1009
+00:50:01,179 --> 00:50:03,179
+DSS'ye var diyelim.
+
+1010
+00:50:03,179 --> 00:50:05,179
+İşte ASK'ye var diyelim.
+
+1011
+00:50:05,179 --> 00:50:07,179
+4 tane Grand Motion modeller var.
+
+1012
+00:50:07,179 --> 00:50:09,179
+Siz bu eriyi elde ettiğiniz zaman
+
+1013
+00:50:09,179 --> 00:50:11,179
+zaten o Grand Motion modellerinden
+
+1014
+00:50:11,179 --> 00:50:13,179
+bir mixture Gaussian'i elde ediyorsunuz.
+
+1015
+00:50:13,179 --> 00:50:15,269
+Evet.
+
+1016
+00:50:15,269 --> 00:50:17,269
+Dolayısıyla ben de yaptığımda
+
+1017
+00:50:17,269 --> 00:50:19,269
+minler aynı.
+
+1018
+00:50:19,269 --> 00:50:21,269
+Minler aynı.
+
+1019
+00:50:21,269 --> 00:50:23,269
+Ama zaten sizin mesela
+
+1020
+00:50:23,269 --> 00:50:25,269
+şurada hani bir kutunu çekmek isterim.
+
+1021
+00:50:25,269 --> 00:50:27,269
+Benim bir tane 7.1'lik
+
+1022
+00:50:27,269 --> 00:50:29,269
+senaryom 7 büyüklüğünde senaryom
+
+1023
+00:50:29,269 --> 00:50:31,269
+15 km uzaklıktı.
+
+1024
+00:50:31,269 --> 00:50:33,269
+Bir tane start'im.
+
+1025
+00:50:33,269 --> 00:50:35,269
+4 tane de şeyim var.
+
+1026
+00:50:35,269 --> 00:50:37,269
+Baker'ın kitabındaki şeyler gibi.
+
+1027
+00:50:37,269 --> 00:50:39,269
+Evet evet.
+
+1028
+00:50:39,269 --> 00:50:41,269
+Sistem
+
+1029
+00:50:41,269 --> 00:50:43,269
+değişiklik çok bir değişiklik var mı?
+
+1030
+00:50:43,269 --> 00:50:45,269
+Evet.
+
+1031
+00:50:45,269 --> 00:50:47,269
+Ama ben eğer şey yaparsam
+
+1032
+00:50:47,269 --> 00:50:49,269
+o Grand Motion'ın doğaldığından
+
+1033
+00:50:49,269 --> 00:50:51,269
+bir tane Grand Motion modelleri
+
+1034
+00:50:51,269 --> 00:50:53,269
+çekersen mixture modelleri kullanırsam
+
+1035
+00:50:53,269 --> 00:50:55,269
+ben zaten
+
+1036
+00:50:55,269 --> 00:50:57,619
+ondan percentile edilemem ki.
+
+1037
+00:50:57,619 --> 00:50:59,619
+Tamam hayatım.
+
+1038
+00:50:59,619 --> 00:51:01,619
+Ben de aynı şey söylemek istiyorum.
+
+1039
+00:51:01,619 --> 00:51:03,619
+Aslında bizim yaptığımız
+
+1040
+00:51:03,619 --> 00:51:05,619
+min, hazard
+
+1041
+00:51:05,619 --> 00:51:07,619
+her şekilde doğru.
+
+1042
+00:51:07,619 --> 00:51:09,659
+Biz min, hazard ve min boss
+
+1043
+00:51:09,659 --> 00:51:11,659
+yani bizim iddianımız var.
+
+1044
+00:51:11,659 --> 00:51:13,659
+Ama biz median boss
+
+1045
+00:51:13,659 --> 00:51:15,659
+hayatı, median hazard desek
+
+1046
+00:51:15,659 --> 00:51:20,380
+bu yaptığımız doğru olmaz.
+
+1047
+00:51:20,380 --> 00:51:22,920
+Ben onu söylemeye çalışıyorum.
+
+1048
+00:51:22,920 --> 00:51:24,920
+Ben min, hazard'ı kullanmayacağım.
+
+1049
+00:51:24,920 --> 00:51:27,909
+84 percentile hazard'ı
+
+1050
+00:51:27,909 --> 00:51:29,909
+kullanacağım desem
+
+1051
+00:51:29,909 --> 00:51:31,909
+bu yaptığımız doğru olmayacak.
+
+1052
+00:51:31,909 --> 00:51:34,519
+Şöyle söyleyeyim.
+
+1053
+00:51:34,519 --> 00:51:36,519
+Bu yaptığımızda 1-100
+
+1054
+00:51:36,519 --> 00:51:38,519
+yani 1 tane senaryom
+
+1055
+00:51:38,519 --> 00:51:40,519
+yaparsak zaten
+
+1056
+00:51:40,519 --> 00:51:42,519
+şey normal
+
+1057
+00:51:42,519 --> 00:51:44,519
+şey mantığıyla
+
+1058
+00:51:44,519 --> 00:51:46,519
+weighted average alırsak
+
+1059
+00:51:46,519 --> 00:51:48,519
+75 percentil
+
+1060
+00:51:48,519 --> 00:51:50,519
+84 percentil
+
+1061
+00:51:50,519 --> 00:51:52,519
+elde edebiliriz.
+
+1062
+00:51:52,519 --> 00:51:54,519
+Ama mixture'la
+
+1063
+00:51:54,519 --> 00:51:56,519
+elde edemeyiz zaten.
+
+1064
+00:51:56,519 --> 00:51:58,619
+Mixture'la elde edelim.
+
+1065
+00:51:58,619 --> 00:52:00,619
+Hani onu söylemek istiyorum.
+
+1066
+00:52:00,619 --> 00:52:02,619
+Yani gibileri uyuyor mu uyuyorlar mı?
+
+1067
+00:52:02,619 --> 00:52:04,619
+Hani bir tanesel, bir tanem için olmuyorsa
+
+1068
+00:52:04,619 --> 00:52:06,619
+hani
+
+1069
+00:52:06,619 --> 00:52:08,619
+zaten hani şu an yaptığın için
+
+1070
+00:52:08,619 --> 00:52:10,619
+doğru diye düşünüyorum ben.
+
+1071
+00:52:10,619 --> 00:52:12,619
+Biz yani şu şeyi yapalım.
+
+1072
+00:52:12,619 --> 00:52:14,619
+Bu strike'larla alakalı şey değil.
+
+1073
+00:52:14,619 --> 00:52:16,619
+Ama
+
+1074
+00:52:16,619 --> 00:52:18,619
+mean boss'u
+
+1075
+00:52:18,619 --> 00:52:20,619
+kullandığımız için uyaktığımız bizim
+
+1076
+00:52:20,619 --> 00:52:22,619
+min
+
+1077
+00:52:22,619 --> 00:52:24,619
+hazard'ı kullandığımız için
+
+1078
+00:52:24,619 --> 00:52:26,710
+uyaktığımızda bir sıkıntı yok.
+
+1079
+00:52:26,710 --> 00:52:49,739
+Peki şey yaptık.
+
+1080
+00:52:49,739 --> 00:52:51,739
+Ben düşünüyorum
+
+1081
+00:52:51,739 --> 00:52:53,739
+bir şey yapmakta
+
+1082
+00:52:53,739 --> 00:52:55,739
+fayda var yani.
+
+1083
+00:52:55,739 --> 00:52:57,739
+Yani yine bu kadar işin içine gelirdik
+
+1084
+00:52:57,739 --> 00:52:59,960
+bir emin olarak
+
+1085
+00:52:59,960 --> 00:53:01,960
+gitmekte fayda var.
+
+1086
+00:53:01,960 --> 00:53:04,469
+Yani şu anda ben gözü kapalı öyle düşünüyorum ama
+
+1087
+00:53:04,469 --> 00:53:06,469
+hani yanından
+
+1088
+00:53:06,469 --> 00:53:08,469
+ihtimalimiz de her zaman azıyor işte
+
+1089
+00:53:08,469 --> 00:53:13,769
+böyle şimdi.
+
+1090
+00:53:13,769 --> 00:53:15,769
+O zaman şey yani
+
+1091
+00:53:15,769 --> 00:53:17,769
+sercen o zaman bu taufi
+
+1092
+00:53:17,769 --> 00:53:19,929
+geliştirmesini yapmak
+
+1093
+00:53:19,929 --> 00:53:24,170
+kaldı diye anlıyorum.
+
+1094
+00:53:24,170 --> 00:53:26,170
+İçine çizimden mi hemen soruyorum şimdi.
+
+1095
+00:53:26,170 --> 00:53:28,170
+Yani yarın regresiyona başlayalım diye
+
+1096
+00:53:28,170 --> 00:53:30,170
+aslında planladık ya hocam.
+
+1097
+00:53:30,170 --> 00:53:32,170
+Bir de ben olmayacağım için
+
+1098
+00:53:32,170 --> 00:53:34,170
+sizlerde arkadaşlar.
+
+1099
+00:53:34,170 --> 00:53:36,170
+Anlamda
+
+1100
+00:53:36,170 --> 00:53:38,170
+şey yani artık metodu
+
+1101
+00:53:38,170 --> 00:53:40,170
+tekrar şey
+
+1102
+00:53:40,170 --> 00:53:42,170
+yani eğer o geçenki
+
+1103
+00:53:42,170 --> 00:53:44,170
+taufi bulma metodunu
+
+1104
+00:53:44,170 --> 00:53:46,170
+okuysak
+
+1105
+00:53:46,170 --> 00:53:48,170
+burada da uygulayalım ve burada bu şekilde
+
+1106
+00:53:48,170 --> 00:53:50,170
+artık
+
+1107
+00:53:50,170 --> 00:53:52,170
+regresiyona çıkalım yani.
+
+1108
+00:53:52,170 --> 00:53:54,170
+Bence olur.
+
+1109
+00:53:54,170 --> 00:53:56,170
+Tamam hocam o zaman yarın sabah
+
+1110
+00:53:56,170 --> 00:53:58,170
+bu şekilde
+
+1111
+00:53:58,170 --> 00:54:00,260
+biz
+
+1112
+00:54:00,260 --> 00:54:02,260
+şey yapalım.
+
+1113
+00:54:02,260 --> 00:54:04,260
+Regresiyonu bir daha ertelenmesin.
+
+1114
+00:54:04,260 --> 00:54:06,389
+Çünkü
+
+1115
+00:54:06,389 --> 00:54:08,389
+zaten
+
+1116
+00:54:08,389 --> 00:54:10,389
+bir sürü şey var.
+
+1117
+00:54:10,389 --> 00:54:12,809
+Yani
+
+1118
+00:54:12,809 --> 00:54:14,809
+sıkıntılı taraf demeyelim dedik.
+
+1119
+00:54:14,809 --> 00:54:16,809
+Farkı görmeliyiz ki.
+
+1120
+00:54:16,809 --> 00:54:19,000
+Ona da ne diyeceğiz yani.
+
+1121
+00:54:19,000 --> 00:54:21,000
+Onu da ancak
+
+1122
+00:54:21,000 --> 00:54:23,000
+regresiyondan sonra
+
+1123
+00:54:23,000 --> 00:54:25,320
+söylediklerimiz.
+
+1124
+00:54:25,320 --> 00:54:27,320
+24.600'lar gidiyoruz.
+
+1125
+00:54:27,320 --> 00:54:31,239
+4.600
+
+1126
+00:54:31,239 --> 00:54:33,239
+83.24
+
+1127
+00:54:33,239 --> 00:54:35,239
+4.600 eski
+
+1128
+00:54:35,239 --> 00:54:37,239
+versiyonu hocam.
+
+1129
+00:54:37,239 --> 00:54:39,239
+4.600 eski
+
+1130
+00:54:39,239 --> 00:54:41,239
+ama biz
+
+1131
+00:54:41,239 --> 00:54:43,239
+bu aksaya mutsaya hep eski versiyonlar vermedik mi?
+
+1132
+00:54:43,239 --> 00:54:50,329
+Yani ben
+
+1133
+00:54:50,329 --> 00:54:52,329
+karıştırmayacağım.
+
+1134
+00:54:52,329 --> 00:54:54,329
+Şimdi şöyle
+
+1135
+00:54:54,329 --> 00:54:56,940
+yani alan kaynak olarak
+
+1136
+00:54:56,940 --> 00:54:58,940
+eski sors modelimize
+
+1137
+00:54:58,940 --> 00:55:02,280
+alan kaynak vardı.
+
+1138
+00:55:02,280 --> 00:55:04,280
+Beni sors modelimizde
+
+1139
+00:55:04,280 --> 00:55:06,280
+point sorslar şey
+
+1140
+00:55:06,280 --> 00:55:08,409
+sunutut salismi siteler.
+
+1141
+00:55:08,409 --> 00:55:10,409
+Tamam. Bu problem de
+
+1142
+00:55:10,409 --> 00:55:12,409
+sunutut salismi siteler ve alan kaynaklarda
+
+1143
+00:55:12,409 --> 00:55:14,820
+işin içine girmiş durumda.
+
+1144
+00:55:14,820 --> 00:55:17,050
+Ama
+
+1145
+00:55:17,050 --> 00:55:19,050
+biz aksaya
+
+1146
+00:55:19,050 --> 00:55:21,050
+bir de çok resuransa
+
+1147
+00:55:21,050 --> 00:55:23,050
+stokastik sonucu sürekli veriyor.
+
+1148
+00:55:23,050 --> 00:55:26,840
+Bir de son zamanında ne olaya
+
+1149
+00:55:26,840 --> 00:55:28,969
+aksaya hem
+
+1150
+00:55:28,969 --> 00:55:31,219
+gruba yani avrupalılara
+
+1151
+00:55:31,219 --> 00:55:33,349
+hem de Türklere
+
+1152
+00:55:33,349 --> 00:55:35,829
+biz
+
+1153
+00:55:35,829 --> 00:55:37,960
+hem eski versiyonları
+
+1154
+00:55:37,960 --> 00:55:40,219
+sonuç verdik.
+
+1155
+00:55:40,219 --> 00:55:42,219
+Hem de yeni versiyonu da sonuç verdik.
+
+1156
+00:55:42,219 --> 00:55:44,250
+Bir de şimdi bu on prem var.
+
+1157
+00:55:44,250 --> 00:55:47,210
+On prem de özellikle
+
+1158
+00:55:47,210 --> 00:55:49,210
+bir de küçük tepremler işin içine
+
+1159
+00:55:49,210 --> 00:55:51,210
+daha çok girecek.
+
+1160
+00:55:51,210 --> 00:55:53,210
+Onların da zaten
+
+1161
+00:55:53,210 --> 00:55:55,210
+zaten onlar
+
+1162
+00:55:55,210 --> 00:55:57,210
+bir de etkilenecek ya.
+
+1163
+00:55:57,210 --> 00:55:59,750
+Yani isterseniz
+
+1164
+00:55:59,750 --> 00:56:01,750
+8000 bilmemde kaçtan başlayın da
+
+1165
+00:56:01,750 --> 00:56:03,750
+yani on prem de bile yani
+
+1166
+00:56:03,750 --> 00:56:05,750
+aile de bile
+
+1167
+00:56:05,750 --> 00:56:08,199
+bu iş yapacak.
+
+1168
+00:56:08,199 --> 00:56:10,260
+Ben öyle düşünüyorum.
+
+1169
+00:56:10,260 --> 00:56:12,260
+On prem de
+
+1170
+00:56:12,260 --> 00:56:14,260
+eski versiyonu
+
+1171
+00:56:14,260 --> 00:56:16,260
+fark etmez.
+
+1172
+00:56:16,260 --> 00:56:18,260
+Ama on prem de hocam
+
+1173
+00:56:18,260 --> 00:56:20,260
+yeni versiyonu vezilmiyor mu?
+
+1174
+00:56:20,260 --> 00:56:22,650
+Yeni versiyonu vezilmiyor mu?
+
+1175
+00:56:22,650 --> 00:56:24,650
+Eskiyle mi?
+
+1176
+00:56:24,650 --> 00:56:26,650
+Ben bilmiyorum o kısma ya.
+
+1177
+00:56:26,650 --> 00:56:28,650
+Ben yalnız olmasını
+
+1178
+00:56:28,650 --> 00:56:30,650
+ben ikisini de
+
+1179
+00:56:30,650 --> 00:56:32,650
+bunların hayveden
+
+1180
+00:56:32,650 --> 00:56:34,650
+tedrici olarak yavaş yavaş
+
+1181
+00:56:34,650 --> 00:56:36,650
+yeni versiyonu geçecekler.
+
+1182
+00:56:36,650 --> 00:56:38,969
+Ama şu anda hayvan eski versiyonu kullanıyorlar.
+
+1183
+00:56:38,969 --> 00:56:40,969
+İsterseniz
+
+1184
+00:56:40,969 --> 00:56:42,969
+o konuyu bir netleştirelim.
+
+1185
+00:56:42,969 --> 00:56:44,969
+Bu regresyon süreci olurken
+
+1186
+00:56:44,969 --> 00:56:46,969
+zaten bunları bir konuşuruz.
+
+1187
+00:56:46,969 --> 00:56:48,969
+Zaten iki gün şey oluyor.
+
+1188
+00:56:48,969 --> 00:56:50,969
+Ama zaten şöyle bir şey.
+
+1189
+00:56:50,969 --> 00:56:52,969
+Her halkerde
+
+1190
+00:56:52,969 --> 00:56:54,969
+bu regresyonun yapılması lazım.
+
+1191
+00:56:54,969 --> 00:56:56,969
+Ondan sonra zaten.
+
+1192
+00:56:56,969 --> 00:56:58,969
+O diğer testlerin neler olacağını
+
+1193
+00:56:58,969 --> 00:57:00,969
+hangi
+
+1194
+00:57:00,969 --> 00:57:02,969
+cümar günü
+
+1195
+00:57:02,969 --> 00:57:05,159
+konuşuruz yani.
+
+1196
+00:57:05,159 --> 00:57:07,159
+Ben bunu da
+
+1197
+00:57:07,159 --> 00:57:09,190
+bir kadına yazacak mıyım?
+
+1198
+00:57:09,190 --> 00:57:13,619
+Bu şekilde getirirsen?
+
+1199
+00:57:13,619 --> 00:57:15,619
+Ben biraz düzenleyip hocam size tekrardan.
+
+1200
+00:57:15,619 --> 00:57:18,420
+İyi mi?
+
+1201
+00:57:18,420 --> 00:57:23,690
+Ama
+
+1202
+00:57:23,690 --> 00:57:25,690
+ortak zamanı ne zaman diye
+
+1203
+00:57:25,690 --> 00:57:28,170
+yapacağız yani.
+
+1204
+00:57:28,170 --> 00:57:30,170
+Sunumu meyli atmıyoruz ama o zaman.
+
+1205
+00:57:30,170 --> 00:57:33,900
+Anlatmıyor musun?
+
+1206
+00:57:33,900 --> 00:57:36,090
+Yok yani.
+
+1207
+00:57:36,090 --> 00:57:38,090
+Anlar bilmiyorum.
+
+1208
+00:57:38,090 --> 00:57:40,090
+Bence bir sunum yapsak
+
+1209
+00:57:40,090 --> 00:57:42,090
+iyi olur yani.
+
+1210
+00:57:42,090 --> 00:57:45,530
+Ben bu tuğbüreğine yazarım.
+
+1211
+00:57:45,530 --> 00:57:47,880
+Tamamdır.
+
+1212
+00:57:47,880 --> 00:57:51,059
+Zaten tek taraftan
+
+1213
+00:57:51,059 --> 00:57:53,349
+bir imitensiyon gelmedi.
+
+1214
+00:57:53,349 --> 00:57:55,989
+Bir imitensiyon gelmedi yani.
+
+1215
+00:57:55,989 --> 00:57:57,989
+Cuma içine hocam
+
+1216
+00:57:57,989 --> 00:57:59,989
+ben o günü yeyi de sordum.
+
+1217
+00:57:59,989 --> 00:58:01,989
+Saati kaçta falan diye.
+
+1218
+00:58:01,989 --> 00:58:03,989
+Daha onun şeyi gelmedi sanırım dedi.
+
+1219
+00:58:03,989 --> 00:58:05,989
+O muhtemelen sadece konuşulmuş
+
+1220
+00:58:05,989 --> 00:58:07,989
+diye anladım.
+
+1221
+00:58:07,989 --> 00:58:09,989
+Anladım.
+
+1222
+00:58:09,989 --> 00:58:11,989
+Ama bu da azıcık bir senetliysek
+
+1223
+00:58:11,989 --> 00:58:13,989
+onu da iş yapayım biraz.
+
+1224
+00:58:13,989 --> 00:58:15,989
+Evet. O ayrıca zaten.
+
+1225
+00:58:15,989 --> 00:58:17,989
+Ben şimdi hiç şey yapmadan
+
+1226
+00:58:17,989 --> 00:58:19,989
+çok vakit geçirmeden yazayım.
+
+1227
+00:58:19,989 --> 00:58:21,989
+Vatsap'tan yazacağım.
+
+1228
+00:58:21,989 --> 00:58:23,989
+İyi çalışmalar arkadaşlar.
+
+1229
+00:58:23,989 --> 00:58:25,989
+İyi akşamlar.
+
+1230
+00:58:25,989 --> 00:58:56,789
+İyi akşamlar.
+
+1231
+00:59:16,570 --> 00:59:19,719
+Burada aşkım.
+
+1232
+00:59:19,719 --> 00:59:22,420
+Burası çok fena kokmuş.
+
+1233
+00:59:22,420 --> 00:59:26,340
+Öğrenciye kokuyorlar.
+
+1234
+00:59:26,340 --> 00:59:30,389
+Duymaya bozmuş.
+
+1235
+00:59:30,389 --> 00:59:36,550
+Aşkım ya.
+
+1236
+00:59:36,550 --> 00:59:38,550
+Mamak tolu ya.
+
