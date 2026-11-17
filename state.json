@@ -774,7 +774,7 @@
     "report_url": "https://docs.google.com/document/d/1s04-UT_3y2pD5-Aw0xzx0u8o0X86ypLV/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1DSWRvR8dXnU8LsTRzgmN__FWH2Eo5eID": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261116_154414 - NA-DSA İhtiyari Parametrik.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261116_154414 - NA-DSA İhtiyari Parametrik.txt",
@@ -782,6 +782,10 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T21:07:46",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261116_154414 - NA-DSA İhtiyari Parametrik_Rapor.docx",
+    "reported_at": "2026-11-17T21:13:41",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1UrLbj-Dw16-2FFD9umrf2ZO6zZwm1FPU/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   }
 }
