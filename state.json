@@ -518,5 +518,16 @@
     "transcribed_at": "2026-11-17T18:44:06",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1EWzlD7i_eqJga7dQ6L25aGbTn631rNc9": {
+    "status": "transcribed",
+    "source": "Ses 261113_150051 -NA-DSA Görüşme.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261113_150051 -NA-DSA Görüşme.txt",
+    "duration": "0:57:21",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T18:51:43",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
