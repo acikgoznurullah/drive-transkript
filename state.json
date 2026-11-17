@@ -513,7 +513,7 @@
     "report_url": "https://docs.google.com/document/d/1sZbwV40mC1u--Ha5beGvFEJqfF5OLiiD/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1Lge_lTseU5l9pH-OQMEfpx_Oagf0xMq5": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261116_183202 -OnurŞeker ÖmerAsım NA.m4a",
     "category": "Doktora",
     "txt": "outputs/Doktora/Ses 261116_183202 -OnurŞeker ÖmerAsım NA.txt",
@@ -521,7 +521,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T18:44:06",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/Doktora/Ses 261116_183202 -OnurŞeker ÖmerAsım NA_Rapor.docx",
+    "reported_at": "2026-11-17T21:13:59",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/12OKKvAmNjDIEbtGZ03PwPk9zmPqmHlof/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1EWzlD7i_eqJga7dQ6L25aGbTn631rNc9": {
     "status": "transcribed",
