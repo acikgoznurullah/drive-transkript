@@ -540,5 +540,16 @@
     "transcribed_at": "2026-11-17T19:02:39",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1dH6zwughyS6ws3N92t7iQxXrBKRSwhn_": {
+    "status": "transcribed",
+    "source": "Ses 260730_101438 - Tüm Şirket Toplantı.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260730_101438 - Tüm Şirket Toplantı.txt",
+    "duration": "1:43:56",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T19:27:38",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
