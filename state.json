@@ -551,5 +551,16 @@
     "transcribed_at": "2026-11-17T19:27:38",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1Pfy2mEFsjTSo4esXu7SIaQhtAOlOuSrR": {
+    "status": "transcribed",
+    "source": "Ses 260707_151038 - DSA SEDDK Sonrası Önemli.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260707_151038 - DSA SEDDK Sonrası Önemli.txt",
+    "duration": "0:21:47",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T19:30:20",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

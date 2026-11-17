@@ -1,0 +1,656 @@
+1
+00:00:03,379 --> 00:00:08,759
+Hiç hiç fark etmez. Yani olay burada neova sigortanın bir tane hatası
+
+2
+00:00:08,759 --> 00:00:12,160
+veyahut da işte öteki tarafta başka bir şeyin toplamının dipyökünün
+
+3
+00:00:12,160 --> 00:00:16,800
+işoyuması yani hiç fark etmez ya. Bak adamlar bize itibar
+
+4
+00:00:16,800 --> 00:00:22,820
+ediyordu. Bu itibarı var ya. Götümden ten aktığı şey
+
+5
+00:00:22,820 --> 00:00:27,140
+yapabildi. Arkadan biliyor musunuz? Yıllardan beri ne
+
+6
+00:00:27,140 --> 00:00:38,130
+olduğunu. Orada roman yapaklıyor. Yani bu bu iş nasıl
+
+7
+00:00:38,130 --> 00:00:44,460
+olur yani? Bu bu bu ciddi değil ya. Arkadaşlar şu raporu
+
+8
+00:00:44,460 --> 00:00:47,820
+baştan ucağı kontrol etmenizi rica ediyorum. Baştan
+
+9
+00:00:47,820 --> 00:00:52,500
+ucağı. Lütfen. Bu işi bir an önce yapmamız lazım. İkincisi
+
+10
+00:00:52,500 --> 00:01:02,619
+rahmi sen burada her bir kez ait ııı spesifik durumları
+
+11
+00:01:02,619 --> 00:01:10,099
+çıkartabilirsin. Çünkü biliyorsun bunu. Burda da
+
+12
+00:01:10,099 --> 00:01:15,540
+burada spesifik işte medyan olduğunda şeyde kaldığında
+
+13
+00:01:15,540 --> 00:01:24,230
+muafiyet altında kaldığında ve hatta işte ııı şeyi ııı mimle
+
+14
+00:01:24,230 --> 00:01:29,159
+medyan arasındaki farkların bu kadar yüksek olduğunda o
+
+15
+00:01:29,159 --> 00:01:33,280
+şey yani siz bu raporları sizi daha zemotruldu değil mi?
+
+16
+00:01:33,280 --> 00:01:39,420
+Devam edin. Devam edin. Devam edin. Devam edin. Devam edin.
+
+17
+00:01:39,700 --> 00:01:43,980
+Onlar ket moda ket moda hesapladığı derler hocam. Hani rapor
+
+18
+00:01:43,980 --> 00:01:47,219
+verin. Ket moda yine. Rapolar aynı. Oradaki rapoları
+
+19
+00:01:47,219 --> 00:01:51,819
+otomom çıktık olarak öyle. Tamam. Bunları yani demek
+
+20
+00:01:51,819 --> 00:01:56,060
+istediğim şey bunların hepsini teker teker siz Sel ve
+
+21
+00:01:56,060 --> 00:02:03,060
+Muhammed hangi kezler spesifik bunları biliyorsunuz. Bir
+
+22
+00:02:03,060 --> 00:02:08,319
+raporu baştan ucağı kontrol edin. Iki spesifik
+
+23
+00:02:08,319 --> 00:02:11,520
+kezleri çıkartın. Bu bu hafta içinde önüme koydu.
+
+24
+00:02:11,520 --> 00:02:15,319
+Oldu mu? Cuma günü ben bu kadınlardan tekrar randevut
+
+25
+00:02:15,319 --> 00:02:20,800
+edebileceğim. Ne yapacağım peki? Kaç spesifik kez istersen?
+
+26
+00:02:20,800 --> 00:02:24,560
+Hani otuz beş tane firma var? 35 tane firmadan. Otuz beş
+
+27
+00:02:24,560 --> 00:02:31,389
+tane firmadan eee bizim sürekli seninle konuştuğumuz eee
+
+28
+00:02:31,389 --> 00:02:36,469
+biraz önce o kadın cazın da anlamaya çalıştığı kezlerde
+
+29
+00:02:36,469 --> 00:02:42,900
+dört ve yatta beş tanesini baştan uca birinci senaryo ve
+
+30
+00:02:42,900 --> 00:02:51,060
+üçüncü senaryo üzerinde bir tanesi normal bir senaryo. Diğeri
+
+31
+00:02:51,060 --> 00:02:55,490
+işte biraz da ekstrem bir senaryo. Birinci ve üçüncü
+
+32
+00:02:55,490 --> 00:03:00,909
+senaryo üzerinde bir ve dört de olabilir. Çıkartıp dört
+
+33
+00:03:00,909 --> 00:03:06,169
+ve yatta beş şirket bunun üstünden teker teker gidelim.
+
+34
+00:03:07,169 --> 00:03:17,080
+eee dip ye günlerini ondan sonra varsayımlara o varsayımlarda eee
+
+35
+00:03:17,080 --> 00:03:22,870
+bu parametrik korumalarla ilgili bir dakika çok pardon. Yani
+
+36
+00:03:22,870 --> 00:03:27,030
+Sibel eee merhabalar şimdi ben sana çok net bir şey soracağım
+
+37
+00:03:27,030 --> 00:03:31,909
+ya. Abi biz ne zaman yanlış kodları mörcetmekten bir
+
+38
+00:03:31,909 --> 00:03:40,139
+vazgeçeceğiz. Hakikaten yani çok saf mennaif bir soru
+
+39
+00:03:40,139 --> 00:03:47,050
+soruyorum. Abi bak biz Romanya eee ilgili işte bu minimum
+
+40
+00:03:47,050 --> 00:03:50,810
+merhabet etüt olayının işte ne bileyim ben yüz beşken dört
+
+41
+00:03:50,810 --> 00:03:53,689
+buçuk olması gerektim. Belki böyle durumlarda altı olması
+
+42
+00:03:53,689 --> 00:03:57,849
+olabileceğin vesaire vesaire lafı çok uzatmıyor. Bunun da
+
+43
+00:03:57,849 --> 00:04:02,849
+ilgili yani konuştuk kararalık. Bunu test ortamında
+
+44
+00:04:02,849 --> 00:04:05,969
+uzaktık. Bu test ortamında ranlandı. Bu test
+
+45
+00:04:05,969 --> 00:04:08,930
+ortamında ranlandıktan sonra regresyona tabi tuttuk.
+
+46
+00:04:09,090 --> 00:04:12,770
+Regresyonda problem çıkmadı. Tamam dedik artık biz bunu
+
+47
+00:04:12,770 --> 00:04:17,660
+prod ortamına taşıyabiliriz. Prod ortamında şu an
+
+48
+00:04:17,660 --> 00:04:22,579
+Romanya'yı ranlıyoruz. Yirmi iki Temmuz'da adama sunum
+
+49
+00:04:22,579 --> 00:04:29,079
+yatacağız. O patladı. Ve magnitude dört buçukken alt
+
+50
+00:04:29,079 --> 00:04:33,399
+magnitude sınırı klasik Türkiye ve hatta Azar Beycan'da
+
+51
+00:04:33,399 --> 00:04:36,360
+aldığımız alt magnitude sınırından farklı olma
+
+52
+00:04:36,360 --> 00:04:40,360
+durumunu prod ortamındaki sürümü dikkate alamamasından
+
+53
+00:04:40,399 --> 00:04:44,600
+dolayı patladı abi. Biz ne zaman yanlış yani bunu ben ne
+
+54
+00:04:44,600 --> 00:04:55,230
+zaman vazgeçeceğiz abi? Bak şimdi dostum bak bak şunu
+
+55
+00:04:55,230 --> 00:05:03,519
+anladım. Aynı nasıl 13 sırasında test etti mi? Peki bak
+
+56
+00:05:03,519 --> 00:05:06,480
+bir şimdi şöyle bir şey var Sibel ne olur? Hani ben
+
+57
+00:05:06,480 --> 00:05:09,480
+aptalsam bana bunu anlatmıyor. Yani bir aptalmışım
+
+58
+00:05:09,480 --> 00:05:13,439
+gibi anla. Ben bunun regresyon testini yapıyorum.
+
+59
+00:05:13,439 --> 00:05:17,670
+Burada sonuçlar doğru çıkıyor. Bu prod aktarılırken
+
+60
+00:05:18,500 --> 00:05:20,819
+hadi orada bir işin içine bir şeytan o bir demir
+
+61
+00:05:20,819 --> 00:05:24,339
+koskülen bir şey mi giriyor? Bu prod ortamına yanlış
+
+62
+00:05:24,339 --> 00:05:30,500
+yaptırıyor. Bak abi ben regresyonumu testeyim, test
+
+63
+00:05:30,500 --> 00:05:35,019
+ortamında yapmıyorum. Ve buna okuyordukten sonra ben prod
+
+64
+00:05:35,019 --> 00:06:25,730
+ortamına bunu taşımıyorum abi. Regresyon.
+
+65
+00:06:25,730 --> 00:06:30,490
+Bu tül tamam düzeltildi deniyor. Arkasından bu prod
+
+66
+00:06:30,490 --> 00:06:34,569
+ortamına taşındığında aynı problem yeni ortaya
+
+67
+00:06:34,569 --> 00:06:38,790
+çıkıyorum. Yani ben burada kopuyorum. Ben burada bağlantıyı
+
+68
+00:06:38,790 --> 00:07:17,680
+şey yapamıyorum. Yani ben sana şunu Sibel bir şey
+
+69
+00:07:17,680 --> 00:07:21,589
+sorabilir miyim? Bizim bütün regresyon testlerimiz bütün
+
+70
+00:07:21,589 --> 00:07:26,240
+regresyon testlerimiz test makinelerinde yapılmıyor mu?
+
+71
+00:07:26,240 --> 00:07:35,209
+Yapılıyor. Ve orada biz birebir şeyler yani geçer not
+
+72
+00:07:35,209 --> 00:07:39,050
+aldıktan sonra yani bütün sonuçlar değil mi bu prod
+
+73
+00:07:39,170 --> 00:07:44,740
+taşınma. Şimdi bak tamam buraya kadar şey. Şimdi ben
+
+74
+00:07:44,740 --> 00:07:47,139
+diyorum ki ben bunu şunu anlamaya çalışıyorum. Zaten orada
+
+75
+00:07:47,139 --> 00:07:52,699
+kokuyor. Şimdi biz geçtiğimiz şeylerde toplamlarda bunu
+
+76
+00:07:52,699 --> 00:07:59,060
+konuştuk. Romanya üzerinde sismi sitesi düşük olduğu için biz
+
+77
+00:07:59,060 --> 00:08:04,110
+alt magnetit bandını Türkiye'nin Türkiye'de beşken dört
+
+78
+00:08:04,110 --> 00:08:08,310
+uçağa çektik. Evet. Ve bununla ilgili kod düzeltilmesi
+
+79
+00:08:08,310 --> 00:08:13,910
+de yapıldı. Yapıldı. Yapıldıktan sonra bu regresyola
+
+80
+00:08:13,910 --> 00:08:31,120
+tabi tutuldu ve orada hiçbir hata çıkmadı. Şimdi karar aldık
+
+81
+00:08:31,120 --> 00:08:35,389
+ya Sibel. Şimdi karar aldık ya biz bir tane bu ufacık bir şey
+
+82
+00:08:35,389 --> 00:08:38,429
+bile değiştirsek. Bak çok ufak bir şey bile değiştirsek.
+
+83
+00:08:38,429 --> 00:08:43,149
+Bunu tekrardan regresyona tutuyoruz ki bu tip ııı oradan
+
+84
+00:08:43,149 --> 00:08:45,669
+işte aklınızda daha sonrasında soru işaretin
+
+85
+00:08:46,669 --> 00:08:52,700
+Evet yani bu evet ondan dolayı bu problem ortaya çıktıktan
+
+86
+00:08:52,700 --> 00:08:57,539
+sonra biz tekrardan regresyon yaptık. Yani benim hafızan
+
+87
+00:08:57,539 --> 00:09:00,700
+beni yanıtmıyorsa ki bunu hatta şöyle bir şey yok
+
+88
+00:09:00,700 --> 00:09:04,139
+arkadaşlar bu her ne olursa olsun biz iki elimiz kanında
+
+89
+00:09:04,139 --> 00:09:07,700
+dahi olsa bu ufacık bir kod parçasının düzeltilmesi
+
+90
+00:09:07,700 --> 00:09:12,509
+dahi olsa biz regreson yıkıp ondan sonra tekrardan
+
+91
+00:09:12,509 --> 00:09:15,629
+şey çıkacağız dedik. Yani böyle bir kararımız var
+
+92
+00:09:15,629 --> 00:09:21,710
+ve bu problem orada düzeltildi. Regresyonda bu geçer
+
+93
+00:09:21,710 --> 00:09:25,110
+not aldı. Kod parçasının o anlamda test ortamında
+
+94
+00:09:25,110 --> 00:09:28,830
+düzeltildi. Sonra bu kod parçası. Her ne olursa oluyor.
+
+95
+00:09:28,830 --> 00:09:33,190
+Orada bir sıkıntı var. Yani ben öyle hissediyorum. Her ne
+
+96
+00:09:33,190 --> 00:09:37,450
+olursa oluyor. Pro'da taşınırken bir bir değişimi
+
+97
+00:09:37,450 --> 00:09:42,220
+oluyor. Bir şey oluyor. Orada bir kontrolde bir orada bir
+
+98
+00:09:42,259 --> 00:09:48,580
+kontrolde. Orada bir şey var. Evet. Evet. Sivardem şöyle bir
+
+99
+00:09:48,580 --> 00:11:57,379
+şey var. Şimdi ben bu adama yani sonuçta bir kere bu randevu
+
+100
+00:11:57,379 --> 00:12:01,840
+biz iptal ettik. Ertevedik daha doğrusu. Eee on altı
+
+101
+00:12:01,840 --> 00:12:05,960
+ve yatta on yedi aziranda biz bunu bir birkaç sebepten
+
+102
+00:12:05,960 --> 00:12:09,559
+oluyor. Ertevedik böyle gene yani hani yalan söyledik
+
+103
+00:12:09,559 --> 00:12:14,120
+işiniz yok. Şimdiki Temmuz'la yaklaşık on beş gün
+
+104
+00:12:14,279 --> 00:12:19,600
+var. Ve ben Rumanya'ya ilgili hazırda almak zorundayım. Fakat
+
+105
+00:12:19,600 --> 00:12:25,850
+bunu korsan yola almak istemiyorum. Yani korsan yol şu. Eee
+
+106
+00:12:25,850 --> 00:12:30,970
+işte orada o kod parçasını işte mektup neyse düzeltip.
+
+107
+00:12:30,970 --> 00:12:35,529
+Ondan sonra orada işte tekrardan mörte işleri ve hatta
+
+108
+00:12:35,529 --> 00:12:39,409
+kumpale işlemi her neyse bunu işte yapıp ondan sonra
+
+109
+00:12:40,409 --> 00:12:46,370
+bu bana gene bir şey olabilir. Yani potansiyel çok bir
+
+110
+00:12:46,370 --> 00:12:51,830
+potansiyel bir risk. Bunu ben nasıl çözeyim? Bunu nasıl
+
+111
+00:12:51,830 --> 00:12:55,830
+çözeyim? Yani bu bu adama ben yirmi iki Temmuz'da bir şey
+
+112
+00:12:55,830 --> 00:13:00,669
+göstermem lazım. Bu konuyla ilgili arkadaş eee önümüzdeki
+
+113
+00:13:00,669 --> 00:13:04,029
+hafta tarifle çıkacağım diyor. Eee ben ne yapayım? Yani
+
+114
+00:13:04,029 --> 00:13:07,629
+şöyle bir şey diyorsan bu sefer onu yapayım. Ben
+
+115
+00:13:07,629 --> 00:13:10,909
+Rumanya'yı kaybedeyim. Değil mi? Bizim bu başımızdan daha
+
+116
+00:13:10,909 --> 00:13:15,789
+büyük bir şeymiş. Hani hedefmiş. Çok büyük bir hedef. Iıı
+
+117
+00:13:15,789 --> 00:13:20,429
+imtiha edelim her şeyi. Ondan sonra takin ne zaman işte bu
+
+118
+00:13:20,429 --> 00:13:23,070
+seferin biraz önce bana ifade etmiş olduğun tüm
+
+119
+00:13:23,070 --> 00:13:26,830
+sistem automatik hale gelsin. Ondan sonra böyledeğeleri
+
+120
+00:13:26,830 --> 00:13:31,220
+koyayım. Ve hatta bana bir akıl yani ben şu anda artık
+
+121
+00:13:31,220 --> 00:13:46,610
+kilitlenmiş durumdayım. Çıkalım. Bu bu bize kafadan
+
+122
+00:13:46,610 --> 00:15:14,129
+iki gün. Sivar bu diğer çalışmayla ilgili bana bir
+
+123
+00:15:14,129 --> 00:15:18,259
+takım sunar mısın ortada? Ona göre ben eee kendi ayağımda
+
+124
+00:15:18,259 --> 00:15:21,539
+denk alayım. Yani ııı gereksiz atılımlar yapmayayım
+
+125
+00:15:21,539 --> 00:15:56,669
+böyle kendi kendine. Peki. Asus'un ilk haftası o çok
+
+126
+00:15:56,669 --> 00:15:59,870
+iyiyim sen. Asus'un ortasına kadar ben bu anlamda hiç
+
+127
+00:15:59,870 --> 00:16:02,990
+böyle başından büyük işlere hiç şey yapmayayım yani.
+
+128
+00:16:02,990 --> 00:16:08,669
+Kalkış mı? Yani eee o anlamda sistemi zorlayacak bir
+
+129
+00:16:08,669 --> 00:16:11,870
+şey yapmaya hiç yani yeltenmeyin. Düşünmeyin
+
+130
+00:16:12,590 --> 00:16:20,940
+Asus'un ortasına kadar. Bence bence makul. Bence makul yani
+
+131
+00:16:20,940 --> 00:16:29,950
+ııı Asus'un ortasına olsun. Yok ben kesin. Aşkım
+
+132
+00:16:29,950 --> 00:16:34,620
+görüşmedeyim görüntülü. Ortasına kadar ben şey yapmayayım
+
+133
+00:16:34,620 --> 00:16:38,139
+bizi bari. Yani bunun olur mu olmamız? Yani böyle
+
+134
+00:16:38,139 --> 00:16:50,139
+büyük bir şey olması. Tamam. Tamam. Peki. Peki ben
+
+135
+00:16:50,139 --> 00:16:54,350
+şimdi bir ilifle konuşayım. Iıı nösenin dediğin gibi
+
+136
+00:16:55,169 --> 00:16:58,370
+şimdilik bari etif bir şekilde düzeltilme yapılsın
+
+137
+00:16:58,370 --> 00:17:08,750
+geri alacak. Tamam. Peki tamam. Olur. Tamam. Peki
+
+138
+00:17:08,750 --> 00:17:11,230
+inşallah bir şey olmaz. Şöyle bir kolay gelsin.
+
+139
+00:17:11,230 --> 00:17:16,509
+Teşekkürler. Sağ olasın. Mersi. Mersi. Iyi hakkım
+
+140
+00:17:16,509 --> 00:17:52,509
+için. Iıı şimdi o pari kod parçasının prod'da orasını
+
+141
+00:17:52,509 --> 00:17:57,380
+düzelteceksiniz. Arkasından ranı vereceksiniz.
+
+142
+00:17:57,380 --> 00:18:01,700
+Arkasından kod parçasını gene eski haline getireceksiniz.
+
+143
+00:18:02,420 --> 00:18:06,819
+Bu şekilde biz daha sonra yeni sürüme çıkarken bu test
+
+144
+00:18:06,819 --> 00:18:10,339
+ortamında düzeltilmiş versiyonu test edip
+
+145
+00:18:10,339 --> 00:18:18,259
+tekrardan bir sürüme şey yapacağız. Iıı tamam anladın
+
+146
+00:18:18,259 --> 00:18:31,390
+değil mi? Tamam. Evet. Bitecek o. Eskiye döndüreceksiniz.
+
+147
+00:18:31,390 --> 00:18:49,380
+Evet. Iıı tamam ben şimdi dinle döndürecek
+
+148
+00:18:50,099 --> 00:18:59,140
+Tamam. Teşekkür ederim. Iıı kolay gelsin kolay gelsin.
+
+149
+00:18:59,140 --> 00:19:03,539
+Arkadaşlar ııı şöyle bir şey yapıyoruz. Nurula kontrollerini
+
+150
+00:19:03,539 --> 00:19:09,380
+lütfen gerçekleştir. Iıı cuma günü bu Merve Hanımlardan
+
+151
+00:19:09,380 --> 00:19:16,019
+tekrardan bir şey alacağım, randev alacağım. Iıı bir bütün
+
+152
+00:19:16,019 --> 00:19:21,299
+rakoru baştan uca açıklayacağız. Rahmi o sen şeyi
+
+153
+00:19:21,299 --> 00:19:25,940
+çok iyi biliyorsun. Hangi kesilerden? Specific kesilerden
+
+154
+00:19:25,940 --> 00:19:31,700
+birinci ve üçüncü senaryo. Bir ve üç. Çünkü bir tanesi normal
+
+155
+00:19:31,700 --> 00:19:36,259
+senaryo diye adlandırıyorum. Üçüncü senaryoda şey ııı
+
+156
+00:19:36,259 --> 00:19:41,789
+sırada üçte dört çok daha yüksek sebebi. Tamam hocam.
+
+157
+00:19:41,789 --> 00:19:46,430
+Onlardan bir tane keseri al. Evet. Biz bunu yarın ne
+
+158
+00:19:46,430 --> 00:19:51,950
+günlerden çarşandık. Perçembe günü ııı bir bir öreğe
+
+159
+00:19:51,950 --> 00:19:57,519
+girelim. Toplayalım. Toplayalım. Ondan sonra bunu ııı ne
+
+160
+00:19:57,519 --> 00:20:01,440
+derler? Karar verelim. Ben şimdi ama şimdiden bu Merve
+
+161
+00:20:01,440 --> 00:20:05,359
+Hanım'a yazacağım. Cuma günü müsaitkiniz var mı? Değil.
+
+162
+00:20:05,359 --> 00:20:10,259
+Doldu mu? Yapacağım. Tamam. Peki. Doğru ulaş.
+
+163
+00:20:10,259 --> 00:20:21,460
+Hı hı. Oldu peki. Hadi kolay gelsin. Sağ olun. Aşkım
+
+164
+00:20:21,460 --> 00:21:35,390
+şimdi yiyecektin.
+
