@@ -628,5 +628,16 @@
     "transcribed_at": "2026-11-17T20:09:38",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1imp7kJoyz8xjBcfnUQ-z_sG538QPkckz": {
+    "status": "transcribed",
+    "source": "Ses 261105_140844 - NA-DSA-ME-Vulnerability.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261105_140844 - NA-DSA-ME-Vulnerability.txt",
+    "duration": "0:28:06",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:14:22",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
