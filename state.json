@@ -712,5 +712,16 @@
     "transcribed_at": "2026-11-17T20:58:36",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1DSWRvR8dXnU8LsTRzgmN__FWH2Eo5eID": {
+    "status": "transcribed",
+    "source": "Ses 261116_154414 - NA-DSA İhtiyari Parametrik.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261116_154414 - NA-DSA İhtiyari Parametrik.txt",
+    "duration": "0:47:58",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T21:07:46",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
