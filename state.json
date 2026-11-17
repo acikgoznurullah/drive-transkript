@@ -686,7 +686,7 @@
     "uploaded.srt": true
   },
   "1ZPtg1ZUWWM6RwDNAIXDYPWrNfE8Dv46q": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261110_155753 - NA-DSA-DASK Parametrik.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261110_155753 - NA-DSA-DASK Parametrik.txt",
@@ -694,7 +694,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T20:31:56",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261110_155753 - NA-DSA-DASK Parametrik_Rapor.docx",
+    "reported_at": "2026-11-17T21:12:06",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1_sLJJ-i9OuX9Q4GfgOM8uZw2OP5zameV/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1kteCQc8wPoDKpRbdcoS6CG0QYezF65AZ": {
     "status": "transcribed",
