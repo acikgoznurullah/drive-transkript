@@ -701,5 +701,16 @@
     "category": "İş",
     "attempts": 1,
     "error": "İndirme hatası: İndirme başarısız ya da dosya boş."
+  },
+  "1dQEwzh0ErJcZyVazEgLZWmtkUyu4NRow": {
+    "status": "transcribed",
+    "source": "Ses 261116_104122 - NA-DSA-ME Vulnerability.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261116_104122 - NA-DSA-ME Vulnerability.txt",
+    "duration": "1:11:54",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:58:36",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
