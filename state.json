@@ -631,7 +631,7 @@
     "report_url": "https://docs.google.com/document/d/1LdXpCGmWiNd6C6kp-LcsmjQIt6cwk8Mu/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1VD3YFNCvCxGd7ANTMJL2G26H53TkKZqC": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260724_114822 - Dask Sermaye Prim.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 260724_114822 - Dask Sermaye Prim.txt",
@@ -639,7 +639,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T20:09:38",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 260724_114822 - Dask Sermaye Prim_Rapor.docx",
+    "reported_at": "2026-11-17T21:12:38",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1yHzfq2MNpyBm071bIPJkcXWxicAcn7Wz/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1imp7kJoyz8xjBcfnUQ-z_sG538QPkckz": {
     "status": "reported",
