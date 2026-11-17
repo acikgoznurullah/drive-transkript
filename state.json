@@ -645,7 +645,7 @@
     "report_url": "https://docs.google.com/document/d/1o1CiP4jShZHUVvIpY0mZzFMgXqqLTJKF/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1B57ObAmVQiJAAbIFyikQ71XqFom3YzQn": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261105_153538 - Gmm branch hatası NA-DSA-SA.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261105_153538 - Gmm branch hatası NA-DSA-SA.txt",
@@ -653,7 +653,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T20:16:53",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261105_153538 - Gmm branch hatası NA-DSA-SA_Rapor.docx",
+    "reported_at": "2026-11-17T21:11:55",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1bTcD2Qfzy_fHGNjSL7nuNz2FLLyxC-Ij/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "14gNVTumDrYKjev7Sw-f_M9_gaRzot75-": {
     "status": "transcribed",
