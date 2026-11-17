@@ -1,0 +1,2672 @@
+1
+00:00:00,560 --> 00:00:05,559
+Bence burada bir şey yapmak lazım.
+
+2
+00:00:05,559 --> 00:00:09,500
+Bu mesela çoklu anlaşmadaki representatif PC'ye yerin ne?
+
+3
+00:00:09,500 --> 00:00:16,399
+İşte hocam, kredi ne düşüyorsa o.
+
+4
+00:00:16,399 --> 00:00:18,280
+Tamam, kredi de amaçın şöyle bir şey.
+
+5
+00:00:18,280 --> 00:00:20,019
+Rahminin dediği şey de orada.
+
+6
+00:00:20,019 --> 00:00:23,480
+Şurada, üçgenlerin her birisinin bir los dağılımı var.
+
+7
+00:00:23,480 --> 00:00:25,579
+Sen los dağılımı topladın,
+
+8
+00:00:25,579 --> 00:00:28,699
+random'ı, ondan sonra bilimitle kapladın.
+
+9
+00:00:28,699 --> 00:00:31,780
+Kapladıktan sonra koşuldu bir los dağılımın olmuştu senin.
+
+10
+00:00:31,780 --> 00:00:33,060
+Ona kaplandı.
+
+11
+00:00:33,060 --> 00:00:33,740
+Değil mi?
+
+12
+00:00:33,780 --> 00:00:37,179
+Burada artık benim dört tane, beş tane kredim var.
+
+13
+00:00:37,179 --> 00:00:42,219
+Bu beş tane kredimin her birisinin ayrı bir PC'ye buldu.
+
+14
+00:00:42,219 --> 00:00:45,060
+Orada hani belki şöyle bir şey yapılabilir.
+
+15
+00:00:45,060 --> 00:00:46,740
+Yani şöyle bir şey yapılabilir.
+
+16
+00:00:46,740 --> 00:00:51,780
+Bu deprem yani bir tane stokastik senayoda.
+
+17
+00:00:51,780 --> 00:00:55,939
+Benim şurada, şurada, şurada ve şurada şeylerim var.
+
+18
+00:00:55,939 --> 00:01:02,229
+Esetlerim var, o anlaşma yani.
+
+19
+00:01:02,229 --> 00:01:04,310
+O zaman ben şöyle bir şey diyebilir miyim?
+
+20
+00:01:04,310 --> 00:01:06,549
+Mesela burada, şu, bu bir şey için.
+
+21
+00:01:06,549 --> 00:01:14,260
+Mesela şurada, şurada, şurada ve burada olsun.
+
+22
+00:01:14,260 --> 00:01:15,579
+Dört tane şey çizdim.
+
+23
+00:01:15,579 --> 00:01:29,260
+Her birisi için aynı dağılımı kullanabilir miyim?
+
+24
+00:01:29,260 --> 00:01:31,019
+Toplamı kertlenecek.
+
+25
+00:01:31,019 --> 00:01:33,019
+Toplamı kertlenmesi lazım.
+
+26
+00:01:33,019 --> 00:01:39,140
+O bay değil ki, o da öyle.
+
+27
+00:01:39,140 --> 00:01:44,140
+Hocam şöyle şimdi ben biraz kayboldum mu diye düşünüyorum da.
+
+28
+00:01:44,140 --> 00:01:44,900
+Şöyle bir durum var.
+
+29
+00:01:44,900 --> 00:01:46,780
+Ben de kaybolmuştum.
+
+30
+00:01:46,780 --> 00:01:55,659
+Şöyle ben şu anda payout yapısını nasıl oturacak, yapacağı sorusunu sormuyorum size aslında.
+
+31
+00:01:55,659 --> 00:01:58,379
+Şu an sizin anlattığınız biraz onunla ilişkili.
+
+32
+00:01:58,379 --> 00:01:59,980
+Evet, ben de geldim.
+
+33
+00:01:59,980 --> 00:02:01,540
+Şöyle bir şey var.
+
+34
+00:02:01,540 --> 00:02:04,540
+Sonuçta parametrik şöyle çalışıyor ya.
+
+35
+00:02:04,540 --> 00:02:07,140
+Bir gripte bir tutar oluyor.
+
+36
+00:02:07,140 --> 00:02:12,259
+O tutarı da bir PGA'dan gelen oranla çarpıyoruz.
+
+37
+00:02:12,259 --> 00:02:15,099
+Benim aslında ilk baştaki sorum şu.
+
+38
+00:02:15,099 --> 00:02:17,349
+O tutar ne olacak?
+
+39
+00:02:17,349 --> 00:02:23,509
+O tutar çünkü üzerinden bütün parametrik hesaplamaları bir çakıyor.
+
+40
+00:02:23,509 --> 00:02:31,189
+Yani sonuçta o gripte, başka bir griptle vesaire hiçbir şeyle konuşamıyor parametrik los hesabı yaparken.
+
+41
+00:02:31,189 --> 00:02:35,439
+Çünkü o gripte bir X değeri oluyor, exposure.
+
+42
+00:02:35,439 --> 00:02:38,300
+Öbür taraftan da bir oran geliyor.
+
+43
+00:02:38,300 --> 00:02:40,180
+Onunla o çarpılıyor, bitiyor.
+
+44
+00:02:40,180 --> 00:02:41,979
+Ama şimdi şöyle bir şey var.
+
+45
+00:02:42,060 --> 00:02:46,060
+Tamam, sen bir tane exposure yap, yani dağılımı çıkarttın.
+
+46
+00:02:46,060 --> 00:02:46,979
+İyi mi?
+
+47
+00:02:46,979 --> 00:02:50,110
+Sen bir tane exposure dağılımı çıkarttın.
+
+48
+00:02:50,110 --> 00:02:59,110
+O exposure dağılımında farklı griptlerde, bazı griptler bomboş, farklı griptlerde de senin şeyin var.
+
+49
+00:02:59,110 --> 00:03:04,750
+Bir sürü anlaşmadan farklı farklı bileşenler onun içine geliyor.
+
+50
+00:03:04,750 --> 00:03:06,750
+Yani burada aslında şöyle bir şey doldu.
+
+51
+00:03:06,750 --> 00:03:12,710
+Yani burada bir tane üçüncü bir anlaşma olsun.
+
+52
+00:03:12,710 --> 00:03:17,469
+Burada ne bileyim, şöyle bir yıldız da şey yapsa.
+
+53
+00:03:17,469 --> 00:03:21,469
+Orada yani şu gripte iki tane anlaşma diyorlar.
+
+54
+00:03:21,469 --> 00:03:22,469
+Yani orada bir toplantısı.
+
+55
+00:03:22,469 --> 00:03:23,469
+Tabii, tabii.
+
+56
+00:03:23,469 --> 00:03:34,569
+İlk önce, ilk önce bana kavursa, ilk önce bana kavursa her bir gripte bu şekilde ben bir, hani hiçbir şey yapmayalım.
+
+57
+00:03:34,569 --> 00:03:43,849
+Ben burada bu anlaşmalar kapsamında buradaki benim dostlarımın bir bulduğumu varsayım.
+
+58
+00:03:43,849 --> 00:03:44,849
+Dağılım bunu.
+
+59
+00:03:44,849 --> 00:03:46,849
+İster ve gel diyeceğim.
+
+60
+00:03:46,849 --> 00:03:47,849
+İster şey bunu.
+
+61
+00:03:47,849 --> 00:03:49,849
+Bunlar birer dağılım.
+
+62
+00:03:49,849 --> 00:03:53,849
+Sonra dağılımlara göre, tamam mı?
+
+63
+00:03:53,849 --> 00:03:58,849
+Bazı şimdi, çoklu anlaşmalar olduğu vakit, çoklu anlaşmaları olduğu vakit,
+
+64
+00:03:58,849 --> 00:04:01,849
+o anlaşmanın sen bir toplanma.
+
+65
+00:04:01,849 --> 00:04:06,490
+Dosumu ve gelmiş, dosumu buluyorsun.
+
+66
+00:04:06,490 --> 00:04:07,490
+Tamam mı?
+
+67
+00:04:07,490 --> 00:04:10,490
+Ondan sonra onu bir şeyle kertliyorsun.
+
+68
+00:04:10,490 --> 00:04:13,900
+Yani başka şeyin yok.
+
+69
+00:04:13,900 --> 00:04:14,900
+Çıkarayım mı?
+
+70
+00:04:14,900 --> 00:04:17,899
+Başka bir çözüm şeklin yok.
+
+71
+00:04:17,899 --> 00:04:19,899
+Orada bir şeyle kertliyorsun.
+
+72
+00:04:19,899 --> 00:04:23,899
+Bir dağılık yani, bir kondişinin hoşuya kertlermiş dağılım.
+
+73
+00:04:23,899 --> 00:04:25,899
+Diğerleri için de bunu yapıyoruz.
+
+74
+00:04:25,899 --> 00:04:27,220
+Ondan sonra.
+
+75
+00:04:27,220 --> 00:04:34,699
+Bunu yaptığında, senin elinde çoklu anlaşmalar için bir tane dağılım,
+
+76
+00:04:34,699 --> 00:04:39,339
+tekli anlaşmaları için de ayrı ayrı hücreler bazında,
+
+77
+00:04:39,339 --> 00:04:43,339
+birer dağılım, birer dosu dağılımı evdeye uçurdukuz.
+
+78
+00:04:43,339 --> 00:04:47,430
+Şimdi, her şey tek elbiseleri üstünden yürüsle,
+
+79
+00:04:47,430 --> 00:04:52,430
+o zaman dersin ki, tamam ben şimdi hangi şeyde kümbere, hücrede,
+
+80
+00:04:52,430 --> 00:04:54,430
+nasıl bir dosu dağılımı olduğunu biliyorum.
+
+81
+00:04:54,430 --> 00:04:56,430
+Ben bunları bir agregi edeyim.
+
+82
+00:04:56,430 --> 00:04:57,430
+Değil mi?
+
+83
+00:04:57,430 --> 00:05:00,459
+Ondan sonra ona göre bir, ben artık orada,
+
+84
+00:05:00,459 --> 00:05:03,459
+mini alabilirim, random'la sample ederim, bir şey yaparım.
+
+85
+00:05:04,459 --> 00:05:07,529
+Buraya kadar şey var mı, problem?
+
+86
+00:05:07,529 --> 00:05:08,529
+Yok.
+
+87
+00:05:08,529 --> 00:05:12,529
+Her bir hücrede, tekil bir sposa, orada sen, aslında orada medya,
+
+88
+00:05:12,529 --> 00:05:14,589
+pc'ye gidiyorsun.
+
+89
+00:05:14,589 --> 00:05:19,470
+Yani, oradaki şey bazında.
+
+90
+00:05:19,470 --> 00:05:21,470
+Yani, ama burada bir de şey var.
+
+91
+00:05:21,470 --> 00:05:24,470
+Bunun üstüne ekleyen gereken çoklu anlaşma olur.
+
+92
+00:05:24,470 --> 00:05:25,629
+Çünkü çoklu anlaşma.
+
+93
+00:05:25,629 --> 00:05:29,629
+Oradaki tek var, orada bir varsayım yapmak zorundasın.
+
+94
+00:05:29,629 --> 00:05:32,240
+Orada bir varsayım yapmak zorundasın.
+
+95
+00:05:32,240 --> 00:05:34,240
+Yani, çünkü o bir,
+
+96
+00:05:34,240 --> 00:05:38,420
+çoklu anlaşma ve o
+
+97
+00:05:38,420 --> 00:05:42,420
+çoklu anlaşmanın her bir ilgilik
+
+98
+00:05:42,420 --> 00:05:45,459
+şeylerinde birer birer risk olur.
+
+99
+00:05:45,459 --> 00:05:46,459
+Değil mi?
+
+100
+00:05:46,459 --> 00:05:47,459
+Evet.
+
+101
+00:05:47,459 --> 00:05:49,459
+Ben, iki tane, iki tane geldim.
+
+102
+00:05:49,459 --> 00:05:51,459
+Bir tanesi, bir tanesi şöyle bir şey.
+
+103
+00:05:51,459 --> 00:05:54,459
+Dersin ki, abi dersin, bu anlaşmadan,
+
+104
+00:05:54,459 --> 00:05:57,459
+içerisinde, işte şurada mesela çoklu bir anlaşma var.
+
+105
+00:05:57,459 --> 00:06:01,459
+Ben bu anlaşmadaki dosumu buraya
+
+106
+00:06:01,459 --> 00:06:03,459
+esanyedebilirim.
+
+107
+00:06:03,459 --> 00:06:07,310
+Buraya esanyedebilirim.
+
+108
+00:06:07,310 --> 00:06:09,310
+Bu, ettiğimi buraya de esanyedebilirim.
+
+109
+00:06:09,310 --> 00:06:11,310
+Buraya de esanyedebilirim.
+
+110
+00:06:11,310 --> 00:06:14,310
+Çünkü, bu bir toplu, toplu bir anlaşma.
+
+111
+00:06:14,310 --> 00:06:16,310
+Ve ben buradan şey yapıyorum.
+
+112
+00:06:16,310 --> 00:06:21,560
+O, dostlara karşılık gelen,
+
+113
+00:06:21,560 --> 00:06:23,560
+medya, pc'ye değerliğine,
+
+114
+00:06:23,560 --> 00:06:25,560
+şu eğiliminin üstüne koyayım.
+
+115
+00:06:25,560 --> 00:06:26,560
+Tamam mı?
+
+116
+00:06:26,560 --> 00:06:28,560
+Mesela bu nasıl bir şey yaklaşın?
+
+117
+00:06:28,560 --> 00:06:30,560
+Bu çok iyi bir yaklaşım değil.
+
+118
+00:06:30,560 --> 00:06:32,389
+Değil mi?
+
+119
+00:06:32,389 --> 00:06:34,389
+Bu çok iyi bir yaklaşım değil.
+
+120
+00:06:34,389 --> 00:06:37,389
+Sen her bir çok daha anlaşmanın bulunduğu yere
+
+121
+00:06:37,389 --> 00:06:40,389
+aynı losüstür bir şununla isan ediyorsun.
+
+122
+00:06:40,389 --> 00:06:41,579
+Değil mi?
+
+123
+00:06:41,579 --> 00:06:44,579
+Yani bu çok gerçekçi bir şey olmuyor biliyor musun?
+
+124
+00:06:44,579 --> 00:06:46,579
+Veya hatta ne yapabilirsin?
+
+125
+00:06:46,579 --> 00:06:47,579
+Bir aile düşünün.
+
+126
+00:06:47,579 --> 00:06:51,220
+Yap, şöyle bir şey yapamaz bu.
+
+127
+00:06:51,220 --> 00:06:58,500
+Dilek mesela, bizde dört tane garip var ya,
+
+128
+00:06:58,500 --> 00:07:00,500
+o dört tane garip de, hani biliyorsun,
+
+129
+00:07:00,500 --> 00:07:02,500
+peygaların değerliğini aslında.
+
+130
+00:07:02,500 --> 00:07:04,500
+Bir kendi modere basında,
+
+131
+00:07:04,500 --> 00:07:06,500
+normalde hiç dinlemitler olmadan aslında,
+
+132
+00:07:06,500 --> 00:07:08,500
+dinlemit dahil edilmeden dosus almasak,
+
+133
+00:07:08,500 --> 00:07:11,500
+hani aslında her defa düşen losu bulacağız,
+
+134
+00:07:11,500 --> 00:07:13,500
+bu sefer o losu mesela şey değil,
+
+135
+00:07:13,500 --> 00:07:15,500
+normalde 50 lira limit vardı ya,
+
+136
+00:07:15,500 --> 00:07:17,500
+bulamadığı o losu,
+
+137
+00:07:17,500 --> 00:07:19,500
+los üzerinden 50 liraya dağıtılabilir,
+
+138
+00:07:19,500 --> 00:07:21,500
+o da bir yaklaşım olabilir aslında.
+
+139
+00:07:21,500 --> 00:07:22,500
+Çünkü bu sefer hani,
+
+140
+00:07:22,500 --> 00:07:23,500
+ekskojundansal aslında,
+
+141
+00:07:23,500 --> 00:07:25,500
+lostan diye bir izan odaya göre,
+
+142
+00:07:25,500 --> 00:07:26,500
+o da bir yaklaşım olabilir.
+
+143
+00:07:26,500 --> 00:07:28,500
+Olabilir ama bizim her bir şeyimiz için
+
+144
+00:07:28,500 --> 00:07:30,500
+bir dağlımımız olacağı için,
+
+145
+00:07:30,500 --> 00:07:32,500
+dağlımımız olacağı için,
+
+146
+00:07:32,500 --> 00:07:33,500
+orada hangi değeri kullanacak?
+
+147
+00:07:33,500 --> 00:07:35,500
+O weighting stratejiyi kullanmak için
+
+148
+00:07:35,500 --> 00:07:36,500
+bir değeri,
+
+149
+00:07:36,500 --> 00:07:39,500
+bir medya, bir şey alman lazım.
+
+150
+00:07:39,500 --> 00:07:42,500
+Orada da o zaman sen kendini onunla sınırlıyorsun.
+
+151
+00:07:42,500 --> 00:07:45,879
+Hatta Cüva Gül'ü toplantı olacak değil mi?
+
+152
+00:07:45,879 --> 00:07:47,879
+En sonunda evet, onu söylediler.
+
+153
+00:07:47,879 --> 00:07:49,879
+Laktın'la Cüva Gül'ü toplantı da
+
+154
+00:07:49,879 --> 00:07:51,879
+isterseniz bu konuyu günlerine getirin dediler.
+
+155
+00:07:51,879 --> 00:07:52,879
+Geçen sene var,
+
+156
+00:07:52,879 --> 00:07:53,879
+bir yapmışlar bir şeyler,
+
+157
+00:07:53,879 --> 00:07:54,879
+ama Laktı da gitsin biliyor musun?
+
+158
+00:07:54,879 --> 00:07:56,069
+Kimse bilmiyorum,
+
+159
+00:07:56,069 --> 00:07:58,069
+çünkü geçen sene,
+
+160
+00:07:58,069 --> 00:07:59,069
+bu tip bir şey,
+
+161
+00:07:59,069 --> 00:08:00,069
+bir problem,
+
+162
+00:08:00,069 --> 00:08:01,069
+yani şimdi,
+
+163
+00:08:01,069 --> 00:08:02,069
+yani bana kızısa,
+
+164
+00:08:02,069 --> 00:08:03,069
+bunun şu anda,
+
+165
+00:08:03,069 --> 00:08:04,069
+şu aşamada,
+
+166
+00:08:04,069 --> 00:08:05,069
+Laktı bir yerini,
+
+167
+00:08:05,069 --> 00:08:06,069
+önüne getirmek,
+
+168
+00:08:07,230 --> 00:08:08,230
+yani şöyle bir şey,
+
+169
+00:08:08,230 --> 00:08:09,230
+anlamına da gelebilir.
+
+170
+00:08:09,230 --> 00:08:10,230
+Ben bu işi daha,
+
+171
+00:08:10,230 --> 00:08:11,230
+hani,
+
+172
+00:08:11,230 --> 00:08:12,230
+tam,
+
+173
+00:08:12,230 --> 00:08:14,420
+kafamda çözemedim,
+
+174
+00:08:14,420 --> 00:08:16,420
+sen nasıl yaklaşıyorsun?
+
+175
+00:08:16,420 --> 00:08:17,620
+Hatta,
+
+176
+00:08:17,620 --> 00:08:18,620
+değil mi?
+
+177
+00:08:18,620 --> 00:08:19,620
+Yani,
+
+178
+00:08:19,620 --> 00:08:20,709
+öyle bir şey olabilir.
+
+179
+00:08:20,709 --> 00:08:21,709
+Ama ben,
+
+180
+00:08:21,709 --> 00:08:22,709
+mesela burada,
+
+181
+00:08:22,709 --> 00:08:28,829
+yani,
+
+182
+00:08:28,829 --> 00:08:29,829
+şimdi,
+
+183
+00:08:29,829 --> 00:08:30,829
+gerçek bir durum,
+
+184
+00:08:30,829 --> 00:08:31,829
+düşünsene.
+
+185
+00:08:31,829 --> 00:08:32,830
+Yani,
+
+186
+00:08:32,830 --> 00:08:33,830
+sonuçta,
+
+187
+00:08:33,830 --> 00:08:34,830
+çünkü o,
+
+188
+00:08:34,830 --> 00:08:35,830
+peyahut yapısının tek,
+
+189
+00:08:35,830 --> 00:08:36,830
+şey,
+
+190
+00:08:36,830 --> 00:08:37,830
+amacı,
+
+191
+00:08:37,830 --> 00:08:39,759
+yani burada.
+
+192
+00:08:39,759 --> 00:08:40,759
+Ve adam,
+
+193
+00:08:40,759 --> 00:08:41,759
+hiçbir,
+
+194
+00:08:41,759 --> 00:08:42,759
+yapısı olması,
+
+195
+00:08:42,759 --> 00:08:43,759
+diyecek ki,
+
+196
+00:08:43,759 --> 00:08:44,759
+abi,
+
+197
+00:08:44,759 --> 00:08:45,759
+ben,
+
+198
+00:08:45,759 --> 00:08:46,759
+bu limitleri aldım,
+
+199
+00:08:46,759 --> 00:08:47,759
+rahmelerin her dakika,
+
+200
+00:08:47,759 --> 00:08:48,889
+şey yaptığı,
+
+201
+00:08:48,889 --> 00:08:49,889
+sundu.
+
+202
+00:08:49,889 --> 00:08:52,139
+Bu event limitlere göre,
+
+203
+00:08:52,139 --> 00:08:53,139
+senin,
+
+204
+00:08:53,139 --> 00:08:54,139
+250 yıllık,
+
+205
+00:08:54,139 --> 00:08:55,139
+500 yıllık,
+
+206
+00:08:55,139 --> 00:08:56,139
+bilmiyordur,
+
+207
+00:08:56,139 --> 00:08:57,139
+olsun,
+
+208
+00:08:57,139 --> 00:08:58,139
+budur,
+
+209
+00:08:58,139 --> 00:08:59,139
+diyecek ve geçip gidecek.
+
+210
+00:08:59,139 --> 00:09:00,139
+Adam da diyor ki,
+
+211
+00:09:00,139 --> 00:09:01,139
+ben mesela,
+
+212
+00:09:01,139 --> 00:09:02,139
+250 yılını kendime,
+
+213
+00:09:02,139 --> 00:09:04,070
+dikkat et,
+
+214
+00:09:04,070 --> 00:09:05,070
+alıyorum.
+
+215
+00:09:05,070 --> 00:09:06,070
+Burada ben,
+
+216
+00:09:06,070 --> 00:09:07,070
+bir de,
+
+217
+00:09:07,070 --> 00:09:08,070
+şey yapıyorum.
+
+218
+00:09:08,070 --> 00:09:09,070
+Bununla ilgili,
+
+219
+00:09:09,070 --> 00:09:10,070
+işte,
+
+220
+00:09:10,070 --> 00:09:11,070
+böyle,
+
+221
+00:09:11,070 --> 00:09:12,070
+şöyle anlaşma yapıyorum.
+
+222
+00:09:12,070 --> 00:09:13,070
+Kendi filmlerinden.
+
+223
+00:09:13,070 --> 00:09:14,070
+Bir kısmını da,
+
+224
+00:09:14,070 --> 00:09:15,070
+devre ediyorum.
+
+225
+00:09:15,070 --> 00:09:16,070
+Ama,
+
+226
+00:09:16,070 --> 00:09:17,070
+orada,
+
+227
+00:09:17,070 --> 00:09:18,070
+bir de,
+
+228
+00:09:18,070 --> 00:09:19,070
+parametrik bir koruma,
+
+229
+00:09:19,070 --> 00:09:20,070
+ölürsem,
+
+230
+00:09:20,070 --> 00:09:21,070
+bir devrem olduğu vakit,
+
+231
+00:09:21,070 --> 00:09:22,070
+İstanbul'da,
+
+232
+00:09:22,070 --> 00:09:23,070
+İstanbul'da,
+
+233
+00:09:23,070 --> 00:09:24,070
+işte,
+
+234
+00:09:24,070 --> 00:09:25,840
+Marmara,
+
+235
+00:09:25,840 --> 00:09:26,840
+böyle ismi,
+
+236
+00:09:26,840 --> 00:09:27,840
+mevkini yapıyorum.
+
+237
+00:09:27,840 --> 00:09:28,840
+O zaman,
+
+238
+00:09:28,840 --> 00:09:30,740
+ben burada,
+
+239
+00:09:30,740 --> 00:09:31,740
+bir cash flow'u,
+
+240
+00:09:31,740 --> 00:09:32,740
+garip demiş oldum.
+
+241
+00:09:32,740 --> 00:09:33,740
+Yani,
+
+242
+00:09:33,740 --> 00:09:34,740
+yani,
+
+243
+00:09:34,740 --> 00:09:35,740
+şey,
+
+244
+00:09:35,740 --> 00:09:36,740
+yani,
+
+245
+00:09:36,740 --> 00:09:37,740
+orada bir cash flow'u,
+
+246
+00:09:37,740 --> 00:09:38,929
+hemen,
+
+247
+00:09:38,929 --> 00:09:39,929
+biraz şöyle üstünden,
+
+248
+00:09:39,929 --> 00:09:40,929
+garip demiş olacağım.
+
+249
+00:09:40,929 --> 00:09:41,929
+Klasik koruma,
+
+250
+00:09:41,929 --> 00:09:42,929
+devreye,
+
+251
+00:09:42,929 --> 00:09:43,929
+bir çok,
+
+252
+00:09:43,929 --> 00:09:44,929
+tekrar anlaşmalarında,
+
+253
+00:09:44,929 --> 00:09:45,929
+hiçbir sıkıntı yok.
+
+254
+00:09:45,929 --> 00:09:46,929
+Çokta anlaşmalarda,
+
+255
+00:09:46,929 --> 00:09:47,929
+şöyle bir şey,
+
+256
+00:09:47,929 --> 00:09:48,929
+diyorum ki,
+
+257
+00:09:48,929 --> 00:09:49,929
+benim şeyimi bilmiyorum.
+
+258
+00:09:49,929 --> 00:09:50,929
+Yani,
+
+259
+00:09:50,929 --> 00:09:51,929
+dört tane konum var,
+
+260
+00:09:51,929 --> 00:09:53,929
+bu dört tane konumda,
+
+261
+00:09:53,929 --> 00:09:54,929
+ben,
+
+262
+00:09:54,929 --> 00:09:55,929
+kendi senaryolarına göre,
+
+263
+00:09:55,929 --> 00:09:56,929
+ne kadar dost,
+
+264
+00:09:56,929 --> 00:09:57,929
+dağılım olabileceğini,
+
+265
+00:09:57,929 --> 00:09:58,929
+biliyorum.
+
+266
+00:09:58,929 --> 00:09:59,929
+Bu dağılım,
+
+267
+00:09:59,929 --> 00:10:02,779
+bu dağılımlarda,
+
+268
+00:10:02,779 --> 00:10:03,779
+büyük bir ihtimalle,
+
+269
+00:10:03,779 --> 00:10:04,779
+her birisi,
+
+270
+00:10:06,070 --> 00:10:07,070
+de,
+
+271
+00:10:07,070 --> 00:10:08,070
+o,
+
+272
+00:10:08,070 --> 00:10:09,070
+limite aşabili,
+
+273
+00:10:09,070 --> 00:10:10,070
+veyahut da bazısı da,
+
+274
+00:10:10,070 --> 00:10:11,070
+aşınca,
+
+275
+00:10:11,070 --> 00:10:12,070
+ama sonuçta,
+
+276
+00:10:12,070 --> 00:10:13,070
+aşan kısımları,
+
+277
+00:10:13,070 --> 00:10:14,070
+tıraşlayacağım,
+
+278
+00:10:14,070 --> 00:10:15,070
+bu işin alı,
+
+279
+00:10:15,070 --> 00:10:16,070
+dağılım,
+
+280
+00:10:16,070 --> 00:10:17,070
+böyle üreteceğim.
+
+281
+00:10:17,070 --> 00:10:18,070
+Arkasından da,
+
+282
+00:10:18,070 --> 00:10:19,070
+bu benim o,
+
+283
+00:10:19,070 --> 00:10:20,070
+o,
+
+284
+00:10:20,070 --> 00:10:23,220
+Rabçır için,
+
+285
+00:10:23,220 --> 00:10:25,309
+ve o anlaşma için,
+
+286
+00:10:25,309 --> 00:10:26,309
+dost dağılım,
+
+287
+00:10:26,309 --> 00:10:28,179
+biliyorum.
+
+288
+00:10:28,179 --> 00:10:29,210
+Ben bunu,
+
+289
+00:10:29,210 --> 00:10:31,210
+dört tane hücrede de,
+
+290
+00:10:31,210 --> 00:10:33,500
+benim şeyim varsa,
+
+291
+00:10:33,500 --> 00:10:37,860
+şu belerim varsa,
+
+292
+00:10:37,860 --> 00:10:39,179
+nereye içelim,
+
+293
+00:10:39,179 --> 00:10:50,740
+koyayım.
+
+294
+00:10:50,740 --> 00:10:54,220
+Esas burdaki nokta,
+
+295
+00:10:54,220 --> 00:10:57,620
+esas burdaki nokta,
+
+296
+00:10:57,620 --> 00:10:58,620
+semle dediğin gibi,
+
+297
+00:10:58,620 --> 00:10:59,620
+bir hücrede,
+
+298
+00:10:59,620 --> 00:11:01,620
+bir pcye geçilirse,
+
+299
+00:11:01,620 --> 00:11:05,539
+benim şeyimi bulmam.
+
+300
+00:11:05,539 --> 00:11:29,269
+Çarpa faktörü bulma, mesela şöyle bir şey yapılamaz mı?
+
+301
+00:11:29,269 --> 00:11:38,419
+4 tane şübenin dolduğu, her bir şübe, her bir hücrede ben şeyi biliyorum.
+
+302
+00:11:38,419 --> 00:11:43,940
+O anlaşma limitlerine uygun, keplenmiş dağını biliyorum.
+
+303
+00:11:43,940 --> 00:11:46,940
+Birinci, ikinci, üçüncü, dördüncü.
+
+304
+00:11:46,940 --> 00:11:50,940
+4 tane şübede ben o anlaşma limitlerine keplenmiş şeyleri biliyorum.
+
+305
+00:11:50,940 --> 00:11:52,940
+Onun üstüne çıkmıyorum ama onu biliyorum.
+
+306
+00:11:52,940 --> 00:11:55,940
+Ben orada, şimdi mesela şöyle bir şey düşünsene.
+
+307
+00:11:55,940 --> 00:12:00,100
+Bunlar süper market zincir olursa.
+
+308
+00:12:00,100 --> 00:12:03,190
+4 tane de konumda benim süper marketim var.
+
+309
+00:12:03,190 --> 00:12:08,190
+Bir deprem oldu, ondan sonra ben süper marketi gittim, eksperlere gösterdim.
+
+310
+00:12:08,190 --> 00:12:13,190
+Dediler ki, işte birinci marketin dosu 50 lira.
+
+311
+00:12:13,190 --> 00:12:15,190
+İkinci marketin dosu 45 lira.
+
+312
+00:12:15,190 --> 00:12:18,190
+3. Türk Rostrası'nın %100'ünü alalım.
+
+313
+00:12:18,190 --> 00:12:21,190
+3. marketin dosu 12 lira.
+
+314
+00:12:21,190 --> 00:12:23,190
+4. markette de hiç dos yok yani.
+
+315
+00:12:23,190 --> 00:12:26,409
+Böyle bir şey yok.
+
+316
+00:12:26,409 --> 00:12:28,409
+Şimdi ben sonra şey yapıyorum.
+
+317
+00:12:28,409 --> 00:12:30,409
+Dördüncü bunları topladım.
+
+318
+00:12:30,409 --> 00:12:33,409
+Kaç liraysa 100 lirada benim iben timitim var.
+
+319
+00:12:33,409 --> 00:12:37,559
+Bu 100 lirayı ininim.
+
+320
+00:12:37,559 --> 00:12:39,559
+Aşıldığı kısmı ben ödemiyorum.
+
+321
+00:12:39,559 --> 00:12:45,840
+Ama ben kendim faturayı, konumu beklemeni hiç ilgilendiririm.
+
+322
+00:12:45,840 --> 00:12:48,899
+Neresi olduğunu beni ilgilendirmiyorum.
+
+323
+00:12:48,899 --> 00:12:51,899
+Ben yalnız 100 liralık bir anlaşma yapmış.
+
+324
+00:12:51,899 --> 00:12:54,899
+Tabana 100 liraya kadar ödeyebileceğim bir anlaşma yapmış.
+
+325
+00:12:54,899 --> 00:13:00,899
+Bu şüvedin, o şüvedin, o şüvedin beni ilgilendirmiyor.
+
+326
+00:13:00,899 --> 00:13:07,399
+Onu eksper gidiyor, söylüyor.
+
+327
+00:13:07,399 --> 00:13:08,399
+Tamam mı?
+
+328
+00:13:08,399 --> 00:13:11,009
+Ben mesela şöyle bir şey yapsam.
+
+329
+00:13:11,009 --> 00:13:15,830
+Ben kondisyonun dostlarımı ürettim.
+
+330
+00:13:15,830 --> 00:13:22,179
+Birinci, sonra dedim ki 4 tanesi için ben şimdi 2 şerbi 500 eritlik dostlarımı ürettim.
+
+331
+00:13:22,179 --> 00:13:25,659
+Birinci şeyde pat pat pat pat topladım.
+
+332
+00:13:25,659 --> 00:13:28,080
+100 liraya açtı mı?
+
+333
+00:13:28,080 --> 00:13:29,110
+Açtı.
+
+334
+00:13:29,110 --> 00:13:32,139
+En son nerede açtı?
+
+335
+00:13:32,139 --> 00:13:42,570
+Şu hücrede açtı.
+
+336
+00:13:42,570 --> 00:13:43,570
+Topladım.
+
+337
+00:13:43,700 --> 00:13:44,700
+Bu açtı.
+
+338
+00:13:44,700 --> 00:13:46,269
+Nerede açtı?
+
+339
+00:13:46,269 --> 00:13:47,269
+Şeyde açtı.
+
+340
+00:13:47,269 --> 00:13:49,269
+Kaç tane hücreyi topladım açtı?
+
+341
+00:13:49,269 --> 00:13:51,269
+3 tane hücrede topladım açtı.
+
+342
+00:13:51,269 --> 00:13:58,470
+O zaman ben ilim markim bunu böyle yaptığım zaman
+
+343
+00:13:58,470 --> 00:14:03,470
+o 3 tane hücrenin P.J değerliğini, medyan P.J değerliğini
+
+344
+00:14:03,470 --> 00:14:11,090
+ve dost değerlerini dikkat et.
+
+345
+00:14:11,090 --> 00:14:15,860
+Oraya ben Mote Carlo mantığında
+
+346
+00:14:15,860 --> 00:14:17,860
+mesela 3 tane hücrede açtı.
+
+347
+00:14:17,860 --> 00:14:18,860
+Açtı.
+
+348
+00:14:18,860 --> 00:14:19,860
+Bunu rende topladım.
+
+349
+00:14:19,860 --> 00:14:20,860
+Pat pat pat pat.
+
+350
+00:14:20,860 --> 00:14:23,460
+Bunları şey yaptım.
+
+351
+00:14:23,460 --> 00:14:28,070
+Birinci hücreyi, ikinci hücreyi, üçüncü hücreyi, dost değerlerini yazdı.
+
+352
+00:14:28,070 --> 00:14:31,070
+Dördüncü hücreyi, bir şey yazmadım.
+
+353
+00:14:31,070 --> 00:14:32,070
+Çünkü açtı.
+
+354
+00:14:32,070 --> 00:14:34,129
+Sonra gittim.
+
+355
+00:14:34,129 --> 00:14:37,129
+İkinci, ikinci satıra geldim.
+
+356
+00:14:37,129 --> 00:14:39,190
+Sen bekledin dostlarda.
+
+357
+00:14:39,190 --> 00:14:42,190
+Sonra yine bir tane belki bir şey yaptım.
+
+358
+00:14:42,190 --> 00:14:44,190
+Siler 1, 2, 3, 4 var.
+
+359
+00:14:44,190 --> 00:14:46,190
+2, 3, 4'ü topladım.
+
+360
+00:14:46,190 --> 00:14:48,190
+1'e gelince kadar.
+
+361
+00:14:48,190 --> 00:14:51,190
+Ve hatta hepsinin 2'ünü mesela topladım.
+
+362
+00:14:51,190 --> 00:14:53,899
+Bunda da hiç açmadım.
+
+363
+00:14:53,899 --> 00:14:59,929
+Oraların her birisine, birincisinin, ikincisinin, üçüncüsünün, dördüncüsünün
+
+364
+00:14:59,929 --> 00:15:03,379
+hücrenin medyan P.J'leri de var.
+
+365
+00:15:03,379 --> 00:15:05,379
+O dost değerlerini yazdım ben.
+
+366
+00:15:05,379 --> 00:15:11,570
+Benim aklıma şu anda o geldi.
+
+367
+00:15:11,570 --> 00:15:13,629
+Bilmeyi anlatabilirdim.
+
+368
+00:15:13,629 --> 00:15:17,629
+Böylelikle her bir hücrede, yapılan bütün anlaşmaları için,
+
+369
+00:15:17,629 --> 00:15:19,629
+tekrar anlaşmaları da bir sıkıntı yok.
+
+370
+00:15:19,629 --> 00:15:25,690
+Yapılan bütün anlaşmaları için, bir dost dağlını oluşmaya başladım.
+
+371
+00:15:25,690 --> 00:15:28,690
+Çünkü önemli olan, her bir hücrede ki,
+
+372
+00:15:28,690 --> 00:15:34,690
+biriler medyanda evi için ilgili dostlar neydi, ne değildi, bu değil mi?
+
+373
+00:15:34,690 --> 00:15:39,820
+Benim aklıma şu anda o geldi.
+
+374
+00:15:39,820 --> 00:15:44,820
+Yani ben çok luristler için şey yapıyorum.
+
+375
+00:15:44,820 --> 00:15:47,210
+Ben bunu benden ne topluyorum?
+
+376
+00:15:47,210 --> 00:15:50,259
+Gerçekte de onu yapıyorsun.
+
+377
+00:15:50,259 --> 00:15:52,360
+Gerçekte de onu yapıyorsun.
+
+378
+00:15:52,360 --> 00:15:53,360
+Gerçekte de öyle yapamasaydım.
+
+379
+00:15:53,360 --> 00:15:55,360
+Çünkü adam şeyi düşünmüyor.
+
+380
+00:15:55,360 --> 00:16:00,419
+Yani şuradaki muhasebeci ödemeyi yaparken bence
+
+381
+00:16:00,419 --> 00:16:04,419
+abi ben burada 5 eşit parçaya sana da geliniyorum.
+
+382
+00:16:04,419 --> 00:16:06,419
+Yok bir fatura geliyor.
+
+383
+00:16:06,419 --> 00:16:11,929
+Onun kanuni, koşullarının yerine getiriyor.
+
+384
+00:16:11,929 --> 00:16:15,820
+Eksperler gidip artık şeyimi yapıyor.
+
+385
+00:16:15,820 --> 00:16:16,820
+Neyse.
+
+386
+00:16:16,820 --> 00:16:18,820
+Ondan sonra gidiyor, diyor.
+
+387
+00:16:18,820 --> 00:16:24,610
+Şimdi ben bunu parametri zengini çalışıyorum.
+
+388
+00:16:24,610 --> 00:16:27,610
+İşte hocam burada şimdi dost dağlımı,
+
+389
+00:16:27,610 --> 00:16:29,610
+ben de şey tam kalkan da oturun orada.
+
+390
+00:16:29,610 --> 00:16:34,610
+Şimdi mesela parametrik anlaşma hükümlerinde
+
+391
+00:16:34,610 --> 00:16:39,610
+her bir grit için bir para belirleniyor.
+
+392
+00:16:39,610 --> 00:16:41,610
+O parayla da bir oran çarpılıyor ya.
+
+393
+00:16:41,610 --> 00:16:43,610
+Başka hiçbir kural yok.
+
+394
+00:16:43,610 --> 00:16:47,610
+Yani ağ anlaşması, be anlaşması, limit vesaire.
+
+395
+00:16:47,610 --> 00:16:49,610
+Hiçbir şey burada devreye girmiyor.
+
+396
+00:16:49,610 --> 00:16:53,610
+Yani onu en başta o gritin parası,
+
+397
+00:16:53,610 --> 00:16:55,610
+bu grit kaç para eder?
+
+398
+00:16:55,610 --> 00:16:58,610
+Bu grit kaç para eder?
+
+399
+00:16:58,610 --> 00:17:03,610
+İlk başta hesaplamamız gerekiyor.
+
+400
+00:17:03,610 --> 00:17:08,609
+Yani onunla, yani onu los dağlımıyla,
+
+401
+00:17:08,609 --> 00:17:13,609
+yani biz parametrik payout rampanızı yaparken
+
+402
+00:17:13,609 --> 00:17:17,609
+bu dediğinizi kullanmamız gerekiyor.
+
+403
+00:17:17,609 --> 00:17:18,609
+Ama...
+
+404
+00:17:18,609 --> 00:17:20,609
+Bu bütüncü bir problem.
+
+405
+00:17:20,609 --> 00:17:22,609
+Yani benim gözümde bu bütüncü bir problem.
+
+406
+00:17:22,609 --> 00:17:26,609
+Yani burada anlaşmaların var.
+
+407
+00:17:26,609 --> 00:17:28,609
+Riskerin konumları belli.
+
+408
+00:17:28,609 --> 00:17:31,609
+Bazı anlaşmalar, tek bir riske ait anlaşma.
+
+409
+00:17:31,609 --> 00:17:36,730
+Bazı anlaşmalarda çok şubesi olan riskerin anlaşması.
+
+410
+00:17:36,730 --> 00:17:40,109
+Yani bu bütüncü bir problem.
+
+411
+00:17:40,109 --> 00:17:50,099
+Yani onu ve bizim burada Brutal, Monte Carlo, Sanpole, İngilizce.
+
+412
+00:17:50,099 --> 00:17:55,099
+Ve ben bu şekilde anlaşma hükümlerini dikkat edilerek ki benim için tek önemli olan
+
+413
+00:17:55,099 --> 00:17:58,140
+bir belki didakta buludur.
+
+414
+00:17:58,140 --> 00:18:00,809
+Bir de ivelte ört koetini.
+
+415
+00:18:00,809 --> 00:18:07,900
+Başka bir şey yok.
+
+416
+00:18:07,900 --> 00:18:09,900
+Didakta bulunun üstünde ört koetini,
+
+417
+00:18:09,900 --> 00:18:14,900
+ört koetini altındaki kısmı ben simüle etmeye çalışıyorum.
+
+418
+00:18:14,900 --> 00:18:17,180
+Neye simüle etmeye çalışıyorum?
+
+419
+00:18:17,180 --> 00:18:19,180
+Medya mı diyeceği geldi.
+
+420
+00:18:19,180 --> 00:18:22,180
+Bazı ücülerde birden fazla anlaşmaya var risker.
+
+421
+00:18:22,180 --> 00:18:26,410
+Bazı ücülerde yalnız tek anlaşma ait risker.
+
+422
+00:18:26,410 --> 00:18:33,440
+Ben orada olası bütün bir stokastik setimdeki deprem senaryoları için
+
+423
+00:18:33,440 --> 00:18:37,210
+dostları sample etmeye çalışıyorum.
+
+424
+00:18:37,210 --> 00:18:42,210
+Sonuçta onu sample ettiğim zaman benim tek yapmam gereken o sample'in
+
+425
+00:18:43,210 --> 00:18:49,049
+bir peyat yapısı oluşturuyorum.
+
+426
+00:18:49,049 --> 00:18:52,819
+Hiç anlaşma olmasaydı daha sıkın kendini düşün.
+
+427
+00:18:52,819 --> 00:18:54,819
+Bir tek şey alacaktım.
+
+428
+00:18:54,819 --> 00:19:00,329
+Her bir hücrede ne kadar hangi tip yapı olduğunu biliyorsun.
+
+429
+00:19:00,329 --> 00:19:03,329
+Onları diye toplam sigorta bileni biliyorsun.
+
+430
+00:19:03,329 --> 00:19:06,809
+Oradaki yüzde iki şey biliyorsun.
+
+431
+00:19:06,809 --> 00:19:08,869
+Didakta bulu biliyorsun.
+
+432
+00:19:08,869 --> 00:19:12,940
+Tek yaptığın orada dost dağınlarını teker teker bulmadım.
+
+433
+00:19:12,940 --> 00:19:16,940
+Ondan sonra o dost dağınlarına göre dağınlara
+
+434
+00:19:16,940 --> 00:19:18,940
+bir şey yapıp ister min derin alışsın.
+
+435
+00:19:18,940 --> 00:19:20,940
+İster seksen bir prosentere fraktin alışsın.
+
+436
+00:19:20,940 --> 00:19:22,940
+On altı prosentere ister.
+
+437
+00:19:22,940 --> 00:19:24,940
+Yirmi beş prosentere vateme alışsın.
+
+438
+00:19:24,940 --> 00:19:26,940
+On altı oradan çiftler çizmek.
+
+439
+00:19:26,940 --> 00:19:28,940
+Bu değil mi?
+
+440
+00:19:28,940 --> 00:19:30,940
+Veya da rampadan oluşturuyorum.
+
+441
+00:19:30,940 --> 00:19:41,440
+Burada da ben buna en yakın benzer yapıyor oluşturmayacağım.
+
+442
+00:19:41,440 --> 00:19:48,369
+Benim aklıma gelen çözüm bu.
+
+443
+00:19:48,369 --> 00:19:55,369
+Şu an benim kafamdaki soru rampadın oranımdan ziyade
+
+444
+00:19:55,369 --> 00:19:57,369
+oran falan gelecek oranın ne ile çarpacağız?
+
+445
+00:19:57,369 --> 00:19:59,369
+Sorun bu aslında.
+
+446
+00:19:59,369 --> 00:20:03,400
+Şöyle bir şey var.
+
+447
+00:20:03,400 --> 00:20:05,400
+O gripte bir şey tanımlı olması gerekiyor.
+
+448
+00:20:05,400 --> 00:20:07,400
+Peki ben sana bir şey sorayım.
+
+449
+00:20:07,400 --> 00:20:12,170
+Sen o griptlere kendin gösterdin.
+
+450
+00:20:12,170 --> 00:20:14,170
+Anlaşmaların her birisi için.
+
+451
+00:20:14,170 --> 00:20:16,170
+Değil mi?
+
+452
+00:20:16,170 --> 00:20:19,170
+Orada sen o kırmızı renkler, sınır renkler,
+
+453
+00:20:19,170 --> 00:20:21,170
+yeşil renkler toplam sigorta bileni ifade etmiyor mu?
+
+454
+00:20:21,170 --> 00:20:22,359
+Evet.
+
+455
+00:20:22,359 --> 00:20:25,099
+Peki nasıl ifade etmiyor?
+
+456
+00:20:25,099 --> 00:20:27,099
+Dasktı işte kolay çünkü.
+
+457
+00:20:27,099 --> 00:20:29,190
+Her şeyle bahsediyorum.
+
+458
+00:20:29,190 --> 00:20:32,410
+Bunu ihtiyar için.
+
+459
+00:20:32,410 --> 00:20:34,410
+Yok hocam ihtiyar için.
+
+460
+00:20:34,410 --> 00:20:36,920
+Şimdi diğerini yapacağız.
+
+461
+00:20:36,920 --> 00:20:38,920
+İhtiyar için var mı böyle bölgesinin
+
+462
+00:20:38,920 --> 00:20:40,920
+anlaşmalarına göre
+
+463
+00:20:40,920 --> 00:20:42,920
+risklerinin nerede olduğunu gösterdim.
+
+464
+00:20:42,920 --> 00:20:44,920
+O gösterdiğim şey
+
+465
+00:20:44,920 --> 00:20:46,920
+toplam
+
+466
+00:20:46,920 --> 00:20:48,920
+şey değeri. Orada limitler yok.
+
+467
+00:20:48,920 --> 00:20:50,920
+Toplam bir sigorta değeri var.
+
+468
+00:20:50,920 --> 00:20:52,920
+Evet.
+
+469
+00:20:52,920 --> 00:20:57,160
+Ama çok daha anlaşmaları için nasıl yaptın onu?
+
+470
+00:20:57,160 --> 00:21:01,019
+Toplam sigorta bileni nasıl yaptın?
+
+471
+00:21:01,019 --> 00:21:03,019
+Evet.
+
+472
+00:21:03,019 --> 00:21:05,019
+Çoklu anlaşmaların da
+
+473
+00:21:05,019 --> 00:21:07,019
+her line de aslında şey var.
+
+474
+00:21:07,019 --> 00:21:09,019
+Değeri ama limitleri ortalık.
+
+475
+00:21:09,019 --> 00:21:11,019
+Abi, cemikleri ortalık olsun zaten.
+
+476
+00:21:11,019 --> 00:21:13,019
+Yani ben de onu söylemeye çalışıyorum.
+
+477
+00:21:13,019 --> 00:21:15,019
+Senin elinde bir toplam sigorta bileni var.
+
+478
+00:21:15,019 --> 00:21:17,019
+O toplam
+
+479
+00:21:17,019 --> 00:21:19,019
+yani
+
+480
+00:21:19,019 --> 00:21:21,019
+o toplam sigorta bileni üstünden
+
+481
+00:21:21,019 --> 00:21:24,009
+bir anlaşma
+
+482
+00:21:24,009 --> 00:21:26,009
+koşulları yürütüyorsun.
+
+483
+00:21:26,009 --> 00:21:29,349
+Uyguluyorsun.
+
+484
+00:21:29,349 --> 00:21:31,349
+Yani her bir
+
+485
+00:21:31,349 --> 00:21:33,349
+bir toplam sigorta bileni var.
+
+486
+00:21:33,349 --> 00:21:35,349
+Bir de oradan
+
+487
+00:21:35,349 --> 00:21:37,349
+fiktif olarak oluşturmuş olduğunu,
+
+488
+00:21:37,349 --> 00:21:39,349
+deprem silah yolu sonrasındaki dostlar var.
+
+489
+00:21:39,349 --> 00:21:41,349
+Buradaki problem
+
+490
+00:21:41,349 --> 00:21:43,349
+bir çoklu anlaşma olduğu zaman
+
+491
+00:21:43,349 --> 00:21:45,349
+o dostları ben nasıl dikkat edileceğim?
+
+492
+00:21:45,349 --> 00:21:47,349
+Değil işte hocam. Ben vallahi onu sormuyorum işte.
+
+493
+00:21:47,349 --> 00:21:49,349
+Ben diyorum ki o grit
+
+494
+00:21:49,349 --> 00:21:51,349
+şu an yap benim attığım grit var ya
+
+495
+00:21:51,349 --> 00:21:53,349
+onlar sadece toplam sigorta
+
+496
+00:21:53,349 --> 00:21:55,670
+bedelini gösteriyor.
+
+497
+00:21:55,670 --> 00:21:57,670
+Ben toplam sigorta bedelini
+
+498
+00:21:57,670 --> 00:21:59,670
+gride yazamam.
+
+499
+00:21:59,670 --> 00:22:01,670
+Limitleri de yazmam gerekiyor.
+
+500
+00:22:01,670 --> 00:22:03,670
+Niye?
+
+501
+00:22:03,670 --> 00:22:05,670
+Çünkü limitleri gride yazmazsak
+
+502
+00:22:05,670 --> 00:22:07,769
+çap
+
+503
+00:22:07,769 --> 00:22:09,769
+diyelim 1,5 pg
+
+504
+00:22:09,769 --> 00:22:11,769
+olduğu zaman
+
+505
+00:22:11,769 --> 00:22:13,769
+o gritten bize full
+
+506
+00:22:13,769 --> 00:22:15,769
+limitsiz bir şey gelecek.
+
+507
+00:22:15,769 --> 00:22:20,549
+Halbuki limitten belli.
+
+508
+00:22:20,549 --> 00:22:22,549
+Nurullah tamam da
+
+509
+00:22:22,549 --> 00:22:24,549
+bak şimdi şöyle bir şey
+
+510
+00:22:24,549 --> 00:22:26,549
+sen orada
+
+511
+00:22:26,549 --> 00:22:28,549
+hangi anlaşma yani şey tam olarak
+
+512
+00:22:28,549 --> 00:22:30,549
+bir telefonu cevap vermem gerekiyor da mı
+
+513
+00:22:30,549 --> 00:22:32,710
+sen orada
+
+514
+00:22:32,710 --> 00:22:34,710
+şeyi bilmiyorsun.
+
+515
+00:22:34,710 --> 00:22:36,710
+Yani bu
+
+516
+00:22:36,710 --> 00:22:38,710
+medyan pga sonucunda
+
+517
+00:22:38,710 --> 00:22:40,710
+o gripte hangi anlaşmaların
+
+518
+00:22:40,710 --> 00:22:42,940
+olduğunu bir bilmiyorsun
+
+519
+00:22:42,940 --> 00:22:45,640
+şu anda bilmiyorsun.
+
+520
+00:22:45,640 --> 00:22:47,640
+O anlaşmalar yani
+
+521
+00:22:47,640 --> 00:22:49,670
+şimdi şöyle bir şey düşün.
+
+522
+00:22:49,670 --> 00:22:51,670
+Bu adamlar zaten anlaşma bazında
+
+523
+00:22:51,670 --> 00:22:53,670
+bir yaklaşımları
+
+524
+00:22:53,670 --> 00:22:55,670
+benim gördüğüm kadarıyla yok.
+
+525
+00:22:55,670 --> 00:22:57,900
+Çünkü kümül var
+
+526
+00:22:57,900 --> 00:22:59,900
+bu kümülün tamamı için
+
+527
+00:22:59,900 --> 00:23:01,900
+bir resulans kılması almına
+
+528
+00:23:01,900 --> 00:23:03,900
+devredildi.
+
+529
+00:23:03,900 --> 00:23:06,089
+Ellerinde tek şey
+
+530
+00:23:06,089 --> 00:23:08,089
+orada bir
+
+531
+00:23:08,089 --> 00:23:10,470
+risk
+
+532
+00:23:10,470 --> 00:23:14,549
+anlaşmasını yaptıkları
+
+533
+00:23:14,549 --> 00:23:16,549
+risklerinin bir toplam
+
+534
+00:23:16,549 --> 00:23:22,460
+her bir toplam
+
+535
+00:23:22,460 --> 00:23:24,740
+o toplam sigorta bedelinde
+
+536
+00:23:24,740 --> 00:23:26,740
+sonuçta
+
+537
+00:23:26,740 --> 00:23:28,740
+o şeyle
+
+538
+00:23:28,740 --> 00:23:30,740
+bir dosyasalını yaptığında
+
+539
+00:23:30,740 --> 00:23:34,089
+belli bir kısmı öderecek.
+
+540
+00:23:34,089 --> 00:23:37,049
+Ve bu o da
+
+541
+00:23:37,049 --> 00:23:39,049
+biraz önce söylediğim şekilde
+
+542
+00:23:39,049 --> 00:23:41,049
+bence bu.
+
+543
+00:23:41,049 --> 00:23:43,049
+Bunun şeyini simülasyonlu
+
+544
+00:23:43,049 --> 00:23:45,619
+utkubaya da
+
+545
+00:23:45,619 --> 00:23:47,619
+soruyorum.
+
+546
+00:23:47,619 --> 00:23:49,750
+Yani adam şöyle bir şey demeyecek.
+
+547
+00:23:49,750 --> 00:23:51,750
+Ben
+
+548
+00:23:51,750 --> 00:23:54,940
+şimdik
+
+549
+00:23:54,940 --> 00:23:56,940
+lokastoluna bir tane
+
+550
+00:23:56,940 --> 00:23:58,940
+çimen toplam var, bir tane de
+
+551
+00:23:58,940 --> 00:24:01,960
+boynuverim ağzınıverim
+
+552
+00:24:01,960 --> 00:24:03,960
+bir tane simül.
+
+553
+00:24:03,960 --> 00:24:06,470
+Ben burada ona göre
+
+554
+00:24:06,470 --> 00:24:08,470
+bu medya biriciler için
+
+555
+00:24:08,470 --> 00:24:10,470
+şöyle bir
+
+556
+00:24:10,470 --> 00:24:12,890
+ödeme gerçekleştireceğim diye
+
+557
+00:24:12,890 --> 00:24:14,890
+bir şeyperlektir.
+
+558
+00:24:14,890 --> 00:24:16,890
+O çilento fabrikası artık
+
+559
+00:24:16,890 --> 00:24:18,890
+işte oradaki boydan maruz
+
+560
+00:24:18,890 --> 00:24:22,099
+böyle bir şey bence böyle bir ayrım yapmayacak.
+
+561
+00:24:22,099 --> 00:24:24,099
+Sanki o sigorta
+
+562
+00:24:24,099 --> 00:24:26,099
+yani buna bu ayrımı daha doğrusu
+
+563
+00:24:26,099 --> 00:24:28,099
+şu anda model yemeci olarak yapamaz.
+
+564
+00:24:28,099 --> 00:24:32,089
+Bence
+
+565
+00:24:32,089 --> 00:24:34,089
+ama imkan yok.
+
+566
+00:24:34,089 --> 00:24:36,089
+Yani orada sen diyorsun ki kardeşim senin burada
+
+567
+00:24:36,089 --> 00:24:38,089
+şu hücrede sana düşerim
+
+568
+00:24:38,089 --> 00:24:40,119
+toplam sigorta da
+
+569
+00:24:40,119 --> 00:24:42,119
+şu kadar bu toplam sigorta da
+
+570
+00:24:42,119 --> 00:24:44,119
+geliyor.
+
+571
+00:24:44,119 --> 00:24:46,119
+Bunlar bir takım anlaşma yemeğine
+
+572
+00:24:46,119 --> 00:24:48,119
+sahip ver.
+
+573
+00:24:48,119 --> 00:24:50,119
+Ben buna göre
+
+574
+00:24:50,119 --> 00:24:52,119
+burada bir sürü
+
+575
+00:24:52,119 --> 00:24:54,119
+medya biriciler
+
+576
+00:24:54,119 --> 00:24:56,119
+yapacak bu şey değil.
+
+577
+00:24:56,119 --> 00:24:58,119
+Ben buna göre sana elider rampaya
+
+578
+00:24:58,119 --> 00:25:00,119
+oluşturacağım.
+
+579
+00:25:00,119 --> 00:25:03,339
+Sen de burada o rampaya göre
+
+580
+00:25:03,339 --> 00:25:05,460
+elimdeki kümürdeki
+
+581
+00:25:05,460 --> 00:25:07,720
+dost
+
+582
+00:25:07,720 --> 00:25:09,779
+neyse ona göre
+
+583
+00:25:09,779 --> 00:25:11,819
+ödeme gerçekleştireceksin.
+
+584
+00:25:11,819 --> 00:25:14,039
+Biri bir mesaj var
+
+585
+00:25:14,039 --> 00:25:16,039
+yoksa kimse
+
+586
+00:25:16,039 --> 00:25:18,039
+olmamış bir şey için o deniz
+
+587
+00:25:18,039 --> 00:25:20,039
+o mesajı bir şeyin benim aklım almıyor.
+
+588
+00:25:20,039 --> 00:25:22,140
+Nasıl bulabilir ki?
+
+589
+00:25:22,140 --> 00:25:25,029
+Nasıl bilebilir ki?
+
+590
+00:25:25,029 --> 00:25:27,029
+Bu kadar, bu kadar.
+
+591
+00:25:27,029 --> 00:25:38,759
+Nasıl biliyor ki?
+
+592
+00:25:38,759 --> 00:25:40,759
+Zaten şöyle bir şey de var.
+
+593
+00:25:40,759 --> 00:25:42,759
+Mesela burada büyük ihtimalle
+
+594
+00:25:42,759 --> 00:25:44,759
+bir sınır da oluşturuyor.
+
+595
+00:25:44,759 --> 00:25:49,190
+Burada büyük ihtimalle
+
+596
+00:25:49,190 --> 00:25:51,190
+bir sınır demek istiyorum.
+
+597
+00:25:51,190 --> 00:25:54,789
+Klasik bir resulans
+
+598
+00:25:54,789 --> 00:25:56,789
+koruması var.
+
+599
+00:25:56,789 --> 00:25:58,789
+O klasik resulans
+
+600
+00:25:58,789 --> 00:26:00,789
+korumasını alırken
+
+601
+00:26:00,789 --> 00:26:03,750
+diyecekler ki
+
+602
+00:26:03,750 --> 00:26:05,750
+şu kadarınızı parametreye bağlayalım
+
+603
+00:26:05,750 --> 00:26:08,140
+geri kalanında
+
+604
+00:26:08,140 --> 00:26:10,140
+klasik resulans koruması
+
+605
+00:26:10,140 --> 00:26:12,140
+üstünden gibilerimden bir şey
+
+606
+00:26:12,140 --> 00:26:14,140
+söyleyecek.
+
+607
+00:26:14,140 --> 00:26:19,369
+Yani bunu
+
+608
+00:26:19,369 --> 00:26:21,369
+bu bayilede görüşebiliyoruz.
+
+609
+00:26:21,369 --> 00:26:23,369
+Yani siz geçen sene
+
+610
+00:26:23,369 --> 00:26:25,369
+ordu hocam şöyle şey
+
+611
+00:26:25,369 --> 00:26:27,559
+ben sorduğuma giy de
+
+612
+00:26:27,559 --> 00:26:29,559
+bu
+
+613
+00:26:29,559 --> 00:26:31,559
+daskın ki leir ya mesela
+
+614
+00:26:31,559 --> 00:26:33,559
+ritenşini koruyor vesaire
+
+615
+00:26:33,559 --> 00:26:35,559
+bunda şöyle
+
+616
+00:26:35,559 --> 00:26:37,559
+diğer geleneksel resulansla
+
+617
+00:26:37,559 --> 00:26:39,559
+hiç
+
+618
+00:26:39,559 --> 00:26:41,559
+şeysiz alakasız şekilde
+
+619
+00:26:41,559 --> 00:26:43,559
+olacakmış yani.
+
+620
+00:26:43,559 --> 00:26:45,559
+Tamamen ikinci bir koruma.
+
+621
+00:26:45,559 --> 00:26:47,559
+İkinci bir koruma.
+
+622
+00:26:47,559 --> 00:26:49,559
+Bağlantılı değil.
+
+623
+00:26:49,559 --> 00:26:51,559
+O zaman tamam.
+
+624
+00:26:51,559 --> 00:26:53,819
+Adam
+
+625
+00:26:53,819 --> 00:26:55,819
+250 yılda dikkat aldı.
+
+626
+00:26:55,819 --> 00:26:57,819
+Bir tane geleneksel resulans koruması aldı.
+
+627
+00:26:57,819 --> 00:27:00,009
+Onun üstüne için rahatlatmak için
+
+628
+00:27:00,009 --> 00:27:02,779
+sen daha korumadın.
+
+629
+00:27:04,779 --> 00:27:06,779
+Hatta şeyi sordum.
+
+630
+00:27:06,779 --> 00:27:08,779
+Çift ödeme olmaz mı bu durumda dedim.
+
+631
+00:27:08,779 --> 00:27:10,779
+Olabilir dedi.
+
+632
+00:27:10,779 --> 00:27:12,779
+Mesela diyeli event oldu.
+
+633
+00:27:12,779 --> 00:27:14,779
+Hem resulörde hem de
+
+634
+00:27:14,779 --> 00:27:16,779
+parametrikten para alınabilir
+
+635
+00:27:16,779 --> 00:27:18,779
+bu durumda.
+
+636
+00:27:18,779 --> 00:27:20,779
+Onu da bir engell yok dedi.
+
+637
+00:27:20,779 --> 00:27:22,779
+Orada proof of loss diye bir karar
+
+638
+00:27:22,779 --> 00:27:24,779
+İşte yok diyor yani bilmiyorum ama
+
+639
+00:27:24,779 --> 00:27:26,779
+biz ilgendirmez.
+
+640
+00:27:26,779 --> 00:27:28,779
+Hakikaten biz ilgendirmez.
+
+641
+00:27:28,779 --> 00:27:30,779
+O anlaşma, koşmadan hiç ilgendirmiyor.
+
+642
+00:27:30,779 --> 00:27:32,900
+Evet.
+
+643
+00:27:32,900 --> 00:27:34,900
+Tamam ben o zaman
+
+644
+00:27:34,900 --> 00:27:38,250
+şöyle bir şey
+
+645
+00:27:38,250 --> 00:27:40,250
+çünkü bu konuşmanın bir yere gittiği
+
+646
+00:27:40,250 --> 00:27:42,250
+sonuçta
+
+647
+00:27:42,250 --> 00:27:44,250
+sonuca gitmek lazım.
+
+648
+00:27:44,250 --> 00:27:46,250
+Ben şöyle bir şey yükleniyorum.
+
+649
+00:27:46,250 --> 00:27:48,569
+Bunun üstüne üçlersiz de düşünüyorum.
+
+650
+00:27:48,569 --> 00:27:50,569
+Biz bir yerde yapalım.
+
+651
+00:27:50,569 --> 00:27:52,730
+Şimdi şöyle bir şey yapalım.
+
+652
+00:27:52,730 --> 00:28:26,380
+Ne zaman gideceksiniz arkadaşlar?
+
+653
+00:28:26,380 --> 00:28:28,380
+Ben sadece sorduğum için
+
+654
+00:28:28,380 --> 00:28:30,380
+10 dakika
+
+655
+00:28:30,380 --> 00:28:32,380
+o zaman ben size bunu yazayım.
+
+656
+00:28:36,380 --> 00:28:38,380
+Aksına bakma yolu çıktık ya hazır hocam
+
+657
+00:28:38,380 --> 00:28:40,380
+soruyu yok test yaptık.
+
+658
+00:28:40,380 --> 00:28:42,380
+Bu soru gönderilmezler.
+
+659
+00:28:42,380 --> 00:28:44,380
+Ben sadece altı önce gönderdim
+
+660
+00:28:44,380 --> 00:28:46,380
+bir demiş miyiz sizde piyasaları diye
+
+661
+00:28:46,380 --> 00:28:48,380
+oradan birbiri üstüne
+
+662
+00:28:48,380 --> 00:28:50,380
+kuruşlayan ilk bir senesi ortalık yanında
+
+663
+00:28:50,380 --> 00:28:52,380
+orda taktara var.
+
+664
+00:28:52,380 --> 00:28:54,380
+Yüzde on, yüzde yirmi varan partil oluşuyor.
+
+665
+00:28:54,380 --> 00:28:56,380
+Ondan sonra konuştum.
+
+666
+00:28:56,380 --> 00:28:58,380
+Tek bir tanesim verdik.
+
+667
+00:28:58,380 --> 00:29:00,380
+Olduysa koruyorsan diye bir girişi
+
+668
+00:29:00,380 --> 00:29:02,380
+aslında ondan dolayı
+
