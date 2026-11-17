@@ -691,7 +691,7 @@
     "report_url": "https://docs.google.com/document/d/1J7mqH2JW9aprIKLCCEsXEME6TFDjL7W1/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1Zp_fqvvAyVnAVuCwGUfD6PCyeb9E4MHj": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261110_082600 - DSA-Utku görüşme.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261110_082600 - DSA-Utku görüşme.txt",
@@ -699,7 +699,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T20:23:30",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261110_082600 - DSA-Utku görüşme_Rapor.docx",
+    "reported_at": "2026-11-17T21:12:44",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1K8547U1N-bp4XwvLT1JICgwSn5GtmkeY/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1ZPtg1ZUWWM6RwDNAIXDYPWrNfE8Dv46q": {
     "status": "reported",
