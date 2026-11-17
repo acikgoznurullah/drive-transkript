@@ -584,5 +584,16 @@
     "transcribed_at": "2026-11-17T19:48:55",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1fR7Ycfy1UARay2K4JyMYVUj7fdoPxbRH": {
+    "status": "transcribed",
+    "source": "Ses 260710_160150 - SEDDK.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260710_160150 - SEDDK.txt",
+    "duration": "0:08:09",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T19:50:17",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
