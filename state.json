@@ -672,5 +672,16 @@
     "transcribed_at": "2026-11-17T20:23:30",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1ZPtg1ZUWWM6RwDNAIXDYPWrNfE8Dv46q": {
+    "status": "transcribed",
+    "source": "Ses 261110_155753 - NA-DSA-DASK Parametrik.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261110_155753 - NA-DSA-DASK Parametrik.txt",
+    "duration": "0:41:00",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:31:56",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
