@@ -630,7 +630,7 @@
     "uploaded.srt": true
   },
   "1imp7kJoyz8xjBcfnUQ-z_sG538QPkckz": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261105_140844 - NA-DSA-ME-Vulnerability.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261105_140844 - NA-DSA-ME-Vulnerability.txt",
@@ -638,7 +638,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T20:14:22",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261105_140844 - NA-DSA-ME-Vulnerability_Rapor.docx",
+    "reported_at": "2026-11-17T21:11:49",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1o1CiP4jShZHUVvIpY0mZzFMgXqqLTJKF/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1B57ObAmVQiJAAbIFyikQ71XqFom3YzQn": {
     "status": "transcribed",
