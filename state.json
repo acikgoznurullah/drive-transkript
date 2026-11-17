@@ -606,5 +606,16 @@
     "transcribed_at": "2026-11-17T19:53:07",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1irTbek1YtYIUeWjRISaG_vQuNEWS-745": {
+    "status": "transcribed",
+    "source": "Ses 260723_151253 - Dask Sermaye Prim.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260723_151253 - Dask Sermaye Prim.txt",
+    "duration": "0:51:25",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:04:03",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

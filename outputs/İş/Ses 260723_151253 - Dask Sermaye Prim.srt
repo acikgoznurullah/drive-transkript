@@ -1,0 +1,4036 @@
+1
+00:00:00,000 --> 00:00:07,679
+Çıkartmıştık. 2000 yılı sonrası yapıların İstanbul için söz konusu oldu, İstanbul söz konusu olduğunda
+
+2
+00:00:07,679 --> 00:00:16,539
+Kümül'de yoğunluğu teşkil etti. Bunlar içerisinde de orta katlı yapıların yani şuradaki yükselte
+
+3
+00:00:16,539 --> 00:00:29,000
+veya da buradaki yükselte gele 80-99 yıl arasında orta katlı yapıların Kümül'de yoğunluk arz ettiğini daha önceki sunumlarda da sizlere aktarmıştık.
+
+4
+00:00:30,100 --> 00:00:46,100
+Gene mahalle bazında Kümül'ün yenileni dikkate aldığımızda da İstanbul'un 3 aşağı 5 şukarı risk kodu anlamında 2 ile 3. bölgeye tegabru ettiğinde daha önceki sunumlardan sizlere şey yapmıştık, aktarmıştık.
+
+5
+00:00:46,100 --> 00:00:57,450
+Bununla beraber yani bu bilgileri dikkate aldığımızda hani tüm son 6 yıldaki değişimin aslında bakarsanız
+
+6
+00:00:57,450 --> 00:01:10,450
+average annual loss pirime tek şey yapalım. Pirime bir şekilde şu anda doğrudan dikkate aldığımız beklenen yıllık hasarı
+
+7
+00:01:10,450 --> 00:01:23,450
+yıllara bağlı olarak Kümül'deki değişimin az olması ve Kümül'ün daha çok orta kat ve 2000 yılı bir sonrası yapılardan şey olmasından dolayı yoğunlukta
+
+8
+00:01:23,450 --> 00:01:37,450
+bu şeyin binat projesinin Kümül'ü kontrol etmesinden dolayı ortalama average annual loss'un yıllık beklenen ortalaman sağların yıllara bağlı olarak
+
+9
+00:01:37,450 --> 00:01:50,450
+bir değişim göstermediğine, çok büyük bir değişim göstermediğine buna mukabe, dusk pirim kat sayısının 3. risk bölgesi eğer enerleştirirsek
+
+10
+00:01:50,450 --> 00:02:00,450
+yıllara bağlı olarak beklenen yıllık ortalama hasara bağlı average annual loss oranına göre
+
+11
+00:02:00,450 --> 00:02:11,449
+%35 ila %90 son arttırımlarla beraber %90 nesbetinde arttığını görüyoruz tabi burada dusk pirim oranı veya kat sayısı
+
+12
+00:02:11,449 --> 00:02:18,449
+sonuçta yani teknik fiyatlamayı yanı sıra pek çok diğer yüklemeyi de dikkate alıyor
+
+13
+00:02:19,449 --> 00:02:24,449
+fakat sonuç tipar ile buradan şunu çıkartabiliriz
+
+14
+00:02:24,449 --> 00:02:33,479
+doğrudan average annual lossu teknik pirim için dikkate alırsak burada kat sayı anlamında
+
+15
+00:02:33,479 --> 00:02:42,479
+çok da fazla bir şey artık bundan sonra yapılamayacağı ortaya çıkmış oluyor
+
+16
+00:02:42,479 --> 00:02:48,479
+zaten yaklaşık 2 kat yükleme ile beraber son şeylerde teknik bir eğer dusk yani
+
+17
+00:02:48,479 --> 00:02:52,479
+kat modunun hesaplamalarının doğru olduğunu, %100 doğru olduğunu varsayarsak
+
+18
+00:02:52,479 --> 00:03:00,479
+neredeyse oradaki teknik pirimin average annual loss ratio'nun kat sayının
+
+19
+00:03:00,479 --> 00:03:09,479
+yaklaşık 2 katının şu anda dusk tarafından pirim kat sayısı olarak en azından İstanbul için kullanıldığını görebiliyoruz
+
+20
+00:03:10,479 --> 00:03:19,610
+buradan eğer ben bunu genelleştirmek istersem 3 aşağı 5 yukarı tüm marmara bölgesindeki iller için
+
+21
+00:03:19,610 --> 00:03:29,960
+average annual loss ratio'nun yıllara bağlı yani 2027 dusk'ın Türk restorans tarafından işletilmeye başlandığı
+
+22
+00:03:29,960 --> 00:03:38,599
+ilk dönemden son döneme kadar olan süreçte il bazında da average annual lossu loss ratio'nun
+
+23
+00:03:38,599 --> 00:03:45,599
+pirim kat sayısının teknik anlamda çok büyük bir değişiklik arz etmediğini görmekteyiz
+
+24
+00:03:45,599 --> 00:03:50,979
+burada biraz önce İstanbul'u şey yaptım İstanbul'u örnek verdi
+
+25
+00:03:50,979 --> 00:03:57,979
+işte bu şurada onun üstüne çıkan average annual loss ratio cinsinden koca eli sakarya ve yola o var
+
+26
+00:03:57,979 --> 00:04:04,979
+ama buradaki şey genel çerçeve değişmiyor
+
+27
+00:04:04,979 --> 00:04:13,979
+bu da şöyle bir şey bize söylüyor aslına bakarsanız average annual loss ratio
+
+28
+00:04:13,979 --> 00:04:23,980
+biraz da kendisi pirim hesaplamasında bize dusk'ın olası katastrofik bir olayı
+
+29
+00:04:23,980 --> 00:04:26,980
+ödemeye yönelik şeyinde
+
+30
+00:04:26,980 --> 00:04:31,980
+çok büyük bir indikator olarak yani çok büyük bir indikator değil
+
+31
+00:04:31,980 --> 00:04:38,980
+pirim kat sayısını yükseltmek de belki de dusk'ın pirimi güncellemeği düşünürse
+
+32
+00:04:38,980 --> 00:04:45,980
+average annual loss üstünden yapması gereken ve yani varması gereken sonuca yardımcı
+
+33
+00:04:45,980 --> 00:04:50,980
+olmayacak gibi bir sonucu ortaya çıkartıyor
+
+34
+00:04:50,980 --> 00:04:54,980
+bunun üzerine biz daha önce belki
+
+35
+00:04:54,980 --> 00:04:59,980
+balaküstü sohbetlerimizde ifade etmeye çalıştım
+
+36
+00:04:59,980 --> 00:05:07,180
+dusk'ın yıllık reassurance anlaşmaları, korumalarını da dikkate alan
+
+37
+00:05:07,180 --> 00:05:12,180
+ve bunun üstüne bildiğim kadarıyla her zaman bir devlet desteği var
+
+38
+00:05:12,180 --> 00:05:17,180
+bu devlet desteğini de şey yapan dikkate alan
+
+39
+00:05:17,180 --> 00:05:22,850
+bunların hepsi fiktif vereceğimi örneklerde
+
+40
+00:05:22,850 --> 00:05:31,850
+ve fakat buna mukabil hala hazırda zorunlu bir depremsik, zorunlu bir sigurda olduğu için
+
+41
+00:05:31,850 --> 00:05:36,850
+cazibesini, pirim anlamında cazibesini de çok yitirmeyen
+
+42
+00:05:36,850 --> 00:05:40,850
+bir pirim sistemi üstünde çalışma gerçekleştirdik
+
+43
+00:05:40,850 --> 00:05:48,850
+şimdi o yöntemle ilgili size kısa örneklerle beraber o yöntemi anlatmaya çalışacağım
+
+44
+00:05:48,850 --> 00:05:52,850
+şimdi biraz önce söylediğim gibi
+
+45
+00:05:52,850 --> 00:05:59,850
+yani bu yöntemin amacı dusk'ın katastrofik depremler sonrasında
+
+46
+00:05:59,850 --> 00:06:04,850
+finanse alt sürdürebilirliğini ki bildiğim kadarıyla buna sol bilsin diye
+
+47
+00:06:04,850 --> 00:06:12,850
+tabir ediniyorum. İngilizce bu sürdemi korurken pirimleri hala hazırda
+
+48
+00:06:12,850 --> 00:06:20,850
+ödenebilir olması özelliğini sağlayarak böyle bir yöntemin üstünde
+
+49
+00:06:20,850 --> 00:06:23,850
+durmaya çalıştık, durmaya çalıştık.
+
+50
+00:06:23,850 --> 00:06:26,850
+burada da temel stratejimiz şu oldu
+
+51
+00:06:26,850 --> 00:06:32,850
+bu işte maliyeti kapital based veya sermaye tabağında bir pirim oluşturmaya gayret ettik
+
+52
+00:06:33,850 --> 00:06:41,850
+çünkü sonuç itibariyle dusk'ın böyle bir havuza sahip dusk'ın
+
+53
+00:06:41,850 --> 00:06:47,850
+esas en büyük endişesi katastrofik bir deprem sonrasında
+
+54
+00:06:47,850 --> 00:06:51,850
+hasarı ödeyebilme yeteneğini kaybetmemek
+
+55
+00:06:51,850 --> 00:06:56,850
+bu da average annual loss ile biraz önce göstermeye çalıştık
+
+56
+00:06:56,850 --> 00:07:01,579
+tam olarak şey ifade edilemiyor
+
+57
+00:07:01,579 --> 00:07:07,649
+bunu böyle bir katastrofik olayı ödemeye yönelik
+
+58
+00:07:07,649 --> 00:07:11,649
+adımları atarken politikada geliştirirken dusk tabi haliyle
+
+59
+00:07:11,649 --> 00:07:16,649
+yönetim kurumunda onayıyla beraber, teknik işletmecisinin de onayıyla
+
+60
+00:07:16,649 --> 00:07:21,649
+beraber ve hatta beraber reasurans korumalarını dikkat ediyor
+
+61
+00:07:21,649 --> 00:07:27,649
+reasurans korumalarının esas şeye hedefi katastrofik bir depremde
+
+62
+00:07:27,649 --> 00:07:33,649
+dusk'ın malik ücünü şey yapmak, ayakta tutabilmek
+
+63
+00:07:33,649 --> 00:07:35,649
+sürdürebileni sağlamak
+
+64
+00:07:35,649 --> 00:07:40,649
+bu anlamda dusk ekstradan bir maliyetle karşı karşıya
+
+65
+00:07:40,649 --> 00:07:46,649
+işte bu maliyeti biz nasıl şey yapabiliriz, pirime yansıtabiliriz
+
+66
+00:07:46,649 --> 00:07:49,649
+ama bunu yaparken de aynı zamanda
+
+67
+00:07:49,649 --> 00:07:55,649
+bu zorunlu sigortanın cazibesini, halk gözünde kaybettirmeden
+
+68
+00:07:57,029 --> 00:08:05,319
+şimdi bu anlamda da aşınağı olabilirsiniz
+
+69
+00:08:05,319 --> 00:08:10,350
+biz kuyruk duyarlı ortalama kayıp ifade edilen
+
+70
+00:08:10,350 --> 00:08:17,379
+tail value at risk parametresini dikkat et almak istedik
+
+71
+00:08:17,379 --> 00:08:23,540
+bu parametre normalde bir spokasitik hesap yaptığınız zaman
+
+72
+00:08:23,540 --> 00:08:34,250
+siz sonuçta return period bazlı bir kayıp hesabı yapıyorsunuz
+
+73
+00:08:34,250 --> 00:08:39,250
+bunu şu şekilde bir eğri olarak da ifade edebilirsiniz aslında
+
+74
+00:08:39,250 --> 00:08:42,250
+5 belli return periodlara bağlı
+
+75
+00:08:42,250 --> 00:08:47,250
+bir onlara karşılık gelen kayıp'ı ifade eden bir eğri olarak görebilirsiniz
+
+76
+00:08:47,250 --> 00:08:51,250
+bu eğrenin yani basit matematik altındaki alan
+
+77
+00:08:51,250 --> 00:09:01,759
+sizin aslına bakarsanız uzun süreçle beklenen hasarı ifade eder
+
+78
+00:09:01,759 --> 00:09:04,759
+ki biz buna average annual loss diyoruz
+
+79
+00:09:04,759 --> 00:09:11,759
+fakat burada katastrofik olayların kontrol ettiği domini ettiği
+
+80
+00:09:11,759 --> 00:09:17,759
+bu kuyruk kısmındaki ya da İngilizce tabiriyle tail kısmındaki
+
+81
+00:09:17,759 --> 00:09:22,110
+loss değerleri average annual loss yani
+
+82
+00:09:22,110 --> 00:09:28,110
+eğrinin altındaki alının tamamı ile tamamından elde edilen sonuçla
+
+83
+00:09:28,110 --> 00:09:32,110
+sonuçtan çok daha farklı bir resim çizebiliyor
+
+84
+00:09:32,110 --> 00:09:37,110
+çünkü sonuç itibariyle bu kuyrukdaki hasar değerleri
+
+85
+00:09:37,110 --> 00:09:41,110
+bizim 1000 yılda bir, 500 yılda bir, 250 yılda bir
+
+86
+00:09:41,110 --> 00:09:46,529
+oluşma ihtimali olan veya en azından bir kere oluşma ihtimali olan
+
+87
+00:09:46,529 --> 00:09:50,529
+hasarı temsil eden kayıp değerlidir
+
+88
+00:09:50,529 --> 00:09:57,690
+e biz eğer bu şeyi mesela 100 yıllık kendimize kritik bir
+
+89
+00:09:57,690 --> 00:10:01,690
+yani loss anlamında 100 yıllık lossu kendimize kritik bir loss
+
+90
+00:10:01,690 --> 00:10:04,690
+olarak ifade edersek veyahut da belirlersek
+
+91
+00:10:04,690 --> 00:10:09,690
+100 yıl ve üstünde lossa loss oluşturacak
+
+92
+00:10:09,690 --> 00:10:15,690
+en az 100 yılda bir kere veya daha uzun periodlarda
+
+93
+00:10:15,690 --> 00:10:19,690
+loss oluşturacak tail kısmındaki
+
+94
+00:10:19,690 --> 00:10:25,690
+bu erinin kuyruk kısmındaki hasarın ortalamasını alırsak
+
+95
+00:10:25,690 --> 00:10:30,690
+o zaman hakikaten katastrofik bir deprem olduğundaki
+
+96
+00:10:30,690 --> 00:10:36,690
+olası maliyet kaybını, ortalamadaki maliyet kaybını
+
+97
+00:10:36,690 --> 00:10:41,690
+eee bir şekilde dikkate almaya başlamış oluyoruz
+
+98
+00:10:41,690 --> 00:10:45,690
+ki aslında bakarsanız yine bunu yani Balkül Bey çok iyi biliyordur
+
+99
+00:10:45,690 --> 00:10:48,690
+veya da Müge çok iyi biliyordur
+
+100
+00:10:48,690 --> 00:10:50,690
+biz yeni öğrendeği başladık
+
+101
+00:10:50,690 --> 00:10:55,690
+reusör de aslında bakarsanız kendi fiyatlamasını
+
+102
+00:10:55,690 --> 00:10:58,690
+hep şu kısımdaki
+
+103
+00:10:58,690 --> 00:11:02,690
+yapmış olduğu kayıp sonuçlarıyla
+
+104
+00:11:02,690 --> 00:11:09,070
+şimdi tabi amaç şu reusör bunu bu şekilde yaparken
+
+105
+00:11:09,070 --> 00:11:12,070
+bir dastla veyahut da dast bastasıyla
+
+106
+00:11:12,070 --> 00:11:17,070
+işte türklü trance bastasıyla dastla veyahut da tam tersi
+
+107
+00:11:17,070 --> 00:11:20,070
+bu yıllık koruma anlaşmalarını yaparken
+
+108
+00:11:20,070 --> 00:11:25,070
+biz bunu akıllı bir şekilde pirime nasıl yansıtabiliriz?
+
+109
+00:11:25,070 --> 00:11:26,070
+olay o
+
+110
+00:11:26,070 --> 00:11:28,070
+eee burada çok basit bir örnek verdim ama
+
+111
+00:11:28,070 --> 00:11:30,070
+bu örnek üstünden mi gitmek lazım
+
+112
+00:11:30,070 --> 00:11:34,070
+yoksa daha sonra istanbul risk ve tehlike anlamında
+
+113
+00:11:34,070 --> 00:11:37,070
+çok yüksek potansiyede sahip ve Ankara
+
+114
+00:11:37,070 --> 00:11:42,070
+eee risk anlamında pardon tehlike anlamında
+
+115
+00:11:42,070 --> 00:11:44,070
+yüksek potansiyede sahip değil olmayan
+
+116
+00:11:44,070 --> 00:11:47,070
+fakat eee kümmül anlamında oldukça
+
+117
+00:11:47,070 --> 00:11:49,070
+eee yüksek olduk riski yüksek olan bir
+
+118
+00:11:49,070 --> 00:11:51,070
+il üstünden mi gitmek lazım
+
+119
+00:11:51,070 --> 00:11:53,070
+isterseniz şöyle yapayım
+
+120
+00:11:53,070 --> 00:11:56,070
+ben gerçek kezlerden gideyim şunları zaten bunu
+
+121
+00:11:56,070 --> 00:11:58,070
+eee sizlere sunacağız bu şeyi
+
+122
+00:11:58,070 --> 00:11:59,070
+sunumu
+
+123
+00:11:59,070 --> 00:12:01,070
+bu örneği oradan şey yapabilirsiniz
+
+124
+00:12:01,070 --> 00:12:02,070
+yakalayabilirsiniz ama
+
+125
+00:12:02,070 --> 00:12:05,070
+ben şöyle izin verirseniz istanbul üstünden gideyim
+
+126
+00:12:05,070 --> 00:12:07,070
+şimdi şöyle bir şey yaptık
+
+127
+00:12:07,070 --> 00:12:09,070
+kolay anlatım açısından bu
+
+128
+00:12:09,070 --> 00:12:12,070
+tüm türkiye'yi de bu ya şey yapılabilir
+
+129
+00:12:12,070 --> 00:12:14,070
+yansıtılabilir
+
+130
+00:12:14,070 --> 00:12:17,779
+eee haziran ayı beyazda yanlış olmasın
+
+131
+00:12:17,779 --> 00:12:19,779
+sercan lütfen sen söyle haziran ayı
+
+132
+00:12:19,779 --> 00:12:22,779
+en son yapmış olduğumuz
+
+133
+00:12:22,779 --> 00:12:24,779
+eee dusk yani çalışmış olduğumuz dusk
+
+134
+00:12:24,779 --> 00:12:26,779
+kümmülün dikkate aldık
+
+135
+00:12:26,779 --> 00:12:29,779
+ve oradaki eee muafiyet sonrası
+
+136
+00:12:29,779 --> 00:12:32,779
+yüzde iki muafiyet sonrası bürüt hasar stokastik
+
+137
+00:12:32,779 --> 00:12:33,779
+sonuçlarını
+
+138
+00:12:33,779 --> 00:12:35,899
+kendimize bir mirengi noktası olarak
+
+139
+00:12:35,899 --> 00:12:36,899
+aldık istanbul'da
+
+140
+00:12:36,899 --> 00:12:38,899
+istanbul'daki kümmül
+
+141
+00:12:38,899 --> 00:12:41,899
+istanbul'daki eee ve sırf istanbul
+
+142
+00:12:41,899 --> 00:12:44,899
+eee eee içeren stokastik
+
+143
+00:12:44,899 --> 00:12:46,899
+dos hesapları
+
+144
+00:12:46,899 --> 00:12:47,899
+kayıt hesapları
+
+145
+00:12:47,899 --> 00:12:49,899
+burada şöyle bir varsayım da
+
+146
+00:12:49,899 --> 00:12:52,899
+dedik ki dusk ve anarya sürüyor
+
+147
+00:12:52,899 --> 00:12:54,899
+bunu sağ olsun mügelle biraz konuştu
+
+148
+00:12:54,899 --> 00:12:56,899
+dusk ve anarya sürüyor
+
+149
+00:12:56,899 --> 00:12:58,899
+anlaşıyorlar
+
+150
+00:12:58,899 --> 00:13:00,899
+ve burada giriş olarak
+
+151
+00:13:00,899 --> 00:13:01,899
+entry point olarak
+
+152
+00:13:01,899 --> 00:13:03,899
+ve çıkış olarak da
+
+153
+00:13:03,899 --> 00:13:05,899
+sırasıyla elli yıl rütör periodi ve
+
+154
+00:13:05,899 --> 00:13:07,899
+iki yüz elli yıl rütör periodi
+
+155
+00:13:07,899 --> 00:13:10,899
+kendine karşılık gelen bürüt hasarları
+
+156
+00:13:10,899 --> 00:13:12,899
+dikkate alıyor
+
+157
+00:13:12,899 --> 00:13:15,000
+yani burada rüya sürüyor
+
+158
+00:13:15,000 --> 00:13:17,000
+sonuç itibariyle
+
+159
+00:13:17,000 --> 00:13:19,000
+elli yıldan iki yüz elli yıla kadar
+
+160
+00:13:19,000 --> 00:13:21,000
+olan şu kısımdaki
+
+161
+00:13:21,000 --> 00:13:23,000
+hasarı bir şekilde üstlenebileceğini
+
+162
+00:13:23,000 --> 00:13:25,000
+ya da dusk bulur
+
+163
+00:13:25,000 --> 00:13:27,000
+rüya sürüre eee devreteceğini
+
+164
+00:13:27,000 --> 00:13:29,000
+biz bu senaryoda hayal ettik
+
+165
+00:13:29,000 --> 00:13:31,029
+bu değişebilir
+
+166
+00:13:31,029 --> 00:13:33,029
+yani şey diyebilirsiniz
+
+167
+00:13:33,029 --> 00:13:35,029
+average annual loss burada
+
+168
+00:13:35,029 --> 00:13:37,029
+3 aşağı 5 şükür 2.8 milyarlara tutmuş
+
+169
+00:13:37,029 --> 00:13:39,029
+o zaman eee dusk
+
+170
+00:13:39,029 --> 00:13:41,029
+eee şey diyebilirim
+
+171
+00:13:41,029 --> 00:13:43,029
+ben frequent lossları
+
+172
+00:13:43,029 --> 00:13:45,029
+kendim öderim
+
+173
+00:13:45,029 --> 00:13:47,450
+daha sonrasını
+
+174
+00:13:47,450 --> 00:13:49,450
+rüya sürüre devretmeye başlayabilirim diyip
+
+175
+00:13:49,450 --> 00:13:51,450
+yirmi yıldan sonra da
+
+176
+00:13:51,450 --> 00:13:53,450
+yani yirmi yılda entry point olarak da
+
+177
+00:13:53,450 --> 00:13:55,450
+kendisine öngörebilir vesaire vesaire
+
+178
+00:13:55,450 --> 00:13:57,450
+hepsini değiştirebiliriz
+
+179
+00:13:57,450 --> 00:13:59,450
+bu bir yalnızca örnek senaryo
+
+180
+00:13:59,450 --> 00:14:01,450
+sonuçta biz bu şekilde dikkate aldığımızda
+
+181
+00:14:01,450 --> 00:14:03,450
+bir de diyoruz ki
+
+182
+00:14:03,450 --> 00:14:05,450
+bir de rate online
+
+183
+00:14:05,450 --> 00:14:07,450
+şey yapalım tamamıyla
+
+184
+00:14:07,450 --> 00:14:09,450
+%4 de rate online'ımız olsun
+
+185
+00:14:09,450 --> 00:14:11,450
+buradaki exit point
+
+186
+00:14:11,450 --> 00:14:13,450
+yüz doksan dört
+
+187
+00:14:13,450 --> 00:14:15,450
+nokta dört milyar lira
+
+188
+00:14:15,450 --> 00:14:17,450
+eee duskında burada ödeyeceği prim
+
+189
+00:14:17,450 --> 00:14:19,450
+lütfen yanlışsam düzeltin
+
+190
+00:14:19,450 --> 00:14:21,450
+eee yüz doksan dört bir gün
+
+191
+00:14:21,450 --> 00:14:23,450
+nokta dört milyar liranın
+
+192
+00:14:23,450 --> 00:14:25,639
+resuransa
+
+193
+00:14:25,639 --> 00:14:27,639
+bir prim ödemesi söz konusu
+
+194
+00:14:27,639 --> 00:14:29,700
+bunlar tamamen fiktif hayali
+
+195
+00:14:29,700 --> 00:14:31,700
+eee sonuçta
+
+196
+00:14:31,700 --> 00:14:33,700
+ben bu hesap üstümden
+
+197
+00:14:33,700 --> 00:14:36,090
+daha hiç şey yapmadan
+
+198
+00:14:36,090 --> 00:14:38,379
+eee resurans
+
+199
+00:14:38,379 --> 00:14:40,379
+işi devreye girmeden
+
+200
+00:14:40,379 --> 00:14:42,379
+bu ilk önceki şey
+
+201
+00:14:42,379 --> 00:14:44,700
+eee
+
+202
+00:14:44,700 --> 00:14:46,700
+İstanbul'da on farklı
+
+203
+00:14:46,700 --> 00:14:48,700
+binatipolojisi var
+
+204
+00:14:48,700 --> 00:14:50,700
+her bir binatipolojisinin
+
+205
+00:14:50,700 --> 00:14:53,980
+bürüt
+
+206
+00:14:53,980 --> 00:14:55,980
+stokanstik sonuçlardan
+
+207
+00:14:55,980 --> 00:14:57,980
+average annual loss
+
+208
+00:14:57,980 --> 00:14:59,980
+değerlerini hesap diyebiliyor
+
+209
+00:14:59,980 --> 00:15:02,779
+eee
+
+210
+00:15:02,779 --> 00:15:04,779
+resurans öncesi
+
+211
+00:15:04,779 --> 00:15:06,779
+gene her bir binatipolojisi için
+
+212
+00:15:06,779 --> 00:15:09,129
+o her bir binatipolojisinin
+
+213
+00:15:09,129 --> 00:15:11,129
+ayit
+
+214
+00:15:11,129 --> 00:15:13,190
+o ip eğililerinden
+
+215
+00:15:13,190 --> 00:15:15,419
+teybel uyatacağız ki
+
+216
+00:15:15,419 --> 00:15:17,419
+yine %1'e kendime şey yaparak
+
+217
+00:15:17,419 --> 00:15:19,419
+yani 100 yıl, 3-4 birit
+
+218
+00:15:19,419 --> 00:15:21,419
+ve ötesine kendime
+
+219
+00:15:21,419 --> 00:15:23,419
+şey yaparak eee
+
+220
+00:15:23,419 --> 00:15:25,419
+başlangıç noktası kritik katastrofik olayların
+
+221
+00:15:25,419 --> 00:15:27,419
+başlangıcı olarak dikkate alıp
+
+222
+00:15:27,419 --> 00:15:29,419
+100 yıl bir ötesi
+
+223
+00:15:29,419 --> 00:15:31,419
+eee kayıpların
+
+224
+00:15:31,419 --> 00:15:33,419
+ortalamasını dikkate alan
+
+225
+00:15:33,419 --> 00:15:35,419
+eee böyle bir
+
+226
+00:15:35,419 --> 00:15:37,419
+katastrofik olay olduğunda
+
+227
+00:15:37,419 --> 00:15:39,419
+her bir binatipi için
+
+228
+00:15:39,419 --> 00:15:41,419
+her bir binatipolojisi için
+
+229
+00:15:41,419 --> 00:15:43,419
+daskın elinde bulunduğu
+
+230
+00:15:43,419 --> 00:15:45,419
+tutması gereken
+
+231
+00:15:45,419 --> 00:15:48,309
+ortalama sermayeyi
+
+232
+00:15:48,309 --> 00:15:50,309
+hesaplayabiliyorum
+
+233
+00:15:50,309 --> 00:15:52,309
+ki bunların toplamları şu altta
+
+234
+00:15:52,309 --> 00:15:54,309
+kalın altta şeylerle
+
+235
+00:15:54,309 --> 00:15:56,309
+eee fondlarla yazılmış durumda
+
+236
+00:15:56,309 --> 00:15:58,309
+bunu umarımı
+
+237
+00:15:58,309 --> 00:16:00,309
+anlatabiliyorum, yani diyiyorum ki
+
+238
+00:16:00,309 --> 00:16:02,309
+eee här benim katastrofik
+
+239
+00:16:02,309 --> 00:16:04,309
+şu benim ee frequent
+
+240
+00:16:04,309 --> 00:16:06,309
+loslarım sonucunda
+
+241
+00:16:06,309 --> 00:16:08,309
+bekleden yıllık, her birbinatipi için
+
+242
+00:16:08,309 --> 00:16:10,309
+şeyinmeal
+
+243
+00:16:10,309 --> 00:16:12,309
+fabulous
+
+244
+00:16:12,309 --> 00:16:14,309
+evet eee eee eee ee her
+
+245
+00:16:14,309 --> 00:16:16,309
+katastrofik bir olay olursa
+
+246
+00:16:16,309 --> 00:16:18,309
+Burda bir eee İstanbul
+
+247
+00:16:18,309 --> 00:16:20,309
+deprem olabilir, yattı benzer büyük bir
+
+248
+00:16:20,309 --> 00:16:24,230
+deprem olabilir. Böyle bir deprem olduğu vakit bu her bir
+
+249
+00:16:24,230 --> 00:16:30,600
+binatibi için oradaki hasarı ödemeye yönelik benim elimde
+
+250
+00:16:30,600 --> 00:16:37,379
+bulundurmam gereken ııı şey miktarı, sermaye miktarı. Bu
+
+251
+00:16:37,379 --> 00:16:43,379
+elimdeki sermaye olsa ben bu ket modunun modellemesi yüzde
+
+252
+00:16:43,379 --> 00:16:47,700
+yüz doğru tutuyor olsa ben toplamda işte yetmiş dokuz
+
+253
+00:16:47,700 --> 00:16:52,419
+öncesi bina ııı bina az katlı binalardan işte iki bin
+
+254
+00:16:52,419 --> 00:16:56,259
+sonrası ııı yapılmış yirmi kat ve üstündeki binalara kadar
+
+255
+00:16:56,259 --> 00:17:00,980
+ne kadar hasar ödeyeceğim bunu biliyorum ortalama da bu
+
+256
+00:17:00,980 --> 00:17:05,059
+paranın ııı kendime sermayere tutarsam ben benim hiç
+
+257
+00:17:05,059 --> 00:17:09,380
+korkum yok bu şekilde. Bunun bunun hesabını gösteriyorum
+
+258
+00:17:09,380 --> 00:17:13,029
+burada. Ve şurada dip yekili söylüyorum. Bu öyle bir
+
+259
+00:17:13,029 --> 00:17:15,990
+miktarı ben tabii ki kendi dünyamda bulunduramam.
+
+260
+00:17:16,150 --> 00:17:19,990
+Bunun bir şekilde almam lazım. Yani elde etmem lazım. Onun
+
+261
+00:17:19,990 --> 00:17:25,509
+bana ııı sermaye olarak ııı maliyetini hesaplıyorum.
+
+262
+00:17:25,509 --> 00:17:29,029
+Burada diyorum ki komisyon olarak ben herhangi bir işte
+
+263
+00:17:29,029 --> 00:17:32,470
+kapitan sahibini yüzde sekiz komisyon ödersen bu da
+
+264
+00:17:32,470 --> 00:17:36,309
+tamamen fiktif. Ben o paraları şu paraları elde ede
+
+265
+00:17:36,309 --> 00:17:39,910
+edebileceğim. O zaman bunun bana maliyet ve her binatibi
+
+266
+00:17:39,910 --> 00:17:42,869
+için şu kadar milyon liralar toplamda on yedi
+
+267
+00:17:42,869 --> 00:17:45,990
+nokta yedi milyar lira. Giderlerim var. Bunu bilmiyorum
+
+268
+00:17:45,990 --> 00:17:49,750
+ama bu her durum için geçerli. Daha sonraki kıyaslarda.
+
+269
+00:17:49,750 --> 00:17:54,839
+Sonuç itibariyle ben kapitale bağlı katastrofik bir deprem
+
+270
+00:17:54,839 --> 00:18:01,960
+olduğu vakit oluşabilecek hasarları karşılayabileceğim.
+
+271
+00:18:01,960 --> 00:18:04,759
+Hem de katastrofik bir deprem sonrasında oluşabilecek
+
+272
+00:18:04,759 --> 00:18:09,960
+hasarları karşılayabileceğim ııı sermayenin ııı bana
+
+273
+00:18:09,960 --> 00:18:12,839
+maliyetini dikkate aldım. Ve bir de giderlerim var.
+
+274
+00:18:12,839 --> 00:18:14,839
+Ama bunu bilmediğim için şu anda sıfır gelecek.
+
+275
+00:18:14,839 --> 00:18:19,400
+Ama sonuçta her bir binatibi için nihayı olarak elim
+
+276
+00:18:19,400 --> 00:18:25,539
+bürüt bana gereken primi burada elde edebiliyorum. Buna
+
+277
+00:18:25,539 --> 00:18:28,579
+baktığım zaman İstanbul İstanbul Genelinde yirmi bir
+
+278
+00:18:28,579 --> 00:18:32,819
+gül elli milyar lira gibi bir primi ihtiyacım var. Benim bu
+
+279
+00:18:32,819 --> 00:18:38,180
+bu hesap çıkıyor. Bu daha nedir? Reyesurada anlaşmaları
+
+280
+00:18:38,180 --> 00:18:42,900
+öncesi daha Reyesurada ekibi bir ııı ön varsayım yaptım
+
+281
+00:18:42,900 --> 00:18:45,539
+bir bilgi verdim ama Reyesurada anlaşmaları
+
+282
+00:18:45,539 --> 00:18:49,140
+öncesi benim elimde böyle bir ödemek gücü olsaydı yirmi
+
+283
+00:18:49,140 --> 00:18:53,539
+bir gül elli milyar lira alıp bir primi ihtiyacım olacaktı. Ben
+
+284
+00:18:53,539 --> 00:18:59,829
+bunu İstanbul halkından topla toplayacaktım. Şu benim her bir
+
+285
+00:18:59,829 --> 00:19:03,750
+binatibi için İstanbul Genelinde konuşuyorum. Toplam
+
+286
+00:19:03,750 --> 00:19:09,269
+sigorta bedelleri. Ben şuradaki nihayip primi bunlarla
+
+287
+00:19:09,269 --> 00:19:13,430
+yani şuradaki değerlerle dormazı ettiğimde de prim kat
+
+288
+00:19:13,430 --> 00:19:17,029
+sayısını binde olarak şey yapıyorum. Ki Gene ve
+
+289
+00:19:17,029 --> 00:19:24,630
+Asurans öncesi her binatibülüsü için ııı
+
+290
+00:19:24,630 --> 00:19:29,190
+yüzde sekiz işte ııı komisyon ediyorum bu kadar
+
+291
+00:19:29,190 --> 00:19:32,309
+hürüt sermaye sahip olabilmek için vesaire vesaire. Bunları
+
+292
+00:19:32,309 --> 00:19:35,430
+şey yaptığımda her binatibi için böyle çok yüksek
+
+293
+00:19:35,430 --> 00:19:40,200
+seviyede derbesi yüzde bir seviyesinde kat sayılara
+
+294
+00:19:40,200 --> 00:19:43,160
+ulaşıyorum. Niçin İstanbul için İstanbul'un
+
+295
+00:19:43,160 --> 00:19:46,759
+özelliğine her teklif teklifi çok yüksek, hem de
+
+296
+00:19:46,759 --> 00:19:54,259
+çok yüksek. Bir şey ııı bir şey varsa bir şey binde ııı
+
+297
+00:19:54,259 --> 00:19:56,900
+şeye baktığınız zaman o vuruldu bir piyipine baktığınız
+
+298
+00:19:56,900 --> 00:20:00,420
+zaman binde yedi nokta seksen sekiz oranında bir şey
+
+299
+00:20:00,420 --> 00:20:04,819
+inizden. Prim ortalığında. Şimdi İstanbul için. Ama ııı
+
+300
+00:20:04,819 --> 00:20:08,420
+şeye baktığınız zaman yirmi bu da yirmi nokta yedi
+
+301
+00:20:08,420 --> 00:20:11,220
+kimi yerin iki nokta altmış bir milit kirliyona
+
+302
+00:20:11,539 --> 00:20:15,740
+normalize diyelim. Ama yalnız evricenin bozuda
+
+303
+00:20:15,740 --> 00:20:18,859
+baktığınızda sizin pirin ihtiyacınız İstanbul için
+
+304
+00:20:18,859 --> 00:20:21,259
+bu anlamda baktığınızda iki nokta sekiz milyar lirası.
+
+305
+00:20:21,259 --> 00:20:24,299
+Şimdi tabii bu çok cazip, iki nokta sekiz milyar lirası,
+
+306
+00:20:24,299 --> 00:20:27,420
+yirmi nokta yedi iki milyar lirası, bu çok cazip bir
+
+307
+00:20:27,420 --> 00:20:31,900
+bir de ııı ve bunun belki bir kitapta hani teklif
+
+308
+00:20:31,900 --> 00:20:35,579
+pirimin senin bu kadarı olmalı demek demek de ııı
+
+309
+00:20:35,579 --> 00:20:37,980
+insanlara cazip geliyor olabilir ama gerçekçi değil
+
+310
+00:20:37,980 --> 00:20:40,539
+çünkü biraz önce açıklamaya çalıştım. Iıı
+
+311
+00:20:40,539 --> 00:20:44,460
+yani bütün Marmara'ya İstanbul'da dikkatli alsanız bu
+
+312
+00:20:44,460 --> 00:20:46,859
+iki nokta sekiz milyar lirası neredeyse tiktik
+
+313
+00:20:46,859 --> 00:20:49,660
+istenmiş bir şekilde devam edip gidecek yani. Çok uzun bir
+
+314
+00:20:49,660 --> 00:20:53,339
+süre. Fakat burada risk artıyor. Yani daha doğrusu
+
+315
+00:20:53,339 --> 00:20:57,099
+tehlike seviyesi gitgi de artıyor. Risk artıyor. Kömül
+
+316
+00:20:57,099 --> 00:21:00,539
+büyüyor. Eee popülasyon büyüyor. Yani o yani bu anlamda
+
+317
+00:21:00,539 --> 00:21:05,910
+şu hiçbir hep sabit kalacak ama şey büyüyecek. Iıı
+
+318
+00:21:05,910 --> 00:21:08,470
+risk büyüyecek. Dolayısıyla talebeldeki o kısım
+
+319
+00:21:08,470 --> 00:21:12,170
+iktide kabaracak. Bu bunu peki nasıl şey yapabiliriz?
+
+320
+00:21:12,170 --> 00:21:16,009
+Biraz önce bir şey yapmıştık. Iıı resurans devri
+
+321
+00:21:16,009 --> 00:21:20,089
+yapmıştık. Iıı neydi o? Eee elli yirmi yüz elli yıla
+
+322
+00:21:20,089 --> 00:21:23,450
+kendimize entry ve exit noktalar olarak seçtik. O aradaki
+
+323
+00:21:23,450 --> 00:21:27,369
+kısmı resurlara devrettik. Bunun sonucunda ben bundan
+
+324
+00:21:27,369 --> 00:21:31,529
+sonra yani öyle bir devir olursa benim resurans
+
+325
+00:21:31,529 --> 00:21:35,049
+sonrası yani İstanbul üzerinde net hasarım ne
+
+326
+00:21:35,049 --> 00:21:38,170
+olabilir? Buna bir bakayım. Çünkü buradan bir takım
+
+327
+00:21:38,170 --> 00:21:41,930
+hesaplar yapacağım. Buna baktığım zaman bu net hasar OIP
+
+328
+00:21:41,930 --> 00:21:46,490
+erisi şey değerleri gene. Şimdi bakın dikkat ederseniz eee
+
+329
+00:21:46,490 --> 00:21:50,250
+daha önce iki yüz elli milyar reyasörleri bu şekilde
+
+330
+00:21:50,250 --> 00:21:53,769
+yedi nokta yedi milyar ileride prim vererek eee ben bu
+
+331
+00:21:53,769 --> 00:21:58,170
+şehir eee dilim yani bu reyasuran sevini
+
+332
+00:21:58,170 --> 00:22:00,730
+gerçekleştirdiğimi kabul ediyorum. Sonuçta
+
+333
+00:22:00,730 --> 00:22:05,289
+böyle daha önce iki yüz elli yıl return periodta yüz
+
+334
+00:22:05,289 --> 00:22:08,730
+doksan dört milyar hasar çıkarken resurans devre
+
+335
+00:22:08,730 --> 00:22:12,410
+sonrasında bu hasar yirmi bir nokta yirmi sekiz
+
+336
+00:22:12,410 --> 00:22:16,099
+milyar liraya gerilemiş durumda. Yani ben buradan bir
+
+337
+00:22:16,099 --> 00:22:19,670
+bakıma şöyle bir şey düşünebilirim. Bir resurans
+
+338
+00:22:19,670 --> 00:22:23,109
+devre yaptım. Bu bana bu yıl için. Yedi buçuk ya
+
+339
+00:22:23,109 --> 00:22:25,670
+sekiz milyar liraya yakın maal oldu. Tamamıyla
+
+340
+00:22:25,670 --> 00:22:28,230
+iktif değerler üstünden çalışıyorum. Ama bir lirayık
+
+341
+00:22:28,230 --> 00:22:31,509
+var. Yani bende fera hala var. Çünkü eskiden ben
+
+342
+00:22:31,509 --> 00:22:34,630
+yüz doksan dört milyar liralı yüz elli yıldır
+
+343
+00:22:34,789 --> 00:22:38,890
+çöpeyip şey yapıyorum. Bir hasar oluşku mektubarı
+
+344
+00:22:38,890 --> 00:22:41,450
+İstanbul için beklerken bir anda yirmi bir nokta yirmi sekiz
+
+345
+00:22:41,450 --> 00:22:45,500
+milyar. Şimdi o zaman ben şöyle bir şey yapmaya
+
+346
+00:22:45,500 --> 00:22:47,579
+başlıyorum. Diyor ki şöyle bir şey düşünmüyor
+
+347
+00:22:47,579 --> 00:22:51,109
+başlıyorum. Yani bende bir kapı dikip o pardon mani
+
+348
+00:22:51,109 --> 00:22:55,910
+anlamlı bir rahatlama lobay. Ama ne yapıyorum? Bir eee
+
+349
+00:22:55,910 --> 00:22:58,789
+ömüründeki yıl içinde bir yirmi sekiz milyar
+
+350
+00:22:58,789 --> 00:23:03,190
+yaklaşık bir para ödeyerek yediğimi. Ben o zaman
+
+351
+00:23:03,190 --> 00:23:05,750
+bir kendi kendine bunu bir iç muhasedesini
+
+352
+00:23:05,750 --> 00:23:10,220
+yapayım. Nasıl yapayım? İlk önce diyorum ki o ııı
+
+353
+00:23:10,220 --> 00:23:13,099
+entry exit toplanıyorum. Dikkat edilerek bende resulans
+
+354
+00:23:13,099 --> 00:23:16,299
+devri gerçekleştirdim. Bunun arkasından birine doksa
+
+355
+00:23:16,299 --> 00:23:19,180
+sabri yaptığımız tokastik olarak ben bunu ilk önce bir
+
+356
+00:23:19,180 --> 00:23:24,009
+şeylere dağıtıyorum. Binalara dağıtıyorum. Yani on
+
+357
+00:23:24,009 --> 00:23:26,329
+farklı orazdaki binalar İstanbul için
+
+358
+00:23:26,329 --> 00:23:28,809
+konuşuyorum. Bunları ben dağıtıyorum. Burada
+
+359
+00:23:28,809 --> 00:23:31,690
+her bence en iyi dostları frikot olarak
+
+360
+00:23:31,690 --> 00:23:35,900
+ulaşabilecek hasarları ııı şunlara düştü.
+
+361
+00:23:35,900 --> 00:23:41,049
+Eskiden değil de bu Mosul'da iki nokta sekiz milyar
+
+362
+00:23:41,049 --> 00:23:44,500
+için de iki nokta üç milyar etmişti. Ondan sonra
+
+363
+00:23:44,500 --> 00:23:48,420
+binatıkın içini. Burada bir ııı daha önceden bürüt
+
+364
+00:23:48,420 --> 00:23:54,859
+sermaye bir şey yapmıştı. Iıı yani hiç
+
+365
+00:23:54,859 --> 00:23:57,980
+direksans devri olmadı önce. Bir bu binaların
+
+366
+00:23:57,980 --> 00:24:00,299
+asıkarları ödeyebilmek için benim elinde tutman
+
+367
+00:24:00,299 --> 00:24:02,140
+gereken bir bürüt sermaye bir bürüt sermaye
+
+368
+00:24:02,140 --> 00:24:06,779
+vardı. Bunlar ne oldu? Bu ııı devirden sonra ne
+
+369
+00:24:06,859 --> 00:24:09,420
+ııı yani tek hâliyazında danslı
+
+370
+00:24:09,420 --> 00:24:11,500
+dans olarak evine tutması gerek tutmam
+
+371
+00:24:11,500 --> 00:24:14,539
+gereken para ne oldu? Ona da ona net
+
+372
+00:24:14,539 --> 00:24:17,339
+ne stokalsik sonuçlardan elde ediyorum. Gene
+
+373
+00:24:17,339 --> 00:24:20,380
+temvel adresi yüzde doksan dokuzu kendime
+
+374
+00:24:20,380 --> 00:24:22,539
+şey alarak alıyorum. Yani yüz yıl
+
+375
+00:24:22,539 --> 00:24:25,099
+return period olarak loss anlamında ve
+
+376
+00:24:25,099 --> 00:24:28,980
+daha büyük ııı return periodlığı.
+
+377
+00:24:28,980 --> 00:24:31,940
+Fakat bu sefer reasurans devri sonrasındaki
+
+378
+00:24:31,940 --> 00:24:34,259
+dostlardan konuşuyorum. Konuları dikkate
+
+379
+00:24:34,259 --> 00:24:36,259
+alarak bir dos hesabı yapıyorum.
+
+380
+00:24:36,579 --> 00:24:38,740
+Ortalamalı osu çıkartıyorum. Ve oradan
+
+381
+00:24:38,740 --> 00:24:42,019
+bir net sermaye elde ediyorum. Bu ikisi
+
+382
+00:24:42,019 --> 00:24:44,660
+arasındaki fark da aslında bakarsanız o
+
+383
+00:24:44,660 --> 00:24:47,059
+reasurans devri sonrasında benim
+
+384
+00:24:47,059 --> 00:24:49,859
+tasarrufun yani task olarak ben bir
+
+385
+00:24:49,859 --> 00:24:51,859
+tasarruf elde edinç olurum. Yani sonuçta
+
+386
+00:24:51,859 --> 00:24:54,660
+aslında bakarsanız her bir binati projesinde
+
+387
+00:24:54,660 --> 00:24:57,460
+şu iki değer arasındaki fark benim
+
+388
+00:24:57,460 --> 00:24:59,460
+sonuçta reasurans devri sonrasında
+
+389
+00:24:59,460 --> 00:25:02,019
+ııı elde etmiş olduğum tasarruf.
+
+390
+00:25:02,019 --> 00:25:04,660
+Çünkü neden o şey böyle bir deprem
+
+391
+00:25:04,660 --> 00:25:07,460
+olursa onu reasör ödeyecek diye
+
+392
+00:25:07,460 --> 00:25:11,670
+böyle bir şeyim var. Senaryo. Iıı bu
+
+393
+00:25:11,670 --> 00:25:14,069
+ikisi arasındaki fark da binati projesi
+
+394
+00:25:14,069 --> 00:25:16,869
+anlamında şu şeyi bana veriyor. Bu
+
+395
+00:25:16,869 --> 00:25:19,269
+şeyi bana veriyor. Bu değerlendiriyor. Yani
+
+396
+00:25:19,269 --> 00:25:21,670
+iki yüz yirmi bir milyarlılık bir ııı sermaye
+
+397
+00:25:21,670 --> 00:25:23,670
+tutmam gerekirken üç aşağı beş şükrü
+
+398
+00:25:23,670 --> 00:25:25,670
+reasurans devri sonrası seksen yedi
+
+399
+00:25:25,670 --> 00:25:27,670
+milyarlık bir sermaye tutmam gerekiyor
+
+400
+00:25:27,670 --> 00:25:28,869
+ve bunların arasındaki ikisinin
+
+401
+00:25:28,869 --> 00:25:30,470
+arasındaki fark da üç aşağı beş şükrü
+
+402
+00:25:30,470 --> 00:25:32,470
+yüz otuz üç milyar lira bu da benim
+
+403
+00:25:32,470 --> 00:25:34,869
+tasarrufun gibi görebiliriz. Fakat
+
+404
+00:25:34,869 --> 00:25:36,869
+hala hazırda gene bu sermaye tutmak
+
+405
+00:25:36,869 --> 00:25:39,670
+zorundayım. Bu sermaye tutmak zorundaysam da
+
+406
+00:25:39,670 --> 00:25:42,069
+bunun bir şekilde elde etmek için
+
+407
+00:25:42,069 --> 00:25:44,069
+bir ııı birilerine gidip
+
+408
+00:25:44,069 --> 00:25:46,069
+işte bir şey yapmalıyım. Bu parayı
+
+409
+00:25:46,069 --> 00:25:48,069
+istemeyeyim. Bu parayı istediğim
+
+410
+00:25:48,069 --> 00:25:49,269
+zamanda yine yüzde sekiz komisyon
+
+411
+00:25:49,269 --> 00:25:51,269
+diyerek bu paraları alabiliyorsam
+
+412
+00:25:51,269 --> 00:25:53,269
+bu da bana o yedi nokta yedi
+
+413
+00:25:53,269 --> 00:25:55,269
+milyar liranın haricinde prim ödeyerek
+
+414
+00:25:55,269 --> 00:25:57,269
+reasörları ödediğim primin haricinde
+
+415
+00:25:57,269 --> 00:25:59,269
+yedi milyar liralık bir ek
+
+416
+00:25:59,269 --> 00:26:01,269
+bana şey getiriyor. Yük
+
+417
+00:26:01,269 --> 00:26:03,269
+getiriyor. Bunun tamamın
+
+418
+00:26:03,269 --> 00:26:05,460
+buradaki çıkışı şu
+
+419
+00:26:05,460 --> 00:26:07,460
+ya ben bir katastrofik olayı olduğunda
+
+420
+00:26:07,460 --> 00:26:09,460
+kimseye bağlı kalmadan
+
+421
+00:26:09,460 --> 00:26:11,460
+olayı kendi başıma götüreyim.
+
+422
+00:26:11,460 --> 00:26:13,460
+Reasörör ve ben kendim bunu
+
+423
+00:26:13,460 --> 00:26:15,460
+şey yapayım. Ödeyeyim bir şekilde
+
+424
+00:26:15,460 --> 00:26:17,460
+bir şey. Fakat bu tabi zorunlu
+
+425
+00:26:17,460 --> 00:26:19,460
+deprem sigortası şeyine uymuyor
+
+426
+00:26:19,460 --> 00:26:21,460
+eee bu çünkü
+
+427
+00:26:21,460 --> 00:26:23,460
+çünkü primler çok yüksek çıkmaya başlayacak
+
+428
+00:26:23,460 --> 00:26:26,170
+göreceksiniz. Eee
+
+429
+00:26:26,170 --> 00:26:28,170
+eee daha da ııı
+
+430
+00:26:28,170 --> 00:26:30,170
+tartıştık. Bunun için
+
+431
+00:26:30,170 --> 00:26:32,170
+benim bildiğim kadarıyla Das aynı zamanda
+
+432
+00:26:32,170 --> 00:26:34,170
+tarihinin bir şey olduğu için
+
+433
+00:26:34,170 --> 00:26:36,170
+enticisi olduğu için oradan
+
+434
+00:26:36,170 --> 00:26:38,170
+bir devlet desteği alabilir.
+
+435
+00:26:38,170 --> 00:26:40,170
+Biz burada İstanbul
+
+436
+00:26:40,170 --> 00:26:42,170
+özelinde devlet desteğini
+
+437
+00:26:42,170 --> 00:26:44,170
+on milyar lira olarak
+
+438
+00:26:44,170 --> 00:26:46,170
+düşündük. Yani
+
+439
+00:26:46,170 --> 00:26:48,170
+on milyar lira olarak düşündük biz burada.
+
+440
+00:26:48,170 --> 00:26:50,170
+Devlet desteği. On milyar
+
+441
+00:26:50,170 --> 00:26:52,170
+devlet desteğini aldığımda ben
+
+442
+00:26:52,170 --> 00:26:54,170
+ve bunu da, bunu da
+
+443
+00:26:54,170 --> 00:26:56,170
+bu devlet desteğini gene farklı
+
+444
+00:26:56,170 --> 00:26:58,390
+binatipolojilerine
+
+445
+00:26:58,390 --> 00:27:00,390
+hasarlanma durumlarını
+
+446
+00:27:00,390 --> 00:27:02,740
+dikkate alan
+
+447
+00:27:02,740 --> 00:27:04,740
+eee
+
+448
+00:27:04,740 --> 00:27:06,970
+Tavrecenil Loos
+
+449
+00:27:06,970 --> 00:27:08,970
+şeyin eee eee
+
+450
+00:27:08,970 --> 00:27:10,970
+ağırlıklarına göre, her bir binatipolojilerin
+
+451
+00:27:10,970 --> 00:27:12,970
+bir avricenil Loosu var.
+
+452
+00:27:12,970 --> 00:27:14,970
+Bu ağırlığa göre ben bunlara
+
+453
+00:27:14,970 --> 00:27:17,059
+eee bu on milyar lira olarak
+
+454
+00:27:17,059 --> 00:27:19,059
+devlet desteğini, binatipolojileri
+
+455
+00:27:19,059 --> 00:27:20,059
+dağıttığımda
+
+456
+00:27:20,059 --> 00:27:22,539
+bu benim için bir rılıyf
+
+457
+00:27:22,539 --> 00:27:25,180
+eee nek sermayeden dolayı
+
+458
+00:27:25,180 --> 00:27:27,180
+üstümde bir para var.
+
+459
+00:27:27,180 --> 00:27:29,180
+Resulans payımı var, 7.7 milyar
+
+460
+00:27:29,180 --> 00:27:30,180
+bunu da ben
+
+461
+00:27:30,180 --> 00:27:35,180
+Ben her binatik projüsün kümündeki ağırlığına göre binatik projüslerine dağıtıyorum.
+
+462
+00:27:35,180 --> 00:27:42,180
+Ondan sonra, ve o zaman şu A kolonu sık depremler için ne?
+
+463
+00:27:42,180 --> 00:27:46,180
+Resurans devri sonrasında elde etmiş olduğum net average annual loss.
+
+464
+00:27:46,180 --> 00:27:52,180
+C stunu, resurans'tan dolayı üstüme gelen maliyük.
+
+465
+00:27:52,180 --> 00:28:00,180
+D stunu, o resurans'tan resuransın üstüne, bir de benim net olarak elimde tutmam gereken bir kapital var.
+
+466
+00:28:00,180 --> 00:28:03,180
+Yedi milyarlık oda üstünde.
+
+467
+00:28:03,180 --> 00:28:05,180
+Bunların hepsi maliyük.
+
+468
+00:28:05,180 --> 00:28:10,180
+Ama bir devret desteğim var, onu on milyar lira olarak öngördüm.
+
+469
+00:28:10,180 --> 00:28:12,180
+O da benim ekstra rılıifim.
+
+470
+00:28:12,180 --> 00:28:16,309
+Bunların hepsini giderler hep her durumda.
+
+471
+00:28:16,309 --> 00:28:18,309
+Bunu bilmiyorum ama aynı olarak kabul ediyorum.
+
+472
+00:28:18,309 --> 00:28:26,309
+Sonuçta ben şu A stunu, C stunu, D stunu, S stunu ve teorikteki F stunu dikkat edip bunları topladığımda
+
+473
+00:28:26,309 --> 00:28:32,920
+benim resurans sonrası 10 milyar lira devret desteği alırsam
+
+474
+00:28:32,920 --> 00:28:36,920
+bu İstanbul için elde etmem gereken pirimi
+
+475
+00:28:36,920 --> 00:28:45,339
+ve bunun da her bir binatik projüsünü toplam sigorta bedelinde normalize ettiğimdeki
+
+476
+00:28:45,339 --> 00:28:50,339
+kaç sayısını yapıyorum.
+
+477
+00:28:50,339 --> 00:28:56,339
+Şimdi şuna baktığım zaman, 6.1 milyarlık pirim toplamam lazım.
+
+478
+00:28:56,339 --> 00:29:00,339
+Yıllık bu resul şeyi 10 milyar devret desteği ile beraber.
+
+479
+00:29:00,339 --> 00:29:04,849
+Bu daha önce neydi? Hatırlayın, resurans'tan önce 22 milyar liraydi.
+
+480
+00:29:04,849 --> 00:29:06,849
+Pardon, 20.5 milyar liraydi.
+
+481
+00:29:06,849 --> 00:29:13,140
+10 milyar lira bir destekli aldığımda bu 6 milyar liraya düştü.
+
+482
+00:29:13,140 --> 00:29:26,940
+Şu anki resulans rate online ve %8 elimde bulundurulması gereken net sermayenin komisyonunu dikkat edip alırsam.
+
+483
+00:29:26,940 --> 00:29:31,940
+Şimdi bunun da pirim olarak kat sayıları her bir binatik projüsü anlamında
+
+484
+00:29:31,940 --> 00:29:37,940
+şu şeyde binde 2.3 dip yekut, binde 2.3.
+
+485
+00:29:37,940 --> 00:29:47,940
+İstanbul için ben bütün overall, tüm İstanbul için elimdeki binaların tip polisine filan bakmadan
+
+486
+00:29:47,940 --> 00:29:54,970
+binde 2.3'lük bir şey alsam, pirim alsam her bir polise başına 3 aşağı 5 yukarı
+
+487
+00:29:54,970 --> 00:30:06,029
+bu bana kendim maaliy olarak kimseye 10 yanzı 10 milyar lira destek devretten alırsam İstanbul için
+
+488
+00:30:06,029 --> 00:30:13,029
+bu bana şeyi veriyor. Böyle bir rahatlama ve psikatastrofik bir olay olursa da
+
+489
+00:30:13,029 --> 00:30:17,130
+bunu çok da teorik anlamak olacak tabii.
+
+490
+00:30:17,130 --> 00:30:21,130
+Çok da zorlanmadan ne diyebilme imkanını ortaya çıkartıyor.
+
+491
+00:30:22,130 --> 00:30:26,130
+Şimdi bu İstanbul için geçerli bir durum.
+
+492
+00:30:26,130 --> 00:30:31,130
+Nedir bu? Çok büyük bir kümmül, 2.6 trilyonluk bir kümmül
+
+493
+00:30:31,130 --> 00:30:33,130
+ve deprem perikesi çok çok yüksek.
+
+494
+00:30:33,130 --> 00:30:37,130
+Yani bu hakikaten ciddi anlamda katastrofik anlamda çok ciddi bir şey.
+
+495
+00:30:37,130 --> 00:30:43,130
+Bir de ben hisdik buna aynı durumu İstanbul değil Ankara için yapayım deprem perikesi oldukça düşük.
+
+496
+00:30:44,509 --> 00:30:46,769
+Ama kümmül büyük.
+
+497
+00:30:46,769 --> 00:30:51,769
+İşte Ankara'nın kümmülü yaklaşık 1.2 trilyon lira.
+
+498
+00:30:51,769 --> 00:30:54,769
+Şimdi buna ben baktığım zaman yine aynı işlemleri yapıyorum.
+
+499
+00:30:54,769 --> 00:31:02,769
+Baktığımda çok fazla almak istemem çünkü sonuçta şey belki tartışmak isteyeceksiniz.
+
+500
+00:31:02,769 --> 00:31:10,880
+Aynı işlemleri devam ettiğim zaman devret desteğini de burası çok sembolik olarak
+
+501
+00:31:10,880 --> 00:31:15,880
+İstanbul Ankara için 500 milyon lira olarak kabul ettiğimde
+
+502
+00:31:15,880 --> 00:31:24,180
+ben aynı benzer şekillerde resulans devrimden sonra
+
+503
+00:31:24,180 --> 00:31:29,180
+Ankara'daki herhangi bir katastrofik deprem, bu depremli olabilir.
+
+504
+00:31:29,180 --> 00:31:39,180
+İşte Ankara'da 1950'li yıllarda bir bolunun ilçesi geride de ciddi büyük bir deprem olmuştu.
+
+505
+00:31:39,180 --> 00:31:43,180
+O depremin mesela İstanbul Ankara'yı ikisi olabilir.
+
+506
+00:31:43,180 --> 00:31:44,180
+Bu anlamda.
+
+507
+00:31:44,180 --> 00:31:50,180
+İşte öyle bir deprem sonrasında Ankara'daki yapısal hasarla bağlı
+
+508
+00:31:50,180 --> 00:31:55,180
+Dask hükümünü yerine getirecek hasarları ödemek istersem
+
+509
+00:31:55,180 --> 00:31:58,180
+tüm Ankara için binadik olasından bağımsız.
+
+510
+00:31:58,180 --> 00:32:07,180
+Binde 0.023 veya da 10.000'de 2.3 mertebesinde
+
+511
+00:32:07,180 --> 00:32:11,180
+bir prim toplamak yeterli olacak.
+
+512
+00:32:11,180 --> 00:32:15,180
+Buradaki şey yani benim düşüncem.
+
+513
+00:32:15,180 --> 00:32:21,660
+Bu tane tamamen bir fiktif durum yani her şey fiktif burada.
+
+514
+00:32:21,660 --> 00:32:26,660
+Resulansa, devir, giriş ve çıkış noktaları fiktif,
+
+515
+00:32:26,660 --> 00:32:29,660
+komisyonlar fiktif, rate onlineler fiktif.
+
+516
+00:32:29,660 --> 00:32:34,660
+Ama eğer ben şöyle bir şey düşünüyorum eğer bu sizin kulağınıza
+
+517
+00:32:34,660 --> 00:32:40,660
+makul geliyorsa veya da sizin bazı tartışmalarınızda
+
+518
+00:32:40,660 --> 00:32:46,859
+doney olarak elinizde kıymetli bir bilgi olarak size şey yapacaksa,
+
+519
+00:32:46,859 --> 00:32:52,859
+gelecekse yani bir bilgi verirse biz bunu gerçek verilerle
+
+520
+00:32:52,859 --> 00:32:59,859
+yani bir ödeki serinin reasyonans eğer bu gizli bir bilgi değilse tabi
+
+521
+00:32:59,859 --> 00:33:03,859
+reasyonans ve devret desteği şeyleriyle, doneyleriyle
+
+522
+00:33:03,859 --> 00:33:11,230
+biz bunu çalışıp her il için olabilecek
+
+523
+00:33:11,230 --> 00:33:22,130
+böyle optimum prim lili sizlere çıkartabilirsiniz.
+
+524
+00:33:22,130 --> 00:33:29,480
+Ve üstümden sizler kendi hak düğerleri yüzle
+
+525
+00:33:29,480 --> 00:33:34,480
+olası ve biz yollar nasıl yapıldığında,
+
+526
+00:33:34,480 --> 00:33:38,480
+nasıl bir yol haritası izleneceğiz ki
+
+527
+00:33:38,480 --> 00:33:41,480
+bunu önümüzdeki içerisinde olgunlaştıracağız.
+
+528
+00:33:41,480 --> 00:33:47,480
+Bununla beraber hani 2027 yılında veya 2028 yılında
+
+529
+00:33:47,480 --> 00:33:51,480
+şey yaparken, yallarken belki kullanabilirsiniz diye düşündük.
+
+530
+00:33:51,480 --> 00:33:57,309
+Benim bu korilin ilgili size aktarmak istediğim bir şey
+
+531
+00:33:57,309 --> 00:34:00,309
+noktalar bunlarda zaten bu şeyde,
+
+532
+00:34:00,309 --> 00:34:04,309
+düşmanı da size zaten şey yapacağız fakir diyeceğiz.
+
+533
+00:34:07,779 --> 00:34:08,780
+Çok teşekkür ederim.
+
+534
+00:34:08,780 --> 00:34:10,780
+Bilgi Hanım'ın sürede ila oda.
+
+535
+00:34:10,780 --> 00:34:11,780
+Ben de görmedim.
+
+536
+00:34:11,780 --> 00:34:12,780
+Kusura bakmayın.
+
+537
+00:34:12,780 --> 00:34:14,159
+İnşallah diye olabiliriz.
+
+538
+00:34:14,159 --> 00:34:16,159
+Devret desteği kısmı olabilir.
+
+539
+00:34:16,159 --> 00:34:17,159
+Ben bilgi alıyorum.
+
+540
+00:34:17,159 --> 00:34:20,579
+Bir haba arkadaşlar yersin olacağım.
+
+541
+00:34:20,579 --> 00:34:21,579
+Çok teşekkür ederim.
+
+542
+00:34:21,579 --> 00:34:24,579
+Çok net bir şekilde fiktif olduğuna değindiniz.
+
+543
+00:34:24,579 --> 00:34:28,579
+Ben bir restorans payı tarafı ile ilgili pozitif anlamda olduğu için
+
+544
+00:34:28,579 --> 00:34:30,579
+bir noktaya değinmek isterim.
+
+545
+00:34:30,579 --> 00:34:32,579
+Burada belirtiniz gibi tamamen entry,
+
+546
+00:34:33,579 --> 00:34:37,579
+fiktif belirttik ya da işte 250 alınan koruma fiktif.
+
+547
+00:34:37,579 --> 00:34:41,579
+Program rate online'ın da %4 olarak varsaydık.
+
+548
+00:34:41,579 --> 00:34:44,579
+Orada 194 minyar,
+
+549
+00:34:44,579 --> 00:34:47,579
+eksi 19 milyar girişle %4,
+
+550
+00:34:47,579 --> 00:34:51,579
+%4 çağırttığımız zaman 7.7 milyarın altında olacak
+
+551
+00:34:51,579 --> 00:34:53,579
+oradaki restorans payı.
+
+552
+00:34:53,579 --> 00:34:56,579
+O hani o şekilde işlemi alınacaktır.
+
+553
+00:34:56,579 --> 00:35:00,579
+Bir de burada tabii entry belirlerken 50 ritual periodü oradaki
+
+554
+00:35:00,579 --> 00:35:02,579
+fonda birikmiş tutarım.
+
+555
+00:35:02,579 --> 00:35:06,579
+İşte belirli bir oranın kadar üzerinde tutardı
+
+556
+00:35:06,579 --> 00:35:08,579
+restorans plasmanlarında.
+
+557
+00:35:08,579 --> 00:35:09,579
+O şekilde orada belirli.
+
+558
+00:35:09,579 --> 00:35:14,579
+Ben sadece orada hani kapaist eden üzerimize tutulanı çıkartıp
+
+559
+00:35:14,579 --> 00:35:17,579
+limit de rate online'i çarpacağımıza değinecektim.
+
+560
+00:35:17,579 --> 00:35:18,579
+Çok teşekkür ederim.
+
+561
+00:35:18,579 --> 00:35:19,579
+Çok teşekkür ederim.
+
+562
+00:35:19,579 --> 00:35:23,579
+Meto bölümün adımları çok netleşti hocam.
+
+563
+00:35:23,579 --> 00:35:25,579
+Yani gider kısmına da ek olarak
+
+564
+00:35:25,579 --> 00:35:27,579
+bile fonun bir gelevi vardı.
+
+565
+00:35:27,579 --> 00:35:31,579
+Belki böyle kalemlerde eklenebilirim demek isterim.
+
+566
+00:35:31,579 --> 00:35:33,579
+Ben çok teşekkür ederim.
+
+567
+00:35:33,579 --> 00:35:35,579
+Evet bunlar çok teşekkürler.
+
+568
+00:35:35,579 --> 00:35:40,579
+Biz tabii burada yöntemi yani işte sağ yani bir takım
+
+569
+00:35:40,579 --> 00:35:41,579
+araştırma sonunda buluyorsunuz.
+
+570
+00:35:41,579 --> 00:35:44,579
+Bir restoransın inceliklerini bilmiyoruz tabii.
+
+571
+00:35:44,579 --> 00:35:48,579
+Onları tabii sizler bastasıyla şey yaparsınız.
+
+572
+00:35:48,579 --> 00:35:51,739
+Bir yöntemde dikkat edin.
+
+573
+00:35:51,739 --> 00:35:54,340
+Çok teşekkür ederim.
+
+574
+00:35:54,340 --> 00:35:58,110
+Hocam değerli arkadaşlar katkı verenler çok çok değerli.
+
+575
+00:35:58,110 --> 00:36:01,110
+Bir kere vizyonlar olarak da kün söyleyeyim.
+
+576
+00:36:01,110 --> 00:36:04,110
+Zaten böyle olması ya da hesabı yapalım.
+
+577
+00:36:04,110 --> 00:36:05,110
+Bunlara dikkat edin.
+
+578
+00:36:05,110 --> 00:36:06,110
+Dikkat edin.
+
+579
+00:36:06,110 --> 00:36:08,110
+Denizhan yapıyor olması lazım.
+
+580
+00:36:08,110 --> 00:36:09,110
+Bu da ilk belirttiniz.
+
+581
+00:36:09,110 --> 00:36:13,110
+Resulans şirketleri ve havuz sadece en sondaki kısmı
+
+582
+00:36:13,110 --> 00:36:16,110
+bakarak çabuk ki azalan bakıya bakmak lazım.
+
+583
+00:36:16,110 --> 00:36:21,530
+Tabi işin alan için kötü yanı resul için iyi yana.
+
+584
+00:36:21,530 --> 00:36:24,530
+Çünkü hep her sene sanki iki yüz yirmi gibi bakılır.
+
+585
+00:36:24,530 --> 00:36:26,530
+Azalan dönem bakılmıyor.
+
+586
+00:36:26,530 --> 00:36:28,530
+Doğrusan azalarak bakmışsanız.
+
+587
+00:36:28,530 --> 00:36:31,530
+Zaten uzun vadeli iş birliği dediğimiz hikaye.
+
+588
+00:36:31,530 --> 00:36:33,530
+Açıdan çok değerli.
+
+589
+00:36:33,530 --> 00:36:34,530
+Birkaç konu var.
+
+590
+00:36:34,530 --> 00:36:36,530
+Benim üzerime düşünmem gerekiyor.
+
+591
+00:36:36,530 --> 00:36:40,559
+Birincisi hocam en böyle mecriti söyleyeyim size.
+
+592
+00:36:40,559 --> 00:36:42,559
+Devlet desteği dediğimiz konu.
+
+593
+00:36:42,559 --> 00:36:45,780
+Devletin herhangi bir şekilde bize bir süpansiyonu
+
+594
+00:36:45,780 --> 00:36:47,780
+ya da bilimsel desteği olmuyor.
+
+595
+00:36:47,780 --> 00:36:50,780
+Devletin desteği diye burada
+
+596
+00:36:50,780 --> 00:36:52,780
+baskıda gözüken kası.
+
+597
+00:36:52,780 --> 00:36:55,849
+En altta baskı koruması.
+
+598
+00:36:55,849 --> 00:36:58,260
+Üstünde geleneksel koruma.
+
+599
+00:36:58,260 --> 00:37:00,260
+Devletin desteği bunun üzerinde.
+
+600
+00:37:00,260 --> 00:37:02,679
+Şey koruması.
+
+601
+00:37:02,679 --> 00:37:04,739
+Resulans koruması.
+
+602
+00:37:04,739 --> 00:37:07,739
+Bir primsel bir şey yok.
+
+603
+00:37:07,739 --> 00:37:12,510
+On milyon TL size yüz milyon TL'ye verdiğim gibi herhangi bir desteği yok.
+
+604
+00:37:12,510 --> 00:37:14,510
+Sizin tablounuzdaki o
+
+605
+00:37:14,510 --> 00:37:19,510
+Devlet desteği bir lok koruma sanki tutarsal bir destek gibi
+
+606
+00:37:20,510 --> 00:37:21,510
+O yok.
+
+607
+00:37:21,510 --> 00:37:23,510
+Öyle bir mekanizma filan yok.
+
+608
+00:37:23,510 --> 00:37:25,510
+İki olsa dahi
+
+609
+00:37:25,510 --> 00:37:27,510
+İlbazı'nda bölme ihtimalimiz yok.
+
+610
+00:37:27,510 --> 00:37:28,510
+Yani diyelim ki Devlet
+
+611
+00:37:28,510 --> 00:37:31,579
+Daska bir destek verdi.
+
+612
+00:37:31,579 --> 00:37:33,579
+Bunu İlbazı'nda bölerek vermez.
+
+613
+00:37:33,579 --> 00:37:34,579
+Yok ama yani onu söyleyeyim.
+
+614
+00:37:34,579 --> 00:37:38,579
+Olay ki iktikaldık dedik ki bize bir trilyon destek verin.
+
+615
+00:37:38,579 --> 00:37:44,579
+Onu Ankara'ya 200 milyon, İstanbul'u 5 milyon diye yapmıyorlar maalesef.
+
+616
+00:37:44,579 --> 00:37:46,579
+Bu 2 nokta bence kıymetli.
+
+617
+00:37:46,579 --> 00:37:47,579
+Fakat
+
+618
+00:37:47,579 --> 00:37:49,579
+Respektif açısından
+
+619
+00:37:49,579 --> 00:37:51,579
+Söylediğiniz şey teorik olarak böyle olmalı.
+
+620
+00:37:51,579 --> 00:37:53,579
+Yani bu açıdan da dile getirilesi
+
+621
+00:37:53,579 --> 00:37:55,579
+Gereken değil bu husus olabilir.
+
+622
+00:37:55,579 --> 00:37:57,579
+İlbazı'nda olmasa bile değerli hocam.
+
+623
+00:37:57,579 --> 00:37:59,579
+Böyleyse yaklaşım
+
+624
+00:37:59,579 --> 00:38:01,579
+Birkaç yaklaşımdan bir tanesi.
+
+625
+00:38:01,579 --> 00:38:03,579
+Devlet'im şu anda verdiğinizde resulans koruma
+
+626
+00:38:03,579 --> 00:38:06,579
+En üst bankta bir lok koruma şeklinde
+
+627
+00:38:06,579 --> 00:38:08,579
+Bu şöyle de yapılabilir.
+
+628
+00:38:08,579 --> 00:38:10,579
+Bir kısmı da prim bir kısmı da böyle.
+
+629
+00:38:10,579 --> 00:38:12,579
+Şu anda mı sadece üst tarafta
+
+630
+00:38:12,579 --> 00:38:14,579
+Ve bunda biz prim karşılıyoruz.
+
+631
+00:38:14,579 --> 00:38:17,090
+Retondani bir olan
+
+632
+00:38:17,090 --> 00:38:19,090
+Belli bir rakam üstündeki bir kısmı için
+
+633
+00:38:19,090 --> 00:38:22,090
+Devlet'ten ve aslında toplam korumanın önemli bir kısmı.
+
+634
+00:38:22,090 --> 00:38:24,090
+Şöyle anlatayım değerli hocam.
+
+635
+00:38:24,090 --> 00:38:26,280
+O yüzden çok değerli sunulunuz.
+
+636
+00:38:26,280 --> 00:38:27,440
+O
+
+637
+00:38:27,440 --> 00:38:28,440
+Körvün
+
+638
+00:38:28,440 --> 00:38:31,400
+250 yılda bir olacak.
+
+639
+00:38:31,400 --> 00:38:34,500
+Yani en sonu biz resulans desteği alıyoruz dedik ya.
+
+640
+00:38:34,500 --> 00:38:38,500
+Olası büyük deprem de sizin yapmış olduğunuzu ölçümlerde çıkan
+
+641
+00:38:38,500 --> 00:38:41,500
+Böyle 250 yılda bir yerim ki
+
+642
+00:38:41,500 --> 00:38:43,500
+370 milyon tl.
+
+643
+00:38:43,500 --> 00:38:44,500
+Ötemel Farazel
+
+644
+00:38:44,500 --> 00:38:46,500
+Korsan bir tl.
+
+645
+00:38:46,500 --> 00:38:48,500
+Biliyer tl.
+
+646
+00:38:48,500 --> 00:38:51,650
+Koruma
+
+647
+00:38:51,650 --> 00:38:54,030
+Konusunda
+
+648
+00:38:54,030 --> 00:38:57,030
+Toplamın içerisindeki en büyük bay Devlet'te aslında.
+
+649
+00:38:57,030 --> 00:38:59,030
+Ve en az renkli o veriyor.
+
+650
+00:38:59,030 --> 00:39:00,030
+Niye üstteki koruma?
+
+651
+00:39:00,030 --> 00:39:02,030
+Hadi biz şöyle yapıyoruz.
+
+652
+00:39:02,030 --> 00:39:04,639
+Şein sunumun dışına çıktı.
+
+653
+00:39:04,639 --> 00:39:06,639
+Ama sunumla ilgili.
+
+654
+00:39:06,639 --> 00:39:08,639
+Bütünsel bakıyorsunuz.
+
+655
+00:39:08,639 --> 00:39:10,639
+Dolayısıyla bütünsel bakmak der ki.
+
+656
+00:39:10,639 --> 00:39:12,639
+O yüzden dediğiniz farklı bir dileyim.
+
+657
+00:39:12,639 --> 00:39:14,639
+İfade ediyorum.
+
+658
+00:39:14,639 --> 00:39:17,639
+Toplam korumada en büyük bay Devlet'inse
+
+659
+00:39:17,639 --> 00:39:20,639
+ve en alttaki bay havuz, daskavuz olursa
+
+660
+00:39:20,639 --> 00:39:25,250
+Aradaki indire resulü devrediyorsanız
+
+661
+00:39:25,250 --> 00:39:28,250
+o zaman buradaki dalı meclisini
+
+662
+00:39:28,250 --> 00:39:30,380
+ve tekiver düşünürsünüz.
+
+663
+00:39:30,380 --> 00:39:32,920
+Toplam şeyde.
+
+664
+00:39:32,920 --> 00:39:34,920
+O zaman ya Devlet'in reymanları düşüklede
+
+665
+00:39:34,920 --> 00:39:37,920
+o tarafın reymanları çok yükseklülüğü de bir
+
+666
+00:39:37,920 --> 00:39:38,920
+sonucu doğru götürüyor.
+
+667
+00:39:38,920 --> 00:39:39,920
+Özet
+
+668
+00:39:39,920 --> 00:39:41,920
+Devlet desteğinde iyi bir alternatif oluyor.
+
+669
+00:39:41,920 --> 00:39:43,920
+Yani tutarsal desteği.
+
+670
+00:39:43,920 --> 00:39:45,920
+Koruma desteğinden ziyade.
+
+671
+00:39:45,920 --> 00:39:48,920
+Östelik korumanın büyük bir kısmına resulü devredersiniz.
+
+672
+00:39:48,920 --> 00:39:50,139
+Ama
+
+673
+00:39:50,139 --> 00:39:53,269
+film vererek aslında Devlet'in
+
+674
+00:39:53,269 --> 00:39:55,300
+riskini azaltmış olursunuz.
+
+675
+00:39:55,300 --> 00:39:56,300
+Östelik benden sonra çok daha
+
+676
+00:39:56,300 --> 00:39:57,300
+çok daha mahkûl.
+
+677
+00:39:57,300 --> 00:40:03,369
+Yani şunu diyorsunuz.
+
+678
+00:40:03,369 --> 00:40:06,369
+Senin vermiş olmanın koruma örnek gerektim o zaman.
+
+679
+00:40:06,369 --> 00:40:08,500
+500 milyar
+
+680
+00:40:08,500 --> 00:40:09,500
+TL ise
+
+681
+00:40:09,500 --> 00:40:11,500
+Devlet olarak hepsindeki
+
+682
+00:40:11,500 --> 00:40:15,289
+koruma kapasitesi.
+
+683
+00:40:15,289 --> 00:40:17,289
+Bunun karşında da
+
+684
+00:40:17,289 --> 00:40:19,289
+bir veriyorsan yani 5 milyar
+
+685
+00:40:19,289 --> 00:40:20,380
+film alıyorsan
+
+686
+00:40:20,380 --> 00:40:21,380
+sen bunu yerine
+
+687
+00:40:21,380 --> 00:40:23,380
+senelik 10 milyar
+
+688
+00:40:23,380 --> 00:40:24,510
+film ver bana
+
+689
+00:40:24,510 --> 00:40:26,510
+riskini tamamlı yurt dışında devredeyim.
+
+690
+00:40:26,510 --> 00:40:28,510
+Zaten resulansına ben
+
+691
+00:40:28,510 --> 00:40:29,510
+tanesini tutamıyorum.
+
+692
+00:40:29,510 --> 00:40:31,929
+Yurt dışından koruma almak.
+
+693
+00:40:31,929 --> 00:40:33,929
+Bu anlamda sonuç çok
+
+694
+00:40:33,929 --> 00:40:35,929
+fark yani değil mi?
+
+695
+00:40:35,929 --> 00:40:38,309
+Önemli bir alternatif.
+
+696
+00:40:38,309 --> 00:40:40,309
+Anlatabilir miyiz?
+
+697
+00:40:40,309 --> 00:40:42,309
+Ben size şöyle anladım.
+
+698
+00:40:42,309 --> 00:40:44,309
+Ben şöyle bir şey yapabilirim.
+
+699
+00:40:44,309 --> 00:40:46,949
+Sizin de anlattıklarınızı istinelim.
+
+700
+00:40:46,949 --> 00:40:48,949
+Mevcutta şu anda sizin
+
+701
+00:40:48,949 --> 00:40:50,949
+ortalama da
+
+702
+00:40:50,949 --> 00:40:52,949
+ilk sumuğun başında gösterdim.
+
+703
+00:40:52,949 --> 00:40:54,949
+Pirim kat sayılarınızda
+
+704
+00:40:54,949 --> 00:40:56,949
+3 aşağı 5 şukarı il bazında
+
+705
+00:40:56,949 --> 00:40:59,139
+ne kadar
+
+706
+00:40:59,139 --> 00:41:01,139
+pirim topladığınızı
+
+707
+00:41:01,139 --> 00:41:03,139
+mevcuttaki kümülünüze göre
+
+708
+00:41:03,139 --> 00:41:05,139
+ben elde edebilirim.
+
+709
+00:41:05,139 --> 00:41:07,139
+Yani buna elde edebilirim.
+
+710
+00:41:07,139 --> 00:41:09,139
+Arkasında
+
+711
+00:41:09,139 --> 00:41:11,139
+zaten Dask için
+
+712
+00:41:11,139 --> 00:41:13,139
+stokastik hesaplamalar yapıyorum.
+
+713
+00:41:13,139 --> 00:41:15,139
+Sizin için şöyle bir şey
+
+714
+00:41:15,139 --> 00:41:17,139
+düşünürüm. Derim ki eğer
+
+715
+00:41:17,139 --> 00:41:19,139
+mesela siz resulörün
+
+716
+00:41:19,139 --> 00:41:21,139
+ana resulörünün red online'ını
+
+717
+00:41:21,139 --> 00:41:23,139
+3 aşağı 5 şukarı tahminleyebilirsiniz.
+
+718
+00:41:23,139 --> 00:41:25,239
+Ben size
+
+719
+00:41:25,239 --> 00:41:27,239
+ve
+
+720
+00:41:27,239 --> 00:41:29,239
+resulere ödeyeceğiniz
+
+721
+00:41:29,239 --> 00:41:31,239
+pirimi de dikkat alarak
+
+722
+00:41:31,239 --> 00:41:33,239
+yani bu tabloları baştan önce şey yaparak
+
+723
+00:41:33,239 --> 00:41:35,500
+her bir il için
+
+724
+00:41:35,500 --> 00:41:37,619
+teorik
+
+725
+00:41:37,619 --> 00:41:39,619
+devlet korumasını bulurum.
+
+726
+00:41:39,619 --> 00:41:41,619
+Sonra bunu dip yekününü elde ettiğim zaman
+
+727
+00:41:41,619 --> 00:41:43,619
+ya 81.
+
+728
+00:41:43,619 --> 00:41:45,619
+Dik yekününü elde ettiğim zaman
+
+729
+00:41:45,619 --> 00:41:47,619
+siz Marliye'ye şu şekilde değilsiniz
+
+730
+00:41:47,619 --> 00:41:49,619
+ya ben senden bu yıl
+
+731
+00:41:49,619 --> 00:41:51,619
+kafa atıyorum 10 milyar lira istemeyeceğim
+
+732
+00:41:51,619 --> 00:41:53,619
+ve hatta 50 milyar lira istemeyeceğim
+
+733
+00:41:53,619 --> 00:41:55,619
+ben senden 35 milyar lira isteyeceğim
+
+734
+00:41:55,619 --> 00:41:57,619
+ve pirim kat sayılarımda hiç değişmeyecek
+
+735
+00:41:57,619 --> 00:41:59,619
+pirim kat sayılarımda değiştirmeyeceğim
+
+736
+00:41:59,619 --> 00:42:01,619
+bunun böylelikle siz
+
+737
+00:42:01,619 --> 00:42:03,619
+35 milyar lira üstünden
+
+738
+00:42:03,619 --> 00:42:05,619
+işte binde bir red online'ler
+
+739
+00:42:05,619 --> 00:42:07,619
+belki devletten
+
+740
+00:42:07,619 --> 00:42:09,619
+o parayı alıyor olacaksınız
+
+741
+00:42:09,619 --> 00:42:11,619
+veya hatta resulörün
+
+742
+00:42:11,619 --> 00:42:13,619
+kısmını devleteceksiniz
+
+743
+00:42:13,619 --> 00:42:15,619
+ikisinden bir tanesi
+
+744
+00:42:15,619 --> 00:42:17,619
+ikisini de size alternatif olarak
+
+745
+00:42:17,619 --> 00:42:19,619
+eğer uygun görürseniz
+
+746
+00:42:19,619 --> 00:42:21,619
+ben
+
+747
+00:42:21,619 --> 00:42:23,619
+masanıza bu
+
+748
+00:42:23,619 --> 00:42:25,619
+iki alternatifte koyabilirim
+
+749
+00:42:25,619 --> 00:42:27,619
+onun üstünde hangisi daha uygunsa
+
+750
+00:42:27,619 --> 00:42:29,619
+onu siz değerlendirirsiniz
+
+751
+00:42:29,619 --> 00:42:31,619
+ve hatta bir hibrit
+
+752
+00:42:31,619 --> 00:42:33,619
+şey yaparsınız
+
+753
+00:42:33,619 --> 00:42:35,619
+hibrit de olur
+
+754
+00:42:35,619 --> 00:42:37,619
+böyle bir egzansız yapılır
+
+755
+00:42:37,619 --> 00:42:39,619
+Müge Hanım'a biraz
+
+756
+00:42:39,619 --> 00:42:41,619
+şöyle ki hocam
+
+757
+00:42:41,619 --> 00:42:43,619
+bir kere piyasa redlerine
+
+758
+00:42:43,619 --> 00:42:45,619
+Müge Hanım benden çok daha hikmiz
+
+759
+00:42:45,619 --> 00:42:47,619
+şu anda ki piyasa redlerine gidelim
+
+760
+00:42:47,619 --> 00:42:49,619
+ikiniz de 2024'dü
+
+761
+00:42:49,619 --> 00:42:51,619
+çok ondan beri de düşüyor zannediyor
+
+762
+00:42:51,619 --> 00:42:53,619
+siz benden daha iyidir siz
+
+763
+00:42:53,619 --> 00:42:55,619
+dolayısıyla bizim resulans ikini bakıyorum
+
+764
+00:42:55,619 --> 00:42:57,619
+Müge Hanım bize bir indikator red verecektir
+
+765
+00:42:57,619 --> 00:42:59,619
+değerli hocam
+
+766
+00:42:59,619 --> 00:43:01,619
+bu redde göre çıkan koruma baremleri
+
+767
+00:43:01,619 --> 00:43:04,039
+ile
+
+768
+00:43:04,039 --> 00:43:06,039
+bu dediğinizi mukayese edebiliriz
+
+769
+00:43:06,039 --> 00:43:08,039
+çok da makul olur
+
+770
+00:43:08,039 --> 00:43:10,039
+aslında olması gerekeni yapıyorsunuz hocam
+
+771
+00:43:10,039 --> 00:43:12,039
+alternatif bir koy
+
+772
+00:43:12,039 --> 00:43:14,039
+devlet bize 5 milyon karşılığı
+
+773
+00:43:14,039 --> 00:43:16,039
+3 milyon koruma veriyorsa
+
+774
+00:43:16,039 --> 00:43:18,039
+5 milyon karşılığı
+
+775
+00:43:18,039 --> 00:43:20,039
+5 milyon pirin karşılığı
+
+776
+00:43:20,039 --> 00:43:22,039
+500 milyon karşılığı veriyorsa
+
+777
+00:43:22,039 --> 00:43:24,460
+onun yerine
+
+778
+00:43:24,460 --> 00:43:29,210
+her sene 10 milyon ver
+
+779
+00:43:29,210 --> 00:43:31,210
+pirin desteği ver
+
+780
+00:43:31,210 --> 00:43:33,210
+yurt dışına resul edelim
+
+781
+00:43:33,210 --> 00:43:35,210
+maliyetini
+
+782
+00:43:35,210 --> 00:43:37,210
+şerej resulans maliyetini yurt dışına
+
+783
+00:43:37,210 --> 00:43:39,269
+kapayız da alabilirim
+
+784
+00:43:39,269 --> 00:43:41,269
+ben bir risikle söyleyeyim
+
+785
+00:43:41,269 --> 00:43:43,400
+bu da buranın
+
+786
+00:43:43,400 --> 00:43:45,400
+varlık sebebini sorgulaymak ihtimali
+
+787
+00:43:45,400 --> 00:43:47,400
+çünkü Türk resulans arada
+
+788
+00:43:47,400 --> 00:43:49,400
+resulans şirketi var
+
+789
+00:43:49,400 --> 00:43:51,400
+devri yapan kurum
+
+790
+00:43:51,400 --> 00:43:53,559
+bunu yapılması gerekti
+
+791
+00:43:53,559 --> 00:43:55,559
+yüzde yüzdür
+
+792
+00:43:55,559 --> 00:43:57,559
+konuştuğumuz konuyu
+
+793
+00:43:57,559 --> 00:43:59,559
+bunu sunmak konusuna acı değerlendirmek gerekiyor
+
+794
+00:43:59,559 --> 00:44:02,300
+Türkçe yönetmeni
+
+795
+00:44:02,300 --> 00:44:04,300
+ama özgür bey bunun önünde
+
+796
+00:44:04,300 --> 00:44:06,300
+bu hesap olmalı
+
+797
+00:44:06,300 --> 00:44:08,300
+bizde de olması lazım
+
+798
+00:44:08,300 --> 00:44:10,550
+uygulama konusuna ama
+
+799
+00:44:10,550 --> 00:44:12,550
+biraz onu tartışmak gerekiyor
+
+800
+00:44:12,550 --> 00:44:14,550
+bu hesap masamızda olur
+
+801
+00:44:14,550 --> 00:44:16,550
+bu metod daha doğru
+
+802
+00:44:16,550 --> 00:44:18,550
+bu sede dekaya
+
+803
+00:44:18,550 --> 00:44:20,650
+ancak teknik isteticinin
+
+804
+00:44:20,650 --> 00:44:22,679
+gözetimini de
+
+805
+00:44:22,679 --> 00:44:24,679
+göndermeme yapma
+
+806
+00:44:24,679 --> 00:44:26,679
+bu modeli önerip bunarmama konusunu
+
+807
+00:44:26,679 --> 00:44:28,679
+politik sebeplerle ve
+
+808
+00:44:28,679 --> 00:44:30,679
+teknik istetici basbıyla
+
+809
+00:44:30,679 --> 00:44:32,679
+ayrıca ikinci değerlendirmeye
+
+810
+00:44:32,679 --> 00:44:34,679
+ihtiyaç verin
+
+811
+00:44:34,679 --> 00:44:36,679
+ama matematiksel, aktüeryal
+
+812
+00:44:36,679 --> 00:44:38,679
+uygulamış yolunuzu
+
+813
+00:44:38,679 --> 00:44:40,679
+bisiklasını desek gerekir
+
+814
+00:44:40,679 --> 00:44:42,940
+şartını onu size ne söyleyeyim
+
+815
+00:44:42,940 --> 00:44:44,940
+özgür bey izin verirseniz
+
+816
+00:44:44,940 --> 00:44:46,940
+ben bu şekilde
+
+817
+00:44:46,940 --> 00:44:48,940
+arkadaşlarımla
+
+818
+00:44:48,940 --> 00:44:50,940
+tüm Türkiye için bu çalışmayı bir gerçekleştireyim
+
+819
+00:44:50,940 --> 00:44:52,940
+önce size bunu
+
+820
+00:44:52,940 --> 00:44:54,940
+kısabir rapor
+
+821
+00:44:54,940 --> 00:44:56,940
+çünkü
+
+822
+00:44:56,940 --> 00:44:58,940
+uzun raporlar baktığınızı olacağını pek zannetmiyorum
+
+823
+00:44:58,940 --> 00:45:00,940
+kısabir rapor olarak
+
+824
+00:45:00,940 --> 00:45:02,940
+size bunu sunalım
+
+825
+00:45:02,940 --> 00:45:04,940
+bir de sunum gerçekleştirelim
+
+826
+00:45:04,940 --> 00:45:06,940
+siz lütfen geri kanalını
+
+827
+00:45:06,940 --> 00:45:08,940
+yani size de yaklaşık 30 yıldan beri
+
+828
+00:45:08,940 --> 00:45:10,940
+bu sektörde çalışan
+
+829
+00:45:10,940 --> 00:45:12,940
+bir uzman olarak
+
+830
+00:45:12,940 --> 00:45:14,940
+özgür bey'e aktarılması gerekir
+
+831
+00:45:14,940 --> 00:45:16,940
+mezme veya nasıl aktarılması gerekir
+
+832
+00:45:16,940 --> 00:45:18,940
+bununla ilgili
+
+833
+00:45:18,940 --> 00:45:20,940
+biz şey yapalım yani onun kararını siz daha iyi birirsiniz
+
+834
+00:45:20,940 --> 00:45:22,940
+hayır
+
+835
+00:45:22,940 --> 00:45:24,940
+mügellim de bu konuda çok tecrübelim
+
+836
+00:45:24,940 --> 00:45:26,940
+ne dediğimi darbarikti anladığını düşünüyorum
+
+837
+00:45:26,940 --> 00:45:28,940
+bakı becim evet
+
+838
+00:45:28,940 --> 00:45:30,940
+yani ben hem Sinan hocamın
+
+839
+00:45:30,940 --> 00:45:32,940
+metodajesi olsun hem de
+
+840
+00:45:32,940 --> 00:45:34,940
+kendisini o kadar değerli ki
+
+841
+00:45:34,940 --> 00:45:36,940
+takip edebildim
+
+842
+00:45:36,940 --> 00:45:38,940
+burada yani bir konu şöyle ki
+
+843
+00:45:38,940 --> 00:45:40,940
+yani hani
+
+844
+00:45:40,940 --> 00:45:42,940
+hali hazırda
+
+845
+00:45:42,940 --> 00:45:44,940
+zaten biz resulans sonrası da ne gibi bir yük
+
+846
+00:45:44,940 --> 00:45:46,940
+kaldığını genelde kurumları çalışıyoruz
+
+847
+00:45:46,940 --> 00:45:48,940
+ama henüz
+
+848
+00:45:48,940 --> 00:45:50,940
+duskin ve tüp resulansı böylece çalışma yapmadık
+
+849
+00:45:50,940 --> 00:45:52,940
+ama bence buna
+
+850
+00:45:52,940 --> 00:45:54,940
+bu çalışma da yapılmadığı yani benim şansı
+
+851
+00:45:54,940 --> 00:45:56,940
+fikrim o anlamda da
+
+852
+00:45:56,940 --> 00:45:58,940
+duskin hali hazırdaki
+
+853
+00:45:58,940 --> 00:46:00,940
+yani planlanan değil
+
+854
+00:46:00,940 --> 00:46:02,940
+projekte edin hali ama mevcut
+
+855
+00:46:02,940 --> 00:46:04,940
+programının biz
+
+856
+00:46:04,940 --> 00:46:06,940
+hem fontutarını
+
+857
+00:46:06,940 --> 00:46:08,940
+hem mevcut programdaki
+
+858
+00:46:08,940 --> 00:46:10,940
+entry-level tutarı en azından
+
+859
+00:46:10,940 --> 00:46:12,940
+bir de kapasite hem resulere
+
+860
+00:46:12,940 --> 00:46:14,940
+evet hem de devletin sunduğu
+
+861
+00:46:14,940 --> 00:46:16,940
+limitleri bilirsek
+
+862
+00:46:16,940 --> 00:46:18,940
+program rate onayda
+
+863
+00:46:18,940 --> 00:46:20,940
+kadem herhalde biz ilgilenmiyoruz şuan
+
+864
+00:46:20,940 --> 00:46:22,940
+overall resulans maniyetine bakacağız
+
+865
+00:46:22,940 --> 00:46:24,940
+haydi haydi
+
+866
+00:46:24,940 --> 00:46:26,940
+yani çok da bence fikrim
+
+867
+00:46:26,940 --> 00:46:28,940
+gitmeye gerek yok yani çünkü
+
+868
+00:46:28,940 --> 00:46:30,940
+gider elinde de sonunda
+
+869
+00:46:30,940 --> 00:46:32,940
+bu egzersizini yapacağız
+
+870
+00:46:32,940 --> 00:46:34,940
+mevcut program olduğu için
+
+871
+00:46:34,940 --> 00:46:36,940
+zaten yine de dikkate alınan olmayacak
+
+872
+00:46:36,940 --> 00:46:38,940
+ama daha gerçeğe
+
+873
+00:46:38,940 --> 00:46:41,159
+yakın olur en azından
+
+874
+00:46:41,159 --> 00:46:43,159
+mevcut durumu gösterir
+
+875
+00:46:43,159 --> 00:46:45,159
+yani önerim bence program rate
+
+876
+00:46:45,159 --> 00:46:47,159
+onayda ve şey
+
+877
+00:46:47,159 --> 00:46:49,159
+yani program en azından
+
+878
+00:46:49,159 --> 00:46:51,159
+giriş resulans devlet
+
+879
+00:46:51,159 --> 00:46:53,159
+kapasitesi ve devlet kapasitesini
+
+880
+00:46:53,159 --> 00:46:55,159
+alalım onun üzerinden
+
+881
+00:46:55,159 --> 00:46:57,159
+ilerlemisinin hocam nasıl geliyor
+
+882
+00:46:57,159 --> 00:46:59,159
+ben bunu rica ettim
+
+883
+00:46:59,159 --> 00:47:01,159
+yani eğer bunlar
+
+884
+00:47:01,159 --> 00:47:03,159
+yani bizim bu anlamda
+
+885
+00:47:03,159 --> 00:47:05,159
+bir hendiyeyi imzalamamız gerekiyorsa
+
+886
+00:47:05,159 --> 00:47:07,159
+bunu da imzalarız
+
+887
+00:47:07,159 --> 00:47:09,159
+bu da imzalarız
+
+888
+00:47:09,159 --> 00:47:11,159
+sonuçta yalnız ve yalnızca
+
+889
+00:47:11,159 --> 00:47:13,159
+gerçek değerlerle biz
+
+890
+00:47:13,159 --> 00:47:15,159
+bunu şey yaparsak
+
+891
+00:47:15,159 --> 00:47:17,159
+hesaplarsak
+
+892
+00:47:17,159 --> 00:47:19,159
+size çok
+
+893
+00:47:19,159 --> 00:47:21,420
+eli yüzü düzgün bir bilgi
+
+894
+00:47:21,420 --> 00:47:23,420
+sonuç oluruz
+
+895
+00:47:23,420 --> 00:47:25,420
+yani fonda da özür dilerim
+
+896
+00:47:25,420 --> 00:47:27,420
+böyle ki fonda
+
+897
+00:47:27,420 --> 00:47:29,420
+kayda değer bir
+
+898
+00:47:29,420 --> 00:47:31,420
+fondki, fondun bir de diğer doğulan
+
+899
+00:47:31,420 --> 00:47:33,420
+fetlerle bir değerlendirilmesinde
+
+900
+00:47:33,420 --> 00:47:35,420
+belki böyle bir
+
+901
+00:47:35,420 --> 00:47:37,420
+hibrit, model, tarzinde olduğu gibi
+
+902
+00:47:37,420 --> 00:47:39,420
+direkt birime devlet
+
+903
+00:47:39,420 --> 00:47:41,420
+katkısı tam da
+
+904
+00:47:41,420 --> 00:47:43,420
+doğru bir zamanlama gibi de geliyor
+
+905
+00:47:43,420 --> 00:47:45,420
+bana çünkü
+
+906
+00:47:45,420 --> 00:47:47,420
+bir fakir size daha
+
+907
+00:47:47,420 --> 00:47:49,420
+kafanızı dolayı
+
+908
+00:47:49,420 --> 00:47:51,420
+entry point gördüğüm kadarıyla tam bir
+
+909
+00:47:51,420 --> 00:47:53,420
+gut feeling
+
+910
+00:47:53,420 --> 00:47:55,420
+o yüzden orda da belki
+
+911
+00:47:55,420 --> 00:47:57,420
+bu eksir size ya kardeşim
+
+912
+00:47:57,420 --> 00:47:59,449
+şimdi ben o hesabı yapıyorum kafamda
+
+913
+00:47:59,449 --> 00:48:01,449
+fondaki büyüktüğe bakarak
+
+914
+00:48:01,449 --> 00:48:03,449
+bir iki de hazırlanmışsın
+
+915
+00:48:03,449 --> 00:48:05,449
+yüz dolcusu falan
+
+916
+00:48:05,449 --> 00:48:07,449
+öyle bir
+
+917
+00:48:07,449 --> 00:48:09,449
+mesela yüzde ellisi aşamaz gibi matta var
+
+918
+00:48:09,449 --> 00:48:11,449
+kesin
+
+919
+00:48:11,449 --> 00:48:13,449
+öte yandan ama işte gut feeling değil
+
+920
+00:48:13,449 --> 00:48:15,449
+yani matematik olması lazım sinyan hocam
+
+921
+00:48:15,449 --> 00:48:17,449
+hesap yapıyor
+
+922
+00:48:17,449 --> 00:48:19,739
+ben olsam
+
+923
+00:48:19,739 --> 00:48:21,739
+daha yüksek bir çerzutlarım
+
+924
+00:48:21,739 --> 00:48:23,739
+ama bence burada onu da biz verelim
+
+925
+00:48:23,739 --> 00:48:25,960
+de siz o değil ki ya
+
+926
+00:48:25,960 --> 00:48:27,960
+siz 20'de misiniz
+
+927
+00:48:27,960 --> 00:48:29,960
+35 olsa bak böyle bir
+
+928
+00:48:29,960 --> 00:48:31,960
+optimum fiyat ya da maliyet optimizasyonu
+
+929
+00:48:31,960 --> 00:48:33,960
+aslında şu konuşuşumuz konu maliyet optimizasyonu
+
+930
+00:48:33,960 --> 00:48:35,960
+sinyan hocam
+
+931
+00:48:35,960 --> 00:48:37,960
+toplamında yani maksimum koruma
+
+932
+00:48:37,960 --> 00:48:39,960
+optimum
+
+933
+00:48:39,960 --> 00:48:41,960
+metodoloji, prim ve maliyet metodoloji
+
+934
+00:48:41,960 --> 00:48:43,960
+avuzdaki birikap arayla
+
+935
+00:48:43,960 --> 00:48:45,960
+entry point da burada ona göre
+
+936
+00:48:45,960 --> 00:48:47,960
+20 olursa
+
+937
+00:48:47,960 --> 00:48:49,960
+bu kadar devlet desteği
+
+938
+00:48:49,960 --> 00:48:51,960
+bu kadar devlet de severe rate
+
+939
+00:48:51,960 --> 00:48:53,960
+işte 40 olursa bu
+
+940
+00:48:53,960 --> 00:48:55,960
+bütün salgı var
+
+941
+00:48:55,960 --> 00:48:57,960
+belki de devlet desteğinin
+
+942
+00:48:57,960 --> 00:48:59,960
+işte varsa 500
+
+943
+00:48:59,960 --> 00:49:01,960
+minyanın yüzde bir rate onlayla
+
+944
+00:49:01,960 --> 00:49:03,960
+çok da maku seviyede olduğunu
+
+945
+00:49:03,960 --> 00:49:05,960
+göreceğiz böylece bu analizmi
+
+946
+00:49:05,960 --> 00:49:07,960
+bu RTX indi çıktı
+
+947
+00:49:07,960 --> 00:49:09,960
+A senaryo, B senaryo, C senaryo gibi
+
+948
+00:49:09,960 --> 00:49:11,960
+egzisi salgı yapmak lazım
+
+949
+00:49:11,960 --> 00:49:13,960
+Bura bey de
+
+950
+00:49:13,960 --> 00:49:15,960
+bizim genel yapımız
+
+951
+00:49:15,960 --> 00:49:17,960
+entry pointler ve şeyler var
+
+952
+00:49:17,960 --> 00:49:19,960
+zaten çalışmaları da yapıyor
+
+953
+00:49:19,960 --> 00:49:21,960
+bu noktada en iyi olduğunu düşünüyorum
+
+954
+00:49:21,960 --> 00:49:23,960
+ona da bir bakar
+
+955
+00:49:23,960 --> 00:49:25,960
+yoksa da bence de vardır yani zaten
+
+956
+00:49:25,960 --> 00:49:27,960
+ve sizler ölü
+
+957
+00:49:27,960 --> 00:49:29,960
+öte taraftan hem stres destekte
+
+958
+00:49:29,960 --> 00:49:31,960
+çukreye de benzer bir şey yaptığınız için
+
+959
+00:49:31,960 --> 00:49:33,960
+şu anda burada biz
+
+960
+00:49:33,960 --> 00:49:35,960
+mevcut yediği bilmiyorum yeni çalışılıyor
+
+961
+00:49:35,960 --> 00:49:37,960
+ama bu yaptığınız zaten yeni ilaşık
+
+962
+00:49:37,960 --> 00:49:39,960
+olacak bir konu
+
+963
+00:49:39,960 --> 00:49:41,960
+bu açıdan da bence
+
+964
+00:49:41,960 --> 00:49:43,960
+hocam ismi o şeyleri
+
+965
+00:49:43,960 --> 00:49:45,960
+gerçek rakamları verelim
+
+966
+00:49:45,960 --> 00:49:47,960
+büyüklüğü de verelim
+
+967
+00:49:47,960 --> 00:49:49,960
+tabi burada fonun getiriye hesabı lazım
+
+968
+00:49:49,960 --> 00:49:51,960
+orada açıkçası şöyle yapıyor
+
+969
+00:49:51,960 --> 00:49:53,960
+devletin
+
+970
+00:49:53,960 --> 00:49:55,960
+burası da aynı şey yapıyor
+
+971
+00:49:55,960 --> 00:49:57,960
+devletin açıklamış olduğu
+
+972
+00:49:57,960 --> 00:49:59,960
+ortavadır plandaki
+
+973
+00:49:59,960 --> 00:50:01,960
+getir oranlarıyla
+
+974
+00:50:01,960 --> 00:50:03,960
+hesaplarıyla çok
+
+975
+00:50:03,960 --> 00:50:05,960
+rakamlar yok, beklentide o
+
+976
+00:50:05,960 --> 00:50:07,960
+dosyada getiriği de onun üzerinden belki
+
+977
+00:50:07,960 --> 00:50:09,960
+bir projekçini yapabilir
+
+978
+00:50:09,960 --> 00:50:12,150
+dosyada biz hemen bunları sağlayalım
+
+979
+00:50:12,150 --> 00:50:14,150
+bu arada siz bu
+
+980
+00:50:14,150 --> 00:50:16,150
+bir şey yaparsanız biz de hocam
+
+981
+00:50:16,150 --> 00:50:18,150
+tabi tabi, müniyetle
+
+982
+00:50:20,150 --> 00:50:22,340
+zaten şöyle bir şey
+
+983
+00:50:22,340 --> 00:50:24,340
+izin verirseniz şöyle bir şey yapabilir miyiz
+
+984
+00:50:24,340 --> 00:50:26,340
+Balkır Bey
+
+985
+00:50:26,340 --> 00:50:28,340
+Bur'a, Bur'a, Sercan
+
+986
+00:50:28,340 --> 00:50:30,340
+ve Nur'u'la
+
+987
+00:50:30,340 --> 00:50:32,340
+bu çalışmayı gerçekleştirirler
+
+988
+00:50:32,340 --> 00:50:34,340
+ve bize sunarlar
+
+989
+00:50:34,340 --> 00:50:36,340
+bu şekilde
+
+990
+00:50:38,500 --> 00:50:40,500
+yani hem de kendileri de açıdan olmuş olur
+
+991
+00:50:40,500 --> 00:50:42,889
+bu yaklaşımı
+
+992
+00:50:42,889 --> 00:50:44,889
+hesaplama şeklini
+
+993
+00:50:44,889 --> 00:50:46,889
+zaten Sercan'la bunu biz bir çalıştık
+
+994
+00:50:46,889 --> 00:50:48,889
+bütün illeri için
+
+995
+00:50:48,889 --> 00:50:50,889
+bunu gerçekleştirirler
+
+996
+00:50:50,889 --> 00:50:52,889
+Bur'a'nın çok fazla
+
+997
+00:50:52,889 --> 00:50:54,889
+işi var onu biliyorum
+
+998
+00:50:54,889 --> 00:50:56,889
+yalnızca kendisini
+
+999
+00:50:56,889 --> 00:50:58,889
+bu anlamda da biraz derinleşmesine
+
+1000
+00:50:58,889 --> 00:51:00,889
+uygun görürseniz yoksa
+
+1001
+00:51:00,889 --> 00:51:04,619
+biz bunu gerçekleştiririz
+
+1002
+00:51:04,619 --> 00:51:06,619
+Bur'a da okey dersin
+
+1003
+00:51:06,619 --> 00:51:10,219
+belki çok ile bir fırsat
+
+1004
+00:51:10,219 --> 00:51:12,219
+çok çok teşekkür ederim
+
+1005
+00:51:12,219 --> 00:51:14,219
+ben izin verirseniz çok da fazla
+
+1006
+00:51:14,219 --> 00:51:16,219
+şöyle bir şey duymuşsundur belki
+
+1007
+00:51:16,219 --> 00:51:18,219
+bir arkadaşım bunu bana
+
+1008
+00:51:18,219 --> 00:51:20,219
+iletti
+
+1009
+00:51:22,219 --> 00:51:24,219
+bir şey var
+
