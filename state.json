@@ -737,7 +737,7 @@
     "report_url": "https://docs.google.com/document/d/1_sLJJ-i9OuX9Q4GfgOM8uZw2OP5zameV/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1kteCQc8wPoDKpRbdcoS6CG0QYezF65AZ": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261110_163911 - Usgs Bias NA-DSA-NMÇ-SA.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261110_163911 - Usgs Bias NA-DSA-NMÇ-SA.txt",
@@ -745,7 +745,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-17T20:42:22",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261110_163911 - Usgs Bias NA-DSA-NMÇ-SA_Rapor.docx",
+    "reported_at": "2026-11-17T21:13:31",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1gROy-9jCK3ZtE2OkQ2Le_vjWuDKw8Raj/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1k2akM5f34zAir4o0W-nOxpzA4uGDNTBs": {
     "status": "retry",
