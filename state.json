@@ -639,5 +639,16 @@
     "transcribed_at": "2026-11-17T20:14:22",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1B57ObAmVQiJAAbIFyikQ71XqFom3YzQn": {
+    "status": "transcribed",
+    "source": "Ses 261105_153538 - Gmm branch hatası NA-DSA-SA.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261105_153538 - Gmm branch hatası NA-DSA-SA.txt",
+    "duration": "0:18:35",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T20:16:53",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }

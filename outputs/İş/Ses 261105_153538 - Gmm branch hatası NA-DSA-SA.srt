@@ -1,0 +1,1240 @@
+1
+00:00:00,300 --> 00:00:02,299
+İntresan bir şey, program yani.
+
+2
+00:00:02,299 --> 00:00:05,750
+Çok derinlerin konusyonu olacak.
+
+3
+00:00:05,750 --> 00:00:09,750
+Ya derin, derin, derin, bunun derinin falan yok ki Sercan.
+
+4
+00:00:09,750 --> 00:00:15,750
+Bununla alakalı Özkan Kale'yle, ha Özkan Kale'nin daha doğrusu bir raporu var.
+
+5
+00:00:15,750 --> 00:00:18,750
+Orada bunların hepsinin formülasyonu var.
+
+6
+00:00:18,750 --> 00:00:26,140
+Bu formülasyonların tutup tutmadığı veya da şey yani hani nasıl kontrol ettiniz ki bunu?
+
+7
+00:00:26,140 --> 00:00:35,780
+Bir de sen, o backboard scaling, o bu şu, bunu zaten yani başından beri uğraştığım bir alan.
+
+8
+00:00:35,780 --> 00:00:39,869
+Yani şimdi bu nasıl, ha?
+
+9
+00:00:39,869 --> 00:00:55,240
+Ha ya Sercan, bunu sen, bunu sen, bunu sen eğer şununla bu işi yapmıyor olsaydı,
+
+10
+00:00:55,240 --> 00:01:08,909
+senin yani farkında ol, farkında değilsin sen.
+
+11
+00:01:08,909 --> 00:01:15,909
+Yani bir konu çalışılmaya başlandığında olan bu, ben bunu böyle buluyorum.
+
+12
+00:01:15,909 --> 00:01:17,909
+Kertma bunu nasıl buluyor filan gibilerinden.
+
+13
+00:01:17,909 --> 00:01:26,239
+Şimdi bunu normalda uyanmamış olsa, yani nasıl bir test yapıyorsunuz ya?
+
+14
+00:01:26,239 --> 00:01:29,719
+Yani nasıl bir şey yapıyorsunuz?
+
+15
+00:01:29,719 --> 00:01:37,040
+Bunu 2026 değil, 2025'de siz oturduğunuz, bununla ilgili çalışmalar yaptınız,
+
+16
+00:01:37,040 --> 00:01:39,040
+GM buluruş olur.
+
+17
+00:01:39,040 --> 00:01:43,040
+Hadi bunun kolunu, bunun kolunu bile asla bakarsan,
+
+18
+00:01:43,040 --> 00:01:49,120
+hangi kod parçasında gösterebiliyor musun sen bana?
+
+19
+00:01:49,120 --> 00:01:57,200
+Göster, gösterir misin?
+
+20
+00:01:57,200 --> 00:02:00,200
+Peki GM kod konularını bu senenin başında başladın.
+
+21
+00:02:00,200 --> 00:02:03,200
+10 ay geçti, 11. aydayız.
+
+22
+00:02:03,200 --> 00:02:07,450
+Bu kertma bunu nasıl yapıyor?
+
+23
+00:02:07,450 --> 00:02:09,449
+Ben buna bir bakayım şeklinde.
+
+24
+00:02:11,500 --> 00:02:14,500
+Bu kertmodu, bu kertmodu...
+
+25
+00:02:14,500 --> 00:02:20,500
+Bana ne ya, bu kertmodu nasıl şey var, yaklaşımı var?
+
+26
+00:02:20,500 --> 00:02:22,500
+Ben bunu da o, ben ona hesaplıyorum.
+
+27
+00:02:22,500 --> 00:02:25,500
+Kertmodu nasıl hesaplıyor diye böyle sorular sormadınız mı?
+
+28
+00:02:25,500 --> 00:02:32,210
+Veya da sormadın mı?
+
+29
+00:02:32,210 --> 00:02:34,750
+Hani onu bırak.
+
+30
+00:02:34,750 --> 00:02:38,750
+Senaryo based olsun, invent response olsun, o olsun, bu olsun.
+
+31
+00:02:38,750 --> 00:02:41,780
+30 kere bu işleri yaptığında,
+
+32
+00:02:41,780 --> 00:02:44,780
+kertmodu nasıl hesaplıyor diye şey yapmadın mı?
+
+33
+00:02:44,780 --> 00:02:50,629
+Alan kaynak, alan kaynak.
+
+34
+00:02:50,629 --> 00:02:52,629
+Ama alan kaynaktaki,
+
+35
+00:02:52,629 --> 00:02:54,629
+derpoinsource olarak senin,
+
+36
+00:02:54,629 --> 00:03:02,849
+sumut, kreditsal, şimdi seni ne geliyor?
+
+37
+00:03:02,849 --> 00:03:05,849
+Ya yani bunu bana anlatma ya,
+
+38
+00:03:05,849 --> 00:03:07,849
+bunu bana anlatma, vallahi anlatma.
+
+39
+00:03:07,849 --> 00:03:15,699
+Yani hakikaten anlatma bana.
+
+40
+00:03:15,699 --> 00:03:17,699
+Bir kod parçasını göstersen yani,
+
+41
+00:03:17,699 --> 00:03:19,699
+olması gereken ve olması
+
+42
+00:03:19,699 --> 00:03:27,139
+şu anki abi.
+
+43
+00:03:27,139 --> 00:03:37,849
+Nasıl performansı olacak?
+
+44
+00:03:37,849 --> 00:03:40,849
+Bu durumda yazılanmış olduğunu çünkü belki...
+
+45
+00:03:41,849 --> 00:03:44,849
+Bu var ya,
+
+46
+00:03:44,849 --> 00:03:47,169
+ilk yazıldığında,
+
+47
+00:03:47,169 --> 00:03:49,680
+bu yapıldı.
+
+48
+00:03:49,680 --> 00:03:51,680
+Üstümden bin çip,
+
+49
+00:03:51,680 --> 00:03:53,680
+ben soruyorum,
+
+50
+00:03:53,680 --> 00:03:55,680
+ben soruyorum,
+
+51
+00:03:55,680 --> 00:03:58,680
+CMM'de bir hata var mı?
+
+52
+00:03:58,680 --> 00:04:05,289
+Ne yatası?
+
+53
+00:04:05,289 --> 00:04:19,579
+Peki, logic tree,
+
+54
+00:04:19,579 --> 00:04:21,579
+logic tree, ground ocean modelin
+
+55
+00:04:21,579 --> 00:04:23,579
+bir parçası değil mi Sergi?
+
+56
+00:04:23,579 --> 00:04:37,579
+O zaman ne konuşuyoruz?
+
+57
+00:04:37,579 --> 00:04:39,740
+Yani ne konuşuyoruz?
+
+58
+00:04:39,740 --> 00:04:41,740
+Yani bunun,
+
+59
+00:04:41,740 --> 00:04:45,050
+bu şekilde öğrenilmesi,
+
+60
+00:04:45,050 --> 00:04:48,360
+bu konunun aslında senin
+
+61
+00:04:48,360 --> 00:04:50,939
+veyahut da aslında
+
+62
+00:04:50,939 --> 00:04:52,939
+ve elifin,
+
+63
+00:04:52,939 --> 00:04:54,939
+çünkü şey,
+
+64
+00:04:54,939 --> 00:04:56,939
+sorumlu altında olması,
+
+65
+00:04:56,939 --> 00:04:58,939
+gerektiği, bu şekilde tecrübe
+
+66
+00:04:58,939 --> 00:05:08,100
+ilmesi ne kadar kötü bir şey ya.
+
+67
+00:05:08,100 --> 00:05:10,100
+Evet, ne problem,
+
+68
+00:05:10,100 --> 00:05:12,100
+senin bahsettiğin şey,
+
+69
+00:05:12,100 --> 00:05:14,100
+yani o,
+
+70
+00:05:14,100 --> 00:05:16,100
+6 tane bright içerisinde,
+
+71
+00:05:16,100 --> 00:05:53,819
+bu nasıl yanlış dönüyor?
+
+72
+00:05:53,819 --> 00:06:07,720
+Efendim?
+
+73
+00:06:07,720 --> 00:06:09,720
+Yani bunu öyle mesela orada
+
+74
+00:06:09,720 --> 00:06:11,720
+İsmail Kök yazıyor değil mi?
+
+75
+00:06:11,720 --> 00:06:21,269
+O kapatma işlemini İsmail Kök yazıyor.
+
+76
+00:06:21,269 --> 00:06:23,430
+Tüm tasırlarda İsmail Kök yazıyor.
+
+77
+00:06:23,430 --> 00:06:25,430
+Yani ilk yolu,
+
+78
+00:06:25,430 --> 00:06:27,430
+2023-13 var ya,
+
+79
+00:06:27,430 --> 00:06:29,430
+ilk halinde bütün hepsini
+
+80
+00:06:29,430 --> 00:06:31,689
+İsmail şey yaptığı için,
+
+81
+00:06:31,689 --> 00:06:33,689
+komik ettiği için,
+
+82
+00:06:33,689 --> 00:06:35,689
+ilk yazılan her şeyi de
+
+83
+00:06:35,689 --> 00:06:37,689
+İsmail Kök yazıyor zaten.
+
+84
+00:06:37,689 --> 00:06:39,689
+Sonra değişiklik olunca,
+
+85
+00:06:39,689 --> 00:06:41,689
+şurada 2025 öğrenme yazıyor ya,
+
+86
+00:06:41,689 --> 00:06:43,689
+çok kocan,
+
+87
+00:06:43,689 --> 00:06:45,689
+burada sadece,
+
+88
+00:06:45,689 --> 00:06:47,689
+nam pay yerine
+
+89
+00:06:47,689 --> 00:06:49,689
+yani o şey,
+
+90
+00:06:49,689 --> 00:06:51,689
+nam pay yerine met diye
+
+91
+00:06:51,689 --> 00:06:53,689
+aynı işi yapan,
+
+92
+00:06:53,689 --> 00:06:55,689
+onun hızla falan alakası vardı,
+
+93
+00:06:55,689 --> 00:06:57,689
+sonuçta alakası var.
+
+94
+00:06:57,689 --> 00:06:59,689
+Üren dediği kim? Ulaşıvereyim.
+
+95
+00:06:59,689 --> 00:07:01,689
+Peki bir şey söyleyelim,
+
+96
+00:07:01,689 --> 00:07:03,689
+İsmail Kök'ü,
+
+97
+00:07:03,689 --> 00:07:06,259
+İsmail Kök'ü burada gördü.
+
+98
+00:07:06,259 --> 00:07:10,019
+Bunu ne verem değiştirilmiş?
+
+99
+00:07:10,019 --> 00:07:12,019
+Yani değiştirilmiş,
+
+100
+00:07:12,019 --> 00:07:14,019
+bir şeyin de iki türlü de yazılmış,
+
+101
+00:07:14,019 --> 00:07:16,019
+biri açık bırakılmış.
+
+102
+00:07:16,019 --> 00:07:18,019
+Unutmaktan İsmail'e
+
+103
+00:07:18,019 --> 00:07:20,019
+giden şeyim şekildedir diye düşünüyorum.
+
+104
+00:07:20,019 --> 00:07:22,019
+Çünkü ilk hali
+
+105
+00:07:22,019 --> 00:07:24,019
+hepsi 13-11,
+
+106
+00:07:24,019 --> 00:07:26,019
+yani bizim parkına geçiş tarihimiz
+
+107
+00:07:26,019 --> 00:07:28,339
+zaten 2023
+
+108
+00:07:28,339 --> 00:07:30,500
+kasım.
+
+109
+00:07:30,500 --> 00:07:32,500
+O muhtemelen kendisine gelen kodu
+
+110
+00:07:32,500 --> 00:07:34,500
+şey yaptı.
+
+111
+00:07:34,500 --> 00:07:36,500
+Yani değişiklik olsa atıyorum,
+
+112
+00:07:36,500 --> 00:07:38,500
+14'ünde, 15'li veya
+
+113
+00:07:38,500 --> 00:07:40,500
+başka öğrenmek tarihinde.
+
+114
+00:07:40,500 --> 00:07:42,500
+Şimdi şöyle,
+
+115
+00:07:42,500 --> 00:07:46,899
+ben mesela şöyle bir şey dediğim zaman,
+
+116
+00:07:46,899 --> 00:07:49,259
+birkaç kereydim,
+
+117
+00:07:49,259 --> 00:07:51,259
+ya Serda, sen
+
+118
+00:07:51,259 --> 00:07:53,259
+Grand Ocean modellerinin sizinden
+
+119
+00:07:53,259 --> 00:07:55,259
+meşgulmuşsun, ya da buna
+
+120
+00:07:55,259 --> 00:07:57,379
+çalıştık,
+
+121
+00:07:57,379 --> 00:07:59,379
+buna çalıştık dediğim zaman,
+
+122
+00:07:59,379 --> 00:08:03,980
+sen,
+
+123
+00:08:03,980 --> 00:08:06,009
+ya da bu ilifin deşi
+
+124
+00:08:06,009 --> 00:08:08,009
+sorumlu altında
+
+125
+00:08:08,009 --> 00:08:10,009
+ben hep gördüğüm için,
+
+126
+00:08:10,009 --> 00:08:12,009
+hazırdı ben o şekilde gördüğüm için,
+
+127
+00:08:12,009 --> 00:08:14,009
+siz bunları,
+
+128
+00:08:14,009 --> 00:08:16,649
+25'te
+
+129
+00:08:16,649 --> 00:08:18,649
+2026'da
+
+130
+00:08:18,649 --> 00:08:21,029
+bu kod parçalarının
+
+131
+00:08:21,029 --> 00:08:23,029
+siz hiç, yani
+
+132
+00:08:23,029 --> 00:08:25,029
+kendi kod parçalarınızda
+
+133
+00:08:25,029 --> 00:08:27,029
+filan şey yapmıyormuş.
+
+134
+00:08:27,029 --> 00:08:29,029
+Mesela sen, kendin de
+
+135
+00:08:29,029 --> 00:08:31,029
+o logic tree branch
+
+136
+00:08:31,029 --> 00:08:33,029
+oluşturduğunu biliyorum.
+
+137
+00:08:33,029 --> 00:08:35,580
+Yani bunu hatırlıyorum.
+
+138
+00:08:35,580 --> 00:08:39,559
+Bunu,
+
+139
+00:08:39,559 --> 00:08:42,389
+ya fark etmez.
+
+140
+00:08:42,389 --> 00:08:44,389
+Bak bir şey söyleyeceğim,
+
+141
+00:08:44,389 --> 00:08:46,389
+stokastik alakaynak dediğin zaman
+
+142
+00:08:46,389 --> 00:08:48,389
+Serda,
+
+143
+00:08:48,389 --> 00:08:50,389
+senin sumutut kredit,
+
+144
+00:08:50,389 --> 00:08:52,389
+sizden de işin içindedir.
+
+145
+00:08:52,389 --> 00:08:54,940
+Çünkü oradakilerle,
+
+146
+00:08:54,940 --> 00:08:56,940
+bir e bir, aynı parça
+
+147
+00:08:56,940 --> 00:08:58,940
+şeyleri kullanıyor.
+
+148
+00:08:58,940 --> 00:09:00,940
+Bunları siz, lan bu adam,
+
+149
+00:09:00,940 --> 00:09:03,799
+bu kert modu nasıl yapıyor diye,
+
+150
+00:09:03,799 --> 00:09:05,799
+hiç, yani
+
+151
+00:09:05,799 --> 00:09:12,309
+bakmak aklınıza gelmiyoruz.
+
+152
+00:09:12,309 --> 00:09:15,500
+Anlaşılan gelmiyor.
+
+153
+00:09:15,500 --> 00:09:17,500
+Peki mesela, İsmail Iman,
+
+154
+00:09:17,500 --> 00:09:19,909
+norulların yaptığı,
+
+155
+00:09:19,909 --> 00:09:22,460
+buna benzeyen bir,
+
+156
+00:09:22,460 --> 00:10:35,529
+şey yapmadınız mı?
+
+157
+00:10:35,529 --> 00:10:37,909
+Onun ilk önce şöyle diyor ki,
+
+158
+00:10:37,909 --> 00:10:39,909
+doğrusu mu,
+
+159
+00:10:39,909 --> 00:10:42,490
+önçten kaleni,
+
+160
+00:10:42,490 --> 00:10:44,490
+o fonksiyonları,
+
+161
+00:10:44,490 --> 00:10:46,779
+bir e bir, sen çizilsin mi?
+
+162
+00:10:46,779 --> 00:10:48,779
+En teziklik,
+
+163
+00:10:48,779 --> 00:10:50,779
+pendim,
+
+164
+00:10:50,779 --> 00:10:52,809
+tavvet.
+
+165
+00:10:52,809 --> 00:10:56,090
+Bunu ilk önce,
+
+166
+00:10:56,090 --> 00:10:58,980
+bir oradan,
+
+167
+00:10:58,980 --> 00:11:00,980
+o fonksiyonu, bir e bir,
+
+168
+00:11:00,980 --> 00:11:02,980
+izliyor mu, izliyor mu?
+
+169
+00:11:02,980 --> 00:11:04,980
+Yani o kod parçasını,
+
+170
+00:11:04,980 --> 00:11:07,370
+zaten bunu izliyordur da.
+
+171
+00:11:07,370 --> 00:11:09,370
+Yani göstermekle, görmekle,
+
+172
+00:11:09,370 --> 00:11:11,399
+parçada.
+
+173
+00:11:11,399 --> 00:11:13,399
+Arkasında biz şey yapalım.
+
+174
+00:11:13,399 --> 00:11:15,399
+Şimdi var mı reisem, bu hata bir
+
+175
+00:11:15,399 --> 00:11:19,259
+şekilde alayım değil mi?
+
+176
+00:11:19,259 --> 00:11:21,539
+Her şey şu an.
+
+177
+00:11:21,539 --> 00:11:23,539
+O zaman şöyle bir şey yapalım.
+
+178
+00:11:23,539 --> 00:11:28,809
+Bir, bence,
+
+179
+00:11:28,809 --> 00:11:30,809
+bu oradaki bir şey sorabilir miyim?
+
+180
+00:11:30,809 --> 00:11:33,100
+Sercan, bu şey,
+
+181
+00:11:33,100 --> 00:11:35,100
+fay tarafı doğrusu çalıştığını görüyoruz ya.
+
+182
+00:11:35,100 --> 00:11:37,419
+O başka bir fonksiyona mı
+
+183
+00:11:37,419 --> 00:11:39,419
+yönlendiriyordu?
+
+184
+00:11:39,419 --> 00:11:42,730
+Demes denen,
+
+185
+00:11:42,730 --> 00:11:45,179
+er ya da mı geliyor sadece?
+
+186
+00:11:45,179 --> 00:11:47,179
+Bu da, bu da anlamsız.
+
+187
+00:11:47,179 --> 00:11:49,179
+Bu da anlamsız.
+
+188
+00:11:49,179 --> 00:11:51,179
+Yani bir tane model var zaten.
+
+189
+00:11:51,179 --> 00:11:53,179
+Bir tek magneturta bakar, niye
+
+190
+00:11:53,179 --> 00:11:55,179
+fay kaynak böyle, alan kaynak
+
+191
+00:11:55,179 --> 00:11:57,179
+öyle, öteki böyle.
+
+192
+00:11:57,179 --> 00:11:59,179
+Bir tane fonksiyon var
+
+193
+00:11:59,179 --> 00:12:04,470
+orada.
+
+194
+00:12:04,470 --> 00:12:06,470
+Yani bunu da anlamıyor ki,
+
+195
+00:12:06,470 --> 00:12:08,470
+model şeyi bilmiyor ki,
+
+196
+00:12:08,470 --> 00:12:10,470
+alan kaynak mı, fay kaynak mı,
+
+197
+00:12:10,470 --> 00:12:15,830
+o yalnızca magneturtu biliyor.
+
+198
+00:12:15,830 --> 00:12:38,629
+Bir mesela, fay
+
+199
+00:12:38,629 --> 00:12:45,019
+ve alan kaynak.
+
+200
+00:12:45,019 --> 00:12:47,019
+Fay kaynakların fazla olmadı ama
+
+201
+00:12:47,019 --> 00:12:50,230
+neredeyse tamamlar.
+
+202
+00:12:50,230 --> 00:12:57,259
+Ulan kaynak var.
+
+203
+00:12:57,259 --> 00:12:59,259
+Bu şeyden imal de şey yapalım biz.
+
+204
+00:12:59,259 --> 00:13:01,480
+Yani, 3 tane
+
+205
+00:13:01,480 --> 00:13:13,179
+bir şurası Türkiye.
+
+206
+00:13:13,179 --> 00:13:15,179
+3 bölge için,
+
+207
+00:13:15,179 --> 00:13:17,559
+yani bunların körüyle,
+
+208
+00:13:17,559 --> 00:13:19,559
+3 bölge için,
+
+209
+00:13:19,559 --> 00:13:21,559
+kodu düzelttikten sonra,
+
+210
+00:13:21,559 --> 00:13:23,559
+hatfeksik çıktıktan sonra,
+
+211
+00:13:23,559 --> 00:13:27,450
+evvel emeden hatfeksik çıktık.
+
+212
+00:13:27,450 --> 00:13:29,450
+Uyran alınmayacak mı zaten?
+
+213
+00:13:29,450 --> 00:13:31,450
+Yani tüm Türkiye'ye.
+
+214
+00:13:31,450 --> 00:13:35,529
+Tamam, tamam.
+
+215
+00:13:35,529 --> 00:13:38,519
+Uyran alın.
+
+216
+00:13:38,519 --> 00:13:41,000
+Çünkü zaten, çok
+
+217
+00:13:41,000 --> 00:13:43,000
+bilgisayar oluyor.
+
+218
+00:13:43,000 --> 00:13:49,029
+Uyran alalım. Ondan sonra, özellikle
+
+219
+00:13:49,029 --> 00:13:51,029
+bir kuralarda.
+
+220
+00:13:51,029 --> 00:13:53,029
+Neydi, ne oldu, değişime mi ediyorsunuz?
+
+221
+00:13:53,029 --> 00:13:55,350
+Dos ve şey anlamıyor.
+
+222
+00:13:55,350 --> 00:13:58,409
+Ve yani,
+
+223
+00:13:58,409 --> 00:14:03,220
+ondan sonra da bunu nasıl
+
+224
+00:14:03,220 --> 00:14:07,299
+çünkü burada şeyden çok
+
+225
+00:14:07,299 --> 00:14:09,659
+tıklıyor.
+
+226
+00:14:09,659 --> 00:14:11,659
+Şey, telefon var.
+
+227
+00:14:11,659 --> 00:14:13,659
+Her derece anlayalım.
+
+228
+00:14:13,659 --> 00:14:15,659
+Etten mi ihtimali?
+
+229
+00:14:15,659 --> 00:14:17,659
+Çok yüksek, ama ne mertebeci.
+
+230
+00:14:17,659 --> 00:14:19,659
+Yüksek yolda kalmayacak.
+
+231
+00:14:21,690 --> 00:14:23,690
+Yani, şundan olayım.
+
+232
+00:14:23,690 --> 00:14:25,820
+Bu genelde
+
+233
+00:14:25,820 --> 00:14:27,820
+şurası geri öpüyor.
+
+234
+00:14:27,820 --> 00:14:29,820
+Yere öptüğü için,
+
+235
+00:14:29,820 --> 00:14:32,360
+burada ne olursa olsun.
+
+236
+00:14:32,360 --> 00:14:34,360
+Bilmiyoruz.
+
+237
+00:14:34,360 --> 00:14:36,360
+Şurada bir,
+
+238
+00:14:36,360 --> 00:14:41,879
+bir,
+
+239
+00:14:41,879 --> 00:14:43,879
+bir evlerinden bir şey bulmuyor.
+
+240
+00:14:43,879 --> 00:14:45,879
+Onu, onu şey yaparız.
+
+241
+00:14:45,879 --> 00:14:47,879
+Yani, bir sonra düşünün.
+
+242
+00:14:47,879 --> 00:14:50,710
+Ama ilk önce mertebe olarak ne kadar
+
+243
+00:14:50,710 --> 00:14:53,159
+bu.
+
+244
+00:14:53,159 --> 00:14:55,159
+Şöyle bir bakalım.
+
+245
+00:14:55,159 --> 00:14:57,159
+Şey, süreci nasıl olur?
+
+246
+00:14:57,159 --> 00:14:59,159
+Hatfix süreci.
+
+247
+00:14:59,159 --> 00:15:01,379
+Zaten bu,
+
+248
+00:15:01,379 --> 00:15:04,409
+şey var.
+
+249
+00:15:04,409 --> 00:15:12,549
+Aksi alın.
+
+250
+00:15:12,549 --> 00:15:14,649
+Ondan sonra hemen Hatfix.
+
+251
+00:15:14,649 --> 00:15:17,860
+Hem,
+
+252
+00:15:17,860 --> 00:15:20,309
+hem şeyin için Hatfix.
+
+253
+00:15:20,309 --> 00:15:44,169
+Groß.
+
+254
+00:15:44,169 --> 00:15:46,169
+Diğeri,
+
+255
+00:15:46,169 --> 00:15:48,169
+ön indas kömürü falan zaten etkilemiyor.
+
+256
+00:15:48,169 --> 00:15:50,169
+İntiratiyyi etkilemiyor.
+
+257
+00:15:50,169 --> 00:15:52,169
+Zaten onunla ilgili de,
+
+258
+00:15:52,169 --> 00:15:54,360
+bu şey,
+
+259
+00:15:54,360 --> 00:15:58,340
+bu non-prop,
+
+260
+00:15:58,340 --> 00:16:04,539
+non-prop agreement.
+
+261
+00:16:04,539 --> 00:16:06,539
+Onu şey yapıyoruz.
+
+262
+00:16:06,539 --> 00:16:08,539
+Onunla ilgili şey yapıyoruz.
+
+263
+00:16:08,539 --> 00:16:10,539
+Burada yapacağızları da,
+
+264
+00:16:10,539 --> 00:16:12,539
+Muhammed'le şeyin.
+
+265
+00:16:12,539 --> 00:16:14,539
+Raporlamadan şuan da neye
+
+266
+00:16:14,539 --> 00:16:16,539
+bayağı alacağız.
+
+267
+00:16:16,539 --> 00:16:18,539
+Bir kere raporlamadan alacağız.
+
+268
+00:16:18,539 --> 00:16:20,539
+Bir kere de,
+
+269
+00:16:20,539 --> 00:16:22,539
+gerçek olması düzeltilmiş haliye.
+
+270
+00:16:22,539 --> 00:16:24,539
+Onlar biliyor zaten.
+
+271
+00:16:24,539 --> 00:16:26,539
+İkisi birbirine,
+
+272
+00:16:26,539 --> 00:16:28,539
+örtüşüyorsa zaten şey yapacağız.
+
+273
+00:16:28,539 --> 00:16:30,539
+Ne güzel.
+
+274
+00:16:30,539 --> 00:16:32,539
+Doğrusunu verdik.
+
+275
+00:16:32,539 --> 00:16:34,889
+Raporlamadan verdik.
+
+276
+00:16:34,889 --> 00:16:36,889
+Bu şekilde,
+
+277
+00:16:36,889 --> 00:16:38,889
+sigma da,
+
+278
+00:16:38,889 --> 00:16:40,889
+tek şey,
+
+279
+00:16:40,889 --> 00:16:42,889
+orada sigma'nın değişimini,
+
+280
+00:16:42,889 --> 00:16:49,590
+İstanbul'un raporundan,
+
+281
+00:16:49,590 --> 00:16:51,590
+bilmediğim için,
+
+282
+00:16:51,590 --> 00:16:53,590
+şey yapılıyor ya şu anda.
+
+283
+00:16:53,590 --> 00:16:55,590
+Bekbol yapılıyor ya.
+
+284
+00:16:55,590 --> 00:16:57,590
+Özkan Kale'nin iki raporu,
+
+285
+00:16:57,590 --> 00:16:59,590
+direkt bir şey.
+
+286
+00:16:59,590 --> 00:17:01,590
+Yani o ayında,
+
+287
+00:17:01,590 --> 00:17:03,620
+değişmiyor değil mi?
+
+288
+00:17:03,620 --> 00:17:05,910
+Tafi'leri veriyor zaten orada.
+
+289
+00:17:05,910 --> 00:17:07,910
+O zaten bir de bir olmasını o zaman bekliyoruz.
+
+290
+00:17:07,910 --> 00:17:10,170
+Bu işi sen yorutuyorsun.
+
+291
+00:17:10,170 --> 00:17:12,460
+Şeyden,
+
+292
+00:17:12,460 --> 00:17:14,460
+Elif'ten,
+
+293
+00:17:14,460 --> 00:17:16,460
+şey,
+
+294
+00:17:16,460 --> 00:17:18,460
+konuşacak,
+
+295
+00:17:18,460 --> 00:17:20,460
+bir kısmı devri olacağım.
+
+296
+00:17:20,460 --> 00:17:22,460
+Çünkü o,
+
+297
+00:17:22,460 --> 00:17:24,460
+şu anda başka şeylerle uğraşıyor.
+
+298
+00:17:24,460 --> 00:17:27,190
+Bu işi şu anda sen yorutuyorsun.
+
+299
+00:17:27,190 --> 00:17:30,410
+Evet,
+
+300
+00:17:30,410 --> 00:17:32,410
+ben seninle konuşacağım.
+
+301
+00:17:32,410 --> 00:17:35,109
+Konuşacağım.
+
+302
+00:17:35,109 --> 00:17:37,779
+Arkadaşlarım yoruldu.
+
+303
+00:17:37,779 --> 00:17:39,779
+Peki tamam.
+
+304
+00:17:39,779 --> 00:17:41,779
+Başka bir şey,
+
+305
+00:17:41,779 --> 00:17:52,039
+şu anda.
+
+306
+00:17:52,039 --> 00:17:54,420
+Şimdi onları bir konu ver.
+
+307
+00:17:54,420 --> 00:17:56,420
+Şeyde sözü,
+
+308
+00:17:56,420 --> 00:17:58,420
+onu anlatalım.
+
+309
+00:17:58,420 --> 00:18:29,099
+Şeyde sözü,
+
+310
+00:18:29,099 --> 00:18:36,150
+onu anlatalım.
+
