@@ -529,5 +529,16 @@
     "transcribed_at": "2026-11-17T18:51:43",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "1sn8pyCFDCBhMHv3OwglYV75SlfBZXdXz": {
+    "status": "transcribed",
+    "source": "Ses 260706_152051 - Parametrik.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 260706_152051 - Parametrik.txt",
+    "duration": "1:04:24",
+    "language": "tr",
+    "transcribed_at": "2026-11-17T19:02:39",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
