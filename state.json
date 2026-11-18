@@ -805,7 +805,7 @@
     "report_url": "https://docs.google.com/document/d/1UrLbj-Dw16-2FFD9umrf2ZO6zZwm1FPU/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "1-3LNEyXtjKbEUHY2xy0du5xKI9j4NQDv": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 260709_154852 - Dask.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 260709_154852 - Dask.txt",
@@ -813,7 +813,11 @@
     "language": "tr",
     "transcribed_at": "2026-11-18T04:51:16",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 260709_154852 - Dask_Rapor.docx",
+    "reported_at": "2026-11-18T05:06:07",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1vXjQWevEXmAHNMQ69b5a77YR0kFXLZKY/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "16HoaMGynyN2STMueSz38uwVvcEvbOhXz": {
     "status": "transcribed",
