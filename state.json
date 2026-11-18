@@ -820,7 +820,7 @@
     "report_url": "https://docs.google.com/document/d/1vXjQWevEXmAHNMQ69b5a77YR0kFXLZKY/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   },
   "16HoaMGynyN2STMueSz38uwVvcEvbOhXz": {
-    "status": "transcribed",
+    "status": "reported",
     "source": "Ses 261117_140002 - MunichRe Kristian & Marco.m4a",
     "category": "İş",
     "txt": "outputs/İş/Ses 261117_140002 - MunichRe Kristian & Marco.txt",
@@ -828,6 +828,10 @@
     "language": "en",
     "transcribed_at": "2026-11-18T05:03:29",
     "uploaded.txt": true,
-    "uploaded.srt": true
+    "uploaded.srt": true,
+    "report": "outputs/İş/Ses 261117_140002 - MunichRe Kristian & Marco_Rapor.docx",
+    "reported_at": "2026-11-18T05:06:14",
+    "uploaded.docx": true,
+    "report_url": "https://docs.google.com/document/d/1a7MHL9hso_TR55vCO3MKc5TPePspujno/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
   }
 }
