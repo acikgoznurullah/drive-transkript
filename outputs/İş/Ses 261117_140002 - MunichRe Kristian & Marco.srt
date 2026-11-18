@@ -1,0 +1,5228 @@
+1
+00:00:11,919 --> 00:00:16,920
+Can you hear me? We can hear you loud and clear?
+
+2
+00:00:16,920 --> 00:00:22,920
+Unfortunately my camera is not working. This is my big problem.
+
+3
+00:00:22,920 --> 00:00:26,920
+My computer in that sense is unstable.
+
+4
+00:00:26,920 --> 00:00:30,920
+So sometimes it shows me and sometimes it doesn't.
+
+5
+00:00:30,920 --> 00:00:34,920
+I cannot help it in that sense. I'm sorry for this.
+
+6
+00:00:34,920 --> 00:00:38,979
+No worries. Maybe you will appear during the call at some point.
+
+7
+00:00:39,979 --> 00:00:45,140
+I have been trying it for the last two days. It's not working.
+
+8
+00:00:45,140 --> 00:00:50,140
+I hope that it comes true.
+
+9
+00:00:50,140 --> 00:00:55,140
+Thank you very much for your kind invitation.
+
+10
+00:00:55,140 --> 00:01:02,270
+For the last month we have been working together with Nurullah
+
+11
+00:01:02,270 --> 00:01:11,719
+about Lakhten's example cases showing how the payout structure
+
+12
+00:01:11,719 --> 00:01:17,719
+proposed by you and they, actually mostly you, I believe,
+
+13
+00:01:17,719 --> 00:01:30,959
+works for TCIP, say, parametric coverage or retro coverage.
+
+14
+00:01:30,959 --> 00:01:37,959
+So because we have started to work on it in the last month,
+
+15
+00:01:37,959 --> 00:01:46,269
+we had done some assumptions to work on the sample cases
+
+16
+00:01:46,269 --> 00:01:55,269
+and then through that we also worked on our own for some specific cases.
+
+17
+00:01:55,269 --> 00:02:02,659
+Firstly I'm going to summarize what we have understood from Lakhten Rhee,
+
+18
+00:02:02,659 --> 00:02:08,659
+their examples and our assumptions and then Nurullah will be
+
+19
+00:02:08,659 --> 00:02:12,719
+explaining you our own case studies.
+
+20
+00:02:12,719 --> 00:02:18,719
+So I believe this is going to be the content of the whole, say, meeting today.
+
+21
+00:02:18,719 --> 00:02:19,719
+Thank you.
+
+22
+00:02:19,719 --> 00:02:21,719
+That works very well for us.
+
+23
+00:02:21,719 --> 00:02:26,719
+I assume that your expectations is to comment around those cases as a disclaimer.
+
+24
+00:02:26,719 --> 00:02:30,719
+I have to say that I have seen some of them, not all,
+
+25
+00:02:30,719 --> 00:02:33,719
+especially not your own use cases or examples,
+
+26
+00:02:33,719 --> 00:02:36,719
+and I think Marko has not seen any of them.
+
+27
+00:02:36,719 --> 00:02:40,719
+So I think it's okay to share more from your view than less
+
+28
+00:02:40,719 --> 00:02:45,719
+so we can give you a better opinion on what you show us.
+
+29
+00:02:45,719 --> 00:02:50,719
+Certainly at the end of this meeting we can send you our presentation
+
+30
+00:02:50,719 --> 00:02:58,719
+and then you can make your comments right after receiving our presentation.
+
+31
+00:02:58,719 --> 00:03:01,719
+Thank you very much. I think that works for us.
+
+32
+00:03:01,719 --> 00:03:12,699
+So I'll share my screen if you don't mind and to start talking about our studies.
+
+33
+00:03:12,699 --> 00:03:15,560
+Can you see my screen?
+
+34
+00:03:15,560 --> 00:03:17,560
+Yes, we can see it.
+
+35
+00:03:17,560 --> 00:03:32,620
+So first of all, a few weeks ago, Paul, he sent us, he sent to us an example case study,
+
+36
+00:03:32,620 --> 00:03:35,620
+either using AIR or MMS.
+
+37
+00:03:35,620 --> 00:03:47,949
+And in that case study, he is picking up a rupture representative of 250-year
+
+38
+00:03:47,949 --> 00:03:59,139
+return period loss and then infer the PGA's of the sets in the Marmara region
+
+39
+00:03:59,139 --> 00:04:03,199
+from the CCIP exposure.
+
+40
+00:04:03,199 --> 00:04:12,199
+And then from that he iterates, I mean, the sample itself iterates the payout structure
+
+41
+00:04:12,199 --> 00:04:23,839
+and obtains the likely payouts for the given leather type PGA's payout structure.
+
+42
+00:04:23,839 --> 00:04:31,839
+So from the file he sent to us, we made some assumptions
+
+43
+00:04:31,839 --> 00:04:41,740
+and then tried to understand how he computed the likely payout for each cell
+
+44
+00:04:41,740 --> 00:04:43,740
+given the rupture scenario.
+
+45
+00:04:43,740 --> 00:04:53,740
+So firstly, I'll just summarize our understanding from his file for that work case.
+
+46
+00:04:53,740 --> 00:05:05,740
+So essentially, we assume that either RMS or AIR essentially provides the annual
+
+47
+00:05:05,740 --> 00:05:12,500
+exceedance curves for hazard and loss for each cell.
+
+48
+00:05:12,500 --> 00:05:19,699
+So, and then for each cell, in order to infer the PGA levels,
+
+49
+00:05:19,699 --> 00:05:30,850
+he uses a, say, PGA suite of PGA thresholds,
+
+50
+00:05:30,850 --> 00:05:39,009
+like this one starting from 0.05G to 0.75G with 0.05G increments.
+
+51
+00:05:39,009 --> 00:05:49,329
+And then essentially, he assumes equal rates for loss and hazard
+
+52
+00:05:49,329 --> 00:05:55,779
+and for each peak run acceleration level in that set,
+
+53
+00:05:55,779 --> 00:06:04,160
+he first computes the exceedance rate from the hazard curve
+
+54
+00:06:04,160 --> 00:06:11,160
+and then under the assumption of equal exceedance rates for hazard and PGA,
+
+55
+00:06:11,160 --> 00:06:16,160
+he computes the corresponding loss levels.
+
+56
+00:06:16,160 --> 00:06:22,160
+So essentially for each cell at the end of this process,
+
+57
+00:06:22,160 --> 00:06:30,829
+he obtains PGA versus a cell loss, say, levels, all right,
+
+58
+00:06:30,829 --> 00:06:41,899
+and then in order to infer the, say, PGA at each cell for the given rupture scenario,
+
+59
+00:06:41,899 --> 00:06:47,899
+which is a rupture of magnitude as far as I recall, 7.5,
+
+60
+00:06:47,899 --> 00:06:52,959
+rupturing the generic fault.
+
+61
+00:06:52,959 --> 00:06:59,220
+So essentially, again, we assume that for each cell,
+
+62
+00:06:59,220 --> 00:07:06,730
+we have the mean losses, not the PGA values,
+
+63
+00:07:06,730 --> 00:07:14,339
+but the mean losses from either AAR or RMS.
+
+64
+00:07:14,339 --> 00:07:17,339
+And then because we know the mean losses
+
+65
+00:07:17,339 --> 00:07:26,339
+and because for each cell we have already obtained a PGA versus, say, loss set,
+
+66
+00:07:26,339 --> 00:07:34,339
+from the given mean loss value of that specific rupture scenario,
+
+67
+00:07:34,339 --> 00:07:40,339
+one can infer the corresponding PGA.
+
+68
+00:07:40,339 --> 00:07:51,339
+Once you have the inferred PGA, then you can use the leather type payout structure
+
+69
+00:07:51,339 --> 00:08:06,100
+to determine the losses paid for that given cell under the, say, considered rupture scenario.
+
+70
+00:08:06,100 --> 00:08:14,480
+So this is our understanding from the explanations in that file
+
+71
+00:08:14,480 --> 00:08:24,480
+of how the PGA's are inferred and how these PGA inferred PGA's are used
+
+72
+00:08:24,480 --> 00:08:32,740
+through the proposed payout structure to get an overall idea
+
+73
+00:08:32,740 --> 00:08:39,740
+about the payouts for a critical event of representing 250-year return period
+
+74
+00:08:39,740 --> 00:08:45,899
+of the entire portfolio, TCP portfolio in the Marmara region.
+
+75
+00:08:45,899 --> 00:08:49,899
+So maybe Marco wants to comment on, in general terms,
+
+76
+00:08:49,899 --> 00:08:53,899
+but this is also my understanding and this is our understanding
+
+77
+00:08:53,899 --> 00:08:57,899
+of how we ultimately also translate it into our modeling
+
+78
+00:08:57,899 --> 00:09:00,899
+and then more importantly into our claims calculation.
+
+79
+00:09:00,899 --> 00:09:04,899
+And this would then also be applied across Turkey for every single cell,
+
+80
+00:09:04,899 --> 00:09:06,899
+for every single scenario.
+
+81
+00:09:06,899 --> 00:09:12,899
+Okay. So if, I mean, if Marco doesn't have any other...
+
+82
+00:09:12,899 --> 00:09:15,659
+At the moment not.
+
+83
+00:09:15,659 --> 00:09:20,659
+My understanding was a little bit, this was also the way, let's say,
+
+84
+00:09:20,659 --> 00:09:24,659
+what is the logic behind this payout?
+
+85
+00:09:24,659 --> 00:09:29,730
+If I understood correctly, that's basically the way it was,
+
+86
+00:09:29,730 --> 00:09:32,919
+we should, so internally probably you would say,
+
+87
+00:09:32,919 --> 00:09:35,919
+is a little bit like the structuring part.
+
+88
+00:09:35,919 --> 00:09:42,919
+So how it was an end to find the payout that we see in the step four.
+
+89
+00:09:42,919 --> 00:09:48,919
+Okay. So essentially, I mean, in that case, if we are all on the same page,
+
+90
+00:09:48,919 --> 00:09:55,919
+if our understanding is sort of the same for the, say, assumptions made
+
+91
+00:09:55,919 --> 00:10:02,919
+in determining the likely losses or likely payouts for a given scenario
+
+92
+00:10:02,919 --> 00:10:10,950
+under the RMS or AR results, using RMS or AR results,
+
+93
+00:10:10,950 --> 00:10:15,500
+we have some reservations in that procedure.
+
+94
+00:10:15,500 --> 00:10:19,659
+So I'm going to summarize these reservations.
+
+95
+00:10:19,659 --> 00:10:25,879
+Essentially, I mean, Marco would know it much better, I believe,
+
+96
+00:10:25,879 --> 00:10:27,879
+because of his profession.
+
+97
+00:10:27,879 --> 00:10:33,879
+Essentially, you're matching two marginal distributions.
+
+98
+00:10:33,879 --> 00:10:39,009
+So one is the hazard and the other is most exceedance rates.
+
+99
+00:10:39,009 --> 00:10:42,009
+So these are two marginal distributions.
+
+100
+00:10:42,009 --> 00:10:48,009
+So essentially they are computed from lots of different scenarios
+
+101
+00:10:48,009 --> 00:10:55,009
+and essentially they will not correspond to a specific earthquake
+
+102
+00:10:55,009 --> 00:10:57,009
+or a rupture scenario.
+
+103
+00:10:57,009 --> 00:10:59,009
+This is okay, actually. I mean, this is fine.
+
+104
+00:10:59,009 --> 00:11:08,230
+I mean, essentially you are sort of trying to find out the likely payout,
+
+105
+00:11:08,230 --> 00:11:12,230
+say, given an intensity value.
+
+106
+00:11:12,230 --> 00:11:15,899
+This is okay in that sense.
+
+107
+00:11:15,899 --> 00:11:23,190
+But in any case, the level of intensity or the intensity value
+
+108
+00:11:23,190 --> 00:11:29,289
+that you are inferring from this, say, procedure
+
+109
+00:11:29,289 --> 00:11:36,289
+does not have to correspond to the median PGA value
+
+110
+00:11:36,289 --> 00:11:40,289
+or median intensity metric that you are considered.
+
+111
+00:11:40,289 --> 00:11:48,289
+But essentially when you make use of shake maps
+
+112
+00:11:48,289 --> 00:11:54,289
+from the U.S. Geological Survey, then certainly you have to focus on
+
+113
+00:11:54,289 --> 00:11:59,289
+the median intensity metrics because essentially the median intensity
+
+114
+00:11:59,289 --> 00:12:05,289
+metrics is the essence in the shake map USGS shake maps.
+
+115
+00:12:05,289 --> 00:12:11,379
+So essentially you're coming up with some inferred PGA values
+
+116
+00:12:11,379 --> 00:12:17,379
+through this assumption, but they don't necessarily represent
+
+117
+00:12:17,379 --> 00:12:25,379
+the median PGA which is being used in the USGS shake maps.
+
+118
+00:12:25,379 --> 00:12:28,379
+So that is our first concern.
+
+119
+00:12:28,379 --> 00:12:31,379
+I mean, this is really our first concern.
+
+120
+00:12:31,379 --> 00:12:36,379
+So essentially the payout structure is not really assessed
+
+121
+00:12:36,379 --> 00:12:45,759
+for the median PGA's likely to occur after an event,
+
+122
+00:12:45,759 --> 00:12:50,110
+after a specific rupture or specific earthquake.
+
+123
+00:12:50,110 --> 00:12:57,620
+So this is our first concern, a major concern of the procedure
+
+124
+00:12:57,620 --> 00:13:02,620
+being implemented to compute the inferred PGA's
+
+125
+00:13:02,620 --> 00:13:05,620
+and then the assessment of the payout structure.
+
+126
+00:13:05,620 --> 00:13:15,940
+Now, having said that, it will be summarized
+
+127
+00:13:15,940 --> 00:13:19,940
+by noodle law as well, so essentially which will be explained
+
+128
+00:13:19,940 --> 00:13:22,940
+by noodle law actually, but I'm going to make a summary.
+
+129
+00:13:22,940 --> 00:13:30,100
+So essentially what we did is we collected a suite of shake maps
+
+130
+00:13:30,100 --> 00:13:40,000
+from the USGS shake map library representing the USGS shake maps
+
+131
+00:13:40,000 --> 00:13:44,000
+of the Marmara Sea and other regions.
+
+132
+00:13:44,000 --> 00:13:53,259
+And then we evaluated the payout structure through the PGA's,
+
+133
+00:13:53,259 --> 00:13:58,259
+the PGA values in those shake map scenarios.
+
+134
+00:13:58,259 --> 00:14:05,080
+And then also we used our own rupture scenarios
+
+135
+00:14:05,080 --> 00:14:10,080
+and we developed our own median PGA values
+
+136
+00:14:10,080 --> 00:14:18,259
+and then we also assessed the, from the given payout structure.
+
+137
+00:14:18,259 --> 00:14:23,830
+And we believe that although our median PGA values
+
+138
+00:14:23,830 --> 00:14:30,120
+from our fictitious say rupture scenarios do not really represent
+
+139
+00:14:30,120 --> 00:14:37,659
+the USGS shake map PGA's, they are sort of more representative
+
+140
+00:14:37,659 --> 00:14:45,730
+of what we are going to expect if that kind of event occurs
+
+141
+00:14:45,730 --> 00:14:54,730
+at the end of the day for this parametric payout to trigger.
+
+142
+00:14:54,730 --> 00:15:01,690
+So I hope I have made my say points clear
+
+143
+00:15:01,690 --> 00:15:03,720
+because we have only one hour.
+
+144
+00:15:03,720 --> 00:15:07,720
+If I have made my points clear to you,
+
+145
+00:15:07,720 --> 00:15:09,720
+if you have no questions,
+
+146
+00:15:09,720 --> 00:15:15,070
+then Nurullah can start sharing our results,
+
+147
+00:15:15,070 --> 00:15:21,169
+our observations from the USGS shake map scenarios
+
+148
+00:15:21,169 --> 00:15:24,169
+as well as our own rupture scenarios.
+
+149
+00:15:24,169 --> 00:15:27,169
+So essentially our own rupture scenarios
+
+150
+00:15:27,169 --> 00:15:32,169
+make use of median ground motions from T-Rap ground motion model.
+
+151
+00:15:32,169 --> 00:15:35,169
+I mean this can be a concern
+
+152
+00:15:35,169 --> 00:15:40,169
+because we're not really producing the USGS PGA's
+
+153
+00:15:40,169 --> 00:15:45,169
+but essentially they would give a fair information
+
+154
+00:15:45,169 --> 00:15:48,169
+but the others, the USGS scenarios
+
+155
+00:15:48,169 --> 00:15:55,299
+certainly indicate the, like the say performance
+
+156
+00:15:55,299 --> 00:15:57,299
+of the proposed payout structure.
+
+157
+00:15:57,299 --> 00:15:59,299
+So that's what I say and I'm going to stop
+
+158
+00:15:59,299 --> 00:16:01,490
+if you don't have any questions.
+
+159
+00:16:01,490 --> 00:16:04,490
+I have just a short comment from my side
+
+160
+00:16:04,490 --> 00:16:07,490
+so at the very beginning the first concern
+
+161
+00:16:07,490 --> 00:16:09,490
+was about if understood correctly
+
+162
+00:16:09,490 --> 00:16:12,490
+that USGS shake maps are largely constrained
+
+163
+00:16:12,490 --> 00:16:14,490
+on the average on the median,
+
+164
+00:16:14,490 --> 00:16:16,490
+sorry, ground motion value.
+
+165
+00:16:16,490 --> 00:16:18,490
+And frankly speaking I would say
+
+166
+00:16:18,490 --> 00:16:22,490
+this is true for old earthquake.
+
+167
+00:16:22,490 --> 00:16:24,490
+The most recent one,
+
+168
+00:16:24,490 --> 00:16:27,490
+I think that they are largely influenced
+
+169
+00:16:27,490 --> 00:16:30,490
+by ore stations or did you feel it?
+
+170
+00:16:30,490 --> 00:16:32,490
+Yes, I know.
+
+171
+00:16:32,490 --> 00:16:37,490
+I would say I mean in reality the shake map that we got
+
+172
+00:16:37,490 --> 00:16:40,490
+they tend to be in reality,
+
+173
+00:16:40,490 --> 00:16:42,490
+I would say to take into account
+
+174
+00:16:42,490 --> 00:16:44,490
+and especially in a country like Turkey
+
+175
+00:16:44,490 --> 00:16:49,740
+let's say that there is a certain significant influence.
+
+176
+00:16:49,740 --> 00:16:51,740
+Obviously it depends a lot on the region
+
+177
+00:16:51,740 --> 00:16:54,740
+but if we take a look about the footprint
+
+178
+00:16:54,740 --> 00:16:57,740
+of the event in 2023,
+
+179
+00:16:57,740 --> 00:17:00,740
+the 7.8, the 7.5, the sequence and so on
+
+180
+00:17:00,740 --> 00:17:04,740
+you clearly see that there is a significant,
+
+181
+00:17:04,740 --> 00:17:07,740
+I would say, influence of the stations
+
+182
+00:17:07,740 --> 00:17:10,940
+that have been recorded there.
+
+183
+00:17:10,940 --> 00:17:12,940
+Okay, thank you very much Marco.
+
+184
+00:17:12,940 --> 00:17:15,940
+We are aware of the fact that USGS
+
+185
+00:17:15,940 --> 00:17:19,940
+considers conditional ground motion fields
+
+186
+00:17:19,940 --> 00:17:21,940
+whenever there is recorded ground motions
+
+187
+00:17:21,940 --> 00:17:23,940
+from strong motion stations
+
+188
+00:17:23,940 --> 00:17:25,940
+deployed in the regional earthquake
+
+189
+00:17:25,940 --> 00:17:30,940
+and also they use did you feel it type information?
+
+190
+00:17:30,940 --> 00:17:33,940
+So essentially they sort of modify
+
+191
+00:17:33,940 --> 00:17:38,000
+their ground motion model estimation
+
+192
+00:17:38,000 --> 00:17:43,000
+for those two specific recorded
+
+193
+00:17:43,000 --> 00:17:45,000
+and felt information
+
+194
+00:17:45,000 --> 00:17:49,000
+but essentially they still start from
+
+195
+00:17:49,000 --> 00:17:53,660
+developing median
+
+196
+00:17:53,660 --> 00:17:58,730
+just a metric ground motion fields essentially
+
+197
+00:17:58,730 --> 00:18:01,730
+and then if you come in
+
+198
+00:18:01,730 --> 00:18:03,730
+I'm sure that Nurulak will be
+
+199
+00:18:03,730 --> 00:18:06,730
+will be showing the extent of
+
+200
+00:18:06,730 --> 00:18:10,730
+or the distribution of strong motion stations
+
+201
+00:18:10,730 --> 00:18:13,730
+used by the US Geological Survey
+
+202
+00:18:13,730 --> 00:18:15,730
+in the Marmara region
+
+203
+00:18:15,730 --> 00:18:17,730
+when you come to, for example,
+
+204
+00:18:17,730 --> 00:18:19,730
+Istanbul or all around Marmara
+
+205
+00:18:19,730 --> 00:18:22,730
+yes there are strong motion stations
+
+206
+00:18:22,730 --> 00:18:24,730
+recording the likely events
+
+207
+00:18:24,730 --> 00:18:26,730
+occurring in the Marmara Sea
+
+208
+00:18:26,730 --> 00:18:29,730
+or nearby
+
+209
+00:18:29,730 --> 00:18:31,730
+but in any case
+
+210
+00:18:31,730 --> 00:18:36,730
+essentially for locations
+
+211
+00:18:36,730 --> 00:18:41,140
+where the recorded ground motion
+
+212
+00:18:41,140 --> 00:18:43,140
+or felt information
+
+213
+00:18:43,140 --> 00:18:46,619
+is insufficient
+
+214
+00:18:46,619 --> 00:18:47,619
+or insufficient
+
+215
+00:18:47,619 --> 00:18:49,619
+then the estimations
+
+216
+00:18:49,619 --> 00:18:52,619
+are going to be more towards to the median
+
+217
+00:18:52,619 --> 00:18:55,619
+ground motions
+
+218
+00:18:55,619 --> 00:18:58,619
+So essentially in any case
+
+219
+00:18:58,619 --> 00:19:02,099
+in our opinion that
+
+220
+00:19:02,099 --> 00:19:06,140
+if you are to assess
+
+221
+00:19:06,140 --> 00:19:10,140
+the performance of the proposed payout structure
+
+222
+00:19:10,140 --> 00:19:13,140
+from rupture events
+
+223
+00:19:13,140 --> 00:19:18,420
+either the stochastic earthquake sets
+
+224
+00:19:18,420 --> 00:19:22,420
+say
+
+225
+00:19:22,420 --> 00:19:26,420
+of the global vendor models
+
+226
+00:19:26,420 --> 00:19:29,420
+or those like ours
+
+227
+00:19:29,420 --> 00:19:33,420
+then you have to rely on the median PJs
+
+228
+00:19:33,420 --> 00:19:35,420
+in any case they will give you
+
+229
+00:19:35,420 --> 00:19:39,220
+provide you a fair information
+
+230
+00:19:39,220 --> 00:19:43,220
+about the likely behavior of the payout structure
+
+231
+00:19:43,220 --> 00:19:44,220
+this is our belief
+
+232
+00:19:44,220 --> 00:19:46,220
+Thank you
+
+233
+00:19:46,220 --> 00:19:48,980
+Nurulak would you like to
+
+234
+00:19:48,980 --> 00:19:50,980
+can stop sharing my screen
+
+235
+00:19:50,980 --> 00:19:52,980
+would you like to share your screen
+
+236
+00:19:52,980 --> 00:19:53,980
+to continue?
+
+237
+00:19:53,980 --> 00:19:55,180
+Thank you
+
+238
+00:19:55,180 --> 00:19:59,720
+I'll just stop sharing
+
+239
+00:19:59,720 --> 00:20:01,720
+Okay hello again
+
+240
+00:20:01,720 --> 00:20:08,339
+Yeah now I think you can see my screen
+
+241
+00:20:08,339 --> 00:20:10,339
+Yes
+
+242
+00:20:10,339 --> 00:20:13,339
+Yeah I will mention about the
+
+243
+00:20:13,339 --> 00:20:17,339
+Lakhten's offer on 2.3
+
+244
+00:20:17,339 --> 00:20:19,339
+parametric offers
+
+245
+00:20:19,339 --> 00:20:23,339
+our perspective on the historical
+
+246
+00:20:23,339 --> 00:20:26,339
+events with the
+
+247
+00:20:26,339 --> 00:20:30,339
+possible Marmara scenarios
+
+248
+00:20:30,339 --> 00:20:35,339
+Firstly I will mention the
+
+249
+00:20:35,339 --> 00:20:38,339
+parametric structure options
+
+250
+00:20:38,339 --> 00:20:41,339
+offered by Lakhten
+
+251
+00:20:41,339 --> 00:20:44,339
+in here there is an
+
+252
+00:20:44,339 --> 00:20:48,339
+option one is the basis of the
+
+253
+00:20:48,339 --> 00:20:50,339
+among them
+
+254
+00:20:50,339 --> 00:20:55,339
+is the PGA Trigger is 0.35G
+
+255
+00:20:55,339 --> 00:20:58,339
+and you can see there are some
+
+256
+00:20:58,339 --> 00:21:01,339
+premiums in here
+
+257
+00:21:01,339 --> 00:21:03,339
+and in option two
+
+258
+00:21:03,339 --> 00:21:06,339
+the trigger level is less
+
+259
+00:21:06,339 --> 00:21:10,339
+and we have some
+
+260
+00:21:10,339 --> 00:21:12,339
+other options like
+
+261
+00:21:12,339 --> 00:21:14,339
+we have both
+
+262
+00:21:14,339 --> 00:21:18,339
+PGA Trigger and the Marmara box
+
+263
+00:21:18,339 --> 00:21:20,339
+I will show
+
+264
+00:21:20,339 --> 00:21:22,339
+and here you can see the
+
+265
+00:21:22,339 --> 00:21:26,539
+TCIP's program
+
+266
+00:21:26,539 --> 00:21:29,539
+actually you can see the
+
+267
+00:21:29,539 --> 00:21:31,539
+two options in here
+
+268
+00:21:31,539 --> 00:21:34,539
+the orange one is the option one
+
+269
+00:21:34,539 --> 00:21:37,539
+and this blue one adds
+
+270
+00:21:37,539 --> 00:21:42,539
+the 0.25G in here
+
+271
+00:21:42,539 --> 00:21:46,539
+in smaller PGA values
+
+272
+00:21:46,539 --> 00:21:49,819
+and also
+
+273
+00:21:49,819 --> 00:21:52,819
+there is a box in
+
+274
+00:21:52,819 --> 00:21:55,819
+around the Marmara C
+
+275
+00:21:55,819 --> 00:21:58,819
+and you can see that
+
+276
+00:21:58,819 --> 00:22:01,819
+the net payouts are
+
+277
+00:22:01,819 --> 00:22:04,819
+differs from the different
+
+278
+00:22:04,819 --> 00:22:07,819
+magnitude values in 7 and above
+
+279
+00:22:07,819 --> 00:22:10,819
+the net payout is a full payout
+
+280
+00:22:10,819 --> 00:22:13,819
+which is the 2 million euro
+
+281
+00:22:13,819 --> 00:22:16,859
+so these are the
+
+282
+00:22:16,859 --> 00:22:19,859
+some background information
+
+283
+00:22:19,859 --> 00:22:21,859
+about the offers
+
+284
+00:22:21,859 --> 00:22:25,019
+do you have any questions about that or
+
+285
+00:22:25,019 --> 00:22:27,910
+comments?
+
+286
+00:22:27,910 --> 00:22:30,299
+not from my side
+
+287
+00:22:30,299 --> 00:22:33,299
+no thank you it's very clear and very well presented
+
+288
+00:22:33,299 --> 00:22:36,299
+thank you
+
+289
+00:22:36,299 --> 00:22:39,299
+so as a calculation method
+
+290
+00:22:39,299 --> 00:22:42,299
+we have 5 step calculation
+
+291
+00:22:42,299 --> 00:22:44,299
+in here
+
+292
+00:22:44,299 --> 00:22:47,299
+in hazard site sell PGA on
+
+293
+00:22:47,299 --> 00:22:50,299
+two bases actually
+
+294
+00:22:50,299 --> 00:22:52,299
+for the historical ones
+
+295
+00:22:52,299 --> 00:22:55,299
+the catmots medium PGA
+
+296
+00:22:55,299 --> 00:22:58,299
+these are the condition on the
+
+297
+00:22:58,299 --> 00:23:01,299
+ground motion stations
+
+298
+00:23:01,299 --> 00:23:04,299
+and the USGS shake maps
+
+299
+00:23:04,299 --> 00:23:07,299
+reading from the centroids
+
+300
+00:23:07,299 --> 00:23:10,299
+and the PGA
+
+301
+00:23:10,299 --> 00:23:13,299
+leg for the option one
+
+302
+00:23:13,299 --> 00:23:16,299
+or option two
+
+303
+00:23:16,299 --> 00:23:19,299
+we are summing the exposure
+
+304
+00:23:19,299 --> 00:23:22,299
+and multiplying it
+
+305
+00:23:22,299 --> 00:23:25,299
+the payout percentage over the
+
+306
+00:23:25,299 --> 00:23:28,650
+all TCIP cells
+
+307
+00:23:28,650 --> 00:23:31,650
+in the given exposure
+
+308
+00:23:31,650 --> 00:23:34,650
+also for the magnitude leg
+
+309
+00:23:34,650 --> 00:23:37,650
+if the USGS epicenter is inside the
+
+310
+00:23:37,650 --> 00:23:40,650
+Marmara box
+
+311
+00:23:40,650 --> 00:23:43,650
+read the index from the magnitude table and it starts with
+
+312
+00:23:43,650 --> 00:23:46,650
+the 225 million euro to
+
+313
+00:23:46,650 --> 00:23:49,650
+500 million euro but we have
+
+314
+00:23:49,650 --> 00:23:52,650
+as you can see from here we have
+
+315
+00:23:52,650 --> 00:23:55,650
+300 million
+
+316
+00:23:55,650 --> 00:23:58,650
+euro attachment
+
+317
+00:23:58,650 --> 00:24:01,650
+actually
+
+318
+00:24:01,650 --> 00:24:04,650
+we calculated the combined index
+
+319
+00:24:04,650 --> 00:24:07,650
+by using the boat
+
+320
+00:24:07,650 --> 00:24:10,650
+and we are applying the layers
+
+321
+00:24:10,650 --> 00:24:13,650
+as I said before
+
+322
+00:24:13,650 --> 00:24:16,650
+so this is the actually simple
+
+323
+00:24:16,650 --> 00:24:19,650
+and straightforward methodology
+
+324
+00:24:19,650 --> 00:24:22,650
+and we have several scenarios
+
+325
+00:24:22,650 --> 00:24:25,650
+we have 7 historical
+
+326
+00:24:25,650 --> 00:24:28,650
+events both for the catmots
+
+327
+00:24:28,650 --> 00:24:31,650
+and the USGS shake maps
+
+328
+00:24:31,650 --> 00:24:34,650
+and the Marmara we have
+
+329
+00:24:34,650 --> 00:24:37,650
+possible Marmara scenarios
+
+330
+00:24:37,650 --> 00:24:40,650
+for the region
+
+331
+00:24:40,650 --> 00:24:43,650
+so let's start with the Koceli 1999
+
+332
+00:24:43,650 --> 00:24:46,650
+earthquake
+
+333
+00:24:46,650 --> 00:24:49,650
+as I said before we are using
+
+334
+00:24:49,650 --> 00:24:52,650
+the catmots conditional
+
+335
+00:24:52,650 --> 00:24:55,650
+medium PGA values
+
+336
+00:24:55,650 --> 00:24:58,779
+which are conditioned on the
+
+337
+00:24:58,779 --> 00:25:01,779
+recording stations
+
+338
+00:25:01,779 --> 00:25:04,779
+and we are multiplying these
+
+339
+00:25:04,779 --> 00:25:07,779
+PGA values ratios
+
+340
+00:25:07,779 --> 00:25:10,779
+with the TCIP exposure
+
+341
+00:25:10,779 --> 00:25:13,779
+actually Dusk is the
+
+342
+00:25:13,779 --> 00:25:16,779
+Turkish abbreviation of the TCIP
+
+343
+00:25:16,779 --> 00:25:19,779
+I think you know that
+
+344
+00:25:19,779 --> 00:25:22,779
+sorry for this Turkish one
+
+345
+00:25:22,779 --> 00:25:25,779
+and we are getting the
+
+346
+00:25:25,779 --> 00:25:28,779
+payout per sale map
+
+347
+00:25:28,779 --> 00:25:31,779
+in right hand side
+
+348
+00:25:31,779 --> 00:25:34,779
+and when we see the
+
+349
+00:25:34,779 --> 00:25:37,779
+different options you can see that
+
+350
+00:25:37,779 --> 00:25:40,779
+all options in this event
+
+351
+00:25:40,779 --> 00:25:43,779
+pays full
+
+352
+00:25:43,779 --> 00:25:46,779
+because of the
+
+353
+00:25:46,779 --> 00:25:49,779
+PGA and the exposure
+
+354
+00:25:49,779 --> 00:25:52,839
+values
+
+355
+00:25:52,839 --> 00:25:56,190
+and after that
+
+356
+00:25:56,190 --> 00:25:59,190
+we see what
+
+357
+00:25:59,190 --> 00:26:02,190
+USGS shake maps produce
+
+358
+00:26:02,190 --> 00:26:05,190
+payout structure
+
+359
+00:26:05,190 --> 00:26:08,190
+in here you can see that also
+
+360
+00:26:08,190 --> 00:26:11,190
+USGS shake map is different
+
+361
+00:26:11,190 --> 00:26:14,190
+from ours
+
+362
+00:26:14,190 --> 00:26:17,190
+but since there is a
+
+363
+00:26:17,190 --> 00:26:20,190
+limit of the 200 million euro
+
+364
+00:26:20,190 --> 00:26:23,190
+all options in here
+
+365
+00:26:23,190 --> 00:26:26,190
+also gives the
+
+366
+00:26:26,190 --> 00:26:29,190
+200 million euro so
+
+367
+00:26:29,190 --> 00:26:32,190
+there is no difference between
+
+368
+00:26:32,190 --> 00:26:35,190
+our results and the
+
+369
+00:26:35,190 --> 00:26:38,190
+actually using our catmots
+
+370
+00:26:38,190 --> 00:26:41,190
+millions or the USGS
+
+371
+00:26:41,190 --> 00:26:44,579
+actual shake maps
+
+372
+00:26:44,579 --> 00:26:47,579
+is everything clear about
+
+373
+00:26:47,579 --> 00:26:50,579
+our approach or method
+
+374
+00:26:50,579 --> 00:26:54,470
+I think this is very clear
+
+375
+00:26:54,470 --> 00:26:57,470
+if I may ask and we can also come back towards the end
+
+376
+00:26:57,470 --> 00:27:00,470
+after your presentation so I don't want to disturb your presentation
+
+377
+00:27:00,470 --> 00:27:03,470
+if I understand correctly
+
+378
+00:27:03,470 --> 00:27:06,470
+you make two larger observations first of all
+
+379
+00:27:06,470 --> 00:27:09,470
+the technical fit of the covers
+
+380
+00:27:09,470 --> 00:27:12,470
+to the underlying risk so which
+
+381
+00:27:12,470 --> 00:27:15,470
+parametric structure reacts best
+
+382
+00:27:15,470 --> 00:27:18,470
+for example option one, option two
+
+383
+00:27:18,470 --> 00:27:21,470
+the best technical fit
+
+384
+00:27:21,470 --> 00:27:24,470
+of the structure and number two
+
+385
+00:27:24,470 --> 00:27:27,470
+and maybe this was implicit in one of your slides
+
+386
+00:27:27,470 --> 00:27:30,470
+is the ultimate price overall
+
+387
+00:27:30,470 --> 00:27:33,470
+for that structure so saying
+
+388
+00:27:33,470 --> 00:27:36,470
+which reacts best and costs least
+
+389
+00:27:36,470 --> 00:27:39,470
+and I think if I understand correctly just to be able
+
+390
+00:27:39,470 --> 00:27:42,470
+to think along those lines or is your focus mainly
+
+391
+00:27:42,470 --> 00:27:45,470
+on the first part and the second part
+
+392
+00:27:45,470 --> 00:27:48,470
+is then obviously also an output of that
+
+393
+00:27:48,470 --> 00:27:52,430
+I think we are focused
+
+394
+00:27:52,430 --> 00:27:56,259
+no please
+
+395
+00:27:56,259 --> 00:27:59,259
+we are mostly focusing
+
+396
+00:27:59,259 --> 00:28:03,289
+on the first part
+
+397
+00:28:03,289 --> 00:28:06,289
+but then essentially we have some
+
+398
+00:28:06,289 --> 00:28:10,630
+comments about which option
+
+399
+00:28:10,630 --> 00:28:13,630
+would work better
+
+400
+00:28:13,630 --> 00:28:16,630
+or which option sounds
+
+401
+00:28:16,630 --> 00:28:19,630
+more reasonable of those four
+
+402
+00:28:19,630 --> 00:28:22,630
+understood it's just so I can also in the meantime
+
+403
+00:28:22,630 --> 00:28:25,630
+have my thoughts on that
+
+404
+00:28:25,630 --> 00:28:28,630
+we also have obviously different options quoted so I can prepare
+
+405
+00:28:28,630 --> 00:28:32,460
+my thoughts while you present
+
+406
+00:28:32,460 --> 00:28:35,460
+and actually as I said before
+
+407
+00:28:35,460 --> 00:28:38,460
+we have seven different scenarios
+
+408
+00:28:38,460 --> 00:28:41,460
+for both catmode ground motion
+
+409
+00:28:41,460 --> 00:28:44,460
+predictions and the USGS
+
+410
+00:28:44,460 --> 00:28:47,460
+for example another one is the
+
+411
+00:28:47,460 --> 00:28:50,559
+Pazarjik Karaman Mara Shortquake
+
+412
+00:28:50,559 --> 00:28:54,559
+in 2023
+
+413
+00:28:54,559 --> 00:28:57,559
+in here
+
+414
+00:28:57,559 --> 00:29:00,559
+we can see that the
+
+415
+00:29:00,559 --> 00:29:03,559
+option one only pays
+
+416
+00:29:03,559 --> 00:29:06,559
+72 million euro
+
+417
+00:29:06,559 --> 00:29:09,559
+in here
+
+418
+00:29:09,559 --> 00:29:12,559
+by using the catmode conditional
+
+419
+00:29:12,559 --> 00:29:15,559
+medium PGA values
+
+420
+00:29:15,559 --> 00:29:18,559
+and also option two
+
+421
+00:29:18,559 --> 00:29:21,559
+when you use the lesser
+
+422
+00:29:21,559 --> 00:29:24,559
+thresholds for the trigger mechanism
+
+423
+00:29:24,559 --> 00:29:27,559
+the option two pays
+
+424
+00:29:27,559 --> 00:29:30,559
+approximately 200 million euro
+
+425
+00:29:30,559 --> 00:29:33,559
+but in here
+
+426
+00:29:33,559 --> 00:29:36,559
+these boxes are not working because
+
+427
+00:29:36,559 --> 00:29:39,750
+the box only affects the Marmara region
+
+428
+00:29:39,750 --> 00:29:42,750
+so for the
+
+429
+00:29:42,750 --> 00:29:45,750
+Karaman Mara case
+
+430
+00:29:45,750 --> 00:29:48,750
+the USGS's own
+
+431
+00:29:48,750 --> 00:29:51,750
+values gives actually full
+
+432
+00:29:51,750 --> 00:29:54,750
+payout for all different
+
+433
+00:29:54,750 --> 00:29:57,750
+options
+
+434
+00:29:57,750 --> 00:30:00,750
+because of the difference from
+
+435
+00:30:00,750 --> 00:30:03,750
+as you can see the
+
+436
+00:30:03,750 --> 00:30:06,750
+ground motion values
+
+437
+00:30:06,750 --> 00:30:10,069
+after that also
+
+438
+00:30:10,069 --> 00:30:13,069
+for the second
+
+439
+00:30:13,069 --> 00:30:16,069
+Karaman Mara second earthquake
+
+440
+00:30:16,069 --> 00:30:19,069
+which is the Elbistan case
+
+441
+00:30:19,069 --> 00:30:22,069
+in here both
+
+442
+00:30:22,069 --> 00:30:25,069
+our modeling and the
+
+443
+00:30:25,069 --> 00:30:28,069
+USGS shake map
+
+444
+00:30:28,069 --> 00:30:31,069
+gives no payout
+
+445
+00:30:31,069 --> 00:30:34,069
+both of them gives no payout
+
+446
+00:30:34,069 --> 00:30:37,299
+for this event
+
+447
+00:30:37,299 --> 00:30:40,299
+also for the 2011
+
+448
+00:30:40,299 --> 00:30:43,299
+one earthquake
+
+449
+00:30:43,299 --> 00:30:46,299
+we have no payout for both
+
+450
+00:30:46,299 --> 00:30:49,299
+modeling from catmode
+
+451
+00:30:49,299 --> 00:30:52,740
+or the USGS ones
+
+452
+00:30:52,740 --> 00:30:55,740
+there can be some changes as you can see
+
+453
+00:30:55,740 --> 00:30:58,740
+part but it is not affected
+
+454
+00:30:58,740 --> 00:31:01,740
+for the net payout because of
+
+455
+00:31:01,740 --> 00:31:04,740
+the thresholds or the
+
+456
+00:31:04,740 --> 00:31:07,809
+attachment of the
+
+457
+00:31:07,809 --> 00:31:10,809
+agreement
+
+458
+00:31:10,809 --> 00:31:13,839
+so for the Sivrija earthquake
+
+459
+00:31:13,839 --> 00:31:16,839
+2020 Sivrija-Elasa earthquake
+
+460
+00:31:16,839 --> 00:31:19,839
+again
+
+461
+00:31:19,839 --> 00:31:22,839
+no payout for the catmode
+
+462
+00:31:22,839 --> 00:31:25,839
+and no payout from the
+
+463
+00:31:25,839 --> 00:31:28,839
+USGS ones and the
+
+464
+00:31:28,839 --> 00:31:31,839
+Samosa earthquake also gives no payout
+
+465
+00:31:31,839 --> 00:31:34,839
+for both catmode and the
+
+466
+00:31:34,839 --> 00:31:38,099
+USGS results
+
+467
+00:31:38,099 --> 00:31:41,099
+by the way, am I too fast
+
+468
+00:31:41,099 --> 00:31:44,099
+or is everything clear?
+
+469
+00:31:44,099 --> 00:31:47,099
+No actually from my side I remember pretty well
+
+470
+00:31:47,099 --> 00:31:50,099
+all these events so I got at least
+
+471
+00:31:50,099 --> 00:31:53,099
+pretty clear in mind the shake map
+
+472
+00:31:53,099 --> 00:31:56,099
+or so what was the shaking let's say
+
+473
+00:31:56,099 --> 00:31:59,099
+I was especially wondering about
+
+474
+00:31:59,099 --> 00:32:02,099
+exactly the one that you are presenting now
+
+475
+00:32:02,099 --> 00:32:05,099
+a tbg earthquake in Itzmir I guess
+
+476
+00:32:05,099 --> 00:32:08,099
+is the same event no these magnitude 7
+
+477
+00:32:08,099 --> 00:32:11,099
+that was occurring on the sea
+
+478
+00:32:11,099 --> 00:32:14,099
+the fault was located on sea but I remember
+
+479
+00:32:14,099 --> 00:32:17,099
+that actually the damages in Itzmir were quite intense
+
+480
+00:32:17,099 --> 00:32:20,099
+so I am just
+
+481
+00:32:20,099 --> 00:32:23,319
+I know honestly that
+
+482
+00:32:23,319 --> 00:32:26,319
+in the sea itself the observations were
+
+483
+00:32:26,319 --> 00:32:29,319
+between I would say the records that I remember
+
+484
+00:32:29,319 --> 00:32:32,450
+were between 10 and 15% of G
+
+485
+00:32:32,450 --> 00:32:35,450
+then I don't know locally probably
+
+486
+00:32:35,450 --> 00:32:38,450
+there were certain amplification because it was clear
+
+487
+00:32:38,450 --> 00:32:41,450
+it was an alluvial basin but I remember
+
+488
+00:32:41,450 --> 00:32:44,450
+quite some collapsed buildings there
+
+489
+00:32:44,450 --> 00:32:47,450
+yeah I mean nothing to say
+
+490
+00:32:47,450 --> 00:32:50,450
+this is the structure that is proposed
+
+491
+00:32:50,450 --> 00:32:53,450
+so it's just that zero payment
+
+492
+00:32:53,450 --> 00:32:56,539
+I don't know
+
+493
+00:32:56,539 --> 00:32:59,539
+one thing Marco just to clarify
+
+494
+00:32:59,539 --> 00:33:02,539
+and also Christian may comment
+
+495
+00:33:02,539 --> 00:33:05,539
+he will be commenting as well
+
+496
+00:33:05,539 --> 00:33:08,990
+now there is 300 million attachment points
+
+497
+00:33:08,990 --> 00:33:11,990
+so there is certainly
+
+498
+00:33:11,990 --> 00:33:14,990
+there is certainly a financial loss
+
+499
+00:33:14,990 --> 00:33:17,990
+but when you consider
+
+500
+00:33:17,990 --> 00:33:20,990
+when you walk through the attachment point
+
+501
+00:33:20,990 --> 00:33:23,990
+and then the say
+
+502
+00:33:23,990 --> 00:33:26,990
+payout I mean 300 or 1 million
+
+503
+00:33:26,990 --> 00:33:29,990
+and then another one
+
+504
+00:33:29,990 --> 00:33:32,990
+sorry 300 million or 100 million
+
+505
+00:33:32,990 --> 00:33:35,990
+and then another 100 million the losses
+
+506
+00:33:35,990 --> 00:33:39,569
+stay below that 300 million
+
+507
+00:33:39,569 --> 00:33:42,569
+that's why the say
+
+508
+00:33:42,569 --> 00:33:45,569
+payout structure doesn't work here
+
+509
+00:33:45,569 --> 00:33:48,569
+otherwise it does work
+
+510
+00:33:48,569 --> 00:33:51,569
+but essentially I mean
+
+511
+00:33:51,569 --> 00:33:54,569
+it doesn't trigger the agreement conditions
+
+512
+00:33:54,569 --> 00:33:57,569
+agreement conditions
+
+513
+00:33:57,569 --> 00:34:00,569
+and the some most or say
+
+514
+00:34:00,569 --> 00:34:03,569
+some most serious earthquake
+
+515
+00:34:03,569 --> 00:34:06,569
+at that time it was
+
+516
+00:34:06,569 --> 00:34:09,730
+affected in one single region
+
+517
+00:34:09,730 --> 00:34:12,730
+which is referred to as Bayrak the region
+
+518
+00:34:12,730 --> 00:34:15,980
+where we had observed
+
+519
+00:34:15,980 --> 00:34:18,980
+collapsed buildings but the district
+
+520
+00:34:18,980 --> 00:34:22,110
+is really sort of
+
+521
+00:34:22,110 --> 00:34:25,110
+a small portion of the city of Simirna
+
+522
+00:34:25,110 --> 00:34:28,429
+okay so
+
+523
+00:34:28,429 --> 00:34:31,429
+yeah the damage was localized
+
+524
+00:34:31,429 --> 00:34:35,460
+significantly localized in terms of collapse
+
+525
+00:34:35,460 --> 00:34:38,460
+yeah sorry if I
+
+526
+00:34:38,460 --> 00:34:41,460
+target that but because I remember fairly well
+
+527
+00:34:41,460 --> 00:34:44,460
+that event because there was this
+
+528
+00:34:44,460 --> 00:34:47,460
+not really astonishing picture but quite
+
+529
+00:34:47,460 --> 00:34:50,460
+common picture about many buildings
+
+530
+00:34:50,460 --> 00:34:53,460
+exactly the same number of stories
+
+531
+00:34:53,460 --> 00:34:56,460
+very likely the same kind of construction
+
+532
+00:34:56,460 --> 00:34:59,460
+and one of them a pancake
+
+533
+00:34:59,460 --> 00:35:02,460
+completely collapsed the other three standing and I remember
+
+534
+00:35:02,460 --> 00:35:05,460
+the picture after in reality
+
+535
+00:35:05,460 --> 00:35:08,460
+they also demolished other two and just
+
+536
+00:35:08,460 --> 00:35:11,460
+one remained but as you say it was very
+
+537
+00:35:11,460 --> 00:35:14,460
+very clustered in a certain region
+
+538
+00:35:14,460 --> 00:35:17,460
+so it was absolutely not as
+
+539
+00:35:17,460 --> 00:35:20,460
+wide spread damage
+
+540
+00:35:20,460 --> 00:35:23,460
+and it was worth it's pretty impressive
+
+541
+00:35:23,460 --> 00:35:26,460
+for me because I think that it was also clear from
+
+542
+00:35:26,460 --> 00:35:29,460
+the satellite picture that certain building have been built
+
+543
+00:35:29,460 --> 00:35:31,460
+the 1999
+
+544
+00:35:31,460 --> 00:35:34,460
+its mid earthquake
+
+545
+00:35:34,460 --> 00:35:37,460
+and most likely there was another
+
+546
+00:35:37,460 --> 00:35:40,550
+kind of let's say
+
+547
+00:35:40,550 --> 00:35:43,710
+sensibility also towards
+
+548
+00:35:43,710 --> 00:35:46,710
+anti seismic design and
+
+549
+00:35:46,710 --> 00:35:49,710
+the regulation in place and so on and so on and so on
+
+550
+00:35:49,710 --> 00:35:52,710
+this was the only reason but I understand
+
+551
+00:35:52,710 --> 00:35:55,710
+the idea about why you have this kind of
+
+552
+00:35:55,710 --> 00:35:58,710
+effect zero is clearly not because no damages
+
+553
+00:35:58,710 --> 00:36:01,840
+but because of the structure itself
+
+554
+00:36:01,840 --> 00:36:04,840
+sorry Chris we
+
+555
+00:36:04,840 --> 00:36:07,840
+exactly as you say I would
+
+556
+00:36:07,840 --> 00:36:10,840
+so first comment I would have had exactly the
+
+557
+00:36:10,840 --> 00:36:13,840
+aggregate deductible so the 300 million
+
+558
+00:36:13,840 --> 00:36:16,840
+first layer and also to say this is aggregate and I would just
+
+559
+00:36:16,840 --> 00:36:19,840
+be curious as far as I remember
+
+560
+00:36:19,840 --> 00:36:22,840
+when we looked at the historic
+
+561
+00:36:22,840 --> 00:36:25,840
+payouts we didn't see years
+
+562
+00:36:25,840 --> 00:36:28,840
+there were two events in one year
+
+563
+00:36:28,840 --> 00:36:31,840
+now you showed seabridger in 2020
+
+564
+00:36:31,840 --> 00:36:34,840
+and Samos 2020 and I'm not sure
+
+565
+00:36:34,840 --> 00:36:37,840
+if on aggregated basis the two
+
+566
+00:36:37,840 --> 00:36:40,840
+events would have exceeded the 300 million so the
+
+567
+00:36:40,840 --> 00:36:43,840
+Samos payout you show here is the actual
+
+568
+00:36:43,840 --> 00:36:46,840
+considering also the aggregation of the different events
+
+569
+00:36:46,840 --> 00:36:50,349
+the same year why is it on a standalone basis
+
+570
+00:36:50,349 --> 00:36:53,449
+Samos 2020
+
+571
+00:36:53,449 --> 00:36:56,449
+actually we evaluate separately
+
+572
+00:36:56,449 --> 00:36:59,449
+for both earthquake also
+
+573
+00:36:59,449 --> 00:37:02,449
+I will emphasize this
+
+574
+00:37:02,449 --> 00:37:05,449
+USGS shake map distribution
+
+575
+00:37:05,449 --> 00:37:08,449
+in here as you can see from here
+
+576
+00:37:08,449 --> 00:37:11,449
+there is only
+
+577
+00:37:11,449 --> 00:37:14,449
+0.25 to 0.35
+
+578
+00:37:14,449 --> 00:37:17,449
+in the shore
+
+579
+00:37:17,449 --> 00:37:20,449
+areas in here and this is only affects
+
+580
+00:37:20,449 --> 00:37:23,449
+only triggers the option 2
+
+581
+00:37:23,449 --> 00:37:26,449
+and
+
+582
+00:37:26,449 --> 00:37:29,449
+the option 1 is not triggered
+
+583
+00:37:29,449 --> 00:37:32,449
+at all and also you can see
+
+584
+00:37:32,449 --> 00:37:35,449
+that index in here index shows
+
+585
+00:37:35,449 --> 00:37:38,449
+means that they are lost
+
+586
+00:37:38,449 --> 00:37:41,449
+before the attachment
+
+587
+00:37:41,449 --> 00:37:44,449
+value of the 300 million
+
+588
+00:37:44,449 --> 00:37:47,449
+so ground up
+
+589
+00:37:47,449 --> 00:37:50,480
+and that would be 4 million on the option 2
+
+590
+00:37:50,480 --> 00:37:53,480
+so also they are relatively low
+
+591
+00:37:53,480 --> 00:37:56,480
+do we know approximately the actual
+
+592
+00:37:56,480 --> 00:37:59,480
+losses for TCRP
+
+593
+00:37:59,480 --> 00:38:02,639
+for this event for Samos
+
+594
+00:38:02,639 --> 00:38:05,639
+we have to look at it
+
+595
+00:38:05,639 --> 00:38:08,639
+just out of curiosity if it's
+
+596
+00:38:08,639 --> 00:38:12,059
+much more than 4 million
+
+597
+00:38:12,059 --> 00:38:15,059
+just a second please
+
+598
+00:38:15,059 --> 00:38:18,059
+I think if I'm not
+
+599
+00:38:18,059 --> 00:38:21,090
+I will just continue
+
+600
+00:38:21,090 --> 00:38:24,090
+a little to present
+
+601
+00:38:24,090 --> 00:38:27,090
+I think I do have that kind of information
+
+602
+00:38:27,090 --> 00:38:30,340
+I'll just find out
+
+603
+00:38:30,340 --> 00:38:33,699
+Thank you
+
+604
+00:38:33,699 --> 00:38:36,699
+So I will proceed with
+
+605
+00:38:36,699 --> 00:38:39,699
+the latest Marmor SC earthquake
+
+606
+00:38:39,699 --> 00:38:42,699
+in 2025
+
+607
+00:38:42,699 --> 00:38:45,699
+the earthquake of 6.2
+
+608
+00:38:45,699 --> 00:38:48,699
+and in here we can also see
+
+609
+00:38:48,699 --> 00:38:51,699
+that since this is a
+
+610
+00:38:51,699 --> 00:38:54,699
+relatively moderate size
+
+611
+00:38:54,699 --> 00:38:57,699
+earthquake
+
+612
+00:38:57,699 --> 00:39:00,699
+there is no payout
+
+613
+00:39:00,699 --> 00:39:03,699
+and there is no actually ground up
+
+614
+00:39:03,699 --> 00:39:06,699
+loss at all also for the
+
+615
+00:39:06,699 --> 00:39:09,699
+USGS ShakeMap 1
+
+616
+00:39:09,699 --> 00:39:12,699
+CATMOS
+
+617
+00:39:12,699 --> 00:39:15,699
+medium PG estimation
+
+618
+00:39:15,699 --> 00:39:18,699
+with the conditions on the stations
+
+619
+00:39:18,699 --> 00:39:21,699
+and this one is the real ShakeMap
+
+620
+00:39:21,699 --> 00:39:24,699
+when we see that
+
+621
+00:39:24,699 --> 00:39:27,699
+this also gives zero payout
+
+622
+00:39:27,699 --> 00:39:30,699
+for all options
+
+623
+00:39:30,699 --> 00:39:33,699
+and there are some different earthquakes
+
+624
+00:39:33,699 --> 00:39:36,699
+in here from the USGS site
+
+625
+00:39:36,699 --> 00:39:39,699
+in here for example
+
+626
+00:39:39,699 --> 00:39:42,699
+this is an historical event
+
+627
+00:39:42,699 --> 00:39:45,699
+it gives
+
+628
+00:39:45,699 --> 00:39:48,699
+129 million euro payout
+
+629
+00:39:48,699 --> 00:39:51,699
+in option 1 but
+
+630
+00:39:51,699 --> 00:39:54,699
+when you use option 2
+
+631
+00:39:54,699 --> 00:39:57,730
+it gives full payout
+
+632
+00:39:57,730 --> 00:40:00,730
+also this is a bingyol event
+
+633
+00:40:00,730 --> 00:40:03,730
+which is an example
+
+634
+00:40:03,730 --> 00:40:06,730
+of increasing behavior
+
+635
+00:40:06,730 --> 00:40:09,730
+of option 2
+
+636
+00:40:13,730 --> 00:40:17,139
+lastly
+
+637
+00:40:17,139 --> 00:40:20,139
+I will mention about our
+
+638
+00:40:20,139 --> 00:40:23,139
+Marmor scenario earthquakes
+
+639
+00:40:23,139 --> 00:40:26,139
+these are not
+
+640
+00:40:26,139 --> 00:40:29,139
+historical ones these are
+
+641
+00:40:29,139 --> 00:40:32,139
+our scenarios
+
+642
+00:40:32,139 --> 00:40:35,139
+we have 4 different
+
+643
+00:40:35,139 --> 00:40:38,139
+scenario in the
+
+644
+00:40:38,139 --> 00:40:41,139
+Marmoracy
+
+645
+00:40:41,139 --> 00:40:44,239
+and the first one is the
+
+646
+00:40:44,239 --> 00:40:47,239
+scenario 1
+
+647
+00:40:47,239 --> 00:40:50,239
+is the Tynargic segment fault
+
+648
+00:40:50,239 --> 00:40:53,269
+with a magnitude 7
+
+649
+00:40:53,269 --> 00:40:56,269
+and
+
+650
+00:40:56,269 --> 00:40:59,269
+you can see our CATMOS
+
+651
+00:40:59,269 --> 00:41:02,269
+PGA distribution in here
+
+652
+00:41:02,269 --> 00:41:05,269
+and also
+
+653
+00:41:05,269 --> 00:41:08,269
+the maximum
+
+654
+00:41:08,269 --> 00:41:11,269
+PGA in here is the 0.5G
+
+655
+00:41:11,269 --> 00:41:14,269
+and option 1 and option 2
+
+656
+00:41:14,269 --> 00:41:17,269
+is not gives
+
+657
+00:41:17,269 --> 00:41:20,269
+not gives any payout in here
+
+658
+00:41:20,269 --> 00:41:23,269
+but there are some losses
+
+659
+00:41:23,269 --> 00:41:26,269
+but these are below the threshold of attachment
+
+660
+00:41:26,269 --> 00:41:29,269
+but the box cases
+
+661
+00:41:29,269 --> 00:41:32,269
+as you know
+
+662
+00:41:32,269 --> 00:41:35,269
+since this is a
+
+663
+00:41:35,269 --> 00:41:38,269
+bigger above the 7 earthquake
+
+664
+00:41:38,269 --> 00:41:41,269
+both options
+
+665
+00:41:41,269 --> 00:41:44,269
+with the box gives the
+
+666
+00:41:44,269 --> 00:41:48,900
+full payout so this is our
+
+667
+00:41:48,900 --> 00:41:51,900
+similarly the second Marmor
+
+668
+00:41:51,900 --> 00:41:54,900
+earthquake scenario
+
+669
+00:41:54,900 --> 00:41:57,900
+it is a central Marmor
+
+670
+00:41:57,900 --> 00:42:00,900
+fault with a magnitude of
+
+671
+00:42:00,900 --> 00:42:03,900
+7.1 in here we can
+
+672
+00:42:03,900 --> 00:42:06,900
+see very similar behavior
+
+673
+00:42:06,900 --> 00:42:10,610
+with the previous one
+
+674
+00:42:10,610 --> 00:42:13,610
+and this one is
+
+675
+00:42:13,610 --> 00:42:16,699
+actually
+
+676
+00:42:16,699 --> 00:42:19,699
+another rapture scenario
+
+677
+00:42:19,699 --> 00:42:22,699
+with central and the west
+
+678
+00:42:22,699 --> 00:42:25,699
+together
+
+679
+00:42:25,699 --> 00:42:28,699
+with a magnitude of 7.4
+
+680
+00:42:28,699 --> 00:42:31,699
+in this case again
+
+681
+00:42:31,699 --> 00:42:34,699
+the option 1 gives nothing
+
+682
+00:42:34,699 --> 00:42:37,699
+and option 2 gives
+
+683
+00:42:37,699 --> 00:42:40,900
+105 million euro
+
+684
+00:42:40,900 --> 00:42:43,900
+and lastly
+
+685
+00:42:43,900 --> 00:42:46,960
+our fourth scenario
+
+686
+00:42:46,960 --> 00:42:49,960
+is the combination of the
+
+687
+00:42:49,960 --> 00:42:52,960
+central Marmor segments
+
+688
+00:42:52,960 --> 00:42:55,960
+the combination of them
+
+689
+00:42:55,960 --> 00:42:58,960
+with a magnitude of 7.3
+
+690
+00:42:58,960 --> 00:43:01,960
+and in this case we are also
+
+691
+00:43:01,960 --> 00:43:04,960
+seeing the similar behavior
+
+692
+00:43:04,960 --> 00:43:07,960
+with the previous one it gives
+
+693
+00:43:07,960 --> 00:43:10,960
+nothing in option 1
+
+694
+00:43:10,960 --> 00:43:14,019
+gives
+
+695
+00:43:14,019 --> 00:43:17,019
+115 million euro in option
+
+696
+00:43:17,019 --> 00:43:20,019
+2 and the full payout in the
+
+697
+00:43:20,019 --> 00:43:23,150
+options with the box
+
+698
+00:43:23,150 --> 00:43:26,150
+so these are our Marmor
+
+699
+00:43:26,150 --> 00:43:29,150
+earthquake scenarios
+
+700
+00:43:29,150 --> 00:43:32,150
+and their corresponding results
+
+701
+00:43:32,150 --> 00:43:35,150
+do you have any comments
+
+702
+00:43:35,150 --> 00:43:38,150
+on question regarding to this
+
+703
+00:43:38,150 --> 00:43:41,630
+if you talk I take a couple of
+
+704
+00:43:41,630 --> 00:43:44,630
+comments or something like that
+
+705
+00:43:44,630 --> 00:43:47,630
+we saw I think we also
+
+706
+00:43:47,630 --> 00:43:50,630
+each other at the European conference
+
+707
+00:43:50,630 --> 00:43:53,630
+of quick engineering recently
+
+708
+00:43:53,630 --> 00:43:56,630
+so you remember that I've always been
+
+709
+00:43:56,630 --> 00:43:59,630
+kind of fascinated about these 3D numerical modelling
+
+710
+00:43:59,630 --> 00:44:02,630
+that I did some analysis about that area
+
+711
+00:44:02,630 --> 00:44:05,630
+so now obviously
+
+712
+00:44:05,630 --> 00:44:08,630
+my question is whenever there is going to be an earthquake
+
+713
+00:44:08,630 --> 00:44:10,630
+Kathmand
+
+714
+00:44:10,630 --> 00:44:13,630
+will provide a footprint
+
+715
+00:44:13,630 --> 00:44:16,630
+for that event I guess
+
+716
+00:44:16,630 --> 00:44:19,630
+but this footprint is going to be based only on
+
+717
+00:44:19,630 --> 00:44:22,699
+the median prediction
+
+718
+00:44:22,699 --> 00:44:25,699
+or it's going to incorporate also
+
+719
+00:44:25,699 --> 00:44:28,699
+stations that observe because one of the things
+
+720
+00:44:28,699 --> 00:44:31,699
+that honestly quite impress me
+
+721
+00:44:31,699 --> 00:44:34,699
+is that basically without the box
+
+722
+00:44:34,699 --> 00:44:37,699
+almost all the last event we saw
+
+723
+00:44:37,699 --> 00:44:40,699
+in terms of PGA never reach any kind of
+
+724
+00:44:40,699 --> 00:44:43,699
+payment except the one that you are showing here
+
+725
+00:44:43,699 --> 00:44:46,699
+but the one before as far as I remember it was
+
+726
+00:44:46,699 --> 00:44:49,699
+barely something
+
+727
+00:44:49,699 --> 00:44:52,699
+it's kind of impressive because we are always selling
+
+728
+00:44:52,699 --> 00:44:55,699
+the idea of having a ground motion
+
+729
+00:44:55,699 --> 00:44:58,699
+so an index based ground motion
+
+730
+00:44:58,699 --> 00:45:01,789
+is better than the box
+
+731
+00:45:01,789 --> 00:45:04,789
+as a matter of fact yet is true
+
+732
+00:45:04,789 --> 00:45:07,789
+whenever the fault is relatively close
+
+733
+00:45:07,789 --> 00:45:10,789
+and Marmara is 10-15 km
+
+734
+00:45:10,789 --> 00:45:13,789
+far away from the coast and obviously
+
+735
+00:45:13,789 --> 00:45:16,789
+this means typically the ground motion
+
+736
+00:45:16,789 --> 00:45:19,789
+will never be so high
+
+737
+00:45:19,789 --> 00:45:22,789
+as 0.25 or 0.35
+
+738
+00:45:22,789 --> 00:45:25,789
+you need the sigma in order to come
+
+739
+00:45:25,789 --> 00:45:28,789
+at something about it
+
+740
+00:45:28,789 --> 00:45:31,789
+the question for me is just always a little bit
+
+741
+00:45:31,789 --> 00:45:34,789
+in order to have something that is matching
+
+742
+00:45:34,789 --> 00:45:37,789
+I need just simply to know what is going to be
+
+743
+00:45:37,789 --> 00:45:40,789
+the shape map not in the sense that nobody knows
+
+744
+00:45:40,789 --> 00:45:43,789
+what is going to be the real true shaking
+
+745
+00:45:43,789 --> 00:45:46,789
+but what is going to be delivered
+
+746
+00:45:46,789 --> 00:45:49,789
+by the institution that is going to provide this
+
+747
+00:45:49,789 --> 00:45:52,789
+data at the end and again
+
+748
+00:45:52,789 --> 00:45:55,789
+in that respect we are totally flexible
+
+749
+00:45:55,789 --> 00:45:58,789
+because it's just a matter of understanding
+
+750
+00:45:58,789 --> 00:46:01,789
+the way you are going to cook the shape map
+
+751
+00:46:01,789 --> 00:46:04,789
+my understanding is that probably
+
+752
+00:46:04,789 --> 00:46:08,019
+USGS I guess
+
+753
+00:46:08,019 --> 00:46:11,019
+that the past footprint historical footprint
+
+754
+00:46:11,019 --> 00:46:14,019
+of USGS were only driven by the media
+
+755
+00:46:14,019 --> 00:46:17,019
+because they were not having any observation at all
+
+756
+00:46:17,019 --> 00:46:20,019
+in the latest decades
+
+757
+00:46:20,019 --> 00:46:23,019
+they started to incorporate on the one hand quite a lot
+
+758
+00:46:23,019 --> 00:46:26,019
+of information about the station but even more
+
+759
+00:46:26,019 --> 00:46:29,019
+from the did you feel it
+
+760
+00:46:29,019 --> 00:46:32,019
+so this obviously just brings everything
+
+761
+00:46:32,019 --> 00:46:35,019
+far from the ground motion medium
+
+762
+00:46:35,019 --> 00:46:38,019
+so we saw in many places especially if the vulnerability
+
+763
+00:46:38,019 --> 00:46:41,019
+tend to be weak
+
+764
+00:46:41,019 --> 00:46:44,019
+I got in mind this Marrakesh earthquake in Morocco
+
+765
+00:46:44,019 --> 00:46:47,019
+according to the shaking
+
+766
+00:46:47,019 --> 00:46:50,019
+you should have been at a certain level but then correcting
+
+767
+00:46:50,019 --> 00:46:53,019
+for the did you feel information you see something very different
+
+768
+00:46:53,019 --> 00:46:56,019
+there was no station sorry Sinen I was
+
+769
+00:46:56,019 --> 00:46:59,239
+okay no it's fine
+
+770
+00:46:59,239 --> 00:47:02,239
+we're just discussing Nurula could you please
+
+771
+00:47:02,239 --> 00:47:05,239
+last night you just showed me
+
+772
+00:47:05,239 --> 00:47:08,239
+the station
+
+773
+00:47:08,239 --> 00:47:11,239
+locations being used
+
+774
+00:47:11,239 --> 00:47:14,239
+by USGS in the Marrakesh region
+
+775
+00:47:14,239 --> 00:47:17,239
+would you please just show it to
+
+776
+00:47:17,239 --> 00:47:20,239
+Marco and Christian for
+
+777
+00:47:20,239 --> 00:47:23,500
+the sake of information for the sake of completeness I would say
+
+778
+00:47:23,500 --> 00:47:26,500
+and meanwhile I have just found out
+
+779
+00:47:26,500 --> 00:47:29,500
+the insured losses
+
+780
+00:47:29,500 --> 00:47:32,500
+after 2020 Samos earthquake
+
+781
+00:47:32,500 --> 00:47:35,500
+it is something around
+
+782
+00:47:35,500 --> 00:47:38,500
+500 million Turkish
+
+783
+00:47:38,500 --> 00:47:41,500
+which corresponds to 62 million
+
+784
+00:47:41,500 --> 00:47:45,170
+euros when we use
+
+785
+00:47:45,170 --> 00:47:48,170
+the exchange rate at that time
+
+786
+00:47:48,170 --> 00:47:51,460
+so this is I mean I can provide you
+
+787
+00:47:51,460 --> 00:47:54,460
+the references as well
+
+788
+00:47:54,460 --> 00:47:57,460
+and the other thing is
+
+789
+00:47:57,460 --> 00:47:59,460
+I mean if you just
+
+790
+00:47:59,460 --> 00:48:02,460
+if you just look at that map
+
+791
+00:48:02,460 --> 00:48:05,619
+that Nurula will be providing us
+
+792
+00:48:05,619 --> 00:48:08,619
+in a while you will be noting that
+
+793
+00:48:08,619 --> 00:48:11,619
+okay so you will be noting that there is
+
+794
+00:48:11,619 --> 00:48:14,619
+when you repeatedly look at the so the triangles here
+
+795
+00:48:14,619 --> 00:48:17,619
+they are showing the stations
+
+796
+00:48:17,619 --> 00:48:21,099
+deployed stations being used by
+
+797
+00:48:21,099 --> 00:48:24,099
+US Geological Survey so essentially
+
+798
+00:48:24,099 --> 00:48:27,099
+yes there are art stations but if you look at
+
+799
+00:48:27,099 --> 00:48:30,099
+the periphery of Istanbul
+
+800
+00:48:30,099 --> 00:48:33,099
+the number of stations used is not that much
+
+801
+00:48:33,099 --> 00:48:36,099
+large not that much so essentially
+
+802
+00:48:36,099 --> 00:48:39,099
+the median ground motions are really
+
+803
+00:48:39,099 --> 00:48:42,099
+prevailing they are really controlling
+
+804
+00:48:42,099 --> 00:48:45,219
+the shape maps
+
+805
+00:48:45,219 --> 00:48:48,219
+I would be very curious about the video because we got
+
+806
+00:48:48,219 --> 00:48:51,219
+I don't want to say pet surprise we get some surprises
+
+807
+00:48:51,219 --> 00:48:54,219
+in the sense that
+
+808
+00:48:54,219 --> 00:48:57,219
+we all know that Istanbul is
+
+809
+00:48:57,219 --> 00:49:00,219
+obviously a patchwork of brand new
+
+810
+00:49:00,219 --> 00:49:03,219
+buildings and historical buildings
+
+811
+00:49:03,219 --> 00:49:06,219
+and whatever so it's
+
+812
+00:49:06,219 --> 00:49:09,219
+like every historical city in Europe
+
+813
+00:49:09,219 --> 00:49:12,219
+now and so
+
+814
+00:49:12,219 --> 00:49:15,219
+the only feeling that I got is that
+
+815
+00:49:15,219 --> 00:49:18,219
+most likely in the last years what I saw it was
+
+816
+00:49:18,219 --> 00:49:21,449
+did you really tend to bias
+
+817
+00:49:21,449 --> 00:49:24,449
+quite significantly the picture that you got
+
+818
+00:49:24,449 --> 00:49:27,610
+at the end in terms of the shape map
+
+819
+00:49:27,610 --> 00:49:30,610
+frankly not in 2023
+
+820
+00:49:30,610 --> 00:49:33,610
+2023 I think that the event at the end
+
+821
+00:49:33,610 --> 00:49:36,610
+was well you see all the station were aligned
+
+822
+00:49:36,610 --> 00:49:39,610
+along the fault so you really captured very well
+
+823
+00:49:39,610 --> 00:49:42,610
+the behavior even any kind of
+
+824
+00:49:42,610 --> 00:49:45,610
+activity whatever was exactly there where you would have had
+
+825
+00:49:45,610 --> 00:49:48,610
+this seismometer so I would say
+
+826
+00:49:48,610 --> 00:49:51,610
+no not there in other event
+
+827
+00:49:51,610 --> 00:49:54,610
+it might have more but again I don't put it
+
+828
+00:49:54,610 --> 00:49:57,610
+like a problem let's say it's just simply
+
+829
+00:49:57,610 --> 00:50:00,610
+we have just to know the way
+
+830
+00:50:00,610 --> 00:50:03,610
+this is done and then we can
+
+831
+00:50:03,610 --> 00:50:06,610
+cope with that. Yeah actually Marco
+
+832
+00:50:06,610 --> 00:50:09,960
+first when you when you really look at
+
+833
+00:50:09,960 --> 00:50:12,960
+did you feel it say information
+
+834
+00:50:12,960 --> 00:50:16,059
+what as far as I know what they do
+
+835
+00:50:16,059 --> 00:50:19,059
+that's something we have been discussing with you as well
+
+836
+00:50:19,059 --> 00:50:22,059
+so first they convert everything back to MMI
+
+837
+00:50:22,059 --> 00:50:25,059
+and then from MMI they translated
+
+838
+00:50:25,059 --> 00:50:28,059
+into PJ or PJV or whatever it is
+
+839
+00:50:28,059 --> 00:50:31,059
+so essentially there is some level of uncertainty in that sense
+
+840
+00:50:31,059 --> 00:50:34,059
+but essentially
+
+841
+00:50:34,059 --> 00:50:37,059
+I mean did you feel it works very well
+
+842
+00:50:37,059 --> 00:50:40,250
+for large events
+
+843
+00:50:40,250 --> 00:50:43,250
+but did you feel it doesn't work very well for moderate to large events
+
+844
+00:50:43,250 --> 00:50:46,949
+for large events for certain
+
+845
+00:50:46,949 --> 00:50:50,400
+I mean little bias about
+
+846
+00:50:50,400 --> 00:50:53,400
+people's feelings
+
+847
+00:50:53,400 --> 00:50:56,460
+about the shake but if there is
+
+848
+00:50:56,460 --> 00:50:59,460
+moderate to small there is moderate to large
+
+849
+00:50:59,460 --> 00:51:02,460
+events I would say more on the
+
+850
+00:51:02,460 --> 00:51:05,460
+moderate side and then there is a bias
+
+851
+00:51:05,460 --> 00:51:08,460
+in the feelings of human beings
+
+852
+00:51:08,460 --> 00:51:11,460
+they react to the earthquakes
+
+853
+00:51:11,460 --> 00:51:14,460
+in different ways but in any case so you have
+
+854
+00:51:14,460 --> 00:51:17,460
+MMI first and then translated to PJ
+
+855
+00:51:17,460 --> 00:51:20,460
+so there is some level of bias in order to respond
+
+856
+00:51:20,460 --> 00:51:23,460
+this question properly actually
+
+857
+00:51:23,460 --> 00:51:26,619
+I mean we have some work
+
+858
+00:51:26,619 --> 00:51:29,619
+ongoing work
+
+859
+00:51:29,619 --> 00:51:32,619
+but currently as Nurula has already shown to you
+
+860
+00:51:32,619 --> 00:51:35,619
+we are using conditional
+
+861
+00:51:35,619 --> 00:51:38,619
+ground motion fields
+
+862
+00:51:38,619 --> 00:51:41,619
+medium ground motions conditioned on
+
+863
+00:51:41,619 --> 00:51:44,750
+say aphads
+
+864
+00:51:44,750 --> 00:51:47,750
+strong motion stations
+
+865
+00:51:47,750 --> 00:51:50,750
+but then aside from that
+
+866
+00:51:50,750 --> 00:51:53,750
+in order to mimic did you feel it
+
+867
+00:51:53,750 --> 00:51:56,750
+say information through USGS
+
+868
+00:51:56,750 --> 00:51:59,750
+we are working on the calibration
+
+869
+00:51:59,750 --> 00:52:03,460
+of our medium ground motion estimates
+
+870
+00:52:03,460 --> 00:52:07,769
+with those reported by
+
+871
+00:52:07,769 --> 00:52:11,059
+the USGS shape maps
+
+872
+00:52:11,059 --> 00:52:14,860
+so that would provide us some
+
+873
+00:52:14,860 --> 00:52:17,860
+level of more reliable information
+
+874
+00:52:17,860 --> 00:52:20,860
+related to any type of payout structure
+
+875
+00:52:20,860 --> 00:52:24,719
+that will be on the table
+
+876
+00:52:24,719 --> 00:52:27,719
+so one thing that should be done
+
+877
+00:52:27,719 --> 00:52:31,170
+in that sense is to calibrate
+
+878
+00:52:31,170 --> 00:52:34,170
+sort of ground motion model for a given event
+
+879
+00:52:34,170 --> 00:52:37,170
+with the USGS shape map
+
+880
+00:52:37,170 --> 00:52:41,320
+say data
+
+881
+00:52:41,320 --> 00:52:44,320
+understood that's something we have been working on
+
+882
+00:52:44,320 --> 00:52:47,320
+and hopefully we will be including it
+
+883
+00:52:47,320 --> 00:52:51,409
+in our model it came just to make it clear
+
+884
+00:52:51,409 --> 00:52:54,409
+so at the end I would say I represent really
+
+885
+00:52:54,409 --> 00:52:57,409
+the technical side for me
+
+886
+00:52:57,409 --> 00:53:00,409
+the typical question is Marco are you capable to mimic
+
+887
+00:53:00,409 --> 00:53:03,409
+as good as you can what is going to happen
+
+888
+00:53:03,409 --> 00:53:06,730
+obviously in this case Christian represents
+
+889
+00:53:06,730 --> 00:53:09,730
+a little bit of different side is also responsible
+
+890
+00:53:09,730 --> 00:53:12,730
+of how good is the product in order to
+
+891
+00:53:12,730 --> 00:53:15,730
+let's say give him really some help to pay out
+
+892
+00:53:15,730 --> 00:53:18,730
+or not to pay out if it is
+
+893
+00:53:18,730 --> 00:53:21,730
+or not required so we represent a little bit
+
+894
+00:53:21,730 --> 00:53:24,730
+to let's say different guys
+
+895
+00:53:24,730 --> 00:53:27,730
+that try to find out a compromise
+
+896
+00:53:27,730 --> 00:53:30,730
+so for me from a technical point of view
+
+897
+00:53:30,730 --> 00:53:33,730
+I would say the challenge is more just understanding
+
+898
+00:53:33,730 --> 00:53:36,730
+properly what is going to be in the future
+
+899
+00:53:36,730 --> 00:53:39,730
+the shape map that is going to happen
+
+900
+00:53:39,730 --> 00:53:42,730
+that is going to be here
+
+901
+00:53:42,730 --> 00:53:45,730
+the one of Christian would say yes Marco
+
+902
+00:53:45,730 --> 00:53:48,730
+but do you really feel that this shape map represents
+
+903
+00:53:48,730 --> 00:53:51,730
+what need to be provided to this person
+
+904
+00:53:51,730 --> 00:53:54,730
+and to understand the proper price
+
+905
+00:53:54,730 --> 00:53:57,730
+the answer to this question
+
+906
+00:53:57,730 --> 00:54:01,369
+did you really for example also internally
+
+907
+00:54:01,369 --> 00:54:04,369
+we try somehow really to have some kind of
+
+908
+00:54:04,369 --> 00:54:07,369
+procedure because there is always
+
+909
+00:54:07,369 --> 00:54:10,369
+the point that most likely in Istanbul
+
+910
+00:54:10,369 --> 00:54:13,369
+with such a high density of people
+
+911
+00:54:13,369 --> 00:54:15,369
+living there you will have a certain amount of
+
+912
+00:54:15,369 --> 00:54:17,369
+house where if you go in the middle of nowhere
+
+913
+00:54:17,369 --> 00:54:20,369
+I guess that the answer will be very few
+
+914
+00:54:20,369 --> 00:54:23,369
+so there are very different
+
+915
+00:54:23,369 --> 00:54:26,369
+components actually that need to take into account
+
+916
+00:54:26,369 --> 00:54:29,369
+whenever this information
+
+917
+00:54:29,369 --> 00:54:32,369
+must be considered
+
+918
+00:54:32,369 --> 00:54:35,369
+that's the only observation that I can make
+
+919
+00:54:35,369 --> 00:54:38,369
+it's tough from a moderate point of view
+
+920
+00:54:38,369 --> 00:54:41,369
+because it adds an additional variable
+
+921
+00:54:41,369 --> 00:54:46,329
+that is a little bit more uncertain
+
+922
+00:54:46,329 --> 00:54:49,329
+in any case we will be providing this
+
+923
+00:54:49,329 --> 00:54:52,619
+presentation to you
+
+924
+00:54:52,619 --> 00:54:55,619
+which is a pleasure
+
+925
+00:54:55,619 --> 00:54:58,619
+and we will also
+
+926
+00:54:58,619 --> 00:55:01,619
+summarize this meeting
+
+927
+00:55:01,619 --> 00:55:04,619
+to
+
+928
+00:55:04,619 --> 00:55:07,619
+as well as his retro group
+
+929
+00:55:07,619 --> 00:55:11,289
+stating that we have delivered
+
+930
+00:55:11,289 --> 00:55:14,289
+this presentation to you
+
+931
+00:55:14,289 --> 00:55:17,289
+with some additional information
+
+932
+00:55:17,289 --> 00:55:20,289
+on our viewpoint
+
+933
+00:55:20,289 --> 00:55:23,289
+and again sorry if I came back to the point
+
+934
+00:55:23,289 --> 00:55:26,289
+but at the end of the shaking
+
+935
+00:55:26,289 --> 00:55:29,320
+if we believe
+
+936
+00:55:29,320 --> 00:55:32,320
+to this kind of shaking
+
+937
+00:55:32,320 --> 00:55:35,320
+is important in almost every earthquake in Turkey
+
+938
+00:55:35,320 --> 00:55:38,320
+except on the northern
+
+939
+00:55:38,320 --> 00:55:41,320
+Italian Marmara segment
+
+940
+00:55:41,320 --> 00:55:44,320
+where it's the box so that's a little bit something
+
+941
+00:55:44,320 --> 00:55:47,860
+that is one aspect
+
+942
+00:55:47,860 --> 00:55:50,860
+so first of all very much appreciate
+
+943
+00:55:50,860 --> 00:55:53,860
+the conversation and I very much
+
+944
+00:55:53,860 --> 00:55:56,900
+like the presentation because
+
+945
+00:55:56,900 --> 00:55:59,900
+Marco we don't run these type of scenarios
+
+946
+00:55:59,900 --> 00:56:03,250
+1, 2, 3, 4
+
+947
+00:56:03,250 --> 00:56:06,659
+we look at the historic and I think on the historic
+
+948
+00:56:06,659 --> 00:56:09,659
+the option 2 at least and I assume
+
+949
+00:56:09,659 --> 00:56:12,659
+option 1 as well would have paid close to 100%
+
+950
+00:56:12,659 --> 00:56:15,760
+and that's I'm referring to the
+
+951
+00:56:15,760 --> 00:56:18,760
+event I can't remember if you have it in here
+
+952
+00:56:18,760 --> 00:56:21,889
+so that just shows a little bit that if you only adjust
+
+953
+00:56:21,889 --> 00:56:24,889
+the program and the structure
+
+954
+00:56:24,889 --> 00:56:28,659
+with the historic payments or the historic events
+
+955
+00:56:28,659 --> 00:56:31,659
+you may have to consider to some degree
+
+956
+00:56:31,659 --> 00:56:34,659
+some scenarios or modeled events
+
+957
+00:56:34,659 --> 00:56:38,260
+and Marco probably has a better feeling for the
+
+958
+00:56:38,260 --> 00:56:41,650
+accurateness of the
+
+959
+00:56:41,650 --> 00:56:44,650
+scenarios I have a hard time commenting on that
+
+960
+00:56:44,650 --> 00:56:47,969
+what would be the event that actually triggers 100%
+
+961
+00:56:47,969 --> 00:56:50,969
+and why would this program
+
+962
+00:56:50,969 --> 00:56:53,969
+why would a 7.3 along the Marmara fault
+
+963
+00:56:53,969 --> 00:56:56,969
+not trigger I understand the constellation and
+
+964
+00:56:56,969 --> 00:57:00,190
+also the usage of the sensors but
+
+965
+00:57:00,190 --> 00:57:03,190
+I would be surprised if a large event
+
+966
+00:57:03,190 --> 00:57:06,190
+along the Marmara fault a high magnitude event
+
+967
+00:57:06,190 --> 00:57:09,190
+leading to large losses as well
+
+968
+00:57:09,190 --> 00:57:12,190
+would not trigger structure 1
+
+969
+00:57:12,190 --> 00:57:15,219
+option 1 that's just me thinking out loud
+
+970
+00:57:15,219 --> 00:57:18,219
+if I'm allowed
+
+971
+00:57:18,219 --> 00:57:21,219
+yes it's just that the fault is too far from the city
+
+972
+00:57:21,219 --> 00:57:24,219
+and if you take the median this is what
+
+973
+00:57:24,219 --> 00:57:27,219
+the Grammotion model says
+
+974
+00:57:27,219 --> 00:57:30,219
+they're very
+
+975
+00:57:30,219 --> 00:57:35,559
+plain
+
+976
+00:57:35,559 --> 00:57:38,559
+thank you so much
+
+977
+00:57:38,559 --> 00:57:41,559
+it's a pleasure essentially we do have some further analysis
+
+978
+00:57:41,559 --> 00:57:44,559
+but for the sake of time now
+
+979
+00:57:44,559 --> 00:57:47,559
+I mean I would say
+
+980
+00:57:47,559 --> 00:57:51,809
+right after this meeting
+
+981
+00:57:51,809 --> 00:57:54,809
+let us
+
+982
+00:57:54,809 --> 00:57:57,840
+send you this report presentation
+
+983
+00:57:57,840 --> 00:58:01,219
+and then
+
+984
+00:58:01,219 --> 00:58:04,219
+if you want further we can iterate more
+
+985
+00:58:04,219 --> 00:58:07,539
+on what we have been working on
+
+986
+00:58:07,539 --> 00:58:10,769
+and it will be a real pleasure
+
+987
+00:58:10,769 --> 00:58:13,769
+for us Marco and Christian
+
+988
+00:58:13,769 --> 00:58:16,769
+if we could sort of collaborate
+
+989
+00:58:16,769 --> 00:58:20,250
+on this type of say modeling
+
+990
+00:58:20,250 --> 00:58:24,179
+or product with you
+
+991
+00:58:24,179 --> 00:58:28,070
+that you will be that you're going to
+
+992
+00:58:28,070 --> 00:58:31,070
+provide or pause in Turkey
+
+993
+00:58:31,070 --> 00:58:34,329
+for other companies and so forth
+
+994
+00:58:34,329 --> 00:58:37,329
+so we will be very happy to collaborate on this as well
+
+995
+00:58:37,329 --> 00:58:40,329
+because we have been working on this
+
+996
+00:58:40,329 --> 00:58:43,329
+problem for a while
+
+997
+00:58:43,329 --> 00:58:46,329
+and we do have for example the shape maps
+
+998
+00:58:46,329 --> 00:58:49,329
+of different historical earthquakes
+
+999
+00:58:49,329 --> 00:58:52,329
+that occurred in different parts of the country
+
+1000
+00:58:52,329 --> 00:58:55,329
+it is not only the Marmara region
+
+1001
+00:58:55,329 --> 00:58:58,329
+where the exposure is dense
+
+1002
+00:58:58,329 --> 00:59:01,329
+in Turkey there are other regions where the exposure
+
+1003
+00:59:01,329 --> 00:59:04,329
+is quite dense and the likely losses are
+
+1004
+00:59:04,329 --> 00:59:07,329
+significant so parametric products can
+
+1005
+00:59:07,329 --> 00:59:10,329
+be important for those regions as well
+
+1006
+00:59:10,329 --> 00:59:13,329
+so we are really open
+
+1007
+00:59:13,329 --> 00:59:16,329
+for collaboration in that sense
+
+1008
+00:59:16,329 --> 00:59:19,329
+more than happy to and I would be very happy if Marco also agrees
+
+1009
+00:59:19,329 --> 00:59:22,329
+to create a regular touch point among us
+
+1010
+00:59:22,329 --> 00:59:25,329
+specifically for these type of conversations
+
+1011
+00:59:25,329 --> 00:59:28,329
+maybe your comment on other products
+
+1012
+00:59:28,329 --> 00:59:31,329
+in the market you may very well be aware of
+
+1013
+00:59:31,329 --> 00:59:34,329
+another product with a local intro
+
+1014
+00:59:34,329 --> 00:59:37,329
+with a local presence and targeting
+
+1015
+00:59:37,329 --> 00:59:40,329
+smaller medium size enterprises and I think
+
+1016
+00:59:40,329 --> 00:59:43,329
+one of the very first points that we said there
+
+1017
+00:59:43,329 --> 00:59:46,329
+we should do a shake intensity cover
+
+1018
+00:59:46,329 --> 00:59:49,329
+with the longitude and latitude of each client
+
+1019
+00:59:49,329 --> 00:59:52,329
+to make it as precise as possible
+
+1020
+00:59:52,329 --> 00:59:55,329
+the first comment we got back right away
+
+1021
+00:59:55,329 --> 00:59:58,329
+it was we will never be able to sell a shake intensity
+
+1022
+00:59:58,329 --> 01:00:01,329
+PGA, PSA, PGV type of product
+
+1023
+01:00:01,329 --> 01:00:04,710
+very simple cat in a box
+
+1024
+01:00:04,710 --> 01:00:07,710
+magnitude trigger otherwise no one will buy
+
+1025
+01:00:07,710 --> 01:00:10,710
+what I'm trying to say is the reality of these
+
+1026
+01:00:10,710 --> 01:00:13,710
+parametric products is always to find the balance between
+
+1027
+01:00:13,710 --> 01:00:16,710
+the technical aspects to be precise enough
+
+1028
+01:00:16,710 --> 01:00:19,710
+to find a product that is everyone understands
+
+1029
+01:00:19,710 --> 01:00:22,710
+and agrees on and thirdly
+
+1030
+01:00:22,710 --> 01:00:25,710
+to find the balance on the rates on the pricing
+
+1031
+01:00:25,710 --> 01:00:29,000
+to have something that is sustainable
+
+1032
+01:00:29,000 --> 01:00:32,000
+those elements always have to come together that's what we see
+
+1033
+01:00:32,000 --> 01:00:35,000
+but that's again more from a commercial perspective
+
+1034
+01:00:35,000 --> 01:00:38,000
+than from a pure modeling perspective
+
+1035
+01:00:38,000 --> 01:00:41,000
+then in that sense we are more than happy to collaborate with you
+
+1036
+01:00:41,000 --> 01:00:44,000
+because we also want to have something
+
+1037
+01:00:44,000 --> 01:00:47,000
+through collaboration with Munich
+
+1038
+01:00:47,000 --> 01:00:50,000
+we have something really understandable
+
+1039
+01:00:50,000 --> 01:00:53,510
+by the client and reliable
+
+1040
+01:00:53,510 --> 01:00:56,510
+in the sense of providing
+
+1041
+01:00:56,510 --> 01:00:59,510
+realistic payouts for any critical event
+
+1042
+01:00:59,510 --> 01:01:04,179
+of concern for that client
+
+1043
+01:01:04,179 --> 01:01:07,179
+thank you very much we appreciate if you share this presentation
+
+1044
+01:01:07,179 --> 01:01:10,179
+with us we will obviously keep it for ourselves
+
+1045
+01:01:10,179 --> 01:01:13,179
+not share it further this was very interesting
+
+1046
+01:01:13,179 --> 01:01:16,179
+and looking forward to continue the conversation
+
+1047
+01:01:16,179 --> 01:01:19,179
+either short term as a reaction to this
+
+1048
+01:01:19,179 --> 01:01:22,210
+or in the medium term going forward
+
+1049
+01:01:22,210 --> 01:01:25,980
+we will be very much interested in either case
+
+1050
+01:01:25,980 --> 01:01:27,980
+perfect thank you very much
+
+1051
+01:01:27,980 --> 01:01:30,980
+we don't have to wait for the word conference
+
+1052
+01:01:30,980 --> 01:01:33,980
+we've seen it before
+
+1053
+01:01:33,980 --> 01:01:36,170
+no we can
+
+1054
+01:01:36,170 --> 01:01:39,170
+meanwhile we can work on it really
+
+1055
+01:01:39,170 --> 01:01:41,170
+that's a good idea ok
+
+1056
+01:01:41,170 --> 01:01:43,170
+thank you again very appreciated
+
+1057
+01:01:43,170 --> 01:01:45,170
+thank you
+
+1058
+01:02:50,059 --> 01:02:52,409
+you are giving valuable information
+
+1059
+01:02:52,409 --> 01:02:54,409
+that you are doing
+
+1060
+01:02:54,409 --> 01:02:56,409
+right now
+
+1061
+01:02:56,409 --> 01:02:58,409
+you are giving valuable information
+
+1062
+01:02:58,409 --> 01:03:00,409
+you are giving valuable information
+
+1063
+01:03:00,409 --> 01:03:02,409
+that Marco said
+
+1064
+01:03:02,409 --> 01:03:04,409
+he did all his life
+
+1065
+01:03:04,409 --> 01:03:06,409
+through physics space simulation
+
+1066
+01:03:06,409 --> 01:03:09,369
+but that's not possible
+
+1067
+01:03:09,369 --> 01:03:11,369
+I mean actually
+
+1068
+01:03:11,369 --> 01:03:13,369
+I'm doing this right now
+
+1069
+01:03:13,369 --> 01:03:15,369
+but I'm doing it in other areas
+
+1070
+01:03:15,369 --> 01:03:17,369
+making Munich parameters
+
+1071
+01:03:17,369 --> 01:03:19,369
+being able to support
+
+1072
+01:03:19,369 --> 01:03:21,369
+I think it's something like this
+
+1073
+01:03:21,369 --> 01:03:23,369
+I'm sure
+
+1074
+01:03:23,369 --> 01:03:25,940
+this is my speculation
+
+1075
+01:03:25,940 --> 01:03:27,940
+Munich is a big place
+
+1076
+01:03:27,940 --> 01:03:29,940
+but Munich has a modelling committee
+
+1077
+01:03:29,940 --> 01:03:31,940
+because it's almost like
+
+1078
+01:03:31,940 --> 01:03:33,940
+there's a rush, there's a rush for Europe
+
+1079
+01:03:33,940 --> 01:03:35,940
+it's much more important
+
+1080
+01:03:35,940 --> 01:03:37,940
+I mean
+
+1081
+01:03:37,940 --> 01:03:40,679
+it's much smaller here
+
+1082
+01:03:40,679 --> 01:03:42,679
+I mean there are 5 people
+
+1083
+01:03:42,679 --> 01:03:44,780
+Marco
+
+1084
+01:03:44,780 --> 01:03:46,780
+I don't know
+
+1085
+01:03:46,780 --> 01:03:48,780
+this man
+
+1086
+01:03:48,780 --> 01:03:50,780
+there are Martin Kaster
+
+1087
+01:03:50,780 --> 01:03:52,780
+but Martin Kaster is
+
+1088
+01:03:52,780 --> 01:03:54,780
+the whole modelling
+
+1089
+01:03:54,780 --> 01:03:56,780
+for us
+
+1090
+01:03:56,780 --> 01:03:58,780
+I'm not the only one
+
+1091
+01:03:58,780 --> 01:04:00,780
+the whole modelling
+
+1092
+01:04:00,780 --> 01:04:02,780
+these are
+
+1093
+01:04:02,780 --> 01:04:04,780
+for example
+
+1094
+01:04:04,780 --> 01:04:07,159
+in this area
+
+1095
+01:04:07,159 --> 01:04:09,159
+if we are confident
+
+1096
+01:04:09,159 --> 01:04:11,159
+we can do something
+
+1097
+01:04:11,159 --> 01:04:13,159
+we can do something
+
+1098
+01:04:13,159 --> 01:04:15,159
+we can do something
+
+1099
+01:04:15,159 --> 01:04:17,159
+we can do something
+
+1100
+01:04:17,159 --> 01:04:19,159
+please
+
+1101
+01:04:19,159 --> 01:04:21,159
+you left your ideas
+
+1102
+01:04:21,159 --> 01:04:23,159
+there are a lot of things
+
+1103
+01:04:23,159 --> 01:04:25,159
+you put the signals
+
+1104
+01:04:25,159 --> 01:04:27,159
+no they didn't
+
+1105
+01:04:27,159 --> 01:04:29,159
+they just took it
+
+1106
+01:04:29,159 --> 01:04:31,159
+I'm just asking
+
+1107
+01:04:31,159 --> 01:04:33,159
+I just took it
+
+1108
+01:04:33,159 --> 01:04:35,159
+you put it in front of you
+
+1109
+01:04:35,159 --> 01:04:37,159
+yes I did
+
+1110
+01:04:37,159 --> 01:04:39,159
+there were
+
+1111
+01:04:39,159 --> 01:04:40,159
+stochastic
+
+1112
+01:04:40,159 --> 01:04:42,159
+the last ones
+
+1113
+01:04:42,159 --> 01:04:44,159
+let's check them
+
+1114
+01:04:44,159 --> 01:04:59,889
+Martin
+
+1115
+01:04:59,889 --> 01:05:01,889
+you know
+
+1116
+01:05:01,889 --> 01:05:03,889
+we can do something
+
+1117
+01:05:03,889 --> 01:05:10,400
+we can do something
+
+1118
+01:05:10,400 --> 01:05:12,400
+and we can do
+
+1119
+01:05:12,400 --> 01:05:14,400
+everything for us
+
+1120
+01:05:14,400 --> 01:05:16,400
+and for the physics
+
+1121
+01:05:16,400 --> 01:05:18,500
+we can do something
+
+1122
+01:05:18,500 --> 01:05:20,980
+no
+
+1123
+01:05:20,980 --> 01:05:23,010
+I mean
+
+1124
+01:05:23,010 --> 01:05:25,010
+we can do something
+
+1125
+01:05:25,010 --> 01:05:34,500
+we can do something
+
+1126
+01:05:34,500 --> 01:05:47,730
+you
+
+1127
+01:05:47,730 --> 01:05:52,699
+you can do something
+
+1128
+01:05:52,699 --> 01:05:54,699
+you can
+
+1129
+01:05:54,699 --> 01:05:56,900
+but
+
+1130
+01:05:56,900 --> 01:05:58,900
+if we are happy
+
+1131
+01:05:58,900 --> 01:06:00,900
+would you be happy?
+
+1132
+01:06:00,900 --> 01:06:02,900
+yes
+
+1133
+01:06:02,900 --> 01:06:04,900
+because
+
+1134
+01:06:04,900 --> 01:06:06,900
+we can be
+
+1135
+01:06:06,900 --> 01:06:08,900
+happy
+
+1136
+01:06:08,900 --> 01:06:10,900
+so
+
+1137
+01:06:10,900 --> 01:06:12,900
+I just
+
+1138
+01:06:12,900 --> 01:06:14,900
+you put
+
+1139
+01:06:14,900 --> 01:06:16,900
+5
+
+1140
+01:06:16,900 --> 01:06:18,989
+you know
+
+1141
+01:06:18,989 --> 01:06:21,059
+you put
+
+1142
+01:06:21,059 --> 01:06:23,059
+you put
+
+1143
+01:06:57,949 --> 01:07:00,949
+I think it is closed inside a lot.
+
+1144
+01:07:00,949 --> 01:07:02,949
+Yes, in America.
+
+1145
+01:07:02,949 --> 01:07:05,949
+Yes, there is a small thing in the world.
+
+1146
+01:07:05,949 --> 01:07:08,079
+There is a lot of children.
+
+1147
+01:07:08,079 --> 01:07:12,079
+Those who go to America don't have to be very mental anyway.
+
+1148
+01:07:12,079 --> 01:07:14,079
+I have a few friends.
+
+1149
+01:07:14,079 --> 01:07:18,079
+Even one of them left the doctor.
+
+1150
+01:07:18,079 --> 01:07:20,079
+No, I don't think so.
+
+1151
+01:07:20,079 --> 01:07:22,690
+Don't you get hurt?
+
+1152
+01:07:22,690 --> 01:07:25,840
+I don't get hurt very much.
+
+1153
+01:07:25,840 --> 01:07:29,840
+If you don't feel comfortable, you will get hurt.
+
+1154
+01:07:29,840 --> 01:07:34,219
+If you don't get hurt, you will die.
+
+1155
+01:07:34,219 --> 01:07:36,219
+You have no hope.
+
+1156
+01:07:36,219 --> 01:07:39,219
+If you don't feel comfortable, you will get hurt.
+
+1157
+01:07:39,219 --> 01:07:41,219
+You will get hurt.
+
+1158
+01:07:41,219 --> 01:07:43,219
+There is something like that.
+
+1159
+01:07:43,219 --> 01:07:47,219
+In many cases, it is uncomfortable to be in front of you.
+
+1160
+01:07:47,219 --> 01:07:49,219
+There is such a thing.
+
+1161
+01:07:49,219 --> 01:07:52,219
+If you don't feel comfortable, you will get hurt.
+
+1162
+01:07:52,219 --> 01:07:56,219
+If you don't feel comfortable, you will get hurt.
+
+1163
+01:07:56,219 --> 01:08:00,800
+There is nothing like that.
+
+1164
+01:08:00,800 --> 01:08:05,659
+That's why I have a few friends.
+
+1165
+01:08:05,659 --> 01:08:07,659
+I have a few friends.
+
+1166
+01:08:07,659 --> 01:08:09,780
+I have a few friends.
+
+1167
+01:08:09,780 --> 01:08:11,980
+I have a few friends.
+
+1168
+01:08:11,980 --> 01:08:13,980
+I have a few friends.
+
+1169
+01:08:13,980 --> 01:08:15,980
+I have a few friends.
+
+1170
+01:08:15,980 --> 01:08:17,979
+I have a few friends.
+
+1171
+01:08:17,979 --> 01:08:21,170
+I don't know how many people I have met.
+
+1172
+01:08:21,170 --> 01:08:24,170
+I don't know how many people I have met.
+
+1173
+01:08:25,170 --> 01:08:27,680
+I don't know.
+
+1174
+01:08:27,680 --> 01:08:29,680
+I live in America.
+
+1175
+01:08:29,680 --> 01:08:31,680
+I live in a place like that.
+
+1176
+01:08:31,680 --> 01:08:34,680
+You are gone for a year or two.
+
+1177
+01:08:34,680 --> 01:08:39,680
+I think this is the place I will be going to later.
+
+1178
+01:08:39,680 --> 01:08:41,680
+You are right.
+
+1179
+01:08:41,680 --> 01:08:43,680
+I have a baby.
+
+1180
+01:08:43,680 --> 01:08:45,680
+I have a child.
+
+1181
+01:08:45,680 --> 01:08:47,680
+I have a child.
+
+1182
+01:08:47,680 --> 01:08:54,060
+You have a friend who will watch a movie in the US.
+
+1183
+01:08:54,060 --> 01:09:04,210
+He will say he is意 cela.
+
+1184
+01:09:04,210 --> 01:09:06,210
+I have a child.
+
+1185
+01:09:06,210 --> 01:09:09,210
+I have a child.
+
+1186
+01:09:10,210 --> 01:09:14,270
+A friend of mine day close to me.
+
+1187
+01:09:14,270 --> 01:09:15,270
+...
+
+1188
+01:09:15,270 --> 01:09:17,270
+If you take it out, it's the same.
+
+1189
+01:09:17,270 --> 01:09:19,270
+Is it right?
+
+1190
+01:09:19,270 --> 01:09:21,270
+Yes, it's right.
+
+1191
+01:09:21,270 --> 01:09:23,270
+If you take it out, it's the same.
+
+1192
+01:09:23,270 --> 01:09:25,590
+Yes, it's the same.
+
+1193
+01:09:25,590 --> 01:09:27,720
+This is it.
+
+1194
+01:09:27,720 --> 01:09:38,090
+I'm already here to the left of the cedar trees.
+
+1195
+01:09:38,090 --> 01:09:40,729
+I'll go back a little.
+
+1196
+01:09:40,729 --> 01:09:42,789
+Yes, it's there.
+
+1197
+01:09:42,789 --> 01:09:46,789
+I've just come here to the place where I'm standing now.
+
+1198
+01:09:46,789 --> 01:09:50,789
+I'd like to take a look at the next ones.
+
+1199
+01:09:50,789 --> 01:09:52,789
+I don't like these ones.
+
+1200
+01:09:52,789 --> 01:09:54,789
+I don't like these ones.
+
+1201
+01:09:54,789 --> 01:09:56,789
+They're like this.
+
+1202
+01:09:56,789 --> 01:09:58,789
+They're already there.
+
+1203
+01:09:58,789 --> 01:10:02,979
+After this, I think they're after 38.
+
+1204
+01:10:02,979 --> 01:10:04,979
+I think they're after 38.
+
+1205
+01:10:04,979 --> 01:10:06,979
+Because these are the trees.
+
+1206
+01:10:06,979 --> 01:10:08,979
+These are the trees.
+
+1207
+01:10:08,979 --> 01:10:13,659
+This is a stochastic area.
+
+1208
+01:10:13,659 --> 01:10:15,659
+Yes, I think it's like this.
+
+1209
+01:10:15,659 --> 01:10:17,659
+I think it's like this.
+
+1210
+01:10:17,659 --> 01:10:19,659
+By the way,
+
+1211
+01:10:19,659 --> 01:10:30,470
+I think it's a different area.
+
+1212
+01:10:30,470 --> 01:10:38,970
+It's a different area.
+
+1213
+01:10:38,970 --> 01:10:40,970
+It's a different area.
+
+1214
+01:10:40,970 --> 01:10:44,970
+This is where I'm standing now.
+
+1215
+01:10:44,970 --> 01:10:49,000
+This is the cedar tree.
+
+1216
+01:10:49,000 --> 01:10:52,630
+It's very beautiful.
+
+1217
+01:10:52,630 --> 01:10:54,630
+It's beautiful.
+
+1218
+01:10:54,630 --> 01:10:57,180
+It's beautiful.
+
+1219
+01:10:57,180 --> 01:10:59,180
+It's beautiful.
+
+1220
+01:10:59,180 --> 01:11:02,939
+It's beautiful.
+
+1221
+01:11:02,939 --> 01:11:04,939
+It's beautiful.
+
+1222
+01:11:04,939 --> 01:11:06,939
+It's beautiful.
+
+1223
+01:11:06,939 --> 01:11:08,939
+It's beautiful.
+
+1224
+01:11:08,939 --> 01:11:10,939
+It's beautiful.
+
+1225
+01:11:10,939 --> 01:11:12,939
+It's beautiful.
+
+1226
+01:11:12,939 --> 01:11:14,939
+It's beautiful.
+
+1227
+01:11:14,939 --> 01:11:16,939
+But,
+
+1228
+01:11:16,939 --> 01:11:19,380
+I think
+
+1229
+01:11:19,380 --> 01:11:24,619
+in the future,
+
+1230
+01:11:24,619 --> 01:11:28,710
+Of course, I'll wait for your time to come.
+
+1231
+01:11:28,710 --> 01:11:30,810
+I'll wait.
+
+1232
+01:11:30,810 --> 01:11:32,810
+After that,
+
+1233
+01:11:32,810 --> 01:11:41,899
+The energy is actually very high in the head.
+
+1234
+01:11:41,899 --> 01:11:50,569
+But this is not the case with any of the subjects.
+
+1235
+01:11:50,569 --> 01:11:56,489
+In my opinion, it is not the case with any of the subjects.
+
+1236
+01:11:56,489 --> 01:12:02,380
+It is not the case with any of the subjects.
+
+1237
+01:12:02,380 --> 01:12:09,869
+Because we have to deal with real cases.
+
+1238
+01:12:09,869 --> 01:12:12,939
+It is not the case with any of the subjects.
+
+1239
+01:12:12,939 --> 01:12:16,260
+It is not the case with any of the subjects.
+
+1240
+01:12:16,260 --> 01:12:21,289
+For example, in the case of AXA, real cases are very high.
+
+1241
+01:12:21,289 --> 01:12:27,630
+For example, they are not related to any of the subjects in Turkey.
+
+1242
+01:12:27,630 --> 01:12:32,630
+Of course, they are related to the English, the Turkish, all kinds of things.
+
+1243
+01:12:32,630 --> 01:12:37,630
+But when it comes to modeling, when it comes to protection,
+
+1244
+01:12:37,630 --> 01:12:40,789
+they are not related to any of the subjects.
+
+1245
+01:12:40,789 --> 01:12:42,789
+They are related to the real cases.
+
+1246
+01:12:42,789 --> 01:12:46,020
+But in the case of real cases, they are not related to any of the subjects.
+
+1247
+01:12:46,020 --> 01:12:49,020
+They are related to the English, the Turkish, all kinds of things.
+
+1248
+01:12:49,020 --> 01:12:55,750
+For example, when a man comes to a place,
+
+1249
+01:12:55,750 --> 01:12:59,850
+he is not related to any of the subjects.
+
+1250
+01:12:59,850 --> 01:13:06,170
+At first, he said that he would not be able to run,
+
+1251
+01:13:06,170 --> 01:13:09,170
+but he said that he would not be able to run.
+
+1252
+01:13:09,170 --> 01:13:13,739
+For example, he says that he would not be able to run.
+
+1253
+01:13:13,739 --> 01:13:18,739
+I don't like that he Clarifies it.
+
+1254
+01:13:18,739 --> 01:13:20,739
+If I am to be honest with you,
+
+1255
+01:13:20,739 --> 01:13:25,699
+for the sake of fashioned issues,
+
+1256
+01:13:25,699 --> 01:13:30,600
+when it comes to fieldwork,
+
+1257
+01:13:30,600 --> 01:13:35,789
+I tend to think like this,
+
+1258
+01:13:35,789 --> 01:13:40,779
+on that fieldwork work I have a problem
+
+1259
+01:13:40,779 --> 01:13:57,529
+If the problem comes to us, then they will be more anxious, and we will be at the point where we are serving the purpose.
+
+1260
+01:13:57,529 --> 01:13:59,529
+Yes, we are serving the purpose.
+
+1261
+01:13:59,529 --> 01:14:08,670
+Here, for example, I am having a problem because I am trying to avoid it.
+
+1262
+01:14:08,670 --> 01:14:12,670
+Maybe you can say that I am having a problem.
+
+1263
+01:14:12,670 --> 01:14:19,670
+But in the cold, if I do something like this, I smell a lot of things.
+
+1264
+01:14:19,670 --> 01:14:21,670
+Injury, cold.
+
+1265
+01:14:21,670 --> 01:14:23,670
+Injury, cold.
+
+1266
+01:14:23,670 --> 01:14:24,670
+Injury, cold.
+
+1267
+01:14:24,670 --> 01:14:29,800
+In these people, they say that this is not possible.
+
+1268
+01:14:29,800 --> 01:14:34,539
+In other words, we are living in the cold of the east.
+
+1269
+01:14:44,539 --> 01:14:45,539
+Yes.
+
+1270
+01:14:47,539 --> 01:14:50,300
+We will record it.
+
+1271
+01:15:09,739 --> 01:15:20,130
+It's not possible.
+
+1272
+01:15:20,130 --> 01:15:22,130
+Yes, you did it.
+
+1273
+01:15:22,130 --> 01:15:42,430
+Yes, yes.
+
+1274
+01:15:42,430 --> 01:15:45,430
+This means that I am different now.
+
+1275
+01:15:45,430 --> 01:15:52,750
+If we have a problem, we will do something.
+
+1276
+01:15:52,750 --> 01:15:59,329
+At the end of the day, this is our free will.
+
+1277
+01:15:59,329 --> 01:16:03,029
+Where do we give feedback?
+
+1278
+01:16:03,029 --> 01:16:05,420
+We already know the person.
+
+1279
+01:16:05,420 --> 01:16:08,420
+The person's side is something like this.
+
+1280
+01:16:08,420 --> 01:16:11,420
+I don't know if it's on the side.
+
+1281
+01:16:12,420 --> 01:16:18,420
+I really don't understand our results, but I want to see it.
+
+1282
+01:16:18,420 --> 01:16:21,640
+I want to see it.
+
+1283
+01:16:21,640 --> 01:16:27,130
+Yes, but you said it.
+
+1284
+01:16:27,130 --> 01:16:29,130
+This place is very...
+
+1285
+01:16:29,130 --> 01:16:32,319
+We can't fit our door in here after this.
+
+1286
+01:16:32,319 --> 01:16:37,039
+Let's be in the result.
+
+1287
+01:16:37,039 --> 01:16:38,039
+We start at 10 o'clock.
+
+1288
+01:16:38,039 --> 01:16:39,039
+Then we go here.
+
+1289
+01:16:39,039 --> 01:16:40,039
+Then...
+
+1290
+01:16:40,039 --> 01:16:44,039
+But I think this is a very serious thing.
+
+1291
+01:16:44,039 --> 01:16:46,739
+I'm telling you.
+
+1292
+01:16:46,739 --> 01:16:48,739
+I'm not doing it secretly.
+
+1293
+01:16:48,739 --> 01:16:50,739
+I'm telling you the same thing.
+
+1294
+01:16:50,739 --> 01:16:53,470
+I'm telling you in the middle.
+
+1295
+01:16:53,470 --> 01:16:56,079
+It's like this.
+
+1296
+01:16:56,079 --> 01:17:01,270
+In this sense, which can be thought very wide,
+
+1297
+01:17:01,270 --> 01:17:03,340
+it's for people.
+
+1298
+01:17:03,340 --> 01:17:05,979
+It's very wide.
+
+1299
+01:17:05,979 --> 01:17:07,970
+It's very wide.
+
+1300
+01:17:07,970 --> 01:17:08,970
+Let's see.
+
+1301
+01:17:08,970 --> 01:17:10,770
+Something will happen.
+
+1302
+01:17:10,770 --> 01:17:11,770
+It won't happen.
+
+1303
+01:17:11,770 --> 01:17:13,770
+It will happen.
+
+1304
+01:17:13,770 --> 01:17:14,770
+What is this?
+
+1305
+01:17:14,770 --> 01:17:17,789
+This is very scary.
+
+1306
+01:17:17,789 --> 01:17:18,789
+It's like this.
+
+1307
+01:17:18,789 --> 01:17:34,989
+It's like this.
+

@@ -814,5 +814,16 @@
     "transcribed_at": "2026-11-18T04:51:16",
     "uploaded.txt": true,
     "uploaded.srt": true
+  },
+  "16HoaMGynyN2STMueSz38uwVvcEvbOhXz": {
+    "status": "transcribed",
+    "source": "Ses 261117_140002 - MunichRe Kristian & Marco.m4a",
+    "category": "İş",
+    "txt": "outputs/İş/Ses 261117_140002 - MunichRe Kristian & Marco.txt",
+    "duration": "1:17:35",
+    "language": "en",
+    "transcribed_at": "2026-11-18T05:03:29",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
