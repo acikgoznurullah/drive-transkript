@@ -1,4740 +1,4660 @@
 1
-00:00:00,000 --> 00:00:09,400
-sonra teknik prim kısmına bağladım çünkü bu sonuçları Balkır Bey'e de hiç göstermemiştik zaten kümül değişimini şöyle büyüteyim ben
+00:00:00,000 --> 00:00:03,160
+Sonra teknik prim kısmına bağladım.
 
 2
-00:00:09,400 --> 00:00:13,679
-tabi biraz formatı değiştirdim sizin sunduğunuz gibi ama
+00:00:03,160 --> 00:00:07,860
+Çünkü bu sonuçları Balkır Bey'e de hiç göstermemiştik zaten kümül değişimini.
 
 3
-00:00:13,679 --> 00:00:23,239
-burada Marmara bölgesi ve İstanbul paralellik gösteriyordu hocam hani hem Marmara'nın büyüklüğünü hem de İstanbul için ne kadar büyük bir payı olduğunu burada
+00:00:07,860 --> 00:00:09,779
+Şöyle büyüteyim ben.
 
 4
-00:00:23,559 --> 00:00:26,679
-rakamlarla göstereyim istedim yani yarısı kadar neredeyse
+00:00:09,779 --> 00:00:13,580
+Tabi biraz formatı değiştirdim sizin sunduğunuz gibi ama...
 
 5
-00:00:27,989 --> 00:00:35,350
-sonrasında şu figürü de kullanayım dedim hocam çünkü şeyi çok net gösteriyor yani İstanbul'u burada örnek olarak verdim
+00:00:13,580 --> 00:00:14,980
+Ben bilir miyim ki?
 
 6
-00:00:35,850 --> 00:00:44,149
-2020 böyle 2026 yaptığı için şey yani hani birden küçük olanlar seneler içerisinde payını arttırdı anlamına geliyor
+00:00:14,980 --> 00:00:18,420
+Burada Marmara bölgesi ve İstanbul paralellik gösteriyordu hocam.
 
 7
-00:00:44,469 --> 00:00:51,229
-hani bu da mesela 3 kat altına baktığımızda 2020'de şöyle
+00:00:18,420 --> 00:00:26,859
+Hani hem Marmara'nın büyüklüğünü hem de İstanbul için ne kadar büyük bir payı olduğunu burada rakamlarla göstereyim istedim yani yarısı kadar neredeyse.
 
 8
-00:00:52,070 --> 00:01:03,810
-low rice yani kümürle daha çok payı var demek oluyor gittikçe bu yerine yüksek katla orta katlı binalara verdiği anlamına geliyor
+00:00:27,890 --> 00:00:35,490
+Sonrasında şu figürü de kullanayım dedim hocam çünkü şey çok net gösteriyor yani İstanbul'u burada örnek olarak verdim.
 
 9
-00:01:03,810 --> 00:01:12,209
-mesela 2000 ve sonrasına baktığımızda da bu sefer özellikle mid rice ve high rice'da şey görüyoruz birinin altında bu da yani kümürde
+00:00:35,490 --> 00:00:44,289
+2020 böyle 2026 yaptığı için şey yani yani birden küçük olanlar seneler içerisinde payını arttırdı anlamına geliyor.
 
 10
-00:01:12,930 --> 00:01:23,170
-pasta dilimin de ağırlığını arttırdığını gösteriyor aslında bunları bir dakika şunu bir tamamlayayım mı sen 2000 2000 bandına bakıyorum tamam mı
+00:00:44,289 --> 00:00:57,070
+Hani bu da mesela üç kat altına baktığımızda 2020'de şöyle low rise yani kümülle daha çok.
 
 11
-00:01:23,170 --> 00:01:33,170
-sen şey yaptın şey diyorsun ki ben 2020 keşke 2026 böyle 2020 yasancı daha iyi düşündüm şey oluyor çünkü tersi anlam çıkıyor
+00:00:57,070 --> 00:01:03,829
+Payı var demek oluyor. Gittikçe bu yerini yüksek katlı, orta katlı binalara verdiği anlamına geliyor.
 
 12
-00:01:33,890 --> 00:01:44,290
-abi ben seni de olsam bunu bir öyle yaparım ya bu artış burada kötü tam tersi o az azadı şeyi tamam mı hocam ben onu şey yaparım
+00:01:03,829 --> 00:01:10,390
+Mesela 2000 ve sonrasına baktığımızda da bu sefer özellikle mid-rise, high-rise de şey görüyoruz.
 
 13
-00:01:44,290 --> 00:01:58,769
-bala bunu böyle yapmak daha iyi sen şey diyorsun 4 8 kat artmış durumda 2 şey yüksek katlar artmış durumda tam tersi 3 bilmem 3 kata altı baya bir azalmış durum
+00:01:10,390 --> 00:01:16,150
+Birinin altında bu da yani kümülte pasta diliminde ağırlığını arttırdığını gösteriyor aslında bunları.
 
 14
-00:01:58,769 --> 00:02:11,080
-evet hocam tamam böyle şey yapmak lazım tamam ben onu reverse çevireceğim figürler sormamız şurada da mesela 3 kata baktığım zaman evet
+00:01:16,150 --> 00:01:18,109
+Bir dakika abi şunu bir tamamlayayım mı sen?
 
 15
-00:02:11,080 --> 00:02:31,219
-burada da şöyle bir şey ama 80 öncesine göre 3 kat 80 80 99 2000 baktığım zaman eee ne oluyor 3 kat ve altı
+00:01:18,109 --> 00:01:23,269
+2000 bandına bakıyorum tamam mı?
 
 16
-00:02:31,860 --> 00:02:44,120
-eee tamam gideri gazalı yani evet her türlü payı şey yapıyor yani tamam anladım böyle abi şunu bir tanrı reverse çok çok daha şey olur
+00:01:23,390 --> 00:01:33,950
+Sen şey yapma. Diyorsun ki ben 2020 keşke 2026 böyle 2020'yi alsaydı daha iyi bir şey oluyor çünkü tersi anlam çıkıyor.
 
 17
-00:02:44,120 --> 00:02:53,889
-pek suçlu olarak da yazdım tabi ama gösterim haklısınız hocam eee sonra bu klasik şeye geri döndüm hocam hani normal teknik pirim konusuna
+00:01:33,950 --> 00:01:44,269
+Abi ben seni de olsam bunu böyle yaparım ya bu artış burada kötü tam tersi o azadı şeyi tamam mı hocam ben onu şey yaparım.
 
 18
-00:02:54,370 --> 00:02:58,210
-burada şey de verdim hani öncelikle istanbul'u da başlamıştık
+00:01:44,269 --> 00:01:58,549
+Bala bunu böyle yapmak daha iyi. Sen şey diyorsun 4-8 kat artmış durumda 2 yüksek katlar artmış durumda tam tersi 3 bilmem 3 kata altı baya bir azalmış durum.
 
 19
-00:02:58,210 --> 00:03:05,569
-eee istanbul'u konuşurken şey de bir vereyim istedim yıllara göre aileğinin değişimi ve dask pirim oranının değişiminin
+00:01:58,549 --> 00:02:03,900
+Evet hocam tamam böyle şey yapmak lazım.
 
 20
-00:03:05,569 --> 00:03:09,569
-öncesi 60 derece aynen siz zaten yazmıştınız onu
+00:02:03,900 --> 00:02:06,739
+Ben onu reverse çeviriyorum figürler sormamız.
 
 21
-00:03:09,569 --> 00:03:14,550
-eee sonrasında hocam sizin bir şey cümleniz vardı bu sunumunuzda
+00:02:06,739 --> 00:02:35,419
+Şurada da mesela 3 kata baktığım zaman evet burada da şöyle bir şey ama 80 öncesine göre 3 kat 80 89 2000'e baktığım zaman ne oluyor 3 kat ve altı tamam giderek azalıyor yani.
 
 22
-00:03:14,550 --> 00:03:21,909
-eee bu yıl aileğinin frekansı yüksek hani kayıp anlamında da düşük eee depremlerden oluştu
+00:02:35,419 --> 00:02:38,259
+Evet her türlü payı şey yapıyor yani.
 
 23
-00:03:22,229 --> 00:03:27,349
-gerarlandını faydalandı evet ben de orada 20 yılda 1000 yıl bir örneği hazırlıyım dedim
+00:02:39,300 --> 00:02:43,780
+Tamam anladım böyle abi şimdi bir tabi reverse çok çok daha şey olur.
 
 24
-00:03:27,349 --> 00:03:33,590
-yani ikisi de normalize hani 20 yılda baktığımızda hani nasıl haritanın aslında eee
+00:02:43,780 --> 00:02:58,389
+Tamam pek suçlu olarak da yazdım tabi ama gösterim haklısınız hocam bu klasik şeye geri döndüm hocam hani normal teknik firm konusuna burada şeyi de verdim hani öncelikle İstanbul'la başlamıştık.
 
 25
-00:03:33,590 --> 00:03:39,590
-neredeyse her yer kırmızıya yakın bir renk hani burada hasar nasıl yayılıyor aile de
+00:02:58,389 --> 00:03:07,110
+İstanbul'u konuşurken şeyi de bir vereyim istedim yıllara göre haleğinin değişimi ve Dask firm oranın değişiminin ölçüde olduğunu.
 
 26
-00:03:39,590 --> 00:03:49,219
-ama bu çok önemli abi şimdi ben bunu tam anlamadım ya 20 yıl rütör pirin için yapıyorsun sen
+00:03:07,270 --> 00:03:22,409
+Aynen siz zaten yazmıştınız onu sonrasında hocam sizin bir şey cümleniz vardı bu sunumunuzda bu yıl aileğinin frekansu yüksek hani kayıp anlamında da düşük depremlerden oluştum orada da.
 
 27
-00:03:49,620 --> 00:03:55,110
-evet hocam bu los eee tamamen hazır hocam hazır
+00:03:22,409 --> 00:03:23,689
+Gererlandın faydalandın.
 
 28
-00:03:55,110 --> 00:04:03,780
-peki aha bu hazır tamam diyorsun ki ben 20 yıl rütör pirin'teki hazırlı bir normalize
+00:03:23,689 --> 00:03:27,409
+Evet ben de orada 20 yılda 1000 yıl bir örneği hazırlıyım dedim.
 
 29
-00:04:03,780 --> 00:04:10,819
-evet ve biz de şey biliyoruz ki aileye de zaten eee sık frekansı yüksek olan depremler
+00:03:27,569 --> 00:03:36,689
+İki sene ormanızı hani 20 yılda baktığımızda hani nasıl haritanın aslında neredeyse her yer kırmızıya yakın bir renk.
 
 30
-00:04:10,819 --> 00:04:16,709
-tarafından domine edildiğini biliyoruz dostu yapsam bunda ayedeyim abi ya
+00:03:36,689 --> 00:03:49,280
+Hani burada hasar nasıl yayılıyor hale de ama bu çok önemli abi şimdi ben bunu tamamlamadım ya 20 yıl törpüriyle için yapıyorsun sen.
 
 31
-00:04:17,189 --> 00:04:23,029
-eee neyse peki tamam ben sana edeyim mi orada yani los tabi orada da hani buna benzer
+00:03:49,280 --> 00:03:58,330
+Evet hocam uluos tamamen hezırtı hocam pek bu hezırtı tamam diyorsun ki ben.
 
 32
-00:04:23,029 --> 00:04:28,800
-eee bir harita çıkacağını bekliyorum ya sonra 1000 yıl için yapmışsın yani evet bir de
+00:03:58,689 --> 00:04:04,360
+20 yıl törpüriyle hazırdı bir norma zeytin.
 
 33
-00:04:28,800 --> 00:04:33,600
-1000 yıl için yaptım hocam orada da artık eee burada büyük bir depremleri yani kuyrukta
+00:04:04,360 --> 00:04:13,120
+Evet biz de şey biliyoruz ki haleye de zaten frekansu yüksek olan depremler tarafından domine edildiğini biliyoruz.
 
 34
-00:04:33,600 --> 00:04:38,399
-dediğimiz depremlerin olan etkisine yani failere yakın olan ilçelerde çok daha
+00:04:13,120 --> 00:04:15,240
+Loz da yapsam bunda ayedeyim abi ya.
 
 35
-00:04:38,399 --> 00:04:45,459
-net görebiliyoruz yani bu şu şeylerde kalmamış yani işte bu marmara bölgesinde
+00:04:17,370 --> 00:04:19,769
+Neyse pek tamam ben sana edeyim mi.
 
 36
-00:04:45,860 --> 00:04:51,170
-trakya kısmında olan eee işte tekirdağrı ilçelerinde filan
+00:04:19,769 --> 00:04:26,180
+Loz tabi orada da hani buna benzer bir harita çıkacağını bekliyoruz.
 
 37
-00:04:51,170 --> 00:04:56,449
-hatı istanbul'un o neyde işte avcılar muvcular orada bir etkisini kaybediyor
+00:04:26,180 --> 00:04:28,180
+Ve sonra 1000 yıl için yapmışsın abi.
 
 38
-00:04:56,449 --> 00:05:03,040
-abi sebeb eee aslında şöyle normalize olduğu için oralar azalmıyor da
+00:04:28,180 --> 00:04:39,180
+Evet bir de 1000 yıl için yaptım hocam orada da artık burada büyük depremleri yani kuyrukta dediğimiz depremlerin olan etkisini faylara yakın olan ilçelerde çok daha net görebiliyoruz.
 
 39
-00:05:03,040 --> 00:05:08,560
-şeyler çok yani şu koca eli bölgesi çok arttığı için aradaki makas açılıyor
+00:04:39,180 --> 00:04:51,310
+Yani bu şu şeylerde kalmamış abi işte bu Marmara bölgesinde Kuzey Trakya kısmında olan işte Tekirdağ ilçelerinde filan.
 
 40
-00:05:08,560 --> 00:05:12,720
-oralar eee daha düşük şeyde kalıyor aralıkta kalıyor
+00:04:51,310 --> 00:04:55,310
+Hatta İstanbul'un neydi işte avcılar, muvcular.
 
 41
-00:05:13,600 --> 00:05:18,639
-o zaman oradan şöyle bir şey şöyle bir şey söylemek lazım bizim tehlike modelimiz
+00:04:55,310 --> 00:04:58,980
+Orada bir etkisini kaybediyor abi sebeb.
 
 42
-00:05:18,639 --> 00:05:27,600
-yani koca eli tarafı artık eee koca eli tarafı şey kadar tehlikeli değil artık eee
+00:04:58,980 --> 00:05:08,980
+Aslında şöyle normalize olduğu için oralar azalmıyor da şeyler çok yani şu kocaeli bölgesi çok arttığı için aradaki makas açılıyor.
 
 43
-00:05:27,600 --> 00:05:34,660
-körfez ve kuzey trakya kadar tehlikeli çünkü orada deprem oldu ya
+00:05:08,980 --> 00:05:12,980
+Oralar daha düşük şeyde kalıyor aralıkta kalıyor.
 
 44
-00:05:34,660 --> 00:05:39,459
-hocam bizim modelimiz şimdi tabi şey şey olmadığı için
+00:05:12,980 --> 00:05:17,139
+Ama o zaman oradan şöyle bir şey söylemek lazım.
 
 45
-00:05:39,459 --> 00:05:42,100
-tabirlerimiz olmadığı için yani evet
+00:05:17,139 --> 00:05:25,139
+Bizim tehlike modelimiz yani kocaeli tarafı artık kocaeli tarafı şey kadar tehlikeli değil artık.
 
 46
-00:05:42,100 --> 00:05:48,819
-peki abi tamam peki buradan neyi söylüyordur
+00:05:25,139 --> 00:05:32,959
+Körfez ve Kuzey Trakya kadar tehlikeli.
 
 47
-00:05:49,720 --> 00:05:55,240
-yani burada demek istediğimiz aile eee yani çok geniş çatlı yani bir sadece bir avaraj
+00:05:32,959 --> 00:05:34,959
+Çünkü orada deprem oldu ya.
 
 48
-00:05:55,240 --> 00:05:59,240
-değer verirken bize yer kuyruk duyarlı yani uçlardaki büyük depremlere dikkatli
+00:05:34,959 --> 00:05:38,759
+Ama hocam bizim modelimiz şimdi tabi şey şey olmadığı için.
 
 49
-00:05:59,240 --> 00:06:02,600
-adamın modeli yaptığımızda daha çok ilçe bazılık hani daha
+00:05:38,759 --> 00:05:40,759
+Boğaz sahnede değil mi?
 
 50
-00:06:02,600 --> 00:06:06,680
-daha lokalize etkileyen sonuçlar görebiliriz urgusu yapıyorum
+00:05:40,759 --> 00:05:45,959
+Yani evet.
 
 51
-00:06:06,680 --> 00:06:10,600
-aslında hani burada tuvarın biraz daha eee neden kuyruk takip hasarı
+00:05:45,959 --> 00:05:46,959
+Peki abi tamam.
 
 52
-00:06:10,600 --> 00:06:15,000
-dikkatli avamız gerektiğine hangi illerde daha çok etkili olacağını
+00:05:46,959 --> 00:05:48,959
+Peki burada neyi söylüyoruz?
 
 53
-00:06:15,560 --> 00:06:20,360
-böyle gösteren bir şey bir geçişi olarak düşündüm hocam burayı
+00:05:48,959 --> 00:05:54,220
+Yani burada demek istediğimiz hale yani çok geniş çatlı.
 
 54
-00:06:20,360 --> 00:06:25,120
-zor bir geçişe yani sen şey diyorsun
+00:05:54,220 --> 00:05:57,220
+Yani sadece bir avaraj değer verirken bize yer kuyruk duyar.
 
 55
-00:06:25,120 --> 00:06:32,399
-şurada yirmi yıl rütüven periyette eee her taraf kırmızı
+00:05:57,220 --> 00:06:02,220
+Yani uçlardaki büyük depremlere dikkate alan modeli yaptığımızda daha çok ilçe bazılık.
 
 56
-00:06:32,399 --> 00:06:37,649
-beli bir bazı değer var ve ortalama bir değer veriyor
+00:06:02,220 --> 00:06:06,220
+Hani daha daha lokalize etkileyen sonuçlar görebiliriz.
 
 57
-00:06:37,649 --> 00:06:40,370
-peki her taraf kırmızı olunca ne oluyor
+00:06:06,220 --> 00:06:07,220
+Urguz yapıyorum aslında.
 
 58
-00:06:40,370 --> 00:06:45,889
-yani her tarafta eee yer daha doğrusu frekansı düşük pardon
+00:06:07,220 --> 00:06:13,220
+Hani burada tuvarın biraz daha neden kuyruktaki hasarı dikkate almamız gerektiğine.
 
 59
-00:06:45,970 --> 00:06:49,490
-frekansı sık sık depremler
+00:06:13,220 --> 00:06:15,220
+Hangilerde daha çok etkili olacağını.
 
 60
-00:06:49,490 --> 00:06:52,209
-her tarafta etkin mi demeye çalışıyor
+00:06:15,220 --> 00:06:20,220
+Böyle gösteren bir şey, bir geçişe olarak düşündüm hocam orayı.
 
 61
-00:06:52,209 --> 00:06:56,370
-evet aslında hocam bazı bir tehlike var bu bölgede zaten depremsel bir bölge
+00:06:20,220 --> 00:06:23,779
+Zor bir geçişe.
 
 62
-00:06:56,370 --> 00:07:00,449
-marmara bölgesi ve bu bas tehlike aslında ilçe bazını çok ayrışmıyor
+00:06:23,779 --> 00:06:24,779
+Yani sen şey diyorsun.
 
 63
-00:07:00,449 --> 00:07:07,439
-hıh peki ama şey diyorsun 1000 yıl rütüven periyede çıkınca
+00:06:24,779 --> 00:06:32,899
+Şurada 20 yıl ritüel periyette her taraf kırmızı.
 
 64
-00:07:07,439 --> 00:07:12,000
-belli yerler bir anda kendini daha fazla göstermeye başkanım
+00:06:32,899 --> 00:06:37,670
+Ben bir bazı değer var ve ortalama bir değer veriyor.
 
 65
-00:07:12,000 --> 00:07:15,519
-evet ve bu iller gerçekten de gelecekti büyük bir hasarla
+00:06:37,670 --> 00:06:40,829
+Peki her taraf kırmızı olunca ne oluyor?
 
 66
-00:07:16,480 --> 00:07:19,680
-o konuda da daha yüksek pirim önerisi bu illerde
+00:06:40,829 --> 00:06:45,829
+Yani her tarafta eğer daha doğrusu frekansı düşük pardon.
 
 67
-00:07:19,680 --> 00:07:21,839
-yani beynazdan bu yaptığımız çalışmada
+00:06:45,829 --> 00:06:49,829
+Frekansı sık sık depremler.
 
 68
-00:07:21,839 --> 00:07:26,230
-bu hani buna bizi sevk edecek şeklinde bir fikir
+00:06:49,829 --> 00:06:51,829
+Her tarafta etkin mi demeye çalışıyor?
 
 69
-00:07:26,230 --> 00:07:29,029
-anladım bunu bir de los için yapar mısın abi
+00:06:51,829 --> 00:06:52,829
+Evet aslında hocam.
 
 70
-00:07:29,029 --> 00:07:33,110
-eee los için hocam olur
+00:06:52,829 --> 00:06:54,829
+Bazı bir tehlike var bu bölgede.
 
 71
-00:07:33,110 --> 00:07:38,500
-o ip sonuçları üzerinde
+00:06:54,829 --> 00:07:01,470
+Zaten depremsel bir marmara bölgesi ve bu bas tehlike aslında ilçe bazını çok ayrışmıyor.
 
 72
-00:07:38,500 --> 00:07:41,120
-o ip bir 10 yıl 10 yıl yapar
+00:07:01,470 --> 00:07:03,620
+Hı.
 
 73
-00:07:41,120 --> 00:07:46,480
-ama eee şöyle ilçe bazlı şu an son durum neydi verebiliyor muyduk
+00:07:03,620 --> 00:07:04,620
+Peki.
 
 74
-00:07:46,480 --> 00:07:50,000
-vallahi hatırlayamadım bir notu alalım da hocam
+00:07:04,620 --> 00:07:05,620
+Ama şey diyorsun.
 
 75
-00:07:50,000 --> 00:07:55,040
-şey bir şey o son durum neydi vallahi aklımda diye düşündüm
+00:07:05,620 --> 00:07:11,620
+1000 yıl ritüel periyede çıkınca belli yerler bir anda kendini daha fazla göstermeye başlıyor.
 
 76
-00:07:55,040 --> 00:08:08,610
-sonucu 1000 baslı yine 10 yıl ve 1000 basalı bir kerte oluşturuyor
+00:07:11,620 --> 00:07:14,620
+Evet ve bu iller gerçekten de gelecekti.
 
 77
-00:08:08,610 --> 00:08:10,899
-iyi olur yani
+00:07:14,620 --> 00:07:16,620
+Büyük bir hasarla karşılaşabilir.
 
 78
-00:08:10,899 --> 00:08:19,730
-abi bu arada sizinle tofucuca bir görüşme yapacağım da biraz daha beklemek istiyorum
+00:07:16,620 --> 00:07:19,620
+O konuda da daha yüksek pirmen önerisi bu illerde.
 
 79
-00:08:19,730 --> 00:08:23,889
-Nurula sen o bizim aldığımız noktaları hatırlıyorsun değil mi
+00:07:19,620 --> 00:07:26,170
+Yani beynazdan bu yaptığımız çalışma da buna bizi sevk edecek şeklilerine bir fikir.
 
 80
-00:08:23,889 --> 00:08:27,009
-işte bu granoşunda
+00:07:26,170 --> 00:07:29,170
+Anladım bunu bir de los için yapar mısın abi?
 
 81
-00:08:27,009 --> 00:08:35,700
-spekik koru çek korudaydı
+00:07:29,170 --> 00:07:34,279
+Eee los için hocam olur.
 
 82
-00:08:35,700 --> 00:08:39,620
-loslarda filan hatırlıyor musun şu işte ilçe il
+00:07:34,279 --> 00:07:38,279
+O ip sonuçları üzerinde.
 
 83
-00:08:39,620 --> 00:08:41,620
-evet evet hocam
+00:07:38,279 --> 00:07:39,279
+O ip bir 10 yıl.
 
 84
-00:08:41,620 --> 00:08:43,620
-bunları hatırlıyorsun değil mi
+00:07:39,279 --> 00:07:40,279
+10 yıl yapar.
 
 85
-00:08:43,620 --> 00:08:45,620
-noktayı duruyor yani
+00:07:40,279 --> 00:07:45,819
+Ama şöyle ilçe bazlı şu an son durum neydi verebiliyor muyduk?
 
 86
-00:08:45,620 --> 00:08:47,679
-noktalarında var tamam peki okey
+00:07:45,819 --> 00:07:47,819
+Valla hatırlayamadım.
 
 87
-00:08:47,679 --> 00:08:51,379
-peki abi
+00:07:47,819 --> 00:07:49,819
+Bir not alalım mı hocam?
 
 88
-00:08:51,379 --> 00:08:54,240
-son sonrasında hocam
+00:07:49,819 --> 00:07:50,819
+Şey bir sorun.
 
 89
-00:08:54,240 --> 00:08:56,240
-yine şeyle devam ediyorum
+00:07:50,819 --> 00:07:52,819
+Yani şey o son durum neydi valla?
 
 90
-00:08:56,240 --> 00:09:00,149
-bu sefer şimdi burada marmararitası verdiği biçim
+00:07:52,819 --> 00:07:54,819
+Bu şey aklımda diye düşünüyorum.
 
 91
-00:09:00,149 --> 00:09:02,789
-marmararitasındaki diğer aileleri de bir göstereyim
+00:07:54,819 --> 00:08:08,790
+Soğucum inbazlı yine 10 yıl ve bir basalık hikayete oluşturuyor.
 
 92
-00:09:03,110 --> 00:09:05,110
-bu period çalışmasını girmiş yani
+00:08:08,790 --> 00:08:10,879
+İyi olur yani.
 
 93
-00:09:05,110 --> 00:09:07,110
-hani burada bir değişiklik olmadığını aslında
+00:08:10,879 --> 00:08:18,579
+Abi bu arada sizinle topucuca bir görüşme yapacağım da biraz daha beklemek istiyorum.
 
 94
-00:09:07,110 --> 00:09:09,110
-kümürlük kümürlükdeki değişimi
+00:08:18,579 --> 00:08:23,629
+Nurullah sen o bizim aldığımız noktaları hatırlıyorsun değil mi?
 
 95
-00:09:09,110 --> 00:09:11,110
-aile üzerine bir değişimin olmadığını
+00:08:23,629 --> 00:08:37,279
+İşte bu Grand Ocean'da Special Coraladil Los'larda filan hatırlıyor musun?
 
 96
-00:09:11,110 --> 00:09:13,139
-bir söylenebilir
+00:08:37,279 --> 00:08:40,279
+Şu ilçe il hikayeti.
 
 97
-00:09:13,139 --> 00:09:15,139
-buradayın değişim yüzleri de yazıyor
+00:08:40,279 --> 00:08:41,279
+Evet evet hocam.
 
 98
-00:09:15,139 --> 00:09:17,139
-zaten oldukça
+00:08:41,279 --> 00:08:43,279
+Bunları hatırlıyorsun değil mi?
 
 99
-00:09:17,139 --> 00:09:20,159
-sınırlı değişimler var
+00:08:43,279 --> 00:08:46,279
+Notlarında var tamam.
 
 100
-00:09:20,159 --> 00:09:22,159
-sonrasında bu sizin gözlemleriniz zaten hocam
+00:08:46,279 --> 00:08:47,340
+Peki okey.
 
 101
-00:09:22,159 --> 00:09:24,159
-bu sayfayı aslında
+00:08:47,340 --> 00:08:51,039
+Peki abi.
 
 102
-00:09:24,159 --> 00:09:26,159
-şey yaptım
+00:08:51,039 --> 00:08:56,419
+Son sonrasında hocam yine şeyle devam ediyorum.
 
 103
-00:09:26,159 --> 00:09:28,259
-evet
+00:08:56,419 --> 00:09:02,289
+Bu sefer şimdi burada marmararitası verdiğim için marmararitasındaki diğer aileleri de bir gösteriyim istiyorum.
 
 104
-00:09:28,259 --> 00:09:30,259
-bu ilk sununda da vermiştik hocam
+00:09:02,289 --> 00:09:05,289
+Azıcık periyot çalışmasını girmiş yani.
 
 105
-00:09:30,259 --> 00:09:32,259
-ama hani
+00:09:05,289 --> 00:09:07,289
+Hani burada bir değişiklik olmadığını aslında kümürlüğü.
 
 106
-00:09:32,259 --> 00:09:34,259
-kanat olması açısından
+00:09:07,289 --> 00:09:08,289
+Kümürlüğe ki değişimi.
 
 107
-00:09:34,259 --> 00:09:36,259
-hatırlatıcı
+00:09:08,289 --> 00:09:13,320
+Aile üzerine bir değişimin olmadığını bir söylenebilir.
 
 108
-00:09:36,259 --> 00:09:38,259
-duskın pirim oranlarını
+00:09:13,320 --> 00:09:15,320
+Buradayız değişim yüzleri de yazıyor zaten.
 
 109
-00:09:38,259 --> 00:09:40,259
-ve bu pirimleri nasıl farklılaştın
+00:09:15,320 --> 00:09:18,320
+Oldukça sınırlı değişimler var.
 
 110
-00:09:40,259 --> 00:09:42,259
-yani binanayı kat sayısı veya
+00:09:18,320 --> 00:09:22,340
+Sonrasında bu sizin gözlemleriniz zaten hocam.
 
 111
-00:09:42,259 --> 00:09:44,259
-yaşı üzerinden nasıl değiştiğini
+00:09:22,340 --> 00:09:24,340
+Bu sayfayı aslında şey yaptım.
 
 112
-00:09:44,259 --> 00:09:50,549
-tekrardan koyduğumuzunla
+00:09:24,340 --> 00:09:25,340
+Hop hop hop.
 
 113
-00:09:50,549 --> 00:09:52,549
-sonrasında yine duskın
+00:09:25,340 --> 00:09:26,340
+Devam edin.
 
 114
-00:09:52,549 --> 00:09:55,090
-bu sene başındaki
+00:09:27,440 --> 00:09:30,440
+Sonrasında şey yani bu ilk sununda da vermiştik hocam.
 
 115
-00:09:55,090 --> 00:09:57,090
-dusk bir şey
+00:09:30,440 --> 00:09:34,440
+Ama hani tekrardan bağlantı olması açısından hatırlatıcı.
 
 116
-00:09:57,090 --> 00:09:59,090
-evet hocam ama şey yani
+00:09:34,440 --> 00:09:37,440
+Daskın prim oranlarını ve bu primleri nasıl farklılaştın.
 
 117
-00:09:59,090 --> 00:10:01,090
-şey olarak çıkartabiliriz ama
+00:09:37,440 --> 00:09:44,440
+Hani binanın kat sayısı veya yaşı üzerinden nasıl değiştiğini tekrardan koyduğumuzunla.
 
 118
-00:10:01,090 --> 00:10:03,090
-hani direkte konuya nasıl gireceğini bilemedim
+00:09:44,440 --> 00:09:54,269
+Sonrasında yine Daskın ve bu sene başındaki Dask bir şey.
 
 119
-00:10:03,090 --> 00:10:06,080
-en azından böyle sohb bir geçiş koyayım
+00:09:54,269 --> 00:09:55,269
+Ya vardı.
 
 120
-00:10:06,080 --> 00:10:08,080
-biraz şey
+00:09:55,269 --> 00:09:56,269
+Evet hocam.
 
 121
-00:10:08,080 --> 00:10:10,399
-revize ettim
+00:09:56,269 --> 00:10:00,269
+Ama şey yani şey olarak çıkartabiliriz ama hani direkt de konuya nasıl gireceğin bilemedim.
 
 122
-00:10:10,399 --> 00:10:12,399
-daha çok kelime kalabalıkları vardı
+00:10:00,269 --> 00:10:02,269
+En azından böyle sohb bir geçiş koyayım.
 
 123
-00:10:12,399 --> 00:10:14,399
-yine kalabalık bir site oldu ama
+00:10:03,269 --> 00:10:09,259
+Sonra bu susayfayı biraz şey revize ettim.
 
 124
-00:10:14,399 --> 00:10:16,399
-en azından bu nominal yüklem oranı ile
+00:10:09,259 --> 00:10:11,580
+Daha çok kelime kalabalıkları vardı.
 
 125
-00:10:16,399 --> 00:10:18,399
-ilgili neyi kastettiğimizi söyleriz diye
+00:10:11,580 --> 00:10:13,580
+Yine kalabalık bir site oldu ama.
 
 126
-00:10:18,399 --> 00:10:21,039
-düşünüyorum
+00:10:13,580 --> 00:10:18,580
+En azından bu nominal yüklem oranı ile ilgili neyi kastettiğimiz söyleriz diye düşündüm.
 
 127
-00:10:21,039 --> 00:10:23,720
-hatırlatma olmuş olur enbakır beye
+00:10:18,580 --> 00:10:22,220
+Hatırlatma olmuş olur enbakır beye.
 
 128
-00:10:23,720 --> 00:10:25,720
-sonrasında da
+00:10:22,220 --> 00:10:25,899
+Sonrasında da şeye giriyor.
 
 129
-00:10:25,720 --> 00:10:27,720
-şey giriyor
+00:10:25,899 --> 00:10:29,899
+Bu Daskın ortalama bölge şehirleri.
 
 130
-00:10:27,720 --> 00:10:29,720
-bu duskın ortalama bölge
+00:10:29,899 --> 00:10:32,899
+Hemen Daskın deprem risk bölgelemesiyle ilgili olan.
 
 131
-00:10:29,720 --> 00:10:31,720
-bu tamamen duskın
+00:10:32,899 --> 00:10:35,899
+Bu da bizim az önce bahsettiğimiz nominal yükleme oranı.
 
 132
-00:10:31,720 --> 00:10:33,720
-deprem risk bölgelemesiyle ilgi olan
+00:10:35,899 --> 00:10:38,899
+Bu da zaten bu sonuçları da vermiştik.
 
 133
-00:10:33,720 --> 00:10:35,720
-bu da bizim az önce bahsettiğimiz
+00:10:38,899 --> 00:10:40,899
+Dask ağrısı deprem bölge yapıyordu.
 
 134
-00:10:35,720 --> 00:10:37,720
-ünlen yüklem oranı bu da zaten
+00:10:40,899 --> 00:10:43,899
+Yine burada da Binger deli gibi yani.
 
 135
-00:10:37,720 --> 00:10:39,720
-bu sonuçları da vermiştik hani o yüzden
+00:10:43,899 --> 00:10:45,899
+Yani başta bunu silecektim hocam.
 
 136
-00:10:39,720 --> 00:10:41,720
-biraz karşı deprem bölge yapıyordu
+00:10:45,899 --> 00:10:48,899
+Binger vurgusu yapmıştık ilk çalışma da zaten ama.
 
 137
-00:10:41,720 --> 00:10:43,720
-yine burada da bingo
+00:10:50,899 --> 00:10:52,899
+Heminde olamadım hani.
 
 138
-00:10:43,720 --> 00:10:45,720
-deli gibi yani
+00:10:53,899 --> 00:10:55,899
+Yok bir bakalım böyle abi.
 
 139
-00:10:45,720 --> 00:10:47,720
-yani başta bunu silecektim hocam
+00:10:55,899 --> 00:10:59,179
+Hani burada belki birkaç laf edilir tabii yine.
 
 140
-00:10:47,720 --> 00:10:49,720
-bingo burkusu yapmıştık ilk çalışma da
+00:10:59,179 --> 00:11:02,179
+Yani bu birin üzerinde olması ne demek işte.
 
 141
-00:10:49,720 --> 00:10:51,720
-zaten ama
+00:11:02,179 --> 00:11:04,179
+Abi peki ben bir ses söyleyeyim.
 
 142
-00:10:51,720 --> 00:10:53,720
-bir heminde olamadım
+00:11:04,179 --> 00:11:05,179
+Devam edelim de abi.
 
 143
-00:10:53,720 --> 00:10:55,720
-yani
+00:11:05,179 --> 00:11:07,179
+Seni çok görüyorum bu arada.
 
 144
-00:10:55,720 --> 00:10:58,000
-yani burada belki birkaç laf ettiler
+00:11:07,179 --> 00:11:09,179
+Sonra klasik hocam.
 
 145
-00:10:58,000 --> 00:11:00,000
-tabi yine
+00:11:09,179 --> 00:11:13,179
+Bu en yüksek TIV'si olan 5 ille ve şey devam ediyoruz.
 
 146
-00:11:00,000 --> 00:11:02,000
-yani birinin üzerinde olmasına demek
+00:11:13,179 --> 00:11:17,179
+Burada sadece ilk sunumda olmayan kuyruk duyarlıya da dahil ettik artık.
 
 147
-00:11:02,000 --> 00:11:04,000
-işte
+00:11:17,179 --> 00:11:18,179
+Peki yani.
 
 148
-00:11:04,000 --> 00:11:06,000
-devam edelim de abi
+00:11:18,179 --> 00:11:20,179
+Bu böyle devam ediyor mu?
 
 149
-00:11:06,000 --> 00:11:08,000
-seni çok ölüyorum bu arada
+00:11:20,179 --> 00:11:22,179
+Evet bu böyle devam ediyor hocam.
 
 150
-00:11:08,000 --> 00:11:10,000
-sonra klasik hocam
+00:11:22,179 --> 00:11:24,179
+Altı il için Binger'le dahil.
 
 151
-00:11:10,000 --> 00:11:12,000
-en yüksek ti visi olan 5 ille ve
+00:11:24,179 --> 00:11:26,179
+Sonrasında arayın üzülenler.
 
 152
-00:11:12,000 --> 00:11:14,000
-şeyi devam ediyoruz
+00:11:26,179 --> 00:11:30,679
+Onu hatırlayayım hocam.
 
 153
-00:11:14,000 --> 00:11:16,000
-burada sadece ilk sunumda olmayan
+00:11:30,679 --> 00:11:32,679
+2 gün oldu çünkü gündeklinden önceki gün.
 
 154
-00:11:16,000 --> 00:11:18,000
-kuyruk duyarlıyı da dahil ettik artık
+00:11:35,100 --> 00:11:39,240
+Hani hocam yeni yazdım diye hatırlıyorum ama.
 
 155
-00:11:18,000 --> 00:11:20,000
-bu böyle devam ediyor
+00:11:39,240 --> 00:11:41,240
+Bir yalan da olmasın yokyim.
 
 156
-00:11:20,000 --> 00:11:22,000
-evet bu böyle devam ediyor hocam
+00:11:41,240 --> 00:11:42,240
+Çok çabuk.
 
 157
-00:11:22,000 --> 00:11:24,000
-6 i için bingo ile
+00:11:42,240 --> 00:11:50,899
+Burası genel bir vurgut toparlayıcı cümleler yazdım.
 
 158
-00:11:24,000 --> 00:11:26,000
-dahil
+00:11:50,899 --> 00:11:51,899
+Hani burada şey yok.
 
 159
-00:11:26,000 --> 00:11:30,500
-sonrasında arayın üzülenler
+00:11:51,899 --> 00:11:52,899
+Yeni bir fikir yok zaten hocam.
 
 160
-00:11:30,500 --> 00:11:32,500
-2 gün oldu çünkü
+00:11:52,899 --> 00:11:53,899
+Şeylerde.
 
 161
-00:11:32,500 --> 00:11:34,919
-bundan önceki gün
+00:11:53,899 --> 00:11:56,899
+Dask, âle, oranış seviye de değişiyor.
 
 162
-00:11:34,919 --> 00:11:39,059
-yani hocam yeni yazdım diye hatırlıyorum
+00:11:56,899 --> 00:12:04,299
+Ama bu illerde işte yapıstıklı basit yorumlar.
 
 163
-00:11:39,059 --> 00:11:41,059
-ama bir yalan da olmasın
+00:12:04,299 --> 00:12:06,299
+Ankara'nın da örneğin.
 
 164
-00:11:41,059 --> 00:11:48,720
-yokim çok çabuk
+00:12:06,299 --> 00:12:08,299
+Düşüp depremte eli kesi olan bir bölge.
 
 165
-00:11:48,720 --> 00:11:50,720
-burası genel bir vurgut toparlayıcı
+00:12:08,299 --> 00:12:10,299
+Dask âle oranı 17 iken.
 
 166
-00:11:50,720 --> 00:11:52,720
-cümleler yani burada şey yok
+00:12:10,299 --> 00:12:14,299
+Kuyruk duyarlıda dahil 155 olduğunu görüyoruz.
 
 167
-00:11:52,720 --> 00:11:54,720
-yeni bir fikir yok zaten hocam
+00:12:14,299 --> 00:12:15,299
+Oranın.
 
 168
-00:11:54,720 --> 00:11:56,720
-dazk, âle, oranı şu seviye de değişiyor
+00:12:15,299 --> 00:12:18,299
+Bu da yani Dask tarifesine.
 
 169
-00:11:56,720 --> 00:11:59,429
-ama bu illerde
+00:12:18,299 --> 00:12:21,820
+Kuyruk duyarlıda bile yukarıda kaldım hani.
 
 170
-00:11:59,429 --> 00:12:03,120
-işte yapı stoku
+00:12:21,820 --> 00:12:24,820
+Ama diğer kredi risk bir ilçe illerde de.
 
 171
-00:12:03,120 --> 00:12:05,120
-basit yorumlar
+00:12:24,820 --> 00:12:26,820
+Dask pirmini.
 
 172
-00:12:05,120 --> 00:12:07,120
-Ankara'nın da örneğin
+00:12:26,820 --> 00:12:31,820
+5 kat arasında da hani aşağıda kaldığı bir vurgusunu yazmak istedim.
 
 173
-00:12:07,120 --> 00:12:09,120
-düşük deprem tehlikesi olan bir bölge
+00:12:31,820 --> 00:12:32,820
+Kelimeyle.
 
 174
-00:12:09,120 --> 00:12:11,120
-dazk, âle, oranı on yedi iken
+00:12:32,820 --> 00:12:33,820
+Ben bir okuyayım bu.
 
 175
-00:12:11,120 --> 00:12:13,120
-kuyruk duyarlıda dahil
+00:12:33,820 --> 00:12:34,820
+Peki.
 
 176
-00:12:13,120 --> 00:12:15,120
-bunu görüyoruz yani şey oranı
+00:12:34,820 --> 00:12:36,419
+Tabii ki.
 
 177
-00:12:15,120 --> 00:12:17,120
-bu da yani
+00:12:37,419 --> 00:12:38,419
+Gözlemlerde.
 
 178
-00:12:17,120 --> 00:12:19,159
-dazk tarifesini
+00:12:38,419 --> 00:12:41,419
+Yalnızca teknik pirim dikkatı alınarak yapılan yüklemedin.
 
 179
-00:12:19,159 --> 00:12:21,159
-kuyruk duyarlıda bile yukarıda kaldım
+00:12:41,419 --> 00:12:45,460
+Kuyruk asgari ve kapital gereksimi yansıtmakta sınırlı kaldı.
 
 180
-00:12:21,159 --> 00:12:23,639
-ama diğer kredilisk ilçe
+00:12:45,460 --> 00:12:47,460
+Mevcudeprem kodu yaklaşımda.
 
 181
-00:12:23,639 --> 00:12:25,639
-illerde de
+00:12:47,460 --> 00:12:51,460
+İlvazına deprem tehlikesi, kümül yoğunlu ve yapustu okurulganlı farklılıklarını
 
 182
-00:12:25,639 --> 00:12:27,639
-dazk pirmini
+00:12:51,460 --> 00:12:53,460
+yeterince ayıştırmakta sınırlı kaldığını.
 
 183
-00:12:27,639 --> 00:12:29,639
-5 kat arasında da hani aşağıda
+00:12:53,460 --> 00:12:54,460
+Hani bu.
 
 184
-00:12:29,639 --> 00:12:31,639
-kaldığı bir vurgusunu yazmak istedim
+00:12:54,460 --> 00:12:56,460
+Çoğu âle bazı bakarsak.
 
 185
-00:12:31,639 --> 00:12:33,639
-kelimeli
+00:12:56,460 --> 00:12:57,460
+İlkar yani biraz sınırlı kalıyor.
 
 186
-00:12:33,639 --> 00:12:36,240
-yokim bu
+00:12:57,460 --> 00:12:59,460
+Yani kuyruk biraz daha.
 
 187
-00:12:36,240 --> 00:12:38,240
-gözlemlerde
+00:12:59,460 --> 00:13:02,460
+Aslında bunu lokalize ediyor.
 
 188
-00:12:38,240 --> 00:12:40,240
-yalnızca teknik pirim dikkatı alınarak
+00:13:02,460 --> 00:13:05,519
+Deprem riskini ve ona bağlı olarak pirimi.
 
 189
-00:12:40,240 --> 00:12:42,240
-yapılan yüklemede kuyruk asıları
+00:13:06,679 --> 00:13:07,679
+Bunu destek.
 
 190
-00:12:42,240 --> 00:12:44,240
-kapital gereksimi yansıtmakta sınırlı kaldı
+00:13:07,679 --> 00:13:08,679
+Yani 3 madde.
 
 191
-00:12:44,240 --> 00:12:46,279
-mevcut deprem kodu yaklaşımda
+00:13:08,679 --> 00:13:10,679
+Daha bu şekilde hocam.
 
 192
-00:12:46,279 --> 00:12:48,279
-ilgazına deprem tehlikesi kümül
+00:13:10,679 --> 00:13:12,320
+Peki.
 
 193
-00:12:48,279 --> 00:12:50,279
-yoğunlu ve yapustu okurulganlı
+00:13:12,320 --> 00:13:13,320
+Sonrasında.
 
 194
-00:12:50,279 --> 00:12:52,279
-farklılıklarını yeterince ayıştırmakta
+00:13:13,320 --> 00:13:18,379
+Bu kuyruk duyarlı yaklaşımın bir açıklamasını koydu.
 
 195
-00:12:52,279 --> 00:12:54,279
-sınırlı kaldığını
+00:13:18,379 --> 00:13:19,379
+Koydu.
 
 196
-00:12:54,279 --> 00:12:56,279
-yani bu çok âle bazı bakarsak
+00:13:19,379 --> 00:13:20,580
+Arıza zaten.
 
 197
-00:12:56,279 --> 00:12:58,279
-yani biraz sınırlı kalıyor
+00:13:20,580 --> 00:13:21,580
+Evet.
 
 198
-00:12:58,279 --> 00:13:00,279
-yani kuyruk biraz daha
+00:13:21,580 --> 00:13:22,580
+Burada da hocam.
 
 199
-00:13:00,279 --> 00:13:02,279
-aslında bunu lokalize ediyor
+00:13:22,580 --> 00:13:23,610
+Bunlar da yeni sonuçlar.
 
 200
-00:13:02,279 --> 00:13:04,279
-deprem riskini
+00:13:23,610 --> 00:13:24,610
+Şimdi.
 
 201
-00:13:04,279 --> 00:13:06,340
-ve ona bağlı olarak pirimi
+00:13:24,610 --> 00:13:25,610
+Şöyle.
 
 202
-00:13:06,340 --> 00:13:08,500
-bunu destekleyen
+00:13:25,610 --> 00:13:26,610
+Bize bir şey.
 
 203
-00:13:08,500 --> 00:13:10,500
-ilk 3 madde daha bu şekilde olacağım
+00:13:26,610 --> 00:13:27,610
+Bu Sehm-i Ödedim hocam.
 
 204
-00:13:10,500 --> 00:13:13,139
-sonrasında
+00:13:27,610 --> 00:13:28,610
+Sehm-i Âyem âgiatörün.
 
 205
-00:13:13,139 --> 00:13:15,139
-bu kuyruk duyarlı yaklaşımın
+00:13:28,610 --> 00:13:30,610
+Kostoff kapitalı tüçeliştireyim istedim.
 
 206
-00:13:15,139 --> 00:13:17,139
-bir açıklamasını
+00:13:30,610 --> 00:13:32,610
+Hani çok uzun bir kelime.
 
 207
-00:13:17,139 --> 00:13:19,200
-koydum
+00:13:32,610 --> 00:13:35,610
+Bize bazı olarak yüzdom kullanmıştık ama.
 
 208
-00:13:19,200 --> 00:13:21,399
-burada da hocam bunlar da yeni sonuçlar
+00:13:35,610 --> 00:13:39,610
+Bu bural ile olan görüşmelerde bir yoksiz istemiştiniz.
 
 209
-00:13:21,399 --> 00:13:23,429
-şimdi
+00:13:39,610 --> 00:13:40,610
+Pardon.
 
 210
-00:13:23,429 --> 00:13:25,429
-şöyle bize
+00:13:40,610 --> 00:13:42,610
+Yüzde beş ve yüzdon beş ile bir görevim istemiştiniz.
 
 211
-00:13:25,429 --> 00:13:27,429
-şey bu seyeme o dediğim hocam
+00:13:42,610 --> 00:13:44,610
+Ben onları da bir oran salı olarak çıkardım.
 
 212
-00:13:27,429 --> 00:13:29,429
-sen maya maviatorun
+00:13:44,610 --> 00:13:47,610
+Yani en azından bir range ortaya çıkar diye.
 
 213
-00:13:29,429 --> 00:13:31,429
-kost of capital'ı Türkçeleştireyim istedim
+00:13:47,610 --> 00:13:50,610
+Bu nominal yüklem oran için isimden tabi yani.
 
 214
-00:13:31,429 --> 00:13:33,429
-çok uzun bir kelime
+00:13:50,610 --> 00:13:51,610
+Dusk böyle.
 
 215
-00:13:33,429 --> 00:13:35,429
-bize bazı olarak yüzdom kullanmıştık ama
+00:13:51,610 --> 00:13:53,610
+Bizim kuyruk duyarlı.
 
 216
-00:13:35,429 --> 00:13:37,429
-bu bural ile olamıyor
+00:13:53,610 --> 00:13:55,610
+Pirimi oranı yani.
 
 217
-00:13:37,429 --> 00:13:39,429
-şu anlerde bir yoksiz istemiştiniz
+00:13:55,610 --> 00:13:56,610
+Orada da hocam.
 
 218
-00:13:39,429 --> 00:13:41,429
-pardon yüzde beş ve yüzdom beş ile
+00:13:56,610 --> 00:13:57,610
+Hani şey.
 
 219
-00:13:41,429 --> 00:13:43,429
-bir görevim istemiştiniz
+00:13:57,610 --> 00:14:00,740
+İstanbul'u örnek aldığımızda.
 
 220
-00:13:43,429 --> 00:13:45,429
-ben onları da bir oran salı olarak çıkardım
+00:14:00,740 --> 00:14:04,740
+Eğer bu Kostoff kapital yüzde beş olursa.
 
 221
-00:13:45,429 --> 00:13:47,429
-yani en azından bir range ortaya çıkar diye
+00:14:04,740 --> 00:14:07,740
+Yani dusk piriminin iki günlerde ise.
 
 222
-00:13:47,429 --> 00:13:49,429
-bu nominal yüklem oran için
+00:14:07,740 --> 00:14:10,740
+İki, iki buçuk kat aşağıda kaldın.
 
 223
-00:13:49,429 --> 00:13:51,429
-sinirlen tabi yani
+00:14:10,740 --> 00:14:12,740
+Ama mesela bunu yüzdona çıktığında bizim standart.
 
 224
-00:13:51,429 --> 00:13:53,429
-dusk böyle bizim kuyruk duyarlı
+00:14:12,740 --> 00:14:14,740
+Hani beş katlı pınelde,
 
 225
-00:13:53,429 --> 00:13:55,429
-pirimi oranı yani
+00:14:14,740 --> 00:14:17,740
+dört beş katlı bir farkat ekabiliyorduk.
 
 226
-00:13:55,429 --> 00:13:57,429
-orada da hocam
+00:14:17,740 --> 00:14:21,429
+Böyle bir değişiklik söz konusu.
 
 227
-00:13:57,429 --> 00:13:59,490
-İstanbul'u örnek aldığımızda
+00:14:21,429 --> 00:14:23,429
+Yani bunu diğer dilleri içinde görebiliyoruz.
 
 228
-00:13:59,490 --> 00:14:01,559
-eğer
+00:14:23,429 --> 00:14:27,159
+Farklılıkları.
 
 229
-00:14:01,559 --> 00:14:03,559
-bu kost of capital
+00:14:27,159 --> 00:14:32,470
+Bir aile aslında belirleyici bir kat sayı bu.
 
 230
-00:14:03,559 --> 00:14:05,559
-yüzde beş olursa
+00:14:32,470 --> 00:14:34,470
+İzmir'de döneyim.
 
 231
-00:14:05,559 --> 00:14:07,559
-yani dusk piriminin
+00:14:34,470 --> 00:14:36,600
+Eğer yüzde beş ise.
 
 232
-00:14:07,559 --> 00:14:09,559
-iki iki buçuk kat
+00:14:36,600 --> 00:14:38,600
+Yani dusk'un iki kat aşağıda kaldın.
 
 233
-00:14:09,559 --> 00:14:11,559
-aşağıda kaldığını ama mesela
+00:14:38,600 --> 00:14:40,600
+Ama yüzde on olarak hesaplanırsa.
 
 234
-00:14:11,559 --> 00:14:13,559
-bunun yüzdona çıktığında bizim standart
+00:14:40,600 --> 00:14:42,600
+Dusk'un piriminin dört kat aşağıda kalıyor.
 
 235
-00:14:13,559 --> 00:14:15,559
-beş katlı pıneldeyi
+00:14:42,600 --> 00:14:44,600
+Bu şekilde farklı başı hocam.
 
 236
-00:14:15,559 --> 00:14:17,559
-dört beş katlı bir farkat ekabiliyorduk
+00:14:44,600 --> 00:14:48,649
+Yok yok.
 
 237
-00:14:17,559 --> 00:14:21,250
-böyle bir değişkenlik söz konusu
+00:14:48,649 --> 00:14:50,649
+Yukarıda da şey gösterdim hocam.
 
 238
-00:14:21,250 --> 00:14:23,250
-yani bunu diyediler için de
+00:14:50,649 --> 00:14:53,649
+Eğer müsaadeki aratayı zaten vermiştik en başta.
 
 239
-00:14:23,250 --> 00:14:26,980
-görebiliyoruz farklılıkları
+00:14:53,649 --> 00:14:55,649
+Bu sefer dusk böyle hale değil de.
 
 240
-00:14:26,980 --> 00:14:28,980
-yani bir aile aslında belirleyici bir
+00:14:55,649 --> 00:14:57,649
+Dusk böyle kuyruk duyarlı pirimi yaptığımızda.
 
 241
-00:14:28,980 --> 00:14:32,289
-kat sayı bu
+00:14:57,649 --> 00:15:00,649
+Aritanın asla renk olarak nasıl değiştiğini görüyoruz.
 
 242
-00:14:32,289 --> 00:14:34,289
-İzmir'de dönün
+00:15:00,649 --> 00:15:02,649
+Hani buraya baktığımızda.
 
 243
-00:14:34,289 --> 00:14:36,389
-eğer
+00:15:02,649 --> 00:15:04,679
+Dusk'un piriminin aslında.
 
 244
-00:14:36,389 --> 00:14:38,419
-yüzde beş ise yani dusk'un iki kat aşağıda
+00:15:04,679 --> 00:15:07,679
+Yetersiz kaldığını genel olarak ortalamadı.
 
 245
-00:14:38,419 --> 00:14:40,419
-kaldığını ama yüzdoğun olarak
+00:15:08,679 --> 00:15:11,779
+Zaten renklere baktığımızda görebiliyoruz.
 
 246
-00:14:40,419 --> 00:14:42,419
-yapılanırsa dusk'un pirim oranı
+00:15:11,779 --> 00:15:13,779
+Bu renklendirmeyi bir de.
 
 247
-00:14:42,419 --> 00:14:44,419
-dört kat aşağıda kalıyor. Bu şekilde
+00:15:13,779 --> 00:15:17,779
+Bu senvay maliyet oranı yüzde beş ve yüzde on beş için olsa.
 
 248
-00:14:44,419 --> 00:14:48,470
-farklı başı hocam
+00:15:17,779 --> 00:15:20,840
+Nasıl bir harita oluşurduyu gösteriyorum burada.
 
 249
-00:14:48,470 --> 00:14:50,470
-yukarıda da şey gösterdim hocam
+00:15:20,840 --> 00:15:25,840
+Hani maliyet oranı yüzde on beş olduğunda beklendiği gibi.
 
 250
-00:14:50,470 --> 00:14:52,470
-eğer
+00:15:25,840 --> 00:15:30,970
+Dusk'un çok çok daha yetersiz kaldığı bir harita oluşuyor.
 
 251
-00:14:52,470 --> 00:14:54,470
-müsaadeki aratayı zaten vermiştik
+00:15:30,970 --> 00:15:34,610
+Yüzde beş de tam tersi bir durum.
 
 252
-00:14:54,470 --> 00:14:56,470
-en başta bu sefer
+00:15:34,610 --> 00:15:37,610
+Dusk'un aldığı piriminin daha yeterli gibi.
 
 253
-00:14:56,470 --> 00:14:58,470
-dusk böyle aile değil de dusk böyle
+00:15:37,610 --> 00:15:39,990
+Sonrasında hocam.
 
 254
-00:14:58,470 --> 00:15:00,470
-kuyruk duyarlı pirimi yaptığımızda
+00:15:39,990 --> 00:15:40,990
+İlbazı değil de.
 
 255
-00:15:00,470 --> 00:15:02,470
-aritanın asla renk olarak nasıl
+00:15:40,990 --> 00:15:42,990
+Tüm Türkiye'de tek bir oran çıkarmak istesek.
 
 256
-00:15:02,470 --> 00:15:04,500
-değiştiğini görüyoruz. Hani
+00:15:42,990 --> 00:15:44,990
+Artlak gerekseydi.
 
 257
-00:15:04,500 --> 00:15:06,500
-buraya baktığımızda dusk'un piriminin
+00:15:44,990 --> 00:15:45,990
+Evet.
 
 258
-00:15:06,500 --> 00:15:08,500
-aslında
+00:15:45,990 --> 00:15:47,990
+Şimdi Dusk'un hocam şey yaptı.
 
 259
-00:15:08,500 --> 00:15:10,500
-yetersiz kaldığını genel olarak
+00:15:47,990 --> 00:15:49,990
+Bu sefer şu oranlarımız vardı bizim.
 
 260
-00:15:10,500 --> 00:15:12,600
-görebiliyoruz. Bu
+00:15:49,990 --> 00:15:52,990
+Her il için ağırlıklı dusk ortalaması.
 
 261
-00:15:12,600 --> 00:15:14,600
-renklendirmeyi bir de
+00:15:52,990 --> 00:15:55,990
+Bir de bunu yine illerin Tivc ile oranlayarak.
 
 262
-00:15:14,600 --> 00:15:16,600
-senvay maliyet oranı yüzde beş ve
+00:15:55,990 --> 00:15:57,990
+Nihayet bir dusk pirimi hesapladık.
 
 263
-00:15:16,600 --> 00:15:18,600
-yüzde on beş için olsa nasıl bir harita
+00:15:57,990 --> 00:16:00,990
+Bu da binde bir nokta doksanbire denk geliyormuş.
 
 264
-00:15:18,600 --> 00:15:20,600
-oluşurduğu gösteriyorum burada
+00:16:00,990 --> 00:16:04,470
+Biz aynı sanocam hale için yaptığımda.
 
 265
-00:15:20,600 --> 00:15:22,659
-yani maliyet oranı yüzde on beş
+00:16:04,470 --> 00:16:06,470
+Binde sıfır yetmiş üç.
 
 266
-00:15:22,659 --> 00:15:24,659
-olduğunda beklendiği gibi
+00:16:06,470 --> 00:16:09,470
+Bu mevcuttaki kat sayılarda gittiğimde.
 
 267
-00:15:24,659 --> 00:15:26,789
-eee
+00:16:09,470 --> 00:16:10,600
+Evet hocam.
 
 268
-00:15:26,789 --> 00:15:28,789
-dusk'ın çok çok daha yetersiz
+00:16:10,600 --> 00:16:12,600
+Mevcuttaki kat sayılarda gittiğimde.
 
 269
-00:15:28,789 --> 00:15:30,789
-kaldığı bir harita oluşuyor
+00:16:12,600 --> 00:16:14,600
+Tabi burada şey unutmadım.
 
 270
-00:15:30,789 --> 00:15:33,360
-yüzde beş de tam
+00:16:14,600 --> 00:16:17,600
+Her bir ile bina tipi Tiv'leri oranladık.
 
 271
-00:15:33,360 --> 00:15:35,429
-tersi bir durum. Yani dusk'un
+00:16:17,600 --> 00:16:19,600
+Sonra da illerin Tivc ile bir daha.
 
 272
-00:15:35,429 --> 00:15:37,429
-aldığı pirim oranı daha yeterli gibi
+00:16:19,600 --> 00:16:21,600
+Aslında bir ortalama ilmiş oldu.
 
 273
-00:15:37,429 --> 00:15:39,809
-eee sonrasını hocam
+00:16:21,600 --> 00:16:23,600
+İlk kere ortalamaya gidiyorum.
 
 274
-00:15:39,809 --> 00:15:41,809
-ilbazı değil de eee tüm Türkiye'de
+00:16:23,600 --> 00:16:25,789
+Şey söyleyeyim mi?
 
 275
-00:15:41,809 --> 00:15:43,809
-tek bir oran çıkarmak istesek
+00:16:25,789 --> 00:16:26,980
+Pardon.
 
 276
-00:15:43,809 --> 00:15:45,809
-evet şimdi dusk'un hocam
+00:16:26,980 --> 00:16:32,110
+Estağfurullah.
 
 277
-00:15:45,809 --> 00:15:47,809
-şey yaptı bu sefer
+00:16:32,110 --> 00:16:33,110
+Sonra hocam.
 
 278
-00:15:47,809 --> 00:15:49,809
-şu oranlarımız vardı bizim her il için
+00:16:33,110 --> 00:16:34,110
+Bunları da oranladım.
 
 279
-00:15:49,809 --> 00:15:51,809
-ağırlıklı dusk orta alaması
+00:16:34,110 --> 00:16:35,110
+Yani artık tek bir oranımız var.
 
 280
-00:15:51,809 --> 00:15:53,809
-bir de bunu gene
+00:16:35,110 --> 00:16:36,110
+Bizim Dusk'un oranı,
 
 281
-00:15:53,809 --> 00:15:55,809
-illerin Tivc ile oranlayarak
+00:16:36,110 --> 00:16:37,110
+Aile'nin oranı.
 
 282
-00:15:55,809 --> 00:15:57,809
-nihayi bir dusk pirimi hesapladık
+00:16:37,110 --> 00:16:39,110
+Bir de koyup duyarlı pirimin ortalaması.
 
 283
-00:15:57,809 --> 00:15:59,809
-o da binde bir nokta
+00:16:40,110 --> 00:16:42,110
+Bunları birbirine oranladığımda örneğin.
 
 284
-00:15:59,809 --> 00:16:02,289
-doksanbire denk geliyormuş.
+00:16:42,110 --> 00:16:44,110
+Aile'den gidecek olursak.
 
 285
-00:16:02,289 --> 00:16:04,289
-biz aynısın hocam aile için yaptığımda
+00:16:44,110 --> 00:16:47,110
+Aile, Dusk'a Aile'ye böldüğümüzde.
 
 286
-00:16:04,289 --> 00:16:06,289
-binde sıfır yetmiş üç
+00:16:47,110 --> 00:16:49,110
+Yani 191.73'e.
 
 287
-00:16:06,289 --> 00:16:08,289
-bu mevciddeki
+00:16:49,110 --> 00:16:52,240
+Doğru mu yapıyorum.
 
 288
-00:16:08,289 --> 00:16:10,419
-kat sayılarda gittiğimde
+00:16:52,240 --> 00:16:53,240
+Evet.
 
 289
-00:16:10,419 --> 00:16:12,419
-evet hocam mevciddeki kat sayılarda gittiğimde
+00:16:53,240 --> 00:16:55,240
+2.6'ı kat örneğin hocam.
 
 290
-00:16:12,419 --> 00:16:14,419
-eee tabi burada şey unutmadım
+00:16:55,240 --> 00:16:58,980
+Dusk'ın Aile'den yüksek oldu.
 
 291
-00:16:14,419 --> 00:16:16,419
-her bir ile bina tipi
+00:16:58,980 --> 00:16:59,980
+Eğer aynı hesabı,
 
 292
-00:16:16,419 --> 00:16:18,419
-Tiv'leri oranladık sonra da
+00:16:59,980 --> 00:17:02,980
+koyup duyarlı pirim ortalaması ile yapsaydık.
 
 293
-00:16:18,419 --> 00:16:20,419
-illerin Tivc ile bir daha
+00:17:02,980 --> 00:17:04,980
+Yani 191.649'da oranlasaydık.
 
 294
-00:16:20,419 --> 00:16:22,419
-aslında bir ortalama inmiş oldu
+00:17:04,980 --> 00:17:06,980
+Bu seferde Dusk'ın
 
 295
-00:16:22,419 --> 00:16:24,419
-ilk kere ortalamaya gidiyor
+00:17:06,980 --> 00:17:09,980
+işte neredeyse 3 kat aşağıda
 
 296
-00:16:24,419 --> 00:16:26,610
-sonrasını
+00:17:09,980 --> 00:17:11,980
+pirim aldığı gibi
 
 297
-00:16:26,610 --> 00:16:32,929
-hesapladım
+00:17:11,980 --> 00:17:13,980
+böyle tek bir rakam ortaya çıkıyor.
 
 298
-00:16:32,929 --> 00:16:34,929
-sonra hocam bunları da oranladım
+00:17:13,980 --> 00:17:14,980
+Bir de bunun
 
 299
-00:16:34,929 --> 00:16:36,929
-yani artık tek bir oranımız var bizim dusk'un oranı
+00:17:14,980 --> 00:17:16,980
+Selma'ya maliyatörün
 
 300
-00:16:36,929 --> 00:16:38,929
-aileinin oranı bir de koyup
+00:17:16,980 --> 00:17:18,980
+%5 ve 15 için optionlu
 
 301
-00:16:38,929 --> 00:16:40,929
-duyarlı pirimin ortalaması
+00:17:18,980 --> 00:17:20,980
+durumları söz konusu.
 
 302
-00:16:40,929 --> 00:16:42,929
-oranladığımda örneğim
+00:17:20,980 --> 00:17:23,740
+Onların da oranları burada.
 
 303
-00:16:42,929 --> 00:16:44,929
-aileden gidecek olursak
+00:17:23,740 --> 00:17:25,289
+Peki.
 
 304
-00:16:44,929 --> 00:16:46,929
-aile duska aileye böldüğümüzde
+00:17:26,349 --> 00:17:28,349
+Sonra bu slight hocam
 
 305
-00:16:46,929 --> 00:16:48,929
-yani 191.73
+00:17:28,349 --> 00:17:30,349
+anlaması değildir.
 
 306
-00:16:48,929 --> 00:16:51,059
-doğru mu
+00:17:30,349 --> 00:17:32,349
+Yorumlaması çok zor.
 
 307
-00:16:51,059 --> 00:16:53,059
-yapıyorum
+00:17:32,349 --> 00:17:33,349
+Şöyle.
 
 308
-00:16:53,059 --> 00:16:55,059
-evet 2.6
+00:17:33,349 --> 00:17:35,349
+Sağdaki zaten
 
 309
-00:16:55,059 --> 00:16:57,059
-kat örneğin hocam dusk'un aileden
+00:17:35,349 --> 00:17:36,349
+Dusk'ın
 
 310
-00:16:57,059 --> 00:16:59,799
-yüksek oldu
+00:17:36,349 --> 00:17:38,349
+ağırlık deprem bölge kodu.
 
 311
-00:16:59,799 --> 00:17:01,799
-eğer aynen hesabı
+00:17:38,349 --> 00:17:39,349
+Sol'da da ben
 
 312
-00:17:01,799 --> 00:17:03,799
-koyup duyarlı pirim ortalaması ile
+00:17:39,349 --> 00:17:41,349
+bu korup duyarlı pirimleri
 
 313
-00:17:03,799 --> 00:17:05,799
-yapsaydık yani 191.649
+00:17:41,349 --> 00:17:43,349
+bir 7 bölgeye böleyim dedim.
 
 314
-00:17:05,799 --> 00:17:07,799
-oranlasaydık
+00:17:43,349 --> 00:17:45,349
+Hani Mağap Kulübü seviye de.
 
 315
-00:17:07,799 --> 00:17:09,799
-bu seferde dusk'un
+00:17:45,349 --> 00:17:47,349
+Ve onları da
 
 316
-00:17:09,799 --> 00:17:11,799
-oranladığı gibi
-
-317
-00:17:11,799 --> 00:17:13,799
-böyle tek bir rakam ortaya çıkıyor
-
-318
-00:17:13,799 --> 00:17:15,799
-bir de bunun
-
-319
-00:17:15,799 --> 00:17:17,799
-sermaye maliyatörün
-
-320
-00:17:17,799 --> 00:17:19,799
-%5 ve 15 için
-
-321
-00:17:19,799 --> 00:17:21,799
-oranları burada
-
-322
-00:17:21,799 --> 00:17:25,109
-evet
-
-323
-00:17:25,109 --> 00:17:27,170
-sonra
-
-324
-00:17:27,170 --> 00:17:29,170
-bu slight hocam
-
-325
-00:17:29,170 --> 00:17:31,170
-anlaması değildi
-
-326
-00:17:31,170 --> 00:17:33,170
-yorumlaması çok zor
-
-327
-00:17:33,170 --> 00:17:35,170
-şöyle
-
-328
-00:17:35,170 --> 00:17:37,170
-sağdaki zaten dusk'un
-
-329
-00:17:37,170 --> 00:17:39,170
-ağırlık deprem bölge kodu
-
-330
-00:17:39,170 --> 00:17:41,170
-ben bu kuyruk duyarlı pirimleri
-
-331
-00:17:41,170 --> 00:17:43,170
-bir yedi bölgeye böleyim dedim
-
-332
-00:17:43,170 --> 00:17:45,170
-hani mağap kulübü seviyede
-
-333
-00:17:45,170 --> 00:17:47,170
-ve onları da
-
-334
-00:17:47,170 --> 00:17:49,170
+00:17:47,349 --> 00:17:48,349
 altta şey olarak
 
-335
-00:17:49,170 --> 00:17:51,170
+317
+00:17:48,349 --> 00:17:50,349
 bu tamamen
 
-336
-00:17:51,170 --> 00:17:53,170
+318
+00:17:50,349 --> 00:17:52,349
 mesela İstanbul burada
 
-337
-00:17:53,170 --> 00:17:55,170
+319
+00:17:52,349 --> 00:17:55,349
 benim yaptığımda 4. bölgedeyken
 
-338
-00:17:55,170 --> 00:17:57,170
-sağdakini de örneğin 3. bölgede
+320
+00:17:55,349 --> 00:17:57,349
+Sağdaki'nda örneğin 3. bölgede.
 
-339
-00:17:57,170 --> 00:17:59,170
-hani biraz okuması zor o yüzden
+321
+00:17:57,349 --> 00:17:59,349
+Hani biraz okuması zor o yüzden
 
-340
-00:17:59,170 --> 00:18:01,170
-mesela tasıtta karşılığı 2-13 gün
+322
+00:17:59,349 --> 00:18:01,349
+mesela Tansız'da karşılığı 2-13 gün.
 
-341
-00:18:01,170 --> 00:18:03,170
-benim hazırladığım bölge elemede
+323
+00:18:01,349 --> 00:18:03,349
+Benim hazırladığım bölge elemede
 
-342
-00:18:03,170 --> 00:18:05,170
-8.75 den geliyor
+324
+00:18:03,349 --> 00:18:05,349
+8-75'e denk geliyor
 
-343
-00:18:05,170 --> 00:18:07,170
-4. grupta
+325
+00:18:05,349 --> 00:18:06,349
+bölgüncü grupta.
 
-344
-00:18:07,170 --> 00:18:09,170
-bir şekilde bir kıyas yapayım dedim ama
+326
+00:18:06,349 --> 00:18:08,349
+Bu şekilde bir kıyas yapayım dedim ama
 
-345
-00:18:09,170 --> 00:18:11,490
-çıkarılabiliriz tamamen
+327
+00:18:08,349 --> 00:18:10,670
+çıkarılabilir tamamen.
 
-346
-00:18:11,490 --> 00:18:13,490
-veya mutlaka
+328
+00:18:10,670 --> 00:18:12,670
+Veya mutlaka
 
-347
-00:18:13,490 --> 00:18:16,069
-nurullarında farklı skirleri var
+329
+00:18:12,670 --> 00:18:14,670
+nurulların daha farklı iskilleri var.
 
-348
-00:18:16,069 --> 00:18:18,099
-bu nurullardan söyle
+330
+00:18:16,250 --> 00:18:17,250
+Nurullardan söyle.
 
-349
-00:18:18,099 --> 00:18:20,319
-bu skirlerin yok
+331
+00:18:17,250 --> 00:18:18,279
+İkillerin ne?
 
-350
-00:18:20,319 --> 00:18:22,319
-yok aslında
+332
+00:18:19,500 --> 00:18:20,500
+Yok aslında
 
-351
-00:18:22,319 --> 00:18:24,319
+333
+00:18:20,500 --> 00:18:22,500
 şey
 
-352
-00:18:24,319 --> 00:18:26,319
-şey konuşmuştuk
-
-353
-00:18:26,319 --> 00:18:28,319
-kendimiz ayrı bir gruplama yapınca
-
-354
-00:18:28,319 --> 00:18:30,319
-onlar kendi gruplarıyla
-
-355
-00:18:30,319 --> 00:18:32,319
-yani dusk gruplarıyla bir de karışabiliyor
-
-356
-00:18:32,319 --> 00:18:34,319
-örneğin 1. grup
-
-357
-00:18:34,319 --> 00:18:36,319
-dusk'ta
-
-358
-00:18:36,319 --> 00:18:38,319
-çıkıp 2-82
-
-359
-00:18:38,319 --> 00:18:40,319
-burada 24 çıkmış
-
-360
-00:18:40,319 --> 00:18:42,319
-ama halbuki bu 1. grup
-
-361
-00:18:42,319 --> 00:18:44,319
-aynı değil yani dusk'ın 1. grupuyla
-
-362
-00:18:44,319 --> 00:18:46,839
-bizim burada 1. grup dediğimiz
-
-363
-00:18:46,839 --> 00:18:48,839
-burada bizim 1. grup
-
-364
-00:18:48,839 --> 00:18:50,839
-şurada Bingöl mesela sadece
-
-365
-00:18:50,839 --> 00:18:52,839
-Bingöl
-
-366
-00:18:52,839 --> 00:18:54,839
-ama dusk'ın 1. grupu başka bir şey
-
-367
-00:18:54,839 --> 00:18:56,839
-hani o yüzden burada bir kavram
-
-368
-00:18:56,839 --> 00:18:58,960
-karmaşası yaşanıyor sanki
-
-369
-00:18:58,960 --> 00:19:00,960
-2-82'den 24'de
-
-370
-00:19:00,960 --> 00:19:03,029
-çıkmasını teklif ediyorum şurada
-
-371
-00:19:03,029 --> 00:19:05,029
-gibi bir
-
-372
-00:19:05,029 --> 00:19:07,029
-kuyruk duyarlı değil mi?
-
-373
-00:19:07,029 --> 00:19:09,509
-evet hocam evet kuyruk duyuyor
-
-374
-00:19:09,509 --> 00:19:11,960
-%10 oldu
-
-375
-00:19:11,960 --> 00:19:13,960
-evet %10 olduğu için altta da
-
-376
-00:19:13,960 --> 00:19:15,960
-%5 ve %15 opisyonları var hocam
-
-377
-00:19:15,960 --> 00:19:17,960
-doğru ama şöyle bir şey var
-
-378
-00:19:17,960 --> 00:19:20,529
-%10'u niye bu şey yaptın
-
-379
-00:19:20,529 --> 00:19:22,529
-doldu ya
-
-380
-00:19:22,529 --> 00:19:24,529
-yani hep bazı olarak %10'la gittin
-
-381
-00:19:24,529 --> 00:19:26,529
-bugün hep %10 konuştuk
-
-382
-00:19:26,529 --> 00:19:28,529
-diye hocam
-
-383
-00:19:28,529 --> 00:19:30,529
-peki ben bir şey sorayım
-
-384
-00:19:30,529 --> 00:19:36,819
-nurullar doğru mu anlamışım
-
-385
-00:19:36,819 --> 00:19:38,819
-bizim bu
-
-386
-00:19:38,819 --> 00:19:40,819
-1. grup dediğimiz
-
-387
-00:19:40,819 --> 00:19:42,819
-onların 1. grup
-
-388
-00:19:42,819 --> 00:19:44,819
-rizk bölgelerine tekaber eden şeyler değil
-
-389
-00:19:44,819 --> 00:19:47,359
-evet hocam değil
-
-390
-00:19:47,359 --> 00:19:49,359
-sen
-
-391
-00:19:49,359 --> 00:19:51,359
-baştan uca işte bin küsur tane
-
-392
-00:19:51,359 --> 00:19:53,779
-ilçeyi sıraladın
-
-393
-00:19:53,779 --> 00:19:55,779
-onları yazdın evet hocam
-
-394
-00:19:55,779 --> 00:19:57,779
-bu ille 81'i üzerinde
-
-395
-00:19:57,779 --> 00:19:59,809
-81'i üzerinde
-
-396
-00:19:59,809 --> 00:20:01,809
-niye bunların mahallesi
-
-397
-00:20:01,809 --> 00:20:03,809
-ilçe bazında yapmak daha mahkut değil miydi?
-
-398
-00:20:05,910 --> 00:20:07,910
-bu çalışmada hocam il bazı çalıştık
-
-399
-00:20:07,910 --> 00:20:10,480
-anladım peki
-
-400
-00:20:10,480 --> 00:20:12,480
-illere göre en yüksekten en küçüğe süre
-
-401
-00:20:12,480 --> 00:20:14,480
-81'i 7 bölgeye böldüm
-
-402
-00:20:14,480 --> 00:20:16,710
-evet hocam değerli birce günler çıkan
-
-403
-00:20:16,710 --> 00:20:18,710
-evet
-
-404
-00:20:18,710 --> 00:20:20,710
-tamamen şahsi bir
-
-405
-00:20:20,710 --> 00:20:22,710
-hiçbir şey yok
-
-406
-00:20:22,710 --> 00:20:24,710
-peki böyle olduğu vakit
-
-407
-00:20:24,710 --> 00:20:26,710
-primi yani şey yaptın mı
-
-408
-00:20:26,710 --> 00:20:28,710
-mesela şu anda mevcutta
-
-409
-00:20:28,710 --> 00:20:30,710
-yeni 2 milyon 3 milyon
-
-410
-00:20:30,710 --> 00:20:32,710
-bir şeyler yaptı
-
-411
-00:20:32,710 --> 00:20:34,710
-3 milyon 2,5 milyon
-
-412
-00:20:34,710 --> 00:20:36,710
-mı ne yaptı değil mi
-
-413
-00:20:36,710 --> 00:20:39,119
-korumayı
-
-414
-00:20:39,119 --> 00:20:41,119
-geçenlerde sarcastırma görmüştü
-
-415
-00:20:41,119 --> 00:20:43,119
-o hani şey
-
-416
-00:20:43,119 --> 00:20:47,200
-nereden gidebiliriz hocam
-
-417
-00:20:47,200 --> 00:20:49,200
-ask mesela
-
-418
-00:20:49,200 --> 00:20:51,200
-bugünkü kümül değerini 191'le
-
-419
-00:20:51,200 --> 00:20:55,089
-çark varsaken bir değer çıkar
-
-420
-00:20:55,089 --> 00:20:57,089
-1000'de 649'a çıkarsa işten
-
-421
-00:20:57,089 --> 00:20:59,990
-şey
-
-422
-00:20:59,990 --> 00:21:01,990
-1,5 milyon lirası 2 milyon lirası
-
-423
-00:21:01,990 --> 00:21:04,660
-tamam
-
-424
-00:21:04,660 --> 00:21:08,960
-toplam sigam tabi
-
-425
-00:21:08,960 --> 00:21:11,119
-yani şöyle bir şey yapalım
-
-426
-00:21:11,119 --> 00:21:14,019
-ben güzel açılmayacağım
-
-427
-00:21:14,019 --> 00:21:16,019
-2 milyon lira yaptım
-
-428
-00:21:16,019 --> 00:21:17,279
-2 milyon
-
-429
-00:21:17,279 --> 00:21:18,279
-çarpı
-
-430
-00:21:18,279 --> 00:21:21,839
-ne diyorsun
-
-431
-00:21:21,839 --> 00:21:25,000
-ters de
-
-432
-00:21:25,000 --> 00:21:28,630
-2,5 milyon lirası
-
-433
-00:21:28,630 --> 00:21:32,289
-en başta 2,5 milyon
-
-434
-00:21:32,289 --> 00:21:35,670
-böyle bin pardon
-
-435
-00:21:35,670 --> 00:21:39,519
-böyle bin değil mi
-
-436
-00:21:39,519 --> 00:21:41,519
-5,600 lirası
-
-437
-00:21:41,519 --> 00:21:44,039
-şu anda 5,600 lirası
-
-438
-00:21:44,039 --> 00:21:51,349
-2 milyon lirası
-
-439
-00:21:51,349 --> 00:21:56,230
-peki şöyle yapalım
-
-440
-00:21:56,230 --> 00:22:07,599
-2,5,600 lirası
-
-441
-00:22:07,599 --> 00:22:10,529
-çarpı
-
-442
-00:22:10,529 --> 00:22:17,490
-böyle bin
-
-443
-00:22:17,490 --> 00:22:19,490
-5,600 lirası
-
-444
-00:22:19,490 --> 00:22:28,309
-5,600 lirası
-
-445
-00:22:28,309 --> 00:23:01,960
-3,600 lirası
-
-446
-00:23:01,960 --> 00:23:03,990
-3,600 lirası
-
-447
-00:23:03,990 --> 00:23:05,990
-3,600 lirası
-
-448
-00:23:05,990 --> 00:23:07,990
-evet
-
-449
-00:23:07,990 --> 00:23:09,990
-boş bir şey
-
-450
-00:23:09,990 --> 00:23:41,940
-kesinlikle
-
-451
-00:23:41,940 --> 00:23:43,940
-pardon
-
-452
-00:23:43,940 --> 00:23:45,940
-hocam bu arada o sizin dedinize
-
-453
-00:23:45,940 --> 00:23:47,940
-sabı tabi otomatik olarak
-
-454
-00:23:47,940 --> 00:23:49,940
-bura, balkır bey
-
-455
-00:23:49,940 --> 00:23:52,519
-yapıyor ve bu rakamları
-
-456
-00:23:52,519 --> 00:23:54,519
-görüntü tabi
-
-457
-00:23:54,519 --> 00:23:56,519
-şey oluyor
-
-458
-00:23:56,519 --> 00:23:58,519
-yani çok aşırı şeyler
-
-459
-00:23:58,519 --> 00:24:01,029
-çok aşırı şeyler yani
-
-460
-00:24:01,029 --> 00:24:03,029
-8000 liraya
-
-461
-00:24:03,029 --> 00:24:05,029
-işte İstanbul vardır
-
-462
-00:24:05,029 --> 00:24:10,869
-mesela burada
-
-463
-00:24:10,869 --> 00:24:12,869
-İstanbul hocam şeyde 4 dek kalıyor
-
-464
-00:24:12,869 --> 00:24:17,299
-düşün gidelim
-
-465
-00:24:17,299 --> 00:24:19,299
-yani hep şey var
-
-466
-00:24:19,299 --> 00:24:21,299
-teoriyle uygulama arasında çok büyük parklar olabiliyor
-
-467
-00:24:21,299 --> 00:24:23,299
-dolayı bir yaklaşım bu
-
-468
-00:24:23,299 --> 00:24:25,299
-orada
-
-469
-00:24:25,299 --> 00:24:27,359
-yani %2.4 diyorsun sen
-
-470
-00:24:27,359 --> 00:24:31,730
-abi yani %2.4
-
-471
-00:24:31,730 --> 00:24:33,730
-zorunlu sigorta pirimi
-
-472
-00:24:33,730 --> 00:24:35,730
-kimse almaz abi
-
-473
-00:24:35,730 --> 00:24:37,730
-yani ihtiyari olsa 50.000 lira
-
-474
-00:24:37,730 --> 00:24:39,730
-içinde verebileyim
-
-475
-00:24:39,730 --> 00:24:41,730
-eee
-
-476
-00:24:41,730 --> 00:24:43,730
-su
-
-477
-00:24:43,730 --> 00:24:45,730
-hepsi olduğunda
-
-478
-00:24:45,730 --> 00:24:47,730
-belki birbirlerine alın o da birine
-
-479
-00:24:47,730 --> 00:24:54,119
-sabırlayan olması lazım
-
-480
-00:24:54,119 --> 00:24:56,119
-hocam bu arada
-
-481
-00:24:56,119 --> 00:24:58,119
-isterseniz şu harita üzerinden
-
-482
-00:24:58,119 --> 00:25:00,119
-net okuyalım da
-
-483
-00:25:00,119 --> 00:25:05,730
-şu grup olayı işte aynen
-
-484
-00:25:05,730 --> 00:25:08,119
-bir ülkeye geliyor
-
-485
-00:25:08,119 --> 00:25:10,119
-bizim sonuçlar İstanbul çünkü
-
-486
-00:25:10,119 --> 00:25:14,640
-bu bilgör çok alakalı hayır bir şey
-
-487
-00:25:14,640 --> 00:25:17,509
-şeyin görülüyorsun ne büyük terörü
-
-488
-00:25:17,509 --> 00:25:19,509
-kez ırtından dolayı
-
-489
-00:25:19,509 --> 00:25:21,509
-ne dimi o düzgün ekspoji var ne bu var
-
-490
-00:25:21,509 --> 00:25:23,509
-değil mi
-
-491
-00:25:23,509 --> 00:25:26,950
-dastı mesela bilgörler de abi
-
-492
-00:25:26,950 --> 00:25:28,950
-şey vardı hocam ben sıralamıştım onları da
-
-493
-00:25:28,950 --> 00:25:30,950
-biraz vakit alır bak
-
-494
-00:25:30,950 --> 00:25:32,950
-bu bakıyım istiyorsanız
-
-495
-00:25:32,950 --> 00:25:34,950
-bir bölge olarak 2. bölge
-
-496
-00:25:34,950 --> 00:25:36,950
-işaretlemişsin ırtada
-
-497
-00:25:36,950 --> 00:25:38,950
-biz bölgesi iki be
-
-498
-00:25:38,950 --> 00:25:40,950
-biz zannettim ben TI bir açısına kaçın
-
-499
-00:25:40,950 --> 00:25:42,950
-sırada gibi
-
-500
-00:25:42,950 --> 00:25:45,490
-yok yok yani risk
-
-501
-00:25:45,490 --> 00:25:47,490
-tam kesişme yeri hocam
-
-502
-00:25:47,490 --> 00:25:49,680
-şeyin de
-
-503
-00:25:49,680 --> 00:25:52,160
-şeyin de bir önce
-
-504
-00:25:52,160 --> 00:25:55,410
-mahalle bazı bakarsak şurada
-
-505
-00:25:55,410 --> 00:25:57,410
-şu şu şekilde
-
-506
-00:25:57,410 --> 00:26:00,500
-çoğu girden oluşuyor
-
-507
-00:26:00,500 --> 00:26:02,500
-birinci deprem bölgesi ama ortalama
-
-508
-00:26:02,500 --> 00:26:04,500
-da baktığımızda 1.63 o yüzden 2 diye
-
-509
-00:26:04,500 --> 00:26:10,980
-işaret ettim
-
-510
-00:26:10,980 --> 00:26:12,980
-ama İstanbul'a bakarsak hocam
-
-511
-00:26:12,980 --> 00:26:14,980
-bilgör kıyasizden çıken çok uç
-
-512
-00:26:14,980 --> 00:26:18,039
-bir şey görmek
-
-513
-00:26:18,039 --> 00:26:20,769
-gerçekten nasıl 12 kata arttırmak
-
-514
-00:26:20,769 --> 00:26:22,769
-çok şey ama İstanbul'a baktığımızda
-
-515
-00:26:22,769 --> 00:26:24,769
-2.13'den 8.70 köşe önerisi var
-
-516
-00:26:24,769 --> 00:26:27,059
-hani
-
-517
-00:26:27,059 --> 00:26:29,059
-4 katta az değil de
-
-518
-00:26:29,059 --> 00:26:31,829
-16.000 liraydı
-
-519
-00:26:31,829 --> 00:26:35,490
-ben mesela en son
-
-520
-00:26:35,490 --> 00:26:37,490
-dast için
-
-521
-00:26:37,490 --> 00:26:47,680
-2-3.000 lira para ödedim sohadeyi
-
-522
-00:26:47,680 --> 00:26:50,000
-bir şey vardı aslında hocam
-
-523
-00:26:50,000 --> 00:26:52,000
-yani 2-3.000 lira ödedim
-
-524
-00:26:52,000 --> 00:26:54,000
-tam hatırlamıyorum da
-
-525
-00:26:54,000 --> 00:26:58,660
-16.000 lira çok pahalı değil mi
-
-526
-00:26:58,660 --> 00:27:00,660
-bulabilirliği olmaz
-
-527
-00:27:00,660 --> 00:27:04,420
-düşünsene
-
-528
-00:27:04,420 --> 00:27:09,039
-17.000 lira değil de
-
-529
-00:27:09,039 --> 00:27:11,039
-yürocesinde
-
-530
-00:27:11,039 --> 00:27:13,039
-4.000 lira falan
-
-531
-00:27:13,039 --> 00:27:15,039
-3.000 lira
-
-532
-00:27:15,039 --> 00:27:17,039
-yani milleti açtıktan kırılıyor
-
-533
-00:27:17,039 --> 00:27:19,039
-4.000 lira nereden versin
-
-534
-00:27:19,039 --> 00:27:22,200
-hocam
-
-535
-00:27:22,200 --> 00:27:24,200
-burada ben bir soru sorabilir miyim
-
-536
-00:27:24,200 --> 00:27:26,200
+334
+00:18:22,500 --> 00:18:23,500
 bu
 
-537
-00:27:26,200 --> 00:27:28,200
-buna bir makul bir şey yapmak lazım
-
-538
-00:27:28,200 --> 00:27:30,200
-onu demeye çalışacağım
-
-539
-00:27:30,200 --> 00:27:32,200
-bu semeo
-
-540
-00:27:32,200 --> 00:27:34,200
-açıkçası ben tam kafamda oturtamadım
-
-541
-00:27:34,200 --> 00:27:36,200
-sermaye mahalletörüm
-
-542
-00:27:36,200 --> 00:27:38,200
-şuan için
-
-543
-00:27:38,200 --> 00:27:40,200
-5-15
-
-544
-00:27:40,200 --> 00:27:42,200
-ama tam neye tekavül ediyor
-
-545
-00:27:42,200 --> 00:27:44,200
-bunun artımsak ne oluyor
-
-546
-00:27:44,200 --> 00:27:46,200
-yükselsek ne oluyor
-
-547
-00:27:46,200 --> 00:27:48,200
-evet onu bir sordum
-
-548
-00:27:48,200 --> 00:27:50,420
-ben şöyle anlatıyorum
-
-549
-00:27:50,420 --> 00:27:52,420
-sen gidiyorsun tamam mı
-
-550
-00:27:52,420 --> 00:27:55,000
-bir işinlik diyorsun ki
-
-551
-00:27:55,000 --> 00:27:57,000
-en kötü 100 yıl
-
-552
-00:27:57,000 --> 00:28:00,019
-diyorsun ki abi diyorsun
-
-553
-00:28:00,019 --> 00:28:02,019
-benim kapital ihtiyacım 100 milyon
-
-554
-00:28:02,019 --> 00:28:04,309
-kafadan attım yani
-
-555
-00:28:04,309 --> 00:28:06,309
-100 milyon bir kapital ihtiyacım var
-
-556
-00:28:06,309 --> 00:28:08,400
-yani böyle bir deprem bulursa
-
-557
-00:28:08,400 --> 00:28:10,400
-en kötü 100 ıslık bir
-
-558
-00:28:10,400 --> 00:28:13,329
-şeyde
-
-559
-00:28:13,329 --> 00:28:15,970
-ve tl'de
-
-560
-00:28:15,970 --> 00:28:17,970
-100 milyon
-
-561
-00:28:17,970 --> 00:28:20,069
-benim kapital ihtiyacım var
-
-562
-00:28:20,069 --> 00:28:22,069
-100 milyon için
-
-563
-00:28:22,069 --> 00:28:25,440
-bir başvuruda bulursun
-
-564
-00:28:25,440 --> 00:28:27,440
-gidiyorsun ne bileyim kimi başvuruyorsun
-
-565
-00:28:27,440 --> 00:28:29,440
-bana bakıyorsun diyorsun ki 100 milyon lira
-
-566
-00:28:29,440 --> 00:28:31,509
-senden
-
-567
-00:28:31,509 --> 00:28:33,509
-benim ihtiyacım var
-
-568
-00:28:33,509 --> 00:28:36,019
-ben diyorum ki tamam
-
-569
-00:28:36,019 --> 00:28:38,019
-ben sana 100 milyon veririm ama
-
-570
-00:28:38,019 --> 00:28:40,019
-sen bana
-
-571
-00:28:40,019 --> 00:28:42,019
-bana bir maliyeti var bu 100 milyonu
-
-572
-00:28:42,019 --> 00:28:44,119
-her yıl
-
-573
-00:28:44,119 --> 00:28:46,660
-100 milyonu
-
-574
-00:28:46,660 --> 00:28:48,660
-100 do'nu kadar
-
-575
-00:28:48,660 --> 00:28:52,519
-10 milyon yani
-
-576
-00:28:52,519 --> 00:28:54,519
-100 milyon hissedin ya
-
-577
-00:28:54,519 --> 00:28:56,519
-100 milyonu 10 milyonu
-
-578
-00:28:56,519 --> 00:28:58,799
-10 milyonu
-
-579
-00:28:58,799 --> 00:29:00,799
-10 milyon nere ödeyeceksin
-
-580
-00:29:00,799 --> 00:29:05,039
-çünkü onun bana bir maliyeti var
-
-581
-00:29:05,039 --> 00:29:07,400
-yani uç olayın
-
-582
-00:29:07,400 --> 00:29:09,400
-benim maliyetini
-
-583
-00:29:09,400 --> 00:29:11,680
-kaç yılda toparlayacağım
-
-584
-00:29:11,680 --> 00:29:13,720
-ama
-
-585
-00:29:13,720 --> 00:29:15,720
-yani uç olay etmesin
-
-586
-00:29:15,720 --> 00:29:17,720
-yani ben tefekiyim tamam mı
-
-587
-00:29:17,720 --> 00:29:20,450
-ben bir kapital sahibi
-
-588
-00:29:20,450 --> 00:29:23,250
-benimde 100 milyon var tamam mı
-
-589
-00:29:23,250 --> 00:29:34,400
-ben 100 milyonu
-
-590
-00:29:34,400 --> 00:29:38,319
-ben hiçbir şey yapmasam
-
-591
-00:29:38,319 --> 00:29:40,319
-en aşağı yıl
-
-592
-00:29:40,319 --> 00:29:44,150
-ben gitsem bu bankayı yatırsam
-
-593
-00:29:44,150 --> 00:29:46,240
-geleceksin de bu 110 milyon lira olacak
-
-594
-00:29:46,240 --> 00:29:48,309
-tamam mı
-
-595
-00:29:48,309 --> 00:29:50,309
-ben bunu sana veriyorum
-
-596
-00:29:50,309 --> 00:29:52,309
-ben hiç kendini riski atmasam
-
-597
-00:29:52,309 --> 00:29:57,349
-ben burada
-
-598
-00:29:57,349 --> 00:30:00,690
-10 milyon lira para kazanacağım
-
-599
-00:30:00,690 --> 00:30:03,589
-sana satacaksın ben
-
-600
-00:30:03,589 --> 00:30:13,240
-ben bu sana 10 milyon isterim
-
-601
-00:30:13,240 --> 00:30:15,240
-yani ben sana
-
-602
-00:30:15,240 --> 00:30:17,240
-para satarken
-
-603
-00:30:17,240 --> 00:30:22,819
-o para da para kazanıyorum
-
-604
-00:30:22,819 --> 00:30:31,539
-şu olursa sana 100 milyon vereceğim
-
-605
-00:30:31,539 --> 00:30:33,539
-yani o zaman
-
-606
-00:30:33,539 --> 00:30:35,539
-şey oluyor değil mi
-
-607
-00:30:35,539 --> 00:30:37,539
-100 milyon bir şey olursa
-
-608
-00:30:37,539 --> 00:30:39,539
-ben sana 100 milyon vereceğim evet
-
-609
-00:30:39,539 --> 00:30:41,539
-bu 100 milyonu
-
-610
-00:30:41,539 --> 00:30:43,539
-geri
-
-611
-00:30:43,539 --> 00:30:45,539
-kazanmak için de
-
-612
-00:30:45,539 --> 00:30:47,539
-eğer sm 0.1
-
-613
-00:30:47,539 --> 00:30:50,660
-10 yılda
-
-614
-00:30:50,660 --> 00:30:52,660
-kazanıyorum
-
-615
-00:30:52,660 --> 00:30:54,660
-o anlamı yani 10 yıl
-
-616
-00:30:54,660 --> 00:30:56,880
-10 yıl boyunca alırsam
-
-617
-00:30:56,880 --> 00:30:58,880
-bu çeşit bir aile
-
-618
-00:30:58,880 --> 00:31:01,269
-ben 100 yıllık losu
-
-619
-00:31:01,269 --> 00:31:03,269
-tutmuş oluyorum
-
-620
-00:31:03,269 --> 00:31:07,700
-yani kazanmış oluyor
-
-621
-00:31:07,700 --> 00:31:13,829
-şimdi ben
-
-622
-00:31:13,829 --> 00:31:41,269
-diyorum ki
-
-623
-00:31:41,269 --> 00:31:45,000
-ben anladığımı anladım
-
-624
-00:31:45,000 --> 00:31:47,349
-yıldan beri
-
-625
-00:31:47,349 --> 00:31:50,279
-tekrar hareketlerini izliyorum
-
-626
-00:31:50,279 --> 00:31:52,500
-bir ortalama da
-
-627
-00:31:52,500 --> 00:31:54,500
-her yıl
-
-628
-00:31:54,500 --> 00:31:56,529
-ortalama da
-
-629
-00:31:56,529 --> 00:32:04,200
-her yıl 5 liralık
-
-630
-00:32:04,200 --> 00:32:06,200
-beyaz rengine
-
-631
-00:32:06,200 --> 00:32:08,769
-sadık dedi kendini
-
-632
-00:32:08,769 --> 00:32:11,029
-bekletsin
-
-633
-00:32:11,029 --> 00:32:13,279
-ortalama da her yıl
-
-634
-00:32:13,279 --> 00:32:16,079
-5 liralık deprem asar olduğunu
-
-635
-00:32:16,079 --> 00:32:18,369
-görüyorum oldu mu
-
-636
-00:32:18,369 --> 00:32:20,369
-10 bin yıllık bir süreç içerisinde
-
-637
-00:32:20,369 --> 00:32:23,200
-5 yıllık bir deprem asar
-
-638
-00:32:23,200 --> 00:32:25,200
-10 bin yıllık süreç içerisinde
-
-639
-00:32:25,200 --> 00:32:27,359
-küçük depremler, büyük depremler
-
-640
-00:32:27,359 --> 00:32:29,809
-hepsi oluyor
-
-641
-00:32:29,809 --> 00:32:31,809
-ortalama da 5 liralık
-
-642
-00:32:31,809 --> 00:32:34,549
-benim elimde bir asar olduğunu
-
-643
-00:32:34,549 --> 00:32:37,000
-tamam mı?
-
-644
-00:32:37,000 --> 00:32:39,599
-ben diyorum ki o zaman
-
-645
-00:32:39,599 --> 00:32:42,599
-ben bu durumda
-
-646
-00:32:42,599 --> 00:32:46,839
-eğer 5 lira her yıl
-
-647
-00:32:46,839 --> 00:32:53,640
-bir köşeye koyarsam
-
-648
-00:32:53,640 --> 00:32:56,720
-büyük bir deprem olduğumda
-
-649
-00:32:56,720 --> 00:32:58,720
-ben bu asarı
-
-650
-00:32:58,720 --> 00:33:01,750
-bir şekilde öderim
-
-651
-00:33:01,750 --> 00:33:05,059
-tamam mı?
-
-652
-00:33:05,059 --> 00:33:07,160
-10 bin liralık bir değer olsun
-
-653
-00:33:07,160 --> 00:33:09,160
-tamam mı?
-
-654
-00:33:09,160 --> 00:33:11,160
-ben her sebebimde
-
-655
-00:33:11,160 --> 00:33:13,160
-5 liralık ortalama da
-
-656
-00:33:13,160 --> 00:33:15,160
-10 bin yıl içerisinde
-
-657
-00:33:15,160 --> 00:33:19,240
-şey yaparsam
-
-658
-00:33:19,240 --> 00:33:21,240
-5 lira toplarsam
-
-659
-00:33:21,240 --> 00:33:23,559
-bu elimin değerini
-
-660
-00:33:23,559 --> 00:33:28,339
-50 liralık beklerim
-
-661
-00:33:28,339 --> 00:33:30,630
-inşallah doğru alınacağım
-
-662
-00:33:30,630 --> 00:33:32,630
-ondan sonra
-
-663
-00:33:32,630 --> 00:33:34,630
-5 lira 5 lira biriktireceğim
-
-664
-00:33:34,630 --> 00:33:39,759
-sonuç tibayla
-
-665
-00:33:39,759 --> 00:33:43,269
-bu deprem böyle
-
-666
-00:33:43,269 --> 00:33:45,269
-200 yıl biriktirmem lazım
-
-667
-00:33:45,269 --> 00:33:49,380
-değil mi abi?
-
-668
-00:33:49,380 --> 00:33:51,640
-200 yıl biriktirmem lazım
-
-669
-00:33:51,640 --> 00:33:53,640
-200 yılda çok büyük bir deprem de olabilir
-
-670
-00:33:53,640 --> 00:33:55,640
-yani 5 lirada
-
-671
-00:33:55,640 --> 00:33:57,640
-kısa kalabilirim ben değil mi?
-
-672
-00:33:57,640 --> 00:33:59,640
-hatta biz 10 bin yılda
-
-673
-00:33:59,640 --> 00:34:01,640
-aile olmasını
-
-674
-00:34:01,640 --> 00:34:03,640
-10 bin yılda topladığımızı
-
-675
-00:34:03,640 --> 00:34:05,640
-aile ediyoruz yani
-
-676
-00:34:05,640 --> 00:34:07,640
-evet yani 10 bin yıllık bir süreç içerisinde
-
-677
-00:34:07,640 --> 00:34:09,760
-yani hani
-
-678
-00:34:09,760 --> 00:34:11,760
-hatta şöyle bir şey düşün
-
-679
-00:34:11,760 --> 00:34:13,760
-bir insan
-
-680
-00:34:13,760 --> 00:34:15,960
-yani 10 bin yıllık bir
-
-681
-00:34:15,960 --> 00:34:19,969
-şey yapmaz
-
-682
-00:34:19,969 --> 00:34:21,969
-orkestin yapmaz herhalde
-
-683
-00:34:21,969 --> 00:34:24,840
-10 yıllık 5 yıllık üç yapar değil mi?
-
-684
-00:34:24,840 --> 00:34:26,840
-sonuçta bir
-
-685
-00:34:26,840 --> 00:34:28,840
-100 bin liralık bir riskim var
-
-686
-00:34:28,840 --> 00:34:30,840
-ben böyle 200 yıl para biriktireyim
-
-687
-00:34:30,840 --> 00:34:32,840
-oradan bunun demek yani
-
-688
-00:34:32,840 --> 00:34:43,960
-bu riskim
-
-689
-00:34:43,960 --> 00:34:45,960
-o zaman da diyor ki
-
-690
-00:34:45,960 --> 00:34:47,960
-ben böyle bir şey yapmayayım diyor yani
-
-691
-00:34:47,960 --> 00:34:52,320
-5 liralık bir şeyim var
-
-692
-00:34:52,320 --> 00:34:54,320
-minimumda biriktirmem gerekenlik
-
-693
-00:34:54,320 --> 00:34:56,389
-para var ama diyor
-
-694
-00:34:56,389 --> 00:34:58,389
-10 bin liralık evinde
-
-695
-00:34:58,389 --> 00:35:00,449
-belki en kötü bir
-
-696
-00:35:00,449 --> 00:35:03,159
-100 yıl var
-
-697
-00:35:03,159 --> 00:35:05,159
-bu 100 yılda da
-
-698
-00:35:05,159 --> 00:35:07,159
-benim elimde
-
-699
-00:35:07,159 --> 00:35:09,159
-yani benim elimde
-
-700
-00:35:09,159 --> 00:35:11,730
-bu evin 1000 liralık evinde
-
-701
-00:35:11,730 --> 00:35:13,730
-evini şey yapabilmek için
-
-702
-00:35:13,730 --> 00:35:23,349
-aslında
-
-703
-00:35:23,349 --> 00:35:25,570
-75 liraya daha ihtiyacım
-
-704
-00:35:25,570 --> 00:35:27,570
-hatırlıyorum
-
-705
-00:35:27,570 --> 00:35:29,570
-yani bunu ben
-
-706
-00:35:29,570 --> 00:35:31,730
-şimdik ne oldu
-
-707
-00:35:31,730 --> 00:35:33,730
-bir 5 lira 5 lira alıyorum
-
-708
-00:35:33,730 --> 00:35:36,789
-bir yılda
-
-709
-00:35:36,789 --> 00:35:38,789
-80
-
-710
-00:35:38,789 --> 00:35:41,039
-bu evin kağıt
-
-711
-00:35:41,039 --> 00:35:43,039
-işte 10 yıllık bir
-
-712
-00:35:43,039 --> 00:35:45,199
-şey yaptım
-
-713
-00:35:45,199 --> 00:35:49,030
-12 yıllık
-
-714
-00:35:49,030 --> 00:35:51,030
-12.5 yıl
-
-715
-00:35:51,030 --> 00:35:53,030
-bir şirket için değil bir şey
-
-716
-00:35:53,030 --> 00:35:55,409
-12.5 yıl
-
-717
-00:35:55,409 --> 00:35:57,409
-bir perspektif yaptım
-
-718
-00:35:57,409 --> 00:35:59,409
-12.5 yılda
-
-719
-00:35:59,409 --> 00:36:01,860
-yılda içerisinde
-
-720
-00:36:01,860 --> 00:36:03,860
-yani en kötü yüzyılda
-
-721
-00:36:03,860 --> 00:36:05,920
-ulaşabilecek bir şey de
-
-722
-00:36:05,920 --> 00:36:07,920
-12.5 yıl ayıldım
-
-723
-00:36:07,920 --> 00:36:09,920
-12.5 yıl ayıldım
-
-724
-00:36:09,920 --> 00:36:11,920
-ben bunun parasını aldım
-
-725
-00:36:11,920 --> 00:36:13,920
-o 100 yılda 75 lira
-
-726
-00:36:13,920 --> 00:36:15,920
-işletebilirim yani aynı zamanda
-
-727
-00:36:15,920 --> 00:36:20,519
-ben gidiyorum
-
-728
-00:36:20,519 --> 00:36:23,250
-bu 75 lira için
-
-729
-00:36:23,250 --> 00:36:25,250
-sinana diyorum ki
-
-730
-00:36:25,250 --> 00:36:27,250
-bana 75 lira ver
-
-731
-00:36:27,250 --> 00:36:31,780
-sinana diyor ki ben sana 75 lira veririm
-
-732
-00:36:31,780 --> 00:36:33,780
-yani 75 lira vereceğim ben sana
-
-733
-00:36:33,780 --> 00:36:37,380
-ama ben 75 liraya sana
-
-734
-00:36:37,380 --> 00:36:40,210
-diyor
-
-735
-00:36:40,210 --> 00:36:42,880
-alacaksan bana
-
-736
-00:36:42,880 --> 00:36:49,590
-7.5 lira verirsen
-
-737
-00:36:49,590 --> 00:36:51,650
-100 doğum bensenden terim alırım
-
-738
-00:36:51,650 --> 00:36:55,119
-buldum
-
-739
-00:36:55,119 --> 00:36:57,219
-bu aslında şey
-
-740
-00:36:57,219 --> 00:36:59,219
-gidiyorum
-
-741
-00:36:59,219 --> 00:37:01,219
-75 lira bensinde versem
-
-742
-00:37:01,219 --> 00:37:03,219
-hiç bir şey yapmasam
-
-743
-00:37:03,219 --> 00:37:05,250
-kolumu oynatmasam
-
-744
-00:37:05,250 --> 00:37:11,889
-ben zaten buna 7.5 lira kazanıyorum
-
-745
-00:37:11,889 --> 00:37:19,650
-sen bana
-
-746
-00:37:19,650 --> 00:37:21,650
-bu 7.5 lira sen ver
-
-747
-00:37:21,650 --> 00:37:25,090
-o yüzden
-
-748
-00:37:25,090 --> 00:37:27,090
-ben niye paramı sokaklattım ki
-
-749
-00:37:27,090 --> 00:37:29,090
-nurullah istedi ben bu parayı
-
-750
-00:37:29,090 --> 00:37:31,539
-ben nurullah şirketine
-
-751
-00:37:31,539 --> 00:37:33,539
-bu 75 lira verirken
-
-752
-00:37:33,539 --> 00:37:35,539
-bir ondan bir kâr etmek istiyor
-
-753
-00:37:35,539 --> 00:37:50,760
-paradan para kazanıyorum
-
-754
-00:37:50,760 --> 00:37:52,760
-sen bu 75 lira alıp belki
-
-755
-00:37:52,760 --> 00:37:56,320
-şey yapacaksın abi
-
-756
-00:37:56,320 --> 00:37:58,320
-onu yapıyorlar bütün şirki bütün şey yapıyor
-
-757
-00:37:58,320 --> 00:38:00,519
-%11'den
-
-758
-00:38:00,519 --> 00:38:02,519
-bunu sen 8.25 lira
-
-759
-00:38:02,519 --> 00:38:06,880
-yapacaksın ben
-
-760
-00:38:06,880 --> 00:38:10,360
-anlatabildin mi
-
-761
-00:38:10,360 --> 00:38:16,159
-o zaman bu sana
-
-762
-00:38:16,159 --> 00:38:19,639
-5 lira alıyorsun zaten 8.25 lira
-
-763
-00:38:19,639 --> 00:38:45,670
-biriktirdin işte
-
-764
-00:38:45,670 --> 00:38:48,980
-bir şekilde
-
-765
-00:38:48,980 --> 00:38:51,489
-sigortalıya yansıtıyor
-
-766
-00:38:51,489 --> 00:38:53,719
-şimdi
-
-767
-00:38:53,719 --> 00:38:55,719
-ben ona söylüyorum
-
-768
-00:38:55,719 --> 00:38:57,909
-yani
-
-769
-00:38:57,909 --> 00:39:00,039
-burada senin anlattığı
-
-770
-00:39:00,039 --> 00:39:02,039
-akademik anlamda kıymetli de
-
-771
-00:39:02,039 --> 00:39:06,849
-yasmin içine yarın diyor
-
-772
-00:39:06,849 --> 00:39:17,750
-zorunlu sigortalıda ben bunu ne yapayım
-
-773
-00:39:17,750 --> 00:39:27,110
-verolunası açısından
-
-774
-00:39:27,110 --> 00:39:29,110
-aslında daha önce de anlattık
-
-775
-00:39:29,110 --> 00:39:31,110
-zaten hocam
-
-776
-00:39:31,110 --> 00:39:33,110
-bu önceki bulaşmalarımızda
-
-777
-00:39:33,110 --> 00:39:35,110
-şu anda da elimizde
-
-778
-00:39:35,110 --> 00:39:37,110
-parametriye falan geçemedik zaten
-
-779
-00:39:37,110 --> 00:39:39,110
-baskın
-
-780
-00:39:39,110 --> 00:39:41,110
-şu an başka bir
-
-781
-00:39:41,110 --> 00:39:43,110
-o şey dedi
-
-782
-00:39:43,110 --> 00:39:45,239
-son durumumuzu bir konutalım dedi
-
-783
-00:39:45,239 --> 00:39:47,239
-son durum bundan
-
-784
-00:39:47,239 --> 00:40:07,539
-başka bir şey yok zaten
-
-785
-00:40:07,539 --> 00:40:12,070
-buna adama şey diyorsun
-
-786
-00:40:12,070 --> 00:40:14,070
-%11 1.35
-
-787
-00:40:14,070 --> 00:40:16,070
-eğer %15 yaparsan
-
-788
-00:40:16,070 --> 00:40:18,840
-bu yani adama ki
-
-789
-00:40:18,840 --> 00:40:22,210
-tınlamaz ki
-
-790
-00:40:22,210 --> 00:40:24,210
-bir şey yapamayacağını biliyoruz
-
-791
-00:40:24,210 --> 00:40:26,210
-aslında yasmin hocam
-
-792
-00:40:26,210 --> 00:40:28,210
-onu talep etmişlerdi
-
-793
-00:40:28,210 --> 00:40:30,210
-Türkiye'cik tek bir oran vermek
-
-794
-00:40:30,210 --> 00:40:32,210
-yani verseniz bu kocuk diyor
-
-795
-00:40:32,210 --> 00:40:34,369
-yasmin da
-
-796
-00:40:34,369 --> 00:40:41,780
-burada mevcutun 3 katı falan oluyor
-
-797
-00:40:41,780 --> 00:40:43,780
-bir 90'li var ya bunun içinde
-
-798
-00:40:43,780 --> 00:40:47,349
-agente kârif ne olur yani
-
-799
-00:40:47,349 --> 00:40:49,409
-buna da aynı değil aslında
-
-800
-00:40:49,409 --> 00:40:51,409
-bu şey sadece
-
-801
-00:40:51,409 --> 00:40:53,699
-baskın açıkladı saf birim
-
-802
-00:40:53,699 --> 00:41:02,260
-ya saf birim
-
-803
-00:41:02,260 --> 00:41:04,260
-ama bu mevzuatı iyi öğrendi arkadaşlar
-
-804
-00:41:04,260 --> 00:41:06,260
-bunun içerisinde
-
-805
-00:41:06,260 --> 00:41:13,219
-şu sen
-
-806
-00:41:13,219 --> 00:41:18,960
-rütbeli almıyor musun
-
-807
-00:41:18,960 --> 00:41:20,960
-agentanın kârifi var
-
-808
-00:41:20,960 --> 00:41:22,960
-baskın operasyon ve faaliyeti var
-
-809
-00:41:22,960 --> 00:41:25,960
-bu saf birim değil
-
-810
-00:41:25,960 --> 00:41:27,960
-ama şöyle hocam
-
-811
-00:41:27,960 --> 00:41:29,960
-mesela benim 1000 liralık bir evim var diyelim
-
-812
-00:41:29,960 --> 00:41:31,960
-ben de direkt gitsen bugün yaptırsam
-
-813
-00:41:31,960 --> 00:41:34,820
-direkt 282 liram oluyor
-
-814
-00:41:34,820 --> 00:41:36,820
-bu tamamen agente uygulaması öz elimden
-
-815
-00:41:36,820 --> 00:41:38,820
-sorumda bir şeyin de değil
-
-816
-00:41:38,820 --> 00:41:40,820
-bu kofisyon teri uyguluyor işte
-
-817
-00:41:40,820 --> 00:41:42,820
-anlıyor musun
-
-818
-00:41:42,820 --> 00:41:45,239
-niye kofisyon teri
-
-819
-00:41:45,239 --> 00:41:47,239
-büyütsünlar ki
-
-820
-00:41:47,239 --> 00:41:54,789
-orada
-
-821
-00:41:54,789 --> 00:42:08,050
-içerisinde hepsi var
-
-822
-00:42:08,050 --> 00:42:10,050
-kârı da var operasyon olarak
-
-823
-00:42:10,050 --> 00:42:12,820
-baskın maaliyeti de var
-
-824
-00:42:12,820 --> 00:42:37,599
-hepsi var abi
-
-825
-00:42:37,599 --> 00:42:41,519
-sen diyorsun ki
-
-826
-00:42:41,519 --> 00:42:43,519
-hâlim bir baskın ortalığısı
-
-827
-00:42:43,519 --> 00:42:45,519
-o tabloya göre
-
-828
-00:42:45,519 --> 00:42:47,519
-1000'de 1.90
-
-829
-00:42:47,519 --> 00:42:51,570
-değil mi
-
-830
-00:42:51,570 --> 00:42:53,570
-her bir ricen yıldos
-
-831
-00:42:53,570 --> 00:43:08,760
-1000'de 1.71
-
-832
-00:43:08,760 --> 00:43:11,909
-1.91
-
-833
-00:43:11,909 --> 00:43:23,800
-bu tür keşfede alt külpere
-
-834
-00:43:23,800 --> 00:43:37,480
-nasıl yeteneği lazım
-
-835
-00:43:37,480 --> 00:43:39,480
-hocam burada
-
-836
-00:43:39,480 --> 00:43:41,480
-işte mesela sermaye maaliyet oranı
-
-837
-00:43:41,480 --> 00:43:43,480
-değiştirdikçe
-
-838
-00:43:43,480 --> 00:43:45,480
-mesela 5 yapınca
-
-839
-00:43:45,480 --> 00:43:47,480
-bu sefer
-
-840
-00:43:47,480 --> 00:43:49,480
-yarısı olmasa da
-
-841
-00:43:49,480 --> 00:43:51,480
-6.49'da
-
-842
-00:43:51,480 --> 00:43:53,480
-3.60 bile inmiş
-
-843
-00:43:53,480 --> 00:43:55,480
-mesela
-
-844
-00:43:55,480 --> 00:43:57,480
-bunları
-
-845
-00:43:57,480 --> 00:43:59,480
-değiştirdebilir parametreler olarak
-
-846
-00:43:59,480 --> 00:44:01,480
-sunmak
-
-847
-00:44:01,480 --> 00:44:04,019
-yok abi
-
-848
-00:44:04,019 --> 00:44:08,289
-bir şey söyleyeceğim
-
-849
-00:44:08,289 --> 00:44:10,289
-toplam sigorta bedeliniz var değil mi
-
-850
-00:44:10,289 --> 00:44:15,679
-bütün exposure için
-
-851
-00:44:15,679 --> 00:44:18,159
-like'la yazıyorsa yazıyordur
-
-852
-00:44:18,159 --> 00:44:20,159
-yazmıyormuş ama var yani elimizde
-
-853
-00:44:20,159 --> 00:44:31,670
-toplam
-
-854
-00:44:31,670 --> 00:44:33,670
-daha sıkı bir şey
-
-855
-00:44:33,670 --> 00:44:37,110
-toplam sigorta bedelini
-
-856
-00:44:37,110 --> 00:44:39,300
-bir oy
-
-857
-00:44:39,300 --> 00:44:42,389
-çubatayı
-
-858
-00:44:42,389 --> 00:44:45,539
-Euro
-
-859
-00:44:45,539 --> 00:44:47,539
-Merkez Bankası 28 Şubat
-
-860
-00:44:47,539 --> 00:44:52,710
-2021
-
-861
-00:44:52,710 --> 00:44:56,280
-28 Şubat
-
-862
-00:44:56,280 --> 00:44:58,469
-Şubat
-
-863
-00:44:58,469 --> 00:45:00,469
-28 Şubat
-
-864
-00:45:00,469 --> 00:45:02,469
-1 Mart
-
-865
-00:45:02,469 --> 00:45:04,880
-1 Mart
-
-866
-00:45:04,880 --> 00:45:07,559
-Merkez Bankası
-
-867
-00:45:07,559 --> 00:45:09,559
-Merkez Bankası
-
-868
-00:45:09,559 --> 00:45:11,559
-1 Mart
-
-869
-00:45:11,559 --> 00:45:14,320
-2020
-
-870
-00:45:14,320 --> 00:45:38,469
-Döviz Kurulu
-
-871
-00:45:38,469 --> 00:45:40,469
-ben hemen şey istiyorum
-
-872
-00:45:40,469 --> 00:46:00,800
-gider şey geldi şurada bir
-
-873
-00:46:00,800 --> 00:46:15,059
-böyle arardı
-
-874
-00:46:15,059 --> 00:46:25,159
-1 Mart, 20 Mart
-
-875
-00:46:25,159 --> 00:46:27,159
-1 Mart hafta son diye
-
-876
-00:46:27,159 --> 00:46:29,670
-2 Mart oldu
-
-877
-00:46:29,670 --> 00:46:31,670
-Euro
-
-878
-00:46:31,670 --> 00:46:33,800
-51.47
-
-879
-00:46:33,800 --> 00:46:35,860
-abi 51.47 sen
-
-880
-00:46:35,860 --> 00:46:37,860
-bir şey böyle er misin
-
-881
-00:46:37,860 --> 00:46:40,630
-toplam kaç trilyon
-
-882
-00:46:40,630 --> 00:46:43,429
-12.2
-
-883
-00:46:43,429 --> 00:46:46,519
-bu da
-
-884
-00:46:46,519 --> 00:46:50,469
-237 milyar
-
-885
-00:46:50,469 --> 00:47:07,349
-237 milyar
-
-886
-00:47:07,349 --> 00:47:09,349
-sen
-
-887
-00:47:09,349 --> 00:47:22,389
-1000'e
-
-888
-00:47:22,389 --> 00:47:24,389
-tekrar bir sunumuna
-
-889
-00:47:24,389 --> 00:47:26,579
-1000'e 1.91
-
-890
-00:47:26,579 --> 00:47:28,579
-yap da 1000'e 1.91
-
-891
-00:47:28,579 --> 00:47:30,840
-1000'e 0.73
-
-892
-00:47:30,840 --> 00:47:32,840
-1000'e 6.9
-
-893
-00:47:32,840 --> 00:47:34,840
-hepsi de görsene
-
-894
-00:47:34,840 --> 00:47:36,840
-1.91
-
-895
-00:47:36,840 --> 00:47:38,840
-1000 yaptım
-
-896
-00:47:38,840 --> 00:47:41,250
-453
-
-897
-00:47:41,250 --> 00:47:53,110
-453 milyon
-
-898
-00:47:53,110 --> 00:47:58,469
-bir aile yaparsam
-
-899
-00:47:58,469 --> 00:48:07,760
-şu anları değiştireceğim
-
-900
-00:48:07,760 --> 00:48:11,909
-aynen
-
-901
-00:48:11,909 --> 00:48:17,809
-teknik biri
-
-902
-00:48:17,809 --> 00:48:25,119
-6.49'u alıyorum
-
-903
-00:48:25,119 --> 00:48:28,630
-bu senelik toplücağı para
-
-904
-00:48:28,630 --> 00:48:32,159
-neyi toplücağı para değil
-
-905
-00:48:32,159 --> 00:48:35,000
-öyle değil mi hocam
-
-906
-00:48:35,000 --> 00:48:37,000
-bu şey kümülü bu
-
-907
-00:48:37,000 --> 00:48:39,000
-bu pirimleri alırsa
-
-908
-00:48:39,000 --> 00:48:43,460
-abi gelecek sene bu kadar büyük bir deprim olacağını nereden biliyorum
-
-909
-00:48:43,460 --> 00:48:45,460
-ama bu pirim depremden bağımsız değil mi
-
-910
-00:48:45,460 --> 00:48:50,599
-malzazına gelen para
-
-911
-00:48:50,599 --> 00:48:55,860
-aslında hocam
-
-912
-00:48:55,860 --> 00:48:57,860
-1.5 milyar Euro
-
-913
-00:48:57,860 --> 00:49:03,030
-bir adamın kasasına girer mi ya
-
-914
-00:49:03,030 --> 00:49:05,030
-bu 453 milyon Euro'dan bile
-
-915
-00:49:05,030 --> 00:49:07,030
-nasfın kasasına girer mi
-
-916
-00:49:07,030 --> 00:49:09,030
-ne bileyim yani
-
-917
-00:49:09,030 --> 00:49:11,030
-düşük temin de
-
-918
-00:49:11,030 --> 00:49:13,030
-onu da biri filan de
-
-919
-00:49:13,030 --> 00:49:16,440
-ve belki de
-
-920
-00:49:16,440 --> 00:49:18,440
-neden öyle düşünüyorsunuz hocam
-
-921
-00:49:18,440 --> 00:49:20,880
-453 milyon Euro
-
-922
-00:49:20,880 --> 00:49:22,880
-bunun içine agente kârı var
-
-923
-00:49:22,880 --> 00:49:24,880
-operasyonel maliyetler var hepsi var
-
-924
-00:49:24,880 --> 00:49:29,960
-hepsi var
-
-925
-00:49:29,960 --> 00:49:31,960
-sen şey diyorsun
-
-926
-00:49:31,960 --> 00:49:33,960
-ben ABD
-
-927
-00:49:33,960 --> 00:49:35,960
-hesaplısak teknik pirim olarak
-
-928
-00:49:35,960 --> 00:49:39,489
-173 milyon Euro
-
-929
-00:49:39,489 --> 00:49:48,760
-tutmak gerekiyor
-
-930
-00:49:48,760 --> 00:49:50,820
-tam böyle yaklaşımlarda bulmak lazım
-
-931
-00:49:50,820 --> 00:49:52,820
-ben bir bunun şey yapayım
-
-932
-00:49:52,820 --> 00:49:54,820
-baksın Burak'a
-
-933
-00:49:54,820 --> 00:49:56,619
-ne
-
-934
-00:49:56,619 --> 00:50:01,719
-böyle sunmayın arkadaşlar
-
-935
-00:50:01,719 --> 00:50:03,719
-Burak da zaten çok daha cümya bir adam
-
-936
-00:50:03,719 --> 00:50:05,719
-bunu gidip bağıt krepi anlatır
-
-937
-00:50:05,719 --> 00:50:07,719
-bir hatta anlatır mı
-
-938
-00:50:07,719 --> 00:50:18,780
-yani aslında hocam
-
-939
-00:50:18,780 --> 00:50:20,780
-geçen haftalarda
-
-940
-00:50:20,780 --> 00:50:22,780
-dediğim gibi şey
-
-941
-00:50:22,780 --> 00:50:24,909
-hani bu
-
-942
-00:50:24,909 --> 00:50:26,909
-şeyleri paylaştık falan zaten
-
-943
-00:50:26,909 --> 00:50:33,000
-yine benzer şeyler vardı
-
-944
-00:50:33,000 --> 00:50:35,000
-öyle bir şey olmayacağını biliyorum
-
-945
-00:50:35,000 --> 00:50:54,920
-evet doğru söylüyorum
-
-946
-00:50:54,920 --> 00:50:57,239
-yani şunun bana bir görev
-
-947
-00:50:57,239 --> 00:50:59,239
-bunun zaten değil de
-
-948
-00:50:59,239 --> 00:51:01,239
-şu şey bir şeyin zaten benimle beğenim durdu
-
-949
-00:51:01,239 --> 00:51:03,440
-şu bir yemek yiyeyim de
-
-950
-00:51:03,440 --> 00:51:08,599
-hiçbir şey yiyemedim daha
-
-951
-00:51:08,599 --> 00:51:11,690
-çok akademik bir şey ya
-
-952
-00:51:11,690 --> 00:51:27,420
-daha böyle bir şey olmaz yani
-
-953
-00:51:27,420 --> 00:51:29,480
-tartışmak lazım
-
-954
-00:51:29,480 --> 00:51:31,480
-abi ben size Aslı'yla
-
-955
-00:51:31,480 --> 00:51:33,610
-parametriyi yazıyordum
-
-956
-00:51:33,610 --> 00:51:35,710
-o da yarıda kaldı
-
-957
-00:51:35,710 --> 00:51:44,489
-hani hangi birimi yapacaksın ki
-
-958
-00:51:44,489 --> 00:51:46,880
-ben ona bir yazayım
-
-959
-00:51:46,880 --> 00:51:48,880
-olmazsa oraya onu musun
-
-960
-00:51:48,880 --> 00:51:50,880
-yani bunu şu şekilde sun
-
-961
-00:51:50,880 --> 00:51:52,880
-yani bunu şu şekilde sunmak
-
-962
-00:51:52,880 --> 00:51:54,880
-iyi olabilir de yani bu böyle
-
-963
-00:51:54,880 --> 00:51:56,880
-olmaz yani
-
-964
-00:51:56,880 --> 00:51:59,130
-1000'de 649
-
-965
-00:51:59,130 --> 00:52:01,130
-sonra o Türkiye için dediğim vakit abi
-
-966
-00:52:01,130 --> 00:52:05,789
-3 aşağı 5 yukarı sen
-
-967
-00:52:05,789 --> 00:52:07,789
-bir nokta 2 milyar euro
-
-968
-00:52:07,789 --> 00:52:10,079
-bir
-
-969
-00:52:10,079 --> 00:52:12,079
-paranın olması gerektiğini söylüyorsun
-
-970
-00:52:12,079 --> 00:52:19,159
-30 milyar euro paranın olması
-
-971
-00:52:19,159 --> 00:52:31,599
-gerektiğini söylüyorsun
-
-972
-00:52:31,599 --> 00:52:36,539
-bu bir de bir buçuk onaylı bir şey ya
-
-973
-00:52:36,539 --> 00:52:54,570
-dedik olarak değil mi
-
-974
-00:52:54,570 --> 00:52:56,570
-uygulanabilir
-
-975
-00:52:56,570 --> 00:52:58,570
-yani bir yanı yok bence de bulun ama
-
-976
-00:52:58,570 --> 00:53:00,570
-hani en azında onları da
-
-977
-00:53:00,570 --> 00:53:02,570
-şey anlamında bir teknik alt yapısınlar mı
-
-978
-00:53:02,570 --> 00:53:04,570
-bu hep yükseltmek istediklerini söylüyor
-
-979
-00:53:04,570 --> 00:53:06,639
-ebe akrıbe
-
-980
-00:53:06,639 --> 00:53:08,800
-böyle de bir bilimsel
-
-981
-00:53:08,800 --> 00:53:12,880
-alt yapı var
-
-982
-00:53:12,880 --> 00:53:15,389
-sen öyle şeyden
-
-983
-00:53:15,389 --> 00:53:17,389
-ben 173 milyon euro
-
-984
-00:53:17,389 --> 00:53:19,480
-bir adana bir anlar
-
-985
-00:53:19,480 --> 00:53:21,480
-müfade edip şey diyebilirsin
-
-986
-00:53:21,480 --> 00:53:23,480
-173 milyon euro olup
-
-987
-00:53:23,480 --> 00:53:26,670
-bir şey sen şu anda
-
-988
-00:53:26,670 --> 00:53:28,670
-işte DAS krimlerinden
-
-989
-00:53:28,670 --> 00:53:30,670
-keserleşikler
-
-990
-00:53:30,670 --> 00:53:32,670
-453 milyon euro
-
-991
-00:53:32,670 --> 00:53:35,559
-bir ara dönüyor
-
-992
-00:53:35,559 --> 00:53:37,559
-sanki haliyle
-
-993
-00:53:37,559 --> 00:53:39,559
-453 milyon euro içerisinde
-
-994
-00:53:39,559 --> 00:53:41,559
-173 milyon euro
-
-995
-00:53:41,559 --> 00:53:44,559
-bunu takip edebilecek mektare
-
-996
-00:53:44,559 --> 00:53:50,110
-net net şeyler söyledi
-
-997
-00:53:50,110 --> 00:53:53,420
-6 kat aktırdığın vakit
-
-998
-00:53:53,420 --> 00:53:55,739
-7 kat aktırdığın vakit
-
-999
-00:53:55,739 --> 00:53:57,739
-1 milyar 540 milyon euro
-
-1000
-00:53:57,739 --> 00:53:59,739
-tutman mı
-
-1001
-00:53:59,739 --> 00:54:32,400
-gerekiyor
-
-1002
-00:54:32,400 --> 00:54:34,400
-birazcık bunun üstüne bir şey düşünce
-
-1003
-00:54:34,400 --> 00:54:36,460
-şu
-
-1004
-00:54:36,460 --> 00:54:39,260
-sddk ile ilgili
-
-1005
-00:54:39,260 --> 00:54:42,059
-bitti mi şey nurlu da
-
-1006
-00:54:42,059 --> 00:54:44,059
-ulan bitti ben
-
-1007
-00:54:44,059 --> 00:54:46,059
-böyle bir son kontrolüleri
-
-1008
-00:54:46,059 --> 00:54:48,059
-yani tekrardan bir şey yapıyorum
-
-1009
-00:54:48,059 --> 00:54:50,059
-hani isterseniz nasıl yapalım atalım
-
-1010
-00:54:50,059 --> 00:54:52,059
-bugün
-
-1011
-00:54:52,059 --> 00:54:54,250
-valla şöyle bir şey yapalım abi
-
-1012
-00:54:54,250 --> 00:54:58,679
-şöyle bir şey yapalım
-
-1013
-00:54:58,679 --> 00:55:00,679
-bunlarda biraz train yapmamız lazım
-
-1014
-00:55:00,679 --> 00:55:02,679
-arkadaşlar bir defa şeyler söylemek için
-
-1015
-00:55:02,679 --> 00:55:05,579
-yani oradaki işleyişi çok iyi anlamak lazım
-
-1016
-00:55:05,579 --> 00:55:07,579
-evet hocam ordu da
-
-1017
-00:55:07,579 --> 00:55:09,579
-konuşmamız gereken
-
-1018
-00:55:09,579 --> 00:55:11,579
-noktalar var
-
-1019
-00:55:11,579 --> 00:55:14,090
-evet
-
-1020
-00:55:14,090 --> 00:55:16,090
-bugün tam sabahın
-
-1021
-00:55:16,090 --> 00:55:19,530
-köründen beri kütülmene
-
-1022
-00:55:19,530 --> 00:55:22,519
-yap konuşuyorum
-
-1023
-00:55:22,519 --> 00:55:24,650
-yaşı yapıyorum
-
-1024
-00:55:24,650 --> 00:55:26,650
-o arada kalan öyle bir sunum yaptı ki
-
-1025
-00:55:26,650 --> 00:55:28,650
-evlere rukuteşen bir sunum
-
-1026
-00:55:28,650 --> 00:55:33,980
-herkese
-
-1027
-00:55:33,980 --> 00:55:35,980
-bir şey yapalım
-
-1028
-00:55:35,980 --> 00:55:38,360
-bir şey yapalım
-
-1029
-00:55:38,360 --> 00:55:40,360
-evet hocam ordu da konuşmamız gereken
-
-1030
-00:55:40,360 --> 00:55:45,400
-evlere rukuteşen bir sunum
-
-1031
-00:55:45,400 --> 00:55:47,849
-herkese apıştı kaldı yani
-
-1032
-00:55:47,849 --> 00:55:49,849
-herhalde karşıdakiler
-
-1033
-00:55:49,849 --> 00:55:51,849
-pek bir şey çıkaramamış hocam
-
-1034
-00:55:51,849 --> 00:55:53,849
-tam impress oldu yani
-
-1035
-00:55:53,849 --> 00:55:55,849
-acayip impress oldu karşılıkdakiler
-
-1036
-00:55:55,849 --> 00:55:58,880
-hiçbir şey çıkartamamışlar
-
-1037
-00:55:58,880 --> 00:56:00,880
-tam impress oldu yani
-
-1038
-00:56:00,880 --> 00:56:02,969
-öyle güzel bir anlattık yani
-
-1039
-00:56:02,969 --> 00:56:04,969
-o adamda anaetik kafa çok yüksek
-
-1040
-00:56:04,969 --> 00:56:07,260
-seviye yani
-
-1041
-00:56:07,260 --> 00:56:09,260
-şöyle bir şey abi
-
-1042
-00:56:09,260 --> 00:56:16,889
-ben bir şeyler gelip
-
-1043
-00:56:16,889 --> 00:56:18,889
-şu menisi deneyelim
-
-1044
-00:56:18,889 --> 00:56:21,150
-yakan üstünden gidebilir mi hocam
-
-1045
-00:56:21,150 --> 00:56:24,429
-ya da gelin bilir
-
-1046
-00:56:24,429 --> 00:56:26,429
-yani hocam şöyle
-
-1047
-00:56:26,429 --> 00:56:28,880
-gidebiliriz
-
-1048
-00:56:28,880 --> 00:56:31,710
-gönder
-
-1049
-00:56:31,710 --> 00:56:33,710
-göndermeyin
-
-1050
-00:56:33,710 --> 00:56:36,219
-çünkü sabah
-
-1051
-00:56:36,219 --> 00:56:44,170
-evet
-
-1052
-00:56:44,170 --> 00:56:46,170
-iyi olur hocam zaten aynen
-
-1053
-00:56:46,170 --> 00:56:48,170
-size sormam gereken noktalar da var
-
-1054
-00:56:48,170 --> 00:56:50,170
-yani isterseniz şöyle söyleyeyim
-
-1055
-00:56:50,170 --> 00:56:52,170
-melis konusunu
-
-1056
-00:56:52,170 --> 00:56:54,170
-ben size çok özle
-
-1057
-00:56:54,170 --> 00:56:56,170
-aynen geçeyim
-
-1058
-00:56:56,170 --> 00:56:58,170
-ben bir çay vermelisin
-
-1059
-00:56:58,170 --> 00:57:00,170
-görmek zorunda değilim
-
-1060
-00:57:00,170 --> 00:57:02,170
-ayıp olmasın kıza
-
-1061
-00:57:02,170 --> 00:57:04,170
-en son bir rapor
-
-1062
-00:57:04,170 --> 00:57:06,170
-çıkartır ona ince bakarsınız
-
-1063
-00:57:06,170 --> 00:57:08,170
-ama ben durumu
-
-1064
-00:57:08,170 --> 00:57:10,170
-aktarma kadını size hızlıca
-
-1065
-00:57:10,170 --> 00:57:12,170
-söyleyebilirim yani
-
-1066
-00:57:12,170 --> 00:57:14,170
-sen de şey dersin o zaman
-
-1067
-00:57:14,170 --> 00:57:16,300
-gel
-
-1068
-00:57:16,300 --> 00:57:18,300
-yeri denk geldi konuştuk dersin
-
-1069
-00:57:18,300 --> 00:57:20,360
-olur mu
-
-1070
-00:57:20,360 --> 00:57:22,360
-yazık şey yapmasın
-
-1071
-00:57:22,360 --> 00:57:24,360
-yine yarın daha detaylı konuşuruz
-
-1072
-00:57:24,360 --> 00:57:26,360
-ben şeye açısından diyorum
-
-1073
-00:57:26,360 --> 00:57:28,360
-şu seyrede kadar acelesi
-
-1074
-00:57:28,360 --> 00:57:30,360
-olduğu için
-
-1075
-00:57:30,360 --> 00:57:32,360
-bir de şu an görünen o ki
-
-1076
-00:57:32,360 --> 00:57:34,360
-zaten şu testranları
-
-1077
-00:57:34,360 --> 00:57:36,940
-alınması
-
-1078
-00:57:36,940 --> 00:57:38,940
-zaman alacağı için
-
-1079
-00:57:38,940 --> 00:57:40,940
-tillerin hemen bu akşam
-
-1080
-00:57:40,940 --> 00:57:42,940
-bitmesi gerekiyor gibi bir durumda
-
-1081
-00:57:42,940 --> 00:57:44,940
-açıkçası
-
-1082
-00:57:44,940 --> 00:57:47,070
-şey yok öyle bir şey kalmadı
-
-1083
-00:57:47,070 --> 00:57:49,070
-ben de şey istiyorum
-
-1084
-00:57:49,070 --> 00:57:51,070
-açık söyleyeyim
-
-1085
-00:57:51,070 --> 00:57:53,070
-melisi biraz poşetmek
-
-1086
-00:57:53,070 --> 00:57:55,230
-yani anlatabilir miyim yoksa
-
-1087
-00:57:55,230 --> 00:57:57,230
-yok aslında hocam şöyle
-
-1088
-00:57:57,230 --> 00:57:59,230
-zaten melis yapması
-
-1089
-00:57:59,230 --> 00:58:01,230
-gerekenleri bitirdi
-
-1090
-00:58:01,230 --> 00:58:03,230
-strakçır ve content için
-
-1091
-00:58:03,230 --> 00:58:05,230
-tüm kombinasyonlarda
-
-1092
-00:58:05,230 --> 00:58:07,230
-modelleri çıkardı
-
-1093
-00:58:07,230 --> 00:58:09,230
-üzerinden bir
-
-1094
-00:58:09,230 --> 00:58:11,230
-ben tekrar melis diye oturup
-
-1095
-00:58:11,230 --> 00:58:13,230
-geçeceğim ama bugün hiç
-
-1096
-00:58:13,230 --> 00:58:15,230
-işte şu seyrede kaydı uğraştığım için
-
-1097
-00:58:15,230 --> 00:58:17,230
-şey yapamadım arada bir konuştuk
-
-1098
-00:58:17,230 --> 00:58:19,230
-sonra yaptı bitirdi hocam
-
-1099
-00:58:19,230 --> 00:58:21,230
-şöyle bir sıkıntımız var o konuda
-
-1100
-00:58:21,230 --> 00:58:23,260
-bir ay da var hocam
-
-1101
-00:58:23,260 --> 00:58:25,260
-biliyorum
-
-1102
-00:58:25,260 --> 00:58:27,260
-bir ayı nasıl yapacağız
-
-1103
-00:58:27,260 --> 00:58:29,519
-yani zaten veiki
-
-1104
-00:58:29,519 --> 00:58:31,519
-yani vulnerability olsa
-
-1105
-00:58:31,519 --> 00:58:33,519
-onun kotları var
-
-1106
-00:58:33,519 --> 00:58:35,519
-işte zaten yöntemi belli
-
-1107
-00:58:35,519 --> 00:58:37,519
-ama veiki de ne
-
-1108
-00:58:37,519 --> 00:58:39,519
-yeniden üretebileceğimiz bir yöntem var
-
-1109
-00:58:39,519 --> 00:58:41,519
-ne işte hani
-
-1110
-00:58:41,519 --> 00:58:43,519
-o beni biraz şey yaptı
-
-1111
-00:58:43,519 --> 00:58:45,519
-endişelendirdi
-
-1112
-00:58:45,519 --> 00:58:47,519
-valla ben o konuda şöyle
-
-1113
-00:58:47,519 --> 00:58:49,519
-bir teklifi mi olacak size
-
-1114
-00:58:49,519 --> 00:58:51,519
-yani
-
-1115
-00:58:51,519 --> 00:58:53,519
-rainforest concrete
-
-1116
-00:58:53,519 --> 00:58:54,519
-neyse
-
-1117
-00:58:54,519 --> 00:58:55,519
-mesela retail trade'in
-
-1118
-00:58:55,519 --> 00:58:57,519
-rainforest concrete bir ayı neyse
-
-1119
-00:58:57,519 --> 00:58:59,519
-şeyi de ona kopyalayalım
-
-1120
-00:58:59,519 --> 00:59:01,519
-gibi çok
-
-1121
-00:59:01,519 --> 00:59:03,519
-çok absurt bir teklifi bilmiyorum ama
-
-1122
-00:59:03,519 --> 00:59:05,519
-yani
-
-1123
-00:59:05,519 --> 00:59:07,519
-yani şuan çünkü
-
-1124
-00:59:07,519 --> 00:59:09,519
-aklıma bir şey gelmiyor yani
-
-1125
-00:59:09,519 --> 00:59:11,519
-tamam
-
-1126
-00:59:11,519 --> 00:59:13,519
-benim aklıma bir şeyler gelmesi için
-
-1127
-00:59:13,519 --> 00:59:15,519
-aklımın çalışması için bir yemek yemem lazım
-
-1128
-00:59:15,519 --> 00:59:17,519
-tamam hocam
-
-1129
-00:59:17,519 --> 00:59:19,519
-bir şey yiyin de ondan sonra
-
-1130
-00:59:19,519 --> 00:59:21,769
-konuşalım oldu mu
-
-1131
-00:59:21,769 --> 00:59:23,769
-tamam
-
-1132
-00:59:23,769 --> 00:59:25,769
-sağolasın sağolasın herhalde görüşürüz
-
-1133
-00:59:25,769 --> 00:59:59,840
-bak
-
-1134
-00:59:59,840 --> 01:00:01,840
-takçı komutan tamamen bitti değil mi
-
-1135
-01:00:01,840 --> 01:00:03,840
-model şey olarak hazır yani
-
-1136
-01:00:03,840 --> 01:00:06,059
-egzersiz
-
-1137
-01:00:06,059 --> 01:00:08,059
-tamam
-
-1138
-01:00:08,059 --> 01:00:11,179
-şey
-
-1139
-01:00:11,179 --> 01:00:13,179
-hocayı da o söyledim o şekilde
-
-1140
-01:00:13,179 --> 01:00:15,179
-takçı komutan serbiyetti
-
-1141
-01:00:15,179 --> 01:00:17,179
-yani şimdi işte o başka bir şey konuşuyordu
-
-1142
-01:00:17,179 --> 01:00:19,179
-konuştu
-
-1143
-01:00:19,179 --> 01:00:21,179
-bir ay konuştu mu
-
-1144
-01:00:21,179 --> 01:00:23,179
-söyledim bir ay da
-
-1145
-01:00:23,179 --> 01:00:25,469
-hazırmış dedim ne yapacağız
-
-1146
-01:00:25,469 --> 01:00:27,469
-işte hocaya dedi ben bir dinlemeyim
-
-1147
-01:00:27,469 --> 01:00:29,469
-konuşuruz sonra dedi
-
-1148
-01:00:29,469 --> 01:00:31,469
-yani şuan otopişte buluşalım
-
-1149
-01:00:31,469 --> 01:00:33,469
-şeyi herhalde olmayacak gibi
-
-1150
-01:00:33,469 --> 01:00:35,469
-yani
-
-1151
-01:00:35,469 --> 01:00:37,469
-yani yahu falan diyorum
-
-1152
-01:00:37,469 --> 01:00:39,469
-yani bir de ben şeyi dedim yani
-
-1153
-01:00:39,469 --> 01:00:41,690
-bir de
-
-1154
-01:00:41,690 --> 01:00:43,690
-bir ayda
-
-1155
-01:00:43,690 --> 01:00:45,690
-bir de şöyle bir gelişme de var
-
-1156
-01:00:45,690 --> 01:00:47,690
-hocam
-
-1157
-01:00:47,690 --> 01:00:49,690
-buranın alınabilmesi için
-
-1158
-01:00:49,690 --> 01:00:51,690
-diğer şeylerin
-
-1159
-01:00:51,690 --> 01:00:53,690
-bitmesi gerekiyor
-
-1160
-01:00:53,690 --> 01:00:55,690
-onların bitmesi de
-
-1161
-01:00:55,690 --> 01:00:57,690
-yani oradan yirmi ve alt yirmi yedi
-
-1162
-01:00:57,690 --> 01:00:59,690
-onların bitmesi de işte
-
-1163
-01:00:59,690 --> 01:01:01,690
-şu kod mevrularından dolayı
-
-1164
-01:01:01,690 --> 01:01:03,690
-eski koda çekildi ya
-
-1165
-01:01:03,690 --> 01:01:05,690
-çok yavaş yüzer diyor
-
-1166
-01:01:05,690 --> 01:01:07,690
-onlar da birkaç gün alacak
-
-1167
-01:01:07,690 --> 01:01:09,690
-haftayı falan bulacak o
-
-1168
-01:01:09,690 --> 01:01:11,690
-onların bitmesi
-
-1169
-01:01:11,690 --> 01:01:13,690
-o yüzden şuan stil bugün bitmesi
-
-1170
-01:01:13,690 --> 01:01:15,690
-bugün yarın bitmesi gerekiyor
-
-1171
-01:01:15,690 --> 01:01:17,690
-biraz azaldı yani
-
-1172
-01:01:17,690 --> 01:01:24,460
-ee yok
-
-1173
-01:01:24,460 --> 01:01:26,780
-diğerleri şey yapar
-
-1174
-01:01:26,780 --> 01:01:42,119
+335
+00:18:23,500 --> 00:18:25,500
+şey konuşmuştuk.
+
+336
+00:18:25,500 --> 00:18:27,500
+Kendimiz ayrı bir gruplama yapınca
+
+337
+00:18:28,500 --> 00:18:30,500
+onlar kendi gruplarıyla
+
+338
+00:18:30,500 --> 00:18:32,500
+yani Das gruplarıyla bir daha karışabiliyor.
+
+339
+00:18:33,500 --> 00:18:35,500
+Örneğin 1. grupta
+
+340
+00:18:35,500 --> 00:18:37,500
+2-82
+
+341
+00:18:37,500 --> 00:18:39,500
+burada 24 çıkmış
+
+342
+00:18:39,500 --> 00:18:41,500
+ama halbuki bu 1. grupta
+
+343
+00:18:41,500 --> 00:18:42,500
+aynı değil yani
+
+344
+00:18:42,500 --> 00:18:44,500
+Das gruplarıyla
+
+345
+00:18:44,500 --> 00:18:47,019
+bizim burada 1. grupta dediğimiz
+
+346
+00:18:47,019 --> 00:18:49,019
+burada bizim 1. grupta
+
+347
+00:18:49,019 --> 00:18:51,019
+şurada 1000 gör mesela sadece 1000 gör
+
+348
+00:18:51,019 --> 00:18:53,019
+ama Das gruplarıyla 1. grupta
+
+349
+00:18:53,019 --> 00:18:54,019
+başka bir şey.
+
+350
+00:18:54,019 --> 00:18:55,019
+Yani o yüzden
+
+351
+00:18:55,019 --> 00:18:57,019
+burada bir kavram karmaşası yaşanıyor.
+
+352
+00:18:57,019 --> 00:18:58,140
+Sanki
+
+353
+00:18:58,140 --> 00:19:00,140
+2-82'den 24'de
+
+354
+00:19:00,140 --> 00:19:02,140
+çıkmasını teklif ediyormuşuz gibi bir
+
+355
+00:19:02,140 --> 00:19:04,210
+kert not ağale
+
+356
+00:19:04,210 --> 00:19:06,210
+yani bu kuyruk duyarlı değil mi?
+
+357
+00:19:06,210 --> 00:19:07,210
+Evet hocam
+
+358
+00:19:07,210 --> 00:19:08,210
+evet kuyruk duyuyor.
+
+359
+00:19:08,210 --> 00:19:11,140
+%10 olmuyor bak.
+
+360
+00:19:11,140 --> 00:19:12,140
+Evet %10 oldu.
+
+361
+00:19:12,140 --> 00:19:14,140
+İçin altta da %5 ve %15
+
+362
+00:19:14,140 --> 00:19:15,140
+opisyonları var hocam.
+
+363
+00:19:15,140 --> 00:19:16,140
+Doğru.
+
+364
+00:19:16,140 --> 00:19:17,140
+Ama şöyle bir şey var.
+
+365
+00:19:17,140 --> 00:19:18,140
+%10'u niye
+
+366
+00:19:18,140 --> 00:19:20,710
+bu şey yaptın?
+
+367
+00:19:20,710 --> 00:19:21,710
+doldu ya.
+
+368
+00:19:22,710 --> 00:19:24,710
+Yani bazı olarak %10'la gittin.
+
+369
+00:19:24,710 --> 00:19:26,710
+Bugün hep %10 konuştuk diye hocam.
+
+370
+00:19:26,710 --> 00:19:27,710
+Anladım.
+
+371
+00:19:28,710 --> 00:19:30,710
+Peki ben bir şey sorayım.
+
+372
+00:19:36,000 --> 00:19:38,000
+Nurulığa doğru mu aldım şimdi?
+
+373
+00:19:38,000 --> 00:19:41,000
+Bizim bu 1. grupte dediğimiz
+
+374
+00:19:41,000 --> 00:19:42,000
 onların
 
-1175
-01:01:42,119 --> 01:01:44,119
-dağın bağlı
+375
+00:19:42,000 --> 00:19:44,000
+1. grupt risk bölgelerine
 
-1176
-01:01:44,119 --> 01:01:46,119
-dağın bağlı
+376
+00:19:44,000 --> 00:19:46,539
+tekaber eden şeyler değil.
 
-1177
-01:01:46,119 --> 01:01:48,119
-dağın bağlı olacak yani
+377
+00:19:46,539 --> 00:19:48,539
+Evet hocam değil.
 
-1178
-01:01:50,349 --> 01:01:52,349
-onunla yarın konuşuruz
+378
+00:19:48,539 --> 00:19:50,539
+Sen baştan uca işte
 
-1179
-01:01:52,349 --> 01:01:54,349
-yani sen hafta rıcaksın
+379
+00:19:50,539 --> 00:19:52,539
+bin küsur tane ilçeyi sıraladın.
 
-1180
-01:01:54,349 --> 01:01:56,349
-sonra geri sarsak
+380
+00:19:52,539 --> 00:19:53,960
+Onların...
 
-1181
-01:01:56,349 --> 01:01:58,349
-çok işin var yani
+381
+00:19:53,960 --> 00:19:54,960
+İli asılında?
 
-1182
-01:01:58,349 --> 01:02:00,349
-bir yer geldi
+382
+00:19:54,960 --> 00:19:55,960
+Evet hocam.
 
-1183
-01:02:00,349 --> 01:02:03,599
-bir yer sarsak
+383
+00:19:55,960 --> 00:19:57,960
+Bu ille 81'i üzerinden.
 
-1184
-01:02:03,599 --> 01:02:05,599
-yani sen beklemene gerek yok
+384
+00:19:57,960 --> 00:19:59,990
+81'i üzerinden.
 
-1185
-01:02:05,599 --> 01:02:07,599
-hocam ben bir yemek yiyeceğim
+385
+00:19:59,990 --> 00:20:01,990
+Niye bunların mahallesi
+
+386
+00:20:01,990 --> 00:20:04,990
+ilçe bazında yapmak daha muhakkut değil miydi?
+
+387
+00:20:04,990 --> 00:20:07,089
+Bu çalışmada hocam
+
+388
+00:20:07,089 --> 00:20:08,089
+il bazı çalıştık.
+
+389
+00:20:08,089 --> 00:20:09,660
+Anladım.
+
+390
+00:20:09,660 --> 00:20:10,660
+Peki illere göre
+
+391
+00:20:10,660 --> 00:20:12,660
+en yüksekten en küçüğe süre
+
+392
+00:20:12,660 --> 00:20:15,890
+81'i 7 bölgeye böldün yani.
+
+393
+00:20:15,890 --> 00:20:16,890
+Evet hocam.
+
+394
+00:20:16,890 --> 00:20:17,890
+Değerli üzerinden çıkan.
+
+395
+00:20:17,890 --> 00:20:18,890
+Evet.
+
+396
+00:20:18,890 --> 00:20:21,890
+Tamamen şahsi bir hiçbir şey yok.
+
+397
+00:20:21,890 --> 00:20:23,890
+Peki böyle olduğu vakit
+
+398
+00:20:23,890 --> 00:20:24,890
+primi
+
+399
+00:20:24,890 --> 00:20:26,890
+yani şey yaptın mı?
+
+400
+00:20:26,890 --> 00:20:28,890
+Mesela şu anda mevcutta
+
+401
+00:20:28,890 --> 00:20:31,890
+dans yeni 2 milyon, 3 milyon bir şeyler yaptı.
+
+402
+00:20:31,890 --> 00:20:33,890
+Mesela 3 milyon, 2,5 milyon
+
+403
+00:20:33,890 --> 00:20:34,890
+bu ne yaptı?
+
+404
+00:20:34,890 --> 00:20:35,890
+İyi mi?
+
+405
+00:20:35,890 --> 00:20:37,890
+Maksimum korumayı.
+
+406
+00:20:37,890 --> 00:20:39,299
+Yanlış.
+
+407
+00:20:39,299 --> 00:20:41,299
+Geçenlerde sarı kasetinde
+
+408
+00:20:41,299 --> 00:20:42,299
+görülmüştü o.
+
+409
+00:20:42,299 --> 00:20:43,299
+Hani şey...
+
+410
+00:20:43,299 --> 00:20:47,380
+Nereden gidebiliriz hocam?
+
+411
+00:20:47,380 --> 00:20:49,380
+Mesela şöyle bir hesap.
+
+412
+00:20:49,380 --> 00:20:50,380
+Bugün kümül değerini
+
+413
+00:20:50,380 --> 00:20:52,380
+191'le çarparsa
+
+414
+00:20:52,380 --> 00:20:55,269
+bir değer çıkar.
+
+415
+00:20:55,269 --> 00:20:56,269
+1000'de 649'a
+
+416
+00:20:56,269 --> 00:20:59,170
+çıkarsa işin her şey.
+
+417
+00:20:59,170 --> 00:21:01,170
+Ya 1,5 milyon lira...
+
+418
+00:21:01,170 --> 00:21:02,839
+2 milyon lira diye sen.
+
+419
+00:21:02,839 --> 00:21:03,839
+Tamam.
+
+420
+00:21:03,839 --> 00:21:08,140
+Şunu Matus'un metrioteleden
+
+421
+00:21:08,140 --> 00:21:10,299
+toplam sigam tabiriyle.
+
+422
+00:21:10,299 --> 00:21:12,460
+Yani şöyle bir şey yapalım.
+
+423
+00:21:12,460 --> 00:21:14,200
+Mesela çıkmayacağım.
+
+424
+00:21:14,200 --> 00:21:16,200
+2 milyon lira yaptım.
+
+425
+00:21:16,200 --> 00:21:17,460
+2 milyon
+
+426
+00:21:17,460 --> 00:21:18,460
+çarpı.
+
+427
+00:21:18,460 --> 00:21:22,019
+Ne diyorsun?
+
+428
+00:21:22,019 --> 00:21:24,180
+Gerçekten
+
+429
+00:21:24,180 --> 00:21:27,069
+2,5 milyon lira yaptım.
+
+430
+00:21:27,069 --> 00:21:28,809
+Değil mi?
+
+431
+00:21:28,809 --> 00:21:30,829
+Değil mi?
+
+432
+00:21:30,829 --> 00:21:32,470
+Değil mi?
+
+433
+00:21:32,470 --> 00:21:34,849
+Evet.
+
+434
+00:21:34,849 --> 00:21:35,849
+Böyle bin değil mi?
+
+435
+00:21:35,849 --> 00:21:37,710
+Binden 2.
+
+436
+00:21:37,710 --> 00:21:40,700
+5600 Türk lira.
+
+437
+00:21:40,700 --> 00:21:43,220
+Şu anda 5600 Türk lira.
+
+438
+00:21:43,220 --> 00:21:46,849
+2 milyon lütfen.
+
+439
+00:21:46,849 --> 00:21:51,529
+5600 Türk lira.
+
+440
+00:21:51,529 --> 00:21:54,420
+Peki.
+
+441
+00:21:54,420 --> 00:21:56,410
+Şöyle yapalım.
+
+442
+00:21:56,410 --> 00:22:07,779
+2,5600 Türk lira.
+
+443
+00:22:07,779 --> 00:22:13,660
+1 milyon lira.
+
+444
+00:22:13,660 --> 00:22:16,670
+Böyle bin.
+
+445
+00:22:16,670 --> 00:22:18,670
+Yani aylık 50.000 lira.
+
+446
+00:22:18,670 --> 00:22:19,670
+50.000 lira.
+
+447
+00:22:19,670 --> 00:22:20,670
+Evet yani.
+
+448
+00:22:20,670 --> 00:22:29,809
+Sadece 2,5.000 lira
+
+449
+00:22:29,809 --> 00:23:02,140
+ilvermeni var.
+
+450
+00:23:02,140 --> 00:23:04,170
+Şimdi tam 3 günden beri arıyorsunuz.
+
+451
+00:23:04,170 --> 00:23:06,170
+3 günden beri evet
+
+452
+00:23:06,170 --> 00:23:07,170
+yani açıyorum.
+
+453
+00:23:07,170 --> 00:23:09,170
+Boş bir şey yani.
+
+454
+00:23:09,170 --> 00:23:10,170
+Hiç...
+
+455
+00:23:10,170 --> 00:23:19,299
+Kesinlikle.
+
+456
+00:23:19,299 --> 00:23:42,119
+Allah'ım pardon.
+
+457
+00:23:42,119 --> 00:23:43,119
+Sert abi.
+
+458
+00:23:43,119 --> 00:23:45,119
+Hocam bu arada o sizin dedinize
+
+459
+00:23:45,119 --> 00:23:47,119
+sağlık tabi otomatik olarak
+
+460
+00:23:47,119 --> 00:23:49,119
+işte Buğra, Balkır Bey falan da
+
+461
+00:23:49,119 --> 00:23:50,119
+yapıyor.
+
+462
+00:23:50,119 --> 00:23:52,700
+Ve bu rakamlar
+
+463
+00:23:52,700 --> 00:23:54,700
+görüntü tabi
+
+464
+00:23:54,700 --> 00:23:55,700
+şey oluyor.
+
+465
+00:23:56,700 --> 00:23:59,210
+Yani çok aşırı şeyler.
+
+466
+00:23:59,210 --> 00:24:01,210
+Çok aşırı şeyler yani.
+
+467
+00:24:01,210 --> 00:24:02,210
+8.500
+
+468
+00:24:02,210 --> 00:24:03,210
+Şimdi şöyle.
+
+469
+00:24:03,210 --> 00:24:04,210
+İşte İstanbul vardır.
+
+470
+00:24:04,210 --> 00:24:10,049
+Mesela bırakılırlar.
+
+471
+00:24:10,049 --> 00:24:12,049
+İstanbul hocam şeyde 4 dakika oluyor.
+
+472
+00:24:12,049 --> 00:24:16,480
+Düşünsene.
+
+473
+00:24:16,480 --> 00:24:17,480
+Yani hep şey var.
+
+474
+00:24:17,480 --> 00:24:19,480
+Teoriyle uygulama arasında
+
+475
+00:24:19,480 --> 00:24:21,480
+çok büyük farklar olabiliyor.
+
+476
+00:24:21,480 --> 00:24:23,480
+Gülay bir yaklaşım bu.
+
+477
+00:24:23,480 --> 00:24:25,480
+Orada yani
+
+478
+00:24:25,480 --> 00:24:27,539
+100'de 2.4 diyorsun sen.
+
+479
+00:24:27,539 --> 00:24:31,910
+Abi yani 100'de 2.4
+
+480
+00:24:31,910 --> 00:24:33,910
+zorunlu sigorta primi
+
+481
+00:24:33,910 --> 00:24:34,910
+kimse almaz abi.
+
+482
+00:24:34,910 --> 00:24:35,910
+Yani
+
+483
+00:24:35,910 --> 00:24:37,910
+hani ihtiyari olsa 50.000 lira
+
+484
+00:24:37,910 --> 00:24:39,910
+içinde edebileyim.
+
+485
+00:24:39,910 --> 00:24:41,910
+Su
+
+486
+00:24:41,910 --> 00:24:43,910
+işte bir yanda
+
+487
+00:24:43,910 --> 00:24:44,910
+bulundu da hepsi olduğunda
+
+488
+00:24:44,910 --> 00:24:45,910
+belki birbirlerini alın
+
+489
+00:24:45,910 --> 00:24:52,299
+o da birine sabırlayan olması lazım.
+
+490
+00:24:52,299 --> 00:24:54,299
+Hocam bu arada
+
+491
+00:24:54,299 --> 00:24:56,299
+isterseniz şu harita üzerinden
+
+492
+00:24:56,299 --> 00:24:57,299
+net okuyalım da.
+
+493
+00:24:57,299 --> 00:24:58,299
+Sercan sen
+
+494
+00:24:58,299 --> 00:25:00,299
+yani şu grup olayı işte aynen
+
+495
+00:25:00,299 --> 00:25:01,680
+bir tıkamak lazım.
+
+496
+00:25:01,680 --> 00:25:05,910
+Mesela İstanbul için içeri
+
+497
+00:25:05,910 --> 00:25:07,170
+bir D2'ye geliyor.
+
+498
+00:25:07,170 --> 00:25:09,299
+Bizim sonuçlarımız İstanbul
+
+499
+00:25:09,299 --> 00:25:10,299
+çünkü bu bilgör çok alakalı
+
+500
+00:25:10,299 --> 00:25:14,819
+hayır bir şeyin görülmesi
+
+501
+00:25:14,819 --> 00:25:15,819
+ne büyük terörü.
+
+502
+00:25:15,819 --> 00:25:18,690
+Sercan daha dolayı yani.
+
+503
+00:25:18,690 --> 00:25:19,690
+Ne dimi o düzgün ekspoji var?
+
+504
+00:25:19,690 --> 00:25:20,690
+Ne bu var?
+
+505
+00:25:20,690 --> 00:25:21,690
+Ne bu var?
+
+506
+00:25:21,690 --> 00:25:22,690
+Değil mi?
+
+507
+00:25:22,690 --> 00:25:23,690
+Dastır mesela
+
+508
+00:25:23,690 --> 00:25:24,690
+bengörler de abi.
+
+509
+00:25:24,690 --> 00:25:27,130
+Bir şey vardı hocam
+
+510
+00:25:27,130 --> 00:25:29,130
+ben sıralamıştım onları da.
+
+511
+00:25:29,130 --> 00:25:31,130
+Biraz vakit alır bak.
+
+512
+00:25:31,130 --> 00:25:32,130
+Bakayım istiyorsanız.
+
+513
+00:25:32,130 --> 00:25:33,130
+Bir bölge olarak
+
+514
+00:25:33,130 --> 00:25:34,130
+ikinci bölge
+
+515
+00:25:34,130 --> 00:25:36,130
+işaretlemişsin ırtada.
+
+516
+00:25:36,130 --> 00:25:38,130
+Biz bölgesi iki be.
+
+517
+00:25:38,130 --> 00:25:40,130
+Bir şey izlediğinizi anlattım ben.
+
+518
+00:25:40,130 --> 00:25:42,130
+TI bir açısına kaçın sırada gibi.
+
+519
+00:25:42,130 --> 00:25:44,130
+Yok yok yani risk.
+
+520
+00:25:44,130 --> 00:25:46,670
+Çok iyi hocam evet.
+
+521
+00:25:46,670 --> 00:25:48,859
+Tam kesişme yeri hocam şeydeki.
+
+522
+00:25:48,859 --> 00:25:50,859
+Şeyi de şu önüne bakıyorum.
+
+523
+00:25:50,859 --> 00:25:53,339
+Mahalle bazı bakarsak şurada.
+
+524
+00:25:53,339 --> 00:25:56,589
+Şur, şur şekilde.
+
+525
+00:25:56,589 --> 00:25:58,589
+Çoğu girden oluşuyor.
+
+526
+00:25:58,589 --> 00:26:01,680
+Birinci deprem bölgesi ama
+
+527
+00:26:01,680 --> 00:26:03,680
+ortalama da baktığımızda bir altmış üç.
+
+528
+00:26:03,680 --> 00:26:06,190
+O yüzden iki diye işaret ettim.
+
+529
+00:26:06,190 --> 00:26:12,160
+Ama İstanbul'a bakarsak hocam
+
+530
+00:26:12,160 --> 00:26:14,160
+bengör kıyasızdan çıkıyor.
+
+531
+00:26:14,160 --> 00:26:17,220
+Çok uç bir şey görmek.
+
+532
+00:26:17,220 --> 00:26:19,220
+Gerçekten nasıl on iki kata arttırmak.
+
+533
+00:26:19,220 --> 00:26:21,950
+Çok şey ama İstanbul'a baktığımızda
+
+534
+00:26:21,950 --> 00:26:23,950
+iki, on üçler sekiz, yedi, üç köşe önerisi var.
+
+535
+00:26:23,950 --> 00:26:26,240
+Hani bengör kadar korkmaz değil.
+
+536
+00:26:26,240 --> 00:26:28,240
+Yani dört kattağız değil de tabii.
+
+537
+00:26:28,240 --> 00:26:31,009
+On altı bin lira ediyor.
+
+538
+00:26:31,009 --> 00:26:33,009
+Şimdi ben mesela en son
+
+539
+00:26:33,009 --> 00:26:35,670
+dağıtık için
+
+540
+00:26:35,670 --> 00:26:37,670
+iki üç bin lira para ödedim suadeyi.
+
+541
+00:26:37,670 --> 00:26:47,859
+Büyük bir şey var hocam.
+
+542
+00:26:47,859 --> 00:26:49,180
+Yani iki üç bin lira ödedim.
+
+543
+00:26:49,180 --> 00:26:51,180
+Tam hatırlamıyorum da
+
+544
+00:26:51,180 --> 00:26:53,180
+on altı bin lira çok pahalı değil mi yani?
+
+545
+00:26:53,180 --> 00:26:56,109
+On altı bin lira.
+
+546
+00:26:56,109 --> 00:26:59,839
+Yani bile alabilirliği
+
+547
+00:26:59,839 --> 00:27:01,839
+bile alabilirliği olmaz yani.
+
+548
+00:27:01,839 --> 00:27:05,599
+Şimdi sen on yedi bin lira değedin abi.
+
+549
+00:27:05,599 --> 00:27:10,220
+Yurocesinde.
+
+550
+00:27:10,220 --> 00:27:12,220
+On yedi bölüm.
+
+551
+00:27:12,220 --> 00:27:14,220
+Dört yüz euro falan diyor herhalde.
+
+552
+00:27:14,220 --> 00:27:16,220
+Dört yüz euro yani.
+
+553
+00:27:16,220 --> 00:27:18,220
+Yani millet açtıktan kırılıyor.
+
+554
+00:27:18,220 --> 00:27:21,380
+Dört yüz euro nereden versin lan?
+
+555
+00:27:21,380 --> 00:27:23,380
+Eee hocam
+
+556
+00:27:23,380 --> 00:27:25,380
+burada ben bir soru sorabilir miyim?
+
+557
+00:27:25,380 --> 00:27:27,380
+Evet. Buna bir makul bir şey yapmak lazım.
+
+558
+00:27:27,380 --> 00:27:29,380
+Bunu da emeğe çalışacağım.
+
+559
+00:27:29,380 --> 00:27:31,380
+Yani bu SMO
+
+560
+00:27:31,380 --> 00:27:33,380
+açıkçası ben tam kafamda
+
+561
+00:27:33,380 --> 00:27:35,380
+oturtamadım.
+
+562
+00:27:35,380 --> 00:27:37,380
+Şimdi ona şu an için
+
+563
+00:27:37,380 --> 00:27:39,380
+işte beş on beş falan.
+
+564
+00:27:39,380 --> 00:27:41,380
+Ama tam neye tekabül ediyor?
+
+565
+00:27:41,380 --> 00:27:43,380
+Hani bunun artımsak ne oluyor?
+
+566
+00:27:43,380 --> 00:27:45,380
+Yükselsek ne oluyor?
+
+567
+00:27:45,380 --> 00:27:47,380
+Ben onu sordum.
+
+568
+00:27:47,380 --> 00:27:49,599
+Ben şöyle alırım diyorum.
+
+569
+00:27:49,599 --> 00:27:51,599
+Sen gidiyorsun tamam mı?
+
+570
+00:27:51,599 --> 00:27:53,599
+Şimdi diyorsun ki en kötü
+
+571
+00:27:53,599 --> 00:27:56,180
+yüz yılın
+
+572
+00:27:56,180 --> 00:27:59,200
+diyorsun ki abi diyorsun benim
+
+573
+00:27:59,200 --> 00:28:01,200
+kapital ihtiyacım
+
+574
+00:28:01,200 --> 00:28:03,200
+yüz milyon diye kafadan attım yani.
+
+575
+00:28:03,200 --> 00:28:05,490
+Yüz milyon bir kapital ihtiyacım var.
+
+576
+00:28:05,490 --> 00:28:07,490
+Yani böyle bir deprem
+
+577
+00:28:07,490 --> 00:28:09,579
+bulursa en kötü yüz ızlık bir
+
+578
+00:28:09,579 --> 00:28:12,509
+şeyde
+
+579
+00:28:12,509 --> 00:28:14,509
+işte ve TL'de
+
+580
+00:28:14,509 --> 00:28:17,150
+yakıştı tam dokuz.
+
+581
+00:28:17,150 --> 00:28:19,250
+Yani çünkü yüz milyon
+
+582
+00:28:19,250 --> 00:28:21,250
+ben benim kapital ihtiyacımımım.
+
+583
+00:28:21,250 --> 00:28:24,619
+Yüz milyon için
+
+584
+00:28:24,619 --> 00:28:26,619
+bir başvuruda bulunursun.
+
+585
+00:28:26,619 --> 00:28:28,619
+Gidiyorsun ne bileyim kimi başvuruyorsun.
+
+586
+00:28:28,619 --> 00:28:30,619
+Bana bakıyorsun diyorsun ki yüz milyon lira
+
+587
+00:28:30,619 --> 00:28:32,690
+senden
+
+588
+00:28:32,690 --> 00:28:35,200
+ben diyorum ki tamam
+
+589
+00:28:35,200 --> 00:28:37,200
+ben sana yüz milyon veririm ama
+
+590
+00:28:37,200 --> 00:28:39,200
+sen bana
+
+591
+00:28:39,200 --> 00:28:41,200
+yani bunun bana bir maliyeti var
+
+592
+00:28:41,200 --> 00:28:43,200
+bu yüz milyonu
+
+593
+00:28:43,200 --> 00:28:45,839
+her yıl
+
+594
+00:28:45,839 --> 00:28:47,839
+bu yüz milyonu
+
+595
+00:28:47,839 --> 00:28:51,700
+yüz dounu kadar şey öyle
+
+596
+00:28:51,700 --> 00:28:53,700
+bu yıl yani
+
+597
+00:28:53,700 --> 00:28:55,700
+bu yıl yüz milyon istedin ya
+
+598
+00:28:55,700 --> 00:28:57,700
+yüz milyonu yüz dounu
+
+599
+00:28:57,700 --> 00:28:59,980
+10 milyonu
+
+600
+00:28:59,980 --> 00:29:04,220
+10 milyonları ödeyeceksin böyle
+
+601
+00:29:04,220 --> 00:29:06,579
+çünkü onun bana bir maliyeti var.
+
+602
+00:29:06,579 --> 00:29:08,579
+Uç olayın maliyetini
+
+603
+00:29:08,579 --> 00:29:10,579
+kaç yılda toparlayacağım
+
+604
+00:29:10,579 --> 00:29:12,900
+mı
+
+605
+00:29:12,900 --> 00:29:14,900
+yani uç olay etmesin
+
+606
+00:29:14,900 --> 00:29:16,900
+yani ben tefek yiyeyim tamam mı
+
+607
+00:29:16,900 --> 00:29:19,630
+yani ben bir kapital sahibi
+
+608
+00:29:19,630 --> 00:29:21,630
+benimde yüz milyon var tamam mı
+
+609
+00:29:21,630 --> 00:29:33,579
+ben yüz milyonu
+
+610
+00:29:33,579 --> 00:29:37,500
+ben hiçbir şey yapmasam ben tebriklerim
+
+611
+00:29:37,500 --> 00:29:39,500
+e deşahı yıl
+
+612
+00:29:39,500 --> 00:29:43,329
+bir an gitsen bu bankayı yatırsan
+
+613
+00:29:43,329 --> 00:29:45,329
+geleceksin de bu 110 milyon lira olacak
+
+614
+00:29:45,329 --> 00:29:47,490
+tamam mı
+
+615
+00:29:47,490 --> 00:29:49,490
+ben bunu sana veriyorum
+
+616
+00:29:49,490 --> 00:29:51,490
+biraz bana
+
+617
+00:29:51,490 --> 00:29:53,490
+ben hiç kendini riski atmasam
+
+618
+00:29:56,529 --> 00:29:58,529
+ben buradan 10 milyon lira
+
+619
+00:29:58,529 --> 00:30:01,869
+para kazanacağım
+
+620
+00:30:01,869 --> 00:30:04,769
+sana satacaksan ben
+
+621
+00:30:04,769 --> 00:30:14,420
+ben sana 10 milyon isterim
+
+622
+00:30:14,420 --> 00:30:16,420
+yani ben sana parayı satarken
+
+623
+00:30:16,420 --> 00:30:22,000
+o paradan para kazanıyorum
+
+624
+00:30:22,000 --> 00:30:30,720
+şu olursa sana 100 milyon vereceğim
+
+625
+00:30:30,720 --> 00:30:32,720
+yani o zaman
+
+626
+00:30:32,720 --> 00:30:34,720
+şey oluyor değil mi
+
+627
+00:30:34,720 --> 00:30:36,720
+100 milyon bir şey olursa
+
+628
+00:30:36,720 --> 00:30:38,720
+ben sana 100 milyon vereceğim evet
+
+629
+00:30:38,720 --> 00:30:40,720
+bu 100 milyonu
+
+630
+00:30:40,720 --> 00:30:42,720
+geri
+
+631
+00:30:42,720 --> 00:30:44,720
+kazanmak için de
+
+632
+00:30:44,720 --> 00:30:46,720
+eğer sm0.1
+
+633
+00:30:46,720 --> 00:30:48,819
+10 yılda
+
+634
+00:30:48,819 --> 00:30:51,839
+kazanıyorum
+
+635
+00:30:51,839 --> 00:30:53,839
+o anlamı yani 10 yıl
+
+636
+00:30:53,839 --> 00:30:55,839
+10 yıl boyunca alırsam
+
+637
+00:30:55,839 --> 00:30:58,059
+bu çeşit bir âle
+
+638
+00:30:58,059 --> 00:31:00,059
+ben 100 yıllık losu
+
+639
+00:31:00,059 --> 00:31:02,450
+tutmuş oluyorum
+
+640
+00:31:02,450 --> 00:31:04,450
+yani kazanmış oluyor
+
+641
+00:31:04,450 --> 00:31:08,880
+şimdi ben
+
+642
+00:31:08,880 --> 00:31:24,960
+diyorum ki anladığımı anladım
+
+643
+00:31:24,960 --> 00:31:44,180
+anladım anladım
+
+644
+00:31:44,180 --> 00:31:46,529
+bir gölgede yıldan beri
+
+645
+00:31:46,529 --> 00:31:49,460
+depren
+
+646
+00:31:49,460 --> 00:31:51,680
+hareketlerini izliyorum
+
+647
+00:31:51,680 --> 00:31:53,680
+bir ortalama da her yıl
+
+648
+00:31:53,680 --> 00:31:55,710
+ona da erbireceğinin dosu diyorum
+
+649
+00:31:55,710 --> 00:31:59,440
+ortalama da her yıl
+
+650
+00:31:59,440 --> 00:32:05,380
+5 liralık
+
+651
+00:32:05,380 --> 00:32:07,950
+beyaz rengine
+
+652
+00:32:07,950 --> 00:32:10,210
+sadıkledi kendini
+
+653
+00:32:10,210 --> 00:32:12,460
+nekletsin
+
+654
+00:32:12,460 --> 00:32:15,200
+ortalama da her yıl
+
+655
+00:32:15,200 --> 00:32:17,259
+5 liralık depremasar olduğunu
+
+656
+00:32:17,259 --> 00:32:19,549
+gördüm
+
+657
+00:32:19,549 --> 00:32:22,380
+10 bin yıllık bir süreç içerisinde
+
+658
+00:32:22,380 --> 00:32:24,380
+küçük depremler
+
+659
+00:32:24,380 --> 00:32:26,539
+büyük depremler
+
+660
+00:32:26,539 --> 00:32:28,539
+hepsi oluyor
+
+661
+00:32:28,539 --> 00:32:30,990
+ortalama da 5 liralık
+
+662
+00:32:30,990 --> 00:32:32,990
+benim elimde bir hasar olurum
+
+663
+00:32:32,990 --> 00:32:36,180
+tamam mı?
+
+664
+00:32:36,180 --> 00:32:38,779
+ben diyorum ki o zaman
+
+665
+00:32:38,779 --> 00:32:41,710
+ben bu durumda
+
+666
+00:32:41,710 --> 00:32:46,019
+eğer 5 lira her yıl
+
+667
+00:32:46,019 --> 00:32:51,339
+bir köşeye koyarsam
+
+668
+00:32:51,339 --> 00:32:54,819
+büyük bir deprem olduğumda
+
+669
+00:32:54,819 --> 00:32:57,900
+ben bu hasarı bir şekilde öderim
+
+670
+00:32:57,900 --> 00:33:00,930
+tamam mı?
+
+671
+00:33:00,930 --> 00:33:04,240
+benim elimin değeri
+
+672
+00:33:04,240 --> 00:33:06,339
+hiç değişik istemedim
+
+673
+00:33:06,339 --> 00:33:08,339
+1000 liralık bir değeri olsun
+
+674
+00:33:08,339 --> 00:33:10,339
+1000 lirada ben her seferinde
+
+675
+00:33:10,339 --> 00:33:12,339
+5 liralık
+
+676
+00:33:12,339 --> 00:33:14,339
+ortalama da
+
+677
+00:33:14,339 --> 00:33:16,339
+10 bin yıl içerisinde
+
+678
+00:33:16,339 --> 00:33:20,420
+şey yaparsam
+
+679
+00:33:20,420 --> 00:33:22,740
+5 lira toplarsam bu elimin değerini
+
+680
+00:33:22,740 --> 00:33:27,519
+50 liralık beklerim
+
+681
+00:33:27,519 --> 00:33:29,650
+inşallah doğra alınacağım
+
+682
+00:33:29,650 --> 00:33:31,809
+ondan sonra
+
+683
+00:33:31,809 --> 00:33:33,809
+diyorum ki tamam peki
+
+684
+00:33:33,809 --> 00:33:38,940
+ben 5 lira 5 lira biriktireceğim
+
+685
+00:33:38,940 --> 00:33:42,450
+10 istihbar ile bu deprem
+
+686
+00:33:42,450 --> 00:33:44,450
+200 yıl biriktirmem lazım
+
+687
+00:33:44,450 --> 00:33:47,440
+değil mi abi?
+
+688
+00:33:47,440 --> 00:33:50,559
+200 yıl biriktirmem lazım
+
+689
+00:33:50,559 --> 00:33:52,819
+200 yılda çok büyük bir deprem
+
+690
+00:33:52,819 --> 00:33:54,819
+olabilir
+
+691
+00:33:54,819 --> 00:33:56,819
+yani 5 lirada kısa kalabilirim ben
+
+692
+00:33:56,819 --> 00:33:58,819
+değil mi?
+
+693
+00:33:58,819 --> 00:34:00,819
+hatta biz 10 bin yılda
+
+694
+00:34:00,819 --> 00:34:02,819
+aile olmasını
+
+695
+00:34:02,819 --> 00:34:04,819
+10 bin yılda topladığımızı aile ediyoruz
+
+696
+00:34:04,819 --> 00:34:06,819
+evet yani 10 bin yıllık bir süreç
+
+697
+00:34:06,819 --> 00:34:08,940
+ama yani
+
+698
+00:34:08,940 --> 00:34:10,940
+hatta şöyle bir şey düşün
+
+699
+00:34:10,940 --> 00:34:12,940
+bir insan ya da bir şirket mesela
+
+700
+00:34:12,940 --> 00:34:14,940
+böyle 10 bin yıllık
+
+701
+00:34:14,940 --> 00:34:17,139
+bir şey yapmaz
+
+702
+00:34:19,150 --> 00:34:21,150
+orkestin yapmaz herhalde
+
+703
+00:34:21,150 --> 00:34:23,469
+10 yıllık 5 yıllık üç yıllık yapar değil mi?
+
+704
+00:34:23,469 --> 00:34:26,019
+sonuçta bir
+
+705
+00:34:26,019 --> 00:34:28,019
+100 bin liralık bir riskim var
+
+706
+00:34:28,019 --> 00:34:30,019
+ben böyle 200 yıl para biriktireyim
+
+707
+00:34:30,019 --> 00:34:32,019
+oradan bunun demek
+
+708
+00:34:32,019 --> 00:34:43,139
+yani bu riskim
+
+709
+00:34:43,139 --> 00:34:45,139
+o zaman da diyor ki
+
+710
+00:34:45,139 --> 00:34:47,139
+ben böyle bir şey yapmayayım diyor yani
+
+711
+00:34:47,139 --> 00:34:51,500
+5 liralık bir şeyim var
+
+712
+00:34:51,500 --> 00:34:53,500
+minimumda biriktirmem
+
+713
+00:34:53,500 --> 00:34:55,570
+gerekenlik para var ama diyor
+
+714
+00:34:55,570 --> 00:34:57,570
+200 yıl içerisinde belki
+
+715
+00:34:57,570 --> 00:34:59,630
+en kötü bir
+
+716
+00:34:59,630 --> 00:35:02,340
+100 yıl var
+
+717
+00:35:02,340 --> 00:35:04,340
+bu 100 yılda da benim elinde
+
+718
+00:35:04,340 --> 00:35:06,340
+yani benim elimde
+
+719
+00:35:06,340 --> 00:35:08,340
+bu evin 1000 liralık evin değerini
+
+720
+00:35:08,340 --> 00:35:10,530
+şey yapabilmek için işte
+
+721
+00:35:10,530 --> 00:35:12,909
+aslında bir
+
+722
+00:35:12,909 --> 00:35:22,530
+75 liraya daha ihtiyacım
+
+723
+00:35:22,530 --> 00:35:24,750
+hatırlıyorum
+
+724
+00:35:24,750 --> 00:35:26,750
+yani bunu ben şimdilik ne oldu
+
+725
+00:35:26,750 --> 00:35:28,750
+bir 5 lira 5 lira alıyorum
+
+726
+00:35:28,750 --> 00:35:30,909
+bir de 70-5 lira lık bir
+
+727
+00:35:30,909 --> 00:35:32,909
+kendimi şey yapıyorum
+
+728
+00:35:32,909 --> 00:35:35,519
+80 liralık evin değerini
+
+729
+00:35:35,519 --> 00:35:37,969
+80 liralık evin değerini
+
+730
+00:35:37,969 --> 00:35:40,219
+80 liralık evin değerini
+
+731
+00:35:40,219 --> 00:35:42,219
+işte 10 yıllık bir
+
+732
+00:35:42,219 --> 00:35:44,219
+şey yaptım kendimde
+
+733
+00:35:44,219 --> 00:35:48,210
+12 yıl 12,5 yıl
+
+734
+00:35:48,210 --> 00:35:50,210
+bir şirket için değil bir şey
+
+735
+00:35:50,210 --> 00:35:52,210
+12,5 yıl lık bir perspektif yaptım
+
+736
+00:35:52,210 --> 00:35:54,590
+12,5 yılda
+
+737
+00:35:54,590 --> 00:35:56,590
+yıl içerisinde
+
+738
+00:35:56,590 --> 00:35:58,590
+yani en kötü 100 yılda
+
+739
+00:35:58,590 --> 00:36:01,039
+bulabilecek bir şeyde
+
+740
+00:36:01,039 --> 00:36:03,039
+ben bunu böyle görüyorum
+
+741
+00:36:03,039 --> 00:36:05,099
+toparlayacağım yani
+
+742
+00:36:05,099 --> 00:36:07,099
+200 yıl yerine aslında
+
+743
+00:36:07,099 --> 00:36:09,099
+12,5 yılda evin değerini
+
+744
+00:36:09,099 --> 00:36:11,099
+12,5 yılda evin değerini
+
+745
+00:36:11,099 --> 00:36:13,099
+ben bunun parasını aldım
+
+746
+00:36:13,099 --> 00:36:15,099
+o 75 liralık evin değerini
+
+747
+00:36:15,099 --> 00:36:19,380
+işletebilirim yani aynı zamanda
+
+748
+00:36:19,380 --> 00:36:21,699
+ben gidiyorum
+
+749
+00:36:21,699 --> 00:36:24,429
+bu 75 lira için
+
+750
+00:36:24,429 --> 00:36:26,429
+sinana diyorum ki
+
+751
+00:36:26,429 --> 00:36:30,960
+bana 75 lira ver
+
+752
+00:36:30,960 --> 00:36:32,960
+sinana diyorum ki ben sana 75 lira veririm
+
+753
+00:36:32,960 --> 00:36:36,559
+yani 75 lira vereceğim ben sana
+
+754
+00:36:36,559 --> 00:36:38,980
+ama ben 75 lirayı sana
+
+755
+00:36:38,980 --> 00:36:41,389
+diyor
+
+756
+00:36:41,389 --> 00:36:44,059
+7,5 lira verirsen
+
+757
+00:36:44,059 --> 00:36:50,769
+100 doğum bersenden terim alırım
+
+758
+00:36:50,769 --> 00:36:54,300
+buldum
+
+759
+00:36:54,300 --> 00:36:56,400
+bu aslında şey
+
+760
+00:36:56,400 --> 00:36:58,400
+gidiyorum ki 75 lira
+
+761
+00:36:58,400 --> 00:37:00,400
+bersen
+
+762
+00:37:00,400 --> 00:37:02,400
+hiç bir şey yapmasam, kolumu oynatmasam
+
+763
+00:37:02,400 --> 00:37:04,400
+ben zaten buna 7,5 lira kazanıyorum
+
+764
+00:37:04,400 --> 00:37:11,070
+tamam mı?
+
+765
+00:37:11,070 --> 00:37:13,070
+sen bana bu 7,5 lira sen ver
+
+766
+00:37:13,070 --> 00:37:20,829
+yani o yüzden
+
+767
+00:37:20,829 --> 00:37:24,269
+yani ben niye
+
+768
+00:37:24,269 --> 00:37:26,269
+paramı sokaklattım ki yani nurullah istedi ben
+
+769
+00:37:26,269 --> 00:37:28,269
+bu parayı nurullah şirketi istedi
+
+770
+00:37:28,269 --> 00:37:30,719
+tamam ben
+
+771
+00:37:30,719 --> 00:37:32,719
+nurullah şirketine bu 75 lira verirken
+
+772
+00:37:32,719 --> 00:37:34,719
+bir ondan bir
+
+773
+00:37:34,719 --> 00:37:36,719
+bir kâr etmek istiyor, paradan para kazanıyorum
+
+774
+00:37:36,719 --> 00:37:51,940
+sen bu 75 liralık belki
+
+775
+00:37:51,940 --> 00:37:55,500
+şey yapacaksın abi
+
+776
+00:37:55,500 --> 00:37:57,500
+onu yapıyorlar, bütün şirki, bütün
+
+777
+00:37:57,500 --> 00:37:59,699
+şey yapıyor
+
+778
+00:37:59,699 --> 00:38:01,699
+100 doğum bersenden
+
+779
+00:38:01,699 --> 00:38:06,059
+bunu sen 8,25 lira yapacaksın ben
+
+780
+00:38:06,059 --> 00:38:08,539
+anlatabildin mi?
+
+781
+00:38:08,539 --> 00:38:15,340
+o zaman
+
+782
+00:38:15,340 --> 00:38:18,820
+bu sana eştiralıyorsun zaten
+
+783
+00:38:18,820 --> 00:38:20,820
+8,25 lira
+
+784
+00:38:20,820 --> 00:38:48,159
+aslında bir şekilde
+
+785
+00:38:48,159 --> 00:38:50,159
+sigortalıya yansıtıyor
+
+786
+00:38:50,159 --> 00:38:52,670
+bir şey yapıyor burada
+
+787
+00:38:52,670 --> 00:38:54,900
+ben ona söylüyorum
+
+788
+00:38:54,900 --> 00:38:57,090
+yani
+
+789
+00:38:57,090 --> 00:38:59,090
+burada senin anlattığı
+
+790
+00:38:59,090 --> 00:39:01,219
+akademik anlamda kıymetli de
+
+791
+00:39:01,219 --> 00:39:03,219
+yasmin içine yarın diyor
+
+792
+00:39:03,219 --> 00:39:08,030
+zorunlu sigortalıda
+
+793
+00:39:08,030 --> 00:39:26,289
+ben bunu ne yapayım?
+
+794
+00:39:26,289 --> 00:39:28,289
+yani aslında daha önce de anlattık
+
+795
+00:39:28,289 --> 00:39:30,289
+zaten hocam
+
+796
+00:39:30,289 --> 00:39:32,289
+bu önceki bulaşmalarımızda
+
+797
+00:39:32,289 --> 00:39:34,289
+şu anda da elimizde
+
+798
+00:39:34,289 --> 00:39:36,289
+özellikle parametriye falan
+
+799
+00:39:36,289 --> 00:39:38,289
+geçemedik zaten
+
+800
+00:39:38,289 --> 00:39:40,289
+şu an başka bir
+
+801
+00:39:40,289 --> 00:39:42,289
+yani o şey de değil
+
+802
+00:39:42,289 --> 00:39:44,289
+son durumumuzu bir konutalım dedi
+
+803
+00:39:44,289 --> 00:39:46,420
+son durum bundan
+
+804
+00:39:46,420 --> 00:39:48,420
+başka bir şey yok zaten
+
+805
+00:39:48,420 --> 00:40:11,250
+buna adama şey diyorsun
+
+806
+00:40:11,250 --> 00:40:13,250
+%11,1.35
+
+807
+00:40:13,250 --> 00:40:15,250
+eğer %15 yaparsan
+
+808
+00:40:15,250 --> 00:40:17,730
+bu yani adama
+
+809
+00:40:17,730 --> 00:40:20,019
+çıtınamaz ki
+
+810
+00:40:20,019 --> 00:40:23,389
+böyle bir şey yapamayacağını biliyor o zaman
+
+811
+00:40:23,389 --> 00:40:25,389
+aslında Yasmin hocam şeyi istemişler
+
+812
+00:40:25,389 --> 00:40:27,389
+yani en son onu talep etmişlerdi
+
+813
+00:40:27,389 --> 00:40:29,389
+Türkiye'cik tek yoram vermek
+
+814
+00:40:29,389 --> 00:40:31,389
+yani verseniz bu kocuk diyor
+
+815
+00:40:31,389 --> 00:40:33,550
+aslında bu ne olur şeklinde
+
+816
+00:40:33,550 --> 00:40:35,550
+burada mevcutun 3 katı falan oluyor
+
+817
+00:40:35,550 --> 00:40:42,960
+1,90 dil var ya bunun içinde
+
+818
+00:40:42,960 --> 00:40:44,960
+agente karif ne olur yani
+
+819
+00:40:44,960 --> 00:40:48,530
+bunun da aynı değil aslında
+
+820
+00:40:48,530 --> 00:40:50,590
+bu şey sadece
+
+821
+00:40:50,590 --> 00:40:52,590
+baskın açıkladı saf birim
+
+822
+00:40:52,590 --> 00:41:01,440
+ya saf birim
+
+823
+00:41:01,440 --> 00:41:03,440
+ama o mevzuatı iyi öğrendi arkadaşlar
+
+824
+00:41:03,440 --> 00:41:05,440
+bunun içerisinde
+
+825
+00:41:05,440 --> 00:41:07,440
+şu sen
+
+826
+00:41:07,440 --> 00:41:18,139
+yertleri cürtleri almıyor musun
+
+827
+00:41:18,139 --> 00:41:20,139
+agentanın kâri vardı aslında
+
+828
+00:41:20,139 --> 00:41:22,139
+operasyon ve faaliyeti var hepsi var
+
+829
+00:41:22,139 --> 00:41:24,139
+bu saf birimdir ki
+
+830
+00:41:24,139 --> 00:41:27,139
+ama şöyle hocam
+
+831
+00:41:27,139 --> 00:41:29,139
+mesela benim 1000 liralık bir evim var diyelim
+
+832
+00:41:29,139 --> 00:41:31,139
+benden direkt gitsen bugün yaptırsam
+
+833
+00:41:31,139 --> 00:41:33,139
+direkt 282 liram oluyor
+
+834
+00:41:33,139 --> 00:41:36,000
+ben sanki bir farkım
+
+835
+00:41:36,000 --> 00:41:38,000
+bu tamamen agente uygulaması öz elimden
+
+836
+00:41:38,000 --> 00:41:40,000
+sorumda bir şeyin de değil
+
+837
+00:41:40,000 --> 00:41:42,000
+bu kofi şimdileri uyguluyor işte
+
+838
+00:41:42,000 --> 00:41:44,420
+daha ne olsun
+
+839
+00:41:44,420 --> 00:41:46,420
+niye kofi şimdileri
+
+840
+00:41:46,420 --> 00:41:51,969
+özel olsunlar ki
+
+841
+00:41:51,969 --> 00:41:53,969
+orada kendi serpil önünde
+
+842
+00:41:53,969 --> 00:42:04,380
+örmek bile var
+
+843
+00:42:04,380 --> 00:42:09,230
+içerisinde hepsi var
+
+844
+00:42:09,230 --> 00:42:11,230
+kâri de var operasyon olarak
+
+845
+00:42:11,230 --> 00:42:36,780
+baskın maaliyeti var hepsi var
+
+846
+00:42:36,780 --> 00:42:40,699
+düzünsü zarihte çıkardı
+
+847
+00:42:40,699 --> 00:42:42,699
+sen diyorsun ki ağrı bir baskın
+
+848
+00:42:42,699 --> 00:42:44,699
+ortalığınızda
+
+849
+00:42:44,699 --> 00:42:46,699
+o tabloya göre
+
+850
+00:42:46,699 --> 00:42:50,750
+1000'e bir, 90 dil değil mi
+
+851
+00:42:50,750 --> 00:42:52,750
+aynı bir kat mı
+
+852
+00:42:52,750 --> 00:43:07,940
+her bir rican yıldos1000'e
+
+853
+00:43:07,940 --> 00:43:11,090
+73,000'de 1901 arasında
+
+854
+00:43:11,090 --> 00:43:21,150
+Birisi sınavda yetmişebilir miyiz?
+
+855
+00:43:21,150 --> 00:43:37,659
+Bu türkkesi alt-bırağıyla asıyız demek lazım.
+
+856
+00:43:37,659 --> 00:43:54,659
+Hocam, burada sermaye maliyet oranı değiştirdikçe, mesela 5 yapınca bu sefer neredeyse yarısı olmasa da 6-49'da 3-61'e inmiş mesela.
+
+857
+00:43:54,659 --> 00:44:03,199
+Yani bunları değiştirdebilir parametreler olarak sunmak, belki müşterim.
+
+858
+00:44:03,199 --> 00:44:04,199
+Yok abi değil mi?
+
+859
+00:44:04,199 --> 00:44:10,949
+Bir şey söyleyeceğim, toplam sigorta bedeliniz var değil mi?
+
+860
+00:44:10,949 --> 00:44:15,860
+Bütün exposure için.
+
+861
+00:44:15,860 --> 00:44:18,340
+Like ile yazıyorsa yazıyordur.
+
+862
+00:44:18,340 --> 00:44:20,340
+Yazmıyormuş ama var bir elimizde değil mi?
+
+863
+00:44:20,340 --> 00:44:31,849
+Ki toplam daha sık bırakmış.
+
+864
+00:44:31,849 --> 00:44:33,849
+Sen bunun bütün Türkiyeç'e yaptı ya şu anda.
+
+865
+00:44:33,849 --> 00:44:37,289
+Toplam sigorta bedelini.
+
+866
+00:44:37,289 --> 00:44:44,460
+Bir oy, Şubat ayı, yuru, neyse.
+
+867
+00:44:44,460 --> 00:44:48,719
+Merkez bankası 28 Şubat 2020.
+
+868
+00:44:48,719 --> 00:44:52,889
+31 ocak mı yoksa?
+
+869
+00:44:52,889 --> 00:44:57,460
+Şimdi 28 Şubat kökü.
+
+870
+00:44:57,460 --> 00:44:58,650
+Şubat kökü.
+
+871
+00:44:58,650 --> 00:44:59,650
+Şubat kökü.
+
+872
+00:44:59,650 --> 00:45:00,650
+Şubat kökü.
+
+873
+00:45:00,650 --> 00:45:01,650
+Şubat kökü.
+
+874
+00:45:01,650 --> 00:45:02,650
+Şubat kökü.
+
+875
+00:45:02,650 --> 00:45:04,059
+Şubat kökü.
+
+876
+00:45:04,059 --> 00:45:05,059
+Şubat kökü.
+
+877
+00:45:05,059 --> 00:45:06,739
+Şubat kökü.
+
+878
+00:45:06,739 --> 00:45:07,739
+Şubat kökü.
+
+879
+00:45:07,739 --> 00:45:08,739
+Şubat kökü.
+
+880
+00:45:08,739 --> 00:45:09,739
+Şubat kökü.
+
+881
+00:45:09,739 --> 00:45:10,739
+Şubat kökü.
+
+882
+00:45:10,739 --> 00:45:38,650
+Merkez bankası 1 Mart 2020 ocaklı Doris Kurulu.
+
+883
+00:45:38,650 --> 00:45:40,650
+Ben hemen şey istiyorum bunu.
+
+884
+00:45:40,650 --> 00:46:01,980
+Gider şeyi derdi, şurada bir arardı.
+
+885
+00:46:01,980 --> 00:46:24,340
+1 Mart 26.
+
+886
+00:46:24,340 --> 00:46:27,340
+Ben buldum ocağımın 1 Mart hafta son diye 2 Mart oldu.
+
+887
+00:46:27,340 --> 00:46:29,849
+Tamam neymiş?
+
+888
+00:46:29,849 --> 00:46:32,980
+Yuro 51 nokta 47 ocaklı.
+
+889
+00:46:32,980 --> 00:46:37,039
+Ben iftihimi kirliysen şu şeyi belir misin?
+
+890
+00:46:37,039 --> 00:46:40,809
+Toplam kaç trilyon knobsu glamursun?
+
+891
+00:46:40,809 --> 00:46:46,699
+Bu da 137 milyar.
+
+892
+00:46:46,699 --> 00:46:50,650
+137 milyar.
+
+893
+00:46:50,650 --> 00:47:09,530
+Sen binde
+
+894
+00:47:09,530 --> 00:47:22,570
+tekrar bir sunumuna
+
+895
+00:47:22,570 --> 00:47:24,570
+Abi şöyle bir şey, onu boş ver.
+
+896
+00:47:24,570 --> 00:47:26,760
+Binde 1901'de yap ya.
+
+897
+00:47:26,760 --> 00:47:28,760
+Binde 1901
+
+898
+00:47:28,760 --> 00:47:31,019
+Binde 073
+
+899
+00:47:31,019 --> 00:47:33,019
+Binde 6.1 milyar.
+
+900
+00:47:33,019 --> 00:47:35,019
+Hepsi de görsene, yapsana.
+
+901
+00:47:35,019 --> 00:47:37,019
+Yırtarsan bir ölüm.
+
+902
+00:47:37,019 --> 00:47:39,019
+Bini yaptım.
+
+903
+00:47:39,019 --> 00:47:41,429
+453 milyon.
+
+904
+00:47:41,429 --> 00:47:53,289
+453 milyon.
+
+905
+00:47:53,289 --> 00:47:58,650
+Bir aile yaparsam
+
+906
+00:47:58,650 --> 00:48:07,940
+uframları değiştireceğim.
+
+907
+00:48:07,940 --> 00:48:12,090
+Aynen.
+
+908
+00:48:12,090 --> 00:48:17,989
+Teknik pirin.
+
+909
+00:48:17,989 --> 00:48:25,300
+1.5 milyar euro.
+
+910
+00:48:25,300 --> 00:48:28,809
+Senelik toplayacak para.
+
+911
+00:48:28,809 --> 00:48:32,340
+Neyi toplayacak para değil ya?
+
+912
+00:48:32,340 --> 00:48:35,179
+Öyle değil mi hocam? Bu şey kümülü bu.
+
+913
+00:48:35,179 --> 00:48:37,179
+Bu pirimleri alırsa
+
+914
+00:48:37,179 --> 00:48:39,179
+Abi gelecek sene bu kadar bir
+
+915
+00:48:39,179 --> 00:48:43,639
+bir deprim olacağını nereden biliyorum?
+
+916
+00:48:43,639 --> 00:48:45,639
+Ama bu pirim depremden bağımsız değil mi?
+
+917
+00:48:45,639 --> 00:48:50,780
+Bağımsız mı gelen para?
+
+918
+00:48:50,780 --> 00:48:56,039
+Aslında hocam.
+
+919
+00:48:56,039 --> 00:48:58,039
+1.5 milyar euro.
+
+920
+00:48:58,039 --> 00:49:03,210
+Bir adamın kasasına girer mi ya?
+
+921
+00:49:03,210 --> 00:49:05,210
+Bu 453 milyon Euro'dan bile
+
+922
+00:49:05,210 --> 00:49:07,210
+nasıl bunun kasasına girer mi ne bileyim?
+
+923
+00:49:07,210 --> 00:49:09,210
+Yani o kadar düşüktür ki
+
+924
+00:49:09,210 --> 00:49:11,210
+yani düşük temin de
+
+925
+00:49:11,210 --> 00:49:13,210
+o da biri filan da
+
+926
+00:49:13,210 --> 00:49:16,619
+ve belki de
+
+927
+00:49:16,619 --> 00:49:18,619
+Neden öyle düşünürsün hocam?
+
+928
+00:49:18,619 --> 00:49:21,059
+453 milyon Euro.
+
+929
+00:49:21,059 --> 00:49:23,059
+Bunun için agente kârı var.
+
+930
+00:49:23,059 --> 00:49:25,320
+Operasyonal hali.
+
+931
+00:49:25,320 --> 00:49:26,320
+Hepsi var.
+
+932
+00:49:26,320 --> 00:49:31,139
+Sen şey diyorsun.
+
+933
+00:49:31,139 --> 00:49:33,139
+Ben ABD
+
+934
+00:49:33,139 --> 00:49:35,139
+hesaplısak teknik pirim olarak
+
+935
+00:49:35,139 --> 00:49:37,139
+173 milyon Euro
+
+936
+00:49:37,139 --> 00:49:47,940
+tutmak gerekiyor.
+
+937
+00:49:47,940 --> 00:49:50,000
+Daha böyle yaklaşımlarda bulmak lazım.
+
+938
+00:49:50,000 --> 00:49:52,000
+Ben bir bunun
+
+939
+00:49:52,000 --> 00:49:54,000
+bir şey yapayım.
+
+940
+00:49:54,000 --> 00:49:56,800
+Bersiz Buraya
+
+941
+00:49:56,800 --> 00:50:01,900
+neler böyle sunmayın arkadaşlar.
+
+942
+00:50:01,900 --> 00:50:03,900
+Buraya da zaten çok daha cümya bir adam.
+
+943
+00:50:03,900 --> 00:50:05,900
+Bunu gidip bağıt krabi
+
+944
+00:50:05,900 --> 00:50:07,900
+anlatır mı?
+
+945
+00:50:07,900 --> 00:50:18,960
+Yani aslında hocam
+
+946
+00:50:18,960 --> 00:50:20,960
+geçen haftalarda
+
+947
+00:50:20,960 --> 00:50:22,960
+dediğim gibi
+
+948
+00:50:22,960 --> 00:50:25,090
+bu şeyleri
+
+949
+00:50:25,090 --> 00:50:27,090
+paylaştık falan zaten
+
+950
+00:50:27,090 --> 00:50:33,179
+yine benzer şeyler vardı.
+
+951
+00:50:33,179 --> 00:50:35,179
+Böyle bir şey olmayacağını biliyor ya.
+
+952
+00:50:35,179 --> 00:50:55,099
+Evet, doğru söylüyor.
+
+953
+00:50:55,099 --> 00:50:57,420
+Ben şunu bana düküyorum.
+
+954
+00:50:57,420 --> 00:50:59,420
+Bunun zaten değil de
+
+955
+00:50:59,420 --> 00:51:01,420
+şu şey benim de beğenim durdu.
+
+956
+00:51:01,420 --> 00:51:03,619
+Bir yemek yiyeyim de
+
+957
+00:51:03,619 --> 00:51:08,780
+hiçbir şey yiyemedim daha.
+
+958
+00:51:08,780 --> 00:51:11,869
+Çok akademik bir şey ya.
+
+959
+00:51:11,869 --> 00:51:27,599
+Böyle bir şey olmaz yani.
+
+960
+00:51:27,599 --> 00:51:29,659
+Abi ben size
+
+961
+00:51:29,659 --> 00:51:31,659
+rastliğiyle parayı
+
+962
+00:51:31,659 --> 00:51:33,789
+yazıyordum.
+
+963
+00:51:33,789 --> 00:51:35,889
+O da yarıda kaldı.
+
+964
+00:51:35,889 --> 00:51:44,670
+Hani hangi birimi yapacaksın ki?
+
+965
+00:51:44,670 --> 00:51:47,059
+Ben ona bir yazıyım.
+
+966
+00:51:47,059 --> 00:51:49,059
+Olmazsa Buraya onu musun?
+
+967
+00:51:49,059 --> 00:51:51,059
+Yani bunu şu şekilde
+
+968
+00:51:51,059 --> 00:51:53,059
+sunmak
+
+969
+00:51:53,059 --> 00:51:55,059
+iyi olabilir de yani bu böyle
+
+970
+00:51:55,059 --> 00:51:57,059
+olmaz yani.
+
+971
+00:51:57,059 --> 00:51:59,309
+1000'de 649.
+
+972
+00:51:59,309 --> 00:52:01,309
+Türkiye için dediğim vakit abi
+
+973
+00:52:01,309 --> 00:52:05,969
+3 aşağı 5 yukarı sen
+
+974
+00:52:05,969 --> 00:52:07,969
+3.2 milyar
+
+975
+00:52:07,969 --> 00:52:10,260
+yuruluk bir
+
+976
+00:52:10,260 --> 00:52:17,340
+paranın olması gerektiğini söylüyorsun.
+
+977
+00:52:17,340 --> 00:52:19,340
+3.5 milyar yuruluk
+
+978
+00:52:19,340 --> 00:52:31,780
+paranın olması gerektiğini söylüyorsun.
+
+979
+00:52:31,780 --> 00:52:36,719
+Bu bilgiside bir buçuk milyarlı bir şey yani.
+
+980
+00:52:36,719 --> 00:52:54,750
+Tek olarak bilmesin.
+
+981
+00:52:54,750 --> 00:52:56,750
+Bu aslında öyle bir şey.
+
+982
+00:52:56,750 --> 00:52:58,750
+Uygulanabilir.
+
+983
+00:52:58,750 --> 00:53:00,750
+Bir yanı yok bence de bunun ama
+
+984
+00:53:00,750 --> 00:53:02,750
+en azından
+
+985
+00:53:02,750 --> 00:53:04,750
+onları da şey anlamında
+
+986
+00:53:04,750 --> 00:53:06,820
+bir teknik alt yapısı var mı?
+
+987
+00:53:06,820 --> 00:53:08,980
+Bu hep yükseltmek istediklerini söylüyor ya
+
+988
+00:53:08,980 --> 00:53:13,059
+alt yapı var.
+
+989
+00:53:13,059 --> 00:53:15,570
+Ben bu şeyden
+
+990
+00:53:15,570 --> 00:53:17,570
+173 milyon euro
+
+991
+00:53:17,570 --> 00:53:19,659
+bir adana bir anlar
+
+992
+00:53:19,659 --> 00:53:21,659
+ifade edip şey diyebilirsin.
+
+993
+00:53:21,659 --> 00:53:23,659
+173 milyon yuruluk bir
+
+994
+00:53:23,659 --> 00:53:26,849
+şey. Sen şu anda
+
+995
+00:53:26,849 --> 00:53:28,849
+işte TAS krimlerinde
+
+996
+00:53:28,849 --> 00:53:30,849
+şaşırış gördüğüm
+
+997
+00:53:30,849 --> 00:53:32,849
+153 milyon yuruluk bir
+
+998
+00:53:32,849 --> 00:53:35,739
+ara dönüyor
+
+999
+00:53:35,739 --> 00:53:37,739
+sanki haliyle
+
+1000
+00:53:37,739 --> 00:53:39,739
+453 milyon euro içerisinde
+
+1001
+00:53:39,739 --> 00:53:41,739
+173 milyon euro
+
+1002
+00:53:41,739 --> 00:53:44,739
+bunu takip edilebilecek mektara
+
+1003
+00:53:44,739 --> 00:53:51,599
+net net şeyler söyledi
+
+1004
+00:53:51,599 --> 00:53:53,920
+6 kat aktırdığın vakit
+
+1005
+00:53:53,920 --> 00:53:55,920
+6 kat aktırdığın vakit
+
+1006
+00:53:55,920 --> 00:53:57,920
+1 milyar 540 milyon
+
+1007
+00:53:57,920 --> 00:53:59,920
+yuruluk.
+
+1008
+00:53:59,920 --> 00:54:32,579
+Tutman mı gerekiyor?
+
+1009
+00:54:32,579 --> 00:54:34,579
+ben bir yemek yiyeyim
+
+1010
+00:54:34,579 --> 00:54:36,639
+birazcık bunun üstüne bir şey düşünce
+
+1011
+00:54:36,639 --> 00:54:39,440
+şu
+
+1012
+00:54:39,440 --> 00:54:42,239
+seyrede kayla ilgili
+
+1013
+00:54:42,239 --> 00:54:44,239
+bitti mi seni orda?
+
+1014
+00:54:44,239 --> 00:54:46,239
+Ram bitti ben
+
+1015
+00:54:46,239 --> 00:54:48,239
+böyle bir son kontrolleri
+
+1016
+00:54:48,239 --> 00:54:50,239
+isterseniz nasıl yapalım
+
+1017
+00:54:50,239 --> 00:54:52,239
+valla şöyle bir şey yapalım
+
+1018
+00:54:52,239 --> 00:54:54,429
+şöyle bir şey yapalım
+
+1019
+00:54:54,429 --> 00:54:58,860
+bu arada biraz tren yapmamız lazım
+
+1020
+00:54:58,860 --> 00:55:00,860
+arkadaşlar bir defa
+
+1021
+00:55:00,860 --> 00:55:02,860
+şeyler söylemek için yani oradaki
+
+1022
+00:55:02,860 --> 00:55:05,760
+işle işi çok iyi anlamak lazım
+
+1023
+00:55:05,760 --> 00:55:07,760
+ve bu televizyonlar
+
+1024
+00:55:07,760 --> 00:55:09,760
+konuşacaksak
+
+1025
+00:55:09,760 --> 00:55:11,760
+kimin tarafında
+
+1026
+00:55:11,760 --> 00:55:14,269
+broker tarafında
+
+1027
+00:55:14,269 --> 00:55:16,269
+broker tarafında
+
+1028
+00:55:16,269 --> 00:55:20,699
+broker tarafında
+
+1029
+00:55:20,699 --> 00:55:22,699
+bir şey yapmak lazım
+
+1030
+00:55:22,699 --> 00:55:24,829
+evet hocam ordu da
+
+1031
+00:55:24,829 --> 00:55:26,829
+konuşmamız gereken
+
+1032
+00:55:26,829 --> 00:55:28,829
+noktalar var
+
+1033
+00:55:28,829 --> 00:55:34,159
+ben tam sabahın
+
+1034
+00:55:34,159 --> 00:55:36,159
+köründen beri hiç tutmadan
+
+1035
+00:55:36,159 --> 00:55:38,539
+yapmıyor.
+
+1036
+00:55:38,539 --> 00:55:40,539
+o arada kalın öyle bir sununu yaptı ki
+
+1037
+00:55:40,539 --> 00:55:45,579
+evlere Rokuteş'e gitsin onu
+
+1038
+00:55:45,579 --> 00:55:48,030
+herkes apıştı kaldı yani
+
+1039
+00:55:48,030 --> 00:55:50,030
+herhalde karşılıklar
+
+1040
+00:55:50,030 --> 00:55:52,030
+bir şey çıkaramamış hocam
+
+1041
+00:55:52,030 --> 00:55:54,030
+tam impress oldu
+
+1042
+00:55:54,030 --> 00:55:56,030
+acayip bir impress oldu karşılıkları
+
+1043
+00:55:56,030 --> 00:55:59,059
+hiçbir şey çıkartamamışlar
+
+1044
+00:55:59,059 --> 00:56:01,059
+Yani herif de öyle güzeldi.
+
+1045
+00:56:01,059 --> 00:56:02,059
+Anlattık yani.
+
+1046
+00:56:02,059 --> 00:56:05,150
+O adam da anlattık. Kafa çok yüksek seviye yani.
+
+1047
+00:56:06,440 --> 00:56:08,440
+Şey, şöyle bir şey abi.
+
+1048
+00:56:08,440 --> 00:56:17,070
+Ben bir şeyler gelip, bak şu menüse demeyelim.
+
+1049
+00:56:17,070 --> 00:56:20,070
+Sonra senle şu şeyin bir sevdiği de kan üstünden gidebilir miyiz hocam?
+
+1050
+00:56:20,070 --> 00:56:23,480
+Yağıtla gelin bilirim.
+
+1051
+00:56:24,610 --> 00:56:28,059
+Yani hocam şöyle gidebiliriz.
+
+1052
+00:56:29,059 --> 00:56:31,889
+Gönder, gönder beni.
+
+1053
+00:56:31,889 --> 00:56:33,889
+Yani şöyle göndermeyi düşünüyorum.
+
+1054
+00:56:33,889 --> 00:56:38,510
+Çünkü bir sabah...
+
+1055
+00:56:38,510 --> 00:56:43,349
+Evet.
+
+1056
+00:56:43,349 --> 00:56:45,349
+İyi olur hocam. Zaten aynen.
+
+1057
+00:56:45,349 --> 00:56:48,349
+Size sormam gereken noktalar da var.
+
+1058
+00:56:48,349 --> 00:56:50,349
+Yani isterseniz şöyle söyleyeyim.
+
+1059
+00:56:50,349 --> 00:56:52,349
+Melis konusunu...
+
+1060
+00:56:52,349 --> 00:56:54,349
+Ben size çok özür dilerim.
+
+1061
+00:56:54,349 --> 00:56:56,349
+Aynen geçeyim. Ona bakalım.
+
+1062
+00:56:56,349 --> 00:56:58,349
+Yani bir çay vermelisin.
+
+1063
+00:56:58,349 --> 00:57:00,349
+Görmek zorunda değil.
+
+1064
+00:57:00,349 --> 00:57:02,349
+Yani ayıp olmasın kıza.
+
+1065
+00:57:02,349 --> 00:57:04,349
+Yani şey, en son bir rapor çıkartır.
+
+1066
+00:57:04,349 --> 00:57:06,349
+Ona en iyi bakarsınız.
+
+1067
+00:57:06,349 --> 00:57:11,349
+Ama ben durumu aktarma kadını size hızlıca söyleyebilirim yani.
+
+1068
+00:57:11,349 --> 00:57:12,349
+Tamam.
+
+1069
+00:57:12,349 --> 00:57:14,349
+Sen de şey dersin o zaman Melis'e.
+
+1070
+00:57:14,349 --> 00:57:18,480
+Yani yeri denk geldi, konuştuk dersin.
+
+1071
+00:57:18,480 --> 00:57:21,539
+Olmasın yani. Yazık bir şey yapmasın.
+
+1072
+00:57:21,539 --> 00:57:26,539
+Yani yine yarın falan daha detaylı konuşuruz da ben şeye açısından diyorum.
+
+1073
+00:57:26,539 --> 00:57:30,539
+Şu seyrede kadar acelesi oldu bunun için yani.
+
+1074
+00:57:30,539 --> 00:57:32,539
+Bir de şu an görünen o ki
+
+1075
+00:57:32,539 --> 00:57:38,119
+zaten şu testranları alınması zaman alacağı için
+
+1076
+00:57:38,119 --> 00:57:44,119
+bu sitillerin de hemen bu akşam bitmesi gerekiyor gibi bir durumda açıkçası.
+
+1077
+00:57:44,119 --> 00:57:45,250
+Yani şey yok.
+
+1078
+00:57:45,250 --> 00:57:47,250
+Böyle bir şey kalmadı. Böyle bir durum kalmadı da
+
+1079
+00:57:47,250 --> 00:57:49,250
+Belki şey istiyordu ya açık söyleyeyim.
+
+1080
+00:57:49,250 --> 00:57:53,409
+Melis'i biraz kuş etmek istiyorum.
+
+1081
+00:57:53,409 --> 00:57:55,409
+Yani anlatabilir miyim? Yoksa...
+
+1082
+00:57:55,409 --> 00:57:57,409
+Yok aslında hocam şöyle zaten.
+
+1083
+00:57:57,409 --> 00:58:00,409
+Melis yapması gerekenleri bitirdi.
+
+1084
+00:58:00,409 --> 00:58:03,409
+Stratçır ve kontent için
+
+1085
+00:58:03,409 --> 00:58:07,409
+tüm kombinasyonlarda, modelleri çıkardı.
+
+1086
+00:58:07,409 --> 00:58:11,409
+Üzerinden bir ben tekrar Melis'te oturup geçeceğim.
+
+1087
+00:58:11,409 --> 00:58:15,409
+Ama bugün işte şu seyrede kaydı uğraştığım için şey yapamadım.
+
+1088
+00:58:15,409 --> 00:58:19,409
+Arada bir konuştuk sonra yaptı, bitirdi hocam.
+
+1089
+00:58:19,409 --> 00:58:22,409
+Şöyle bir sıkıntımız var o konuda.
+
+1090
+00:58:22,409 --> 00:58:24,440
+Bir ay da var hocam.
+
+1091
+00:58:24,440 --> 00:58:25,440
+Biliyorum.
+
+1092
+00:58:25,440 --> 00:58:27,440
+Bir ayı nasıl yapacağız?
+
+1093
+00:58:27,440 --> 00:58:29,699
+Yani zaten W2'nin...
+
+1094
+00:58:29,699 --> 00:58:31,699
+Yani Vulnerable T3 olsa
+
+1095
+00:58:31,699 --> 00:58:34,699
+onun kotları var bir şey işte.
+
+1096
+00:58:34,699 --> 00:58:35,699
+Zaten yöntemi belli.
+
+1097
+00:58:35,699 --> 00:58:40,699
+Ama W2'de yeniden üretebileceğimiz bir yöntem var.
+
+1098
+00:58:40,699 --> 00:58:45,699
+O beni biraz endişelendirdi.
+
+1099
+00:58:45,699 --> 00:58:49,699
+Valla ben o konuda şöyle bir teklifim olacak size.
+
+1100
+00:58:49,699 --> 00:58:54,699
+Yani Rainforest Concrete'ler neyse...
+
+1101
+00:58:54,699 --> 00:58:57,699
+Mesela retail trading, Rainforest Concrete bir ayı neyse
+
+1102
+00:58:57,699 --> 00:59:00,699
+şeyi de ona kopyalayalım gibi.
+
+1103
+00:59:00,699 --> 00:59:04,699
+Çok absut bir teklifimi bilmiyorum ama...
+
+1104
+00:59:05,699 --> 00:59:09,699
+Yani şu an çünkü aklıma bir şey gelmiyor yani.
+
+1105
+00:59:09,699 --> 00:59:10,699
+Tamam.
+
+1106
+00:59:10,699 --> 00:59:13,699
+Benim aklıma bir şeyler gelmesi için
+
+1107
+00:59:13,699 --> 00:59:15,699
+aklımın çalışması için bir yemek yemem lazım.
+
+1108
+00:59:15,699 --> 00:59:17,699
+Tamam hocam, olduk peki.
+
+1109
+00:59:17,699 --> 00:59:19,699
+Bir şey yiyin de ondan sonra konuşalım.
+
+1110
+00:59:19,699 --> 00:59:20,699
+Oldu mu?
+
+1111
+00:59:20,699 --> 00:59:21,949
+Tamam.
+
+1112
+00:59:21,949 --> 00:59:22,949
+Tamam.
+
+1113
+00:59:22,949 --> 00:59:24,949
+Sağ olasın, sağ olasın.
+
+1114
+00:59:24,949 --> 00:59:27,099
+Görüşürüz.
+
+1115
+00:59:27,099 --> 01:00:01,019
+Sıcakçı komutan tamamen bitti değil mi?
+
+1116
+01:00:01,019 --> 01:00:03,019
+Model şey olarak hazır yani.
+
+1117
+01:00:03,019 --> 01:00:05,239
+Egzersiz.
+
+1118
+01:00:05,239 --> 01:00:07,239
+Tamam.
+
+1119
+01:00:07,239 --> 01:00:08,239
+Şey...
+
+1120
+01:00:08,239 --> 01:00:12,360
+Bir hocayla söyledim o şekilde.
+
+1121
+01:00:12,360 --> 01:00:14,360
+Sağ olasın.
+
+1122
+01:00:14,360 --> 01:00:15,360
+Bir ay konuşuyorduk.
+
+1123
+01:00:15,360 --> 01:00:18,360
+Yani şimdi işte o başka bir şey konuşuyorduk.
+
+1124
+01:00:20,360 --> 01:00:22,360
+Bir ay konuştuğunu söyledim.
+
+1125
+01:00:22,360 --> 01:00:24,360
+Bir ay da lazımmış dedim.
+
+1126
+01:00:24,360 --> 01:00:25,650
+Ne yapacağız?
+
+1127
+01:00:25,650 --> 01:00:27,650
+İşte hocayla beraber dinlenelim.
+
+1128
+01:00:27,650 --> 01:00:29,650
+Konuşuruz sonra dedi.
+
+1129
+01:00:29,650 --> 01:00:32,650
+Yani şu an otopişte buluşalım şeyi herhalde
+
+1130
+01:00:32,650 --> 01:00:34,650
+olmayacak gibi.
+
+1131
+01:00:34,650 --> 01:00:36,650
+Yani yağ ara falan diyorum.
+
+1132
+01:00:36,650 --> 01:00:38,650
+Bir de ben şey dedim yani.
+
+1133
+01:00:38,650 --> 01:00:41,869
+Konutan tıplakları.
+
+1134
+01:00:41,869 --> 01:00:43,869
+Bir ay da...
+
+1135
+01:00:43,869 --> 01:00:45,869
+Bir de şu an gelişme de var.
+
+1136
+01:00:45,869 --> 01:00:47,869
+Bu kutuya bak.
+
+1137
+01:00:47,869 --> 01:00:52,869
+Buranın anlayabilmesi için diğer şeylerin bitmesi gerekiyor.
+
+1138
+01:00:52,869 --> 01:00:54,869
+Onların bitmesi de...
+
+1139
+01:00:54,869 --> 01:00:57,869
+Ben oradan yirmi ve alt yirmi yedi.
+
+1140
+01:00:57,869 --> 01:01:01,869
+Onların bitmesi de işte şu kod merunlarından dolayı
+
+1141
+01:01:01,869 --> 01:01:03,869
+eski koda çekildi ya.
+
+1142
+01:01:03,869 --> 01:01:05,869
+Çok yavaş yıllar diyor.
+
+1143
+01:01:05,869 --> 01:01:07,869
+Onlar da birkaç gün alacak.
+
+1144
+01:01:07,869 --> 01:01:09,869
+Haftayı falan bulacak onların bitmesi.
+
+1145
+01:01:09,869 --> 01:01:11,869
+O yüzden şu an stil bugün bitmesi,
+
+1146
+01:01:11,869 --> 01:01:13,869
+bugün yarın bitmesi gerekiyor.
+
+1147
+01:01:13,869 --> 01:01:17,869
+Şeyi biraz azaldığı yerle.
+
+1148
+01:01:17,869 --> 01:01:25,639
+Yok, diğer elde de şey yapalım.
+
+1149
+01:01:25,639 --> 01:01:41,300
+Siz de test edin.
+
+1150
+01:01:41,300 --> 01:01:42,300
+Onlar...
+
+1151
+01:01:42,300 --> 01:01:44,300
+...
+
+1152
+01:01:44,300 --> 01:01:46,300
+...
+
+1153
+01:01:46,300 --> 01:01:48,530
+...
+
+1154
+01:01:48,530 --> 01:01:50,530
+...
+
+1155
+01:01:50,530 --> 01:01:52,530
+...
+
+1156
+01:01:52,530 --> 01:01:54,530
+...
+
+1157
+01:01:54,530 --> 01:01:56,530
+...
+
+1158
+01:02:03,780 --> 01:02:05,780
+Yani sen beklemene gerek yok koca.
+
+1159
+01:02:05,780 --> 01:02:07,780
+Ben bir yemek yiyeceğim.
+
+1160
+01:02:07,780 --> 01:02:09,780
+...
+
+1161
+01:02:09,780 --> 01:02:11,780
+...
+
+1162
+01:02:11,780 --> 01:02:13,780
+...
+
+1163
+01:02:13,780 --> 01:02:15,780
+...
+
+1164
+01:02:15,780 --> 01:02:17,780
+...
+
+1165
+01:02:17,780 --> 01:02:19,780
+...
 
