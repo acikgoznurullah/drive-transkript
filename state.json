@@ -833,5 +833,16 @@
     "reported_at": "2026-11-18T05:06:14",
     "uploaded.docx": true,
     "report_url": "https://docs.google.com/document/d/1a7MHL9hso_TR55vCO3MKc5TPePspujno/edit?usp=drivesdk&ouid=110004051265214303614&rtpof=true&sd=true"
+  },
+  "1Lpw-o7DPyf555uiNBMzQeRFUjW_N10qA": {
+    "status": "transcribed",
+    "source": "Ses 261118_130442 - UH Tez TİK-1.m4a",
+    "category": "Doktora",
+    "txt": "outputs/Doktora/Ses 261118_130442 - UH Tez TİK-1.txt",
+    "duration": "1:02:27",
+    "language": "tr",
+    "transcribed_at": "2026-11-19T04:11:16",
+    "uploaded.txt": true,
+    "uploaded.srt": true
   }
 }
